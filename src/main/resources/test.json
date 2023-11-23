@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "Professor": "Susan Petit",
+    "Subject": "English",
+    "Rating": 2.7,
+    "NumOfRating": 23,
+    "Difficulty": 4
+  },
+  {
+    "id": 2,
+    "Professor": "Kathryn O'Connell",
+    "Subject": "Political Science",
+    "Rating": 1.3,
+    "NumOfRating": 60,
+    "Difficulty": 4.4
+  }
+]
