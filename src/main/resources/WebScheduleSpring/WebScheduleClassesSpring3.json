@@ -1,0 +1,2495 @@
+{
+    "Digital Media & Design": [
+        {
+            "Status": "Open",
+            "Professor": "Sanchez, S",
+            "Course Title": "DMAD 431 \u2013 Digital Imagining I: Photoshop",
+            "Class Days": "",
+            "Class": 1,
+            "CRN": 45312,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Sanchez, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Sanchez, S",
+            "Course Title": "DMAD 432 \u2013 Digital Imging II:AdvPhotoshop",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 45313,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Sanchez, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Sanchez, S",
+            "Course Title": "DMAD 475 \u2013 Digital Filmmaking I",
+            "Class Days": "T, Th",
+            "Class": 5,
+            "CRN": 47749,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Sanchez, S",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 6,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Sanchez, S",
+            "Course Title": "DMAD 476 \u2013 Digital Filmmaking II",
+            "Class Days": "M, W",
+            "Class": 7,
+            "CRN": 45644,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Sanchez, S",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 8,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Sanchez, S",
+            "Course Title": "DMAD 477 \u2013 Digital Filmmaking III",
+            "Class Days": "M, W",
+            "Class": 9,
+            "CRN": 45666,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Sanchez, S",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 10,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Shieh, E",
+            "Course Title": "DMAD 502 \u2013 User Experience Design III",
+            "Class Days": "",
+            "Class": 11,
+            "CRN": 46925,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Shieh, E",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 12,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Aurelio, M",
+            "Course Title": "DMAD 503 \u2013 User Experience Design IV",
+            "Class Days": "",
+            "Class": 13,
+            "CRN": 46926,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Aurelio, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 14,
+            "CRN": 0,
+            "Units": 3
+        }
+    ],
+    "Drafting Technology": [
+        {
+            "Status": "Open",
+            "Professor": "Vorobey, V",
+            "Course Title": "DRAF 110 \u2013 SolidWorks I",
+            "Class Days": "",
+            "Class": 1,
+            "CRN": 42415,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Vorobey, V",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Vorobey, V",
+            "Course Title": "DRAF 111 \u2013 Solidworks II",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 43444,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Vorobey, V",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Vorobey, V",
+            "Course Title": "DRAF 113 \u2013 REVIT",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 47479,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Vorobey, V",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Vorobey, V",
+            "Course Title": "DRAF 121 \u2013 Computer Aided Drafting I",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 47480,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Vorobey, V",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Vorobey, V",
+            "Course Title": "DRAF 122 \u2013 Comp-Aided Drafting II",
+            "Class Days": "",
+            "Class": 9,
+            "CRN": 35033,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Vorobey, V",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 10,
+            "CRN": 0,
+            "Units": 3
+        }
+    ],
+    "Digital Media": [
+        {
+            "Status": "Open",
+            "Professor": "Aquino, J",
+            "Course Title": "DGME 100 \u2013 Media in Society",
+            "Class Days": "M",
+            "Class": 1,
+            "CRN": 48381,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Aquino, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Bennett, D",
+            "Course Title": "DGME 100 \u2013 Media in Society",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 45041,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Bennett, D",
+            "Course Title": "DGME 100 \u2013 Media in Society",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 47222,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Aquino, J",
+            "Course Title": "DGME 100 \u2013 Media in Society",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 48382,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Aquino, J",
+            "Course Title": "DGME 100 \u2013 Media in Society",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 48383,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Fernandes, F",
+            "Course Title": "DGME 105 \u2013 Intro to Digital Media",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 46840,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Fernandes, F",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Fainshtein, V",
+            "Course Title": "DGME 110 \u2013 Photoshop Fundamentals",
+            "Class Days": "T",
+            "Class": 9,
+            "CRN": 46084,
+            "Units": 0.5
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Ullrich, H",
+            "Course Title": "DGME 113 \u2013 Digital Video Production",
+            "Class Days": "W",
+            "Class": 10,
+            "CRN": 44525,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Ullrich, H",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 11,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Carrillo, N",
+            "Course Title": "DGME 113 \u2013 Digital Video Production",
+            "Class Days": "",
+            "Class": 12,
+            "CRN": 47868,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Carrillo, N",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 13,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Rayn, S",
+            "Course Title": "DGME 113 \u2013 Digital Video Production",
+            "Class Days": "",
+            "Class": 14,
+            "CRN": 47889,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Rayn, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 15,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Rayn, S",
+            "Course Title": "DGME 113 \u2013 Digital Video Production",
+            "Class Days": "",
+            "Class": 16,
+            "CRN": 47892,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Rayn, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 17,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Rayn, S",
+            "Course Title": "DGME 113 \u2013 Digital Video Production",
+            "Class Days": "",
+            "Class": 18,
+            "CRN": 48254,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Rayn, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 19,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "DGME 114 \u2013 Digital Video Production II",
+            "Class Days": "Th",
+            "Class": 20,
+            "CRN": 48070,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Staff,",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 21,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Staff,",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 22,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Eyestone, D",
+            "Course Title": "DGME 118 \u2013 Digital Audio Production",
+            "Class Days": "T",
+            "Class": 23,
+            "CRN": 44523,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Eyestone, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 24,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Eyestone, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 25,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Eyestone, D",
+            "Course Title": "DGME 119 \u2013 Radio & Podcast Prod Lab",
+            "Class Days": "",
+            "Class": 26,
+            "CRN": 46080,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Eyestone, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 27,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Eyestone, D",
+            "Course Title": "DGME 133 \u2013 Radio & Podcast Prod. Lab II",
+            "Class Days": "",
+            "Class": 28,
+            "CRN": 46859,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Eyestone, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 29,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Eyestone, D",
+            "Course Title": "DGME 134 \u2013 Radio Production Lab III",
+            "Class Days": "",
+            "Class": 30,
+            "CRN": 47198,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Eyestone, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 31,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Eyestone, D",
+            "Course Title": "DGME 135 \u2013 Radio Production Lab IV",
+            "Class Days": "",
+            "Class": 32,
+            "CRN": 47224,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Eyestone, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 33,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Bennett, D",
+            "Course Title": "DGME 168 \u2013 Web/Mobile Design II",
+            "Class Days": "W",
+            "Class": 34,
+            "CRN": 43464,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Bennett, D",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 35,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Bennett, D",
+            "Course Title": "DGME 170 \u2013 Intro to Online Advertising",
+            "Class Days": "",
+            "Class": 36,
+            "CRN": 46099,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Fainshtein, V",
+            "Course Title": "DGME 211 \u2013 Introduction to Graphic Design",
+            "Class Days": "T",
+            "Class": 37,
+            "CRN": 46417,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Fainshtein, V",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 38,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Fanton, J",
+            "Course Title": "DGME 211 \u2013 Introduction to Graphic Design",
+            "Class Days": "",
+            "Class": 39,
+            "CRN": 48266,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Fanton, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 40,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Van Dongen, N",
+            "Course Title": "DGME 211 \u2013 Introduction to Graphic Design",
+            "Class Days": "T",
+            "Class": 41,
+            "CRN": 43454,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Van Dongen, N",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 42,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Van Dongen, N",
+            "Course Title": "DGME 215 \u2013 History of Graphic Design",
+            "Class Days": "T, Th",
+            "Class": 43,
+            "CRN": 45782,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Fainshtein, V",
+            "Course Title": "DGME 216 \u2013 Intermediate Graphic Design",
+            "Class Days": "W",
+            "Class": 44,
+            "CRN": 46075,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Fainshtein, V",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 45,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Fainshtein, V",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 46,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Fainshtein, V",
+            "Course Title": "DGME 220 \u2013 Typography",
+            "Class Days": "W",
+            "Class": 47,
+            "CRN": 43028,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Fainshtein, V",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 48,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Fainshtein, V",
+            "Course Title": "DGME 250 \u2013 Internship",
+            "Class Days": "T, Th",
+            "Class": 49,
+            "CRN": 45783,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Bennett, D",
+            "Course Title": "DGME 680MG \u2013 Interaction Design",
+            "Class Days": "W",
+            "Class": 50,
+            "CRN": 48498,
+            "Units": 3
+        }
+    ],
+    "Counseling": [
+        {
+            "Status": "Open",
+            "Professor": "Johnston, A",
+            "Course Title": "COUN 100 \u2013 College Success",
+            "Class Days": "M, W",
+            "Class": 1,
+            "CRN": 48450,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Johnston, A",
+            "Course Title": "COUN 100 \u2013 College Success",
+            "Class Days": "M, W",
+            "Class": 2,
+            "CRN": 48451,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Thomas, K",
+            "Course Title": "COUN 100 \u2013 College Success-ASTEP/UMOJA",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 41584,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Thomas, K",
+            "Course Title": "COUN 100 \u2013 College Success",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 44402,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "DeMello, L",
+            "Course Title": "COUN 100 \u2013 College Success",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 44514,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Manuofetoa, M",
+            "Course Title": "COUN 111 \u2013 College Planning",
+            "Class Days": "W",
+            "Class": 6,
+            "CRN": 46211,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Chen, L",
+            "Course Title": "COUN 111 \u2013 College Planning",
+            "Class Days": "Sa",
+            "Class": 7,
+            "CRN": 48387,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Reed, P",
+            "Course Title": "COUN 111 \u2013 College Planning",
+            "Class Days": "Sa",
+            "Class": 8,
+            "CRN": 45799,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Sinarle, K",
+            "Course Title": "COUN 111 \u2013 College Planning",
+            "Class Days": "",
+            "Class": 9,
+            "CRN": 45230,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Sinarle, K",
+            "Course Title": "COUN 111 \u2013 College Planning",
+            "Class Days": "",
+            "Class": 10,
+            "CRN": 46339,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Garcia, D",
+            "Course Title": "COUN 114 \u2013 Transfer Essentials I",
+            "Class Days": "F",
+            "Class": 11,
+            "CRN": 48389,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Garcia, D",
+            "Course Title": "",
+            "Class Days": "F",
+            "Class": 12,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Garcia, D",
+            "Course Title": "",
+            "Class Days": "F",
+            "Class": 13,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Gomez, J",
+            "Course Title": "COUN 114 \u2013 Transfer Essentials I",
+            "Class Days": "F",
+            "Class": 14,
+            "CRN": 48252,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Martin, S",
+            "Course Title": "COUN 120 \u2013 College and Career Success",
+            "Class Days": "M, W",
+            "Class": 15,
+            "CRN": 45219,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Delgado-Salazar, M",
+            "Course Title": "COUN 120 \u2013 College and Career Success",
+            "Class Days": "",
+            "Class": 16,
+            "CRN": 45214,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Martin, S",
+            "Course Title": "COUN 120 \u2013 College and Career Success",
+            "Class Days": "",
+            "Class": 17,
+            "CRN": 45220,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "De La Cruz, J",
+            "Course Title": "COUN 129 \u2013 Puente: Transfer Readiness",
+            "Class Days": "T, Th",
+            "Class": 18,
+            "CRN": 45804,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Cardenas, C",
+            "Course Title": "COUN 240 \u2013 College and Academic Success",
+            "Class Days": "T, Th",
+            "Class": 19,
+            "CRN": 48259,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Cardenas, C",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 20,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Cardenas, C",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 21,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Cardenas, C",
+            "Course Title": "COUN 240 \u2013 College and Academic Success",
+            "Class Days": "",
+            "Class": 22,
+            "CRN": 48258,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Perez, P",
+            "Course Title": "COUN 240 \u2013 College and Academic Success",
+            "Class Days": "",
+            "Class": 23,
+            "CRN": 48260,
+            "Units": 3
+        }
+    ],
+    "Dance": [
+        {
+            "Status": "Open",
+            "Professor": "Walton, J",
+            "Course Title": "DANC 100 \u2013 Dance Appreciation",
+            "Class Days": "T, Th",
+            "Class": 1,
+            "CRN": 45271,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Miladinova, A",
+            "Course Title": "DANC 100 \u2013 Dance Appreciation",
+            "Class Days": "W",
+            "Class": 2,
+            "CRN": 46274,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Dailey, D",
+            "Course Title": "DANC 100 \u2013 Dance Appreciation",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 47164,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Keyes, A",
+            "Course Title": "DANC 100 \u2013 Dance Appreciation",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 47912,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Steele, A",
+            "Course Title": "DANC 102 \u2013 Hip Hop Dance Roots",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 46743,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Keyes, A",
+            "Course Title": "DANC 103 \u2013 Global Dance Traditions",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 48363,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Montano, L",
+            "Course Title": "DANC 115.1 \u2013 Mexican Folkloric Dance I",
+            "Class Days": "Sa",
+            "Class": 7,
+            "CRN": 48350,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Montano, L",
+            "Course Title": "DANC 115.2 \u2013 Mexican Folkloric Dance II",
+            "Class Days": "Sa",
+            "Class": 8,
+            "CRN": 48351,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Walton, J",
+            "Course Title": "DANC 117.1 \u2013 Tap Dance I",
+            "Class Days": "M",
+            "Class": 9,
+            "CRN": 44682,
+            "Units": 0.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Walton, J",
+            "Course Title": "DANC 117.2 \u2013 Tap Dance II",
+            "Class Days": "M",
+            "Class": 10,
+            "CRN": 44683,
+            "Units": 0.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Walton, J",
+            "Course Title": "DANC 117.3 \u2013 Tap Dance III",
+            "Class Days": "M",
+            "Class": 11,
+            "CRN": 44684,
+            "Units": 0.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Walton, J",
+            "Course Title": "DANC 117.4 \u2013 Tap Dance IV",
+            "Class Days": "M",
+            "Class": 12,
+            "CRN": 44685,
+            "Units": 0.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Chertudi, L",
+            "Course Title": "DANC 121.1 \u2013 Modern Dance I",
+            "Class Days": "T, Th",
+            "Class": 13,
+            "CRN": 44643,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Steele, A",
+            "Course Title": "DANC 121.1 \u2013 Contemporary Modern Dance I",
+            "Class Days": "T, Th",
+            "Class": 14,
+            "CRN": 47680,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lorenz, C",
+            "Course Title": "DANC 121.1 \u2013 Modern Dance I",
+            "Class Days": "W",
+            "Class": 15,
+            "CRN": 44495,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Chertudi, L",
+            "Course Title": "DANC 121.2 \u2013 Modern Dance II",
+            "Class Days": "T, Th",
+            "Class": 16,
+            "CRN": 44644,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Steele, A",
+            "Course Title": "DANC 121.2 \u2013 Contemporary Modern Dance II",
+            "Class Days": "T, Th",
+            "Class": 17,
+            "CRN": 47681,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lorenz, C",
+            "Course Title": "DANC 121.2 \u2013 Modern Dance II",
+            "Class Days": "W",
+            "Class": 18,
+            "CRN": 44496,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Chertudi, L",
+            "Course Title": "DANC 121.3 \u2013 Modern Dance III",
+            "Class Days": "T, Th",
+            "Class": 19,
+            "CRN": 44645,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Steele, A",
+            "Course Title": "DANC 121.3 \u2013 Contemporary Modern Dance III",
+            "Class Days": "T, Th",
+            "Class": 20,
+            "CRN": 47682,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lorenz, C",
+            "Course Title": "DANC 121.3 \u2013 Modern Dance III",
+            "Class Days": "W",
+            "Class": 21,
+            "CRN": 44497,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Chertudi, L",
+            "Course Title": "DANC 121.4 \u2013 Modern Dance IV",
+            "Class Days": "T, Th",
+            "Class": 22,
+            "CRN": 44646,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Steele, A",
+            "Course Title": "DANC 121.4 \u2013 Contemporary Modern Dance IV",
+            "Class Days": "T, Th",
+            "Class": 23,
+            "CRN": 47683,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lorenz, C",
+            "Course Title": "DANC 121.4 \u2013 Modern Dance IV",
+            "Class Days": "W",
+            "Class": 24,
+            "CRN": 44498,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Quijano, V",
+            "Course Title": "DANC 125.1 \u2013 Salsa I",
+            "Class Days": "T, Th",
+            "Class": 25,
+            "CRN": 44075,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Quijano, V",
+            "Course Title": "DANC 125.2 \u2013 Salsa II",
+            "Class Days": "T, Th",
+            "Class": 26,
+            "CRN": 43989,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Quijano, V",
+            "Course Title": "DANC 125.3 \u2013 Salsa III",
+            "Class Days": "T, Th",
+            "Class": 27,
+            "CRN": 43990,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Quijano, V",
+            "Course Title": "DANC 125.4 \u2013 Salsa IV",
+            "Class Days": "T, Th",
+            "Class": 28,
+            "CRN": 43991,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Begley, C",
+            "Course Title": "DANC 130.1 \u2013 Jazz Dance I",
+            "Class Days": "T, Th",
+            "Class": 29,
+            "CRN": 43992,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Begley, C",
+            "Course Title": "DANC 130.2 \u2013 Jazz Dance II",
+            "Class Days": "T, Th",
+            "Class": 30,
+            "CRN": 43993,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Begley, C",
+            "Course Title": "DANC 130.3 \u2013 Jazz Dance III",
+            "Class Days": "T, Th",
+            "Class": 31,
+            "CRN": 43994,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Begley, C",
+            "Course Title": "DANC 130.4 \u2013 Jazz Dance IV",
+            "Class Days": "T, Th",
+            "Class": 32,
+            "CRN": 43995,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Miladinova, A",
+            "Course Title": "DANC 140.1 \u2013 Ballet I",
+            "Class Days": "M, W",
+            "Class": 33,
+            "CRN": 43996,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Steele, A",
+            "Course Title": "DANC 140.1 \u2013 Ballet I",
+            "Class Days": "M, W",
+            "Class": 34,
+            "CRN": 48147,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Simmers, K",
+            "Course Title": "DANC 140.1 \u2013 Ballet I",
+            "Class Days": "T, Th",
+            "Class": 35,
+            "CRN": 44664,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Miladinova, A",
+            "Course Title": "DANC 140.2 \u2013 Ballet II",
+            "Class Days": "M, W",
+            "Class": 36,
+            "CRN": 43997,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Steele, A",
+            "Course Title": "DANC 140.2 \u2013 Ballet II",
+            "Class Days": "M, W",
+            "Class": 37,
+            "CRN": 48148,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Simmers, K",
+            "Course Title": "DANC 140.2 \u2013 Ballet II",
+            "Class Days": "T, Th",
+            "Class": 38,
+            "CRN": 44665,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Miladinova, A",
+            "Course Title": "DANC 140.3 \u2013 Ballet III",
+            "Class Days": "M, W",
+            "Class": 39,
+            "CRN": 43998,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Steele, A",
+            "Course Title": "DANC 140.3 \u2013 Ballet III",
+            "Class Days": "M, W",
+            "Class": 40,
+            "CRN": 48149,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Simmers, K",
+            "Course Title": "DANC 140.3 \u2013 Ballet III",
+            "Class Days": "T, Th",
+            "Class": 41,
+            "CRN": 44666,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Miladinova, A",
+            "Course Title": "DANC 140.4 \u2013 Ballet IV",
+            "Class Days": "M, W",
+            "Class": 42,
+            "CRN": 43999,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Simmers, K",
+            "Course Title": "DANC 140.4 \u2013 Ballet IV",
+            "Class Days": "T, Th",
+            "Class": 43,
+            "CRN": 44667,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Begley, C",
+            "Course Title": "DANC 150.1 \u2013 Hip Hop I",
+            "Class Days": "T, Th",
+            "Class": 44,
+            "CRN": 44077,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Ulloa, M",
+            "Course Title": "DANC 150.1 \u2013 Hip Hop I",
+            "Class Days": "M, W",
+            "Class": 45,
+            "CRN": 44711,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Begley, C",
+            "Course Title": "DANC 150.2 \u2013 Hip Hop II",
+            "Class Days": "T, Th",
+            "Class": 46,
+            "CRN": 45511,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Ulloa, M",
+            "Course Title": "DANC 150.2 \u2013 Hip Hop II",
+            "Class Days": "M, W",
+            "Class": 47,
+            "CRN": 44712,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Begley, C",
+            "Course Title": "DANC 150.3 \u2013 Hip Hop III",
+            "Class Days": "T, Th",
+            "Class": 48,
+            "CRN": 45512,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Begley, C",
+            "Course Title": "DANC 150.4 \u2013 Hip Hop IV",
+            "Class Days": "T, Th",
+            "Class": 49,
+            "CRN": 45513,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Delmar, K",
+            "Course Title": "DANC 152.1 \u2013 Cuban Salsa I",
+            "Class Days": "M",
+            "Class": 50,
+            "CRN": 44112,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Delmar, K",
+            "Course Title": "DANC 152.2 \u2013 Cuban Salsa II",
+            "Class Days": "M",
+            "Class": 51,
+            "CRN": 44113,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Delmar, K",
+            "Course Title": "DANC 152.3 \u2013 Cuban Salsa III",
+            "Class Days": "M",
+            "Class": 52,
+            "CRN": 44114,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Delmar, K",
+            "Course Title": "DANC 157.1 \u2013 Afro Cuban Dance I",
+            "Class Days": "W",
+            "Class": 53,
+            "CRN": 47688,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Delmar, K",
+            "Course Title": "DANC 157.2 \u2013 Afro Cuban Dance II",
+            "Class Days": "W",
+            "Class": 54,
+            "CRN": 47689,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Delmar, K",
+            "Course Title": "DANC 157.3 \u2013 Afro Cuban Dance III",
+            "Class Days": "W",
+            "Class": 55,
+            "CRN": 47690,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Delmar, K",
+            "Course Title": "DANC 161.1 \u2013 Tango Argentino I",
+            "Class Days": "F",
+            "Class": 56,
+            "CRN": 47638,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Delmar, K",
+            "Course Title": "DANC 161.2 \u2013 Tango Argentino II",
+            "Class Days": "F",
+            "Class": 57,
+            "CRN": 47639,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Delmar, K",
+            "Course Title": "DANC 161.3 \u2013 Tango Argentino III",
+            "Class Days": "F",
+            "Class": 58,
+            "CRN": 47640,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Delmar, K",
+            "Course Title": "DANC 161.4 \u2013 Tango Argentino IV",
+            "Class Days": "F",
+            "Class": 59,
+            "CRN": 47641,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Walton, J",
+            "Course Title": "DANC 167.1 \u2013 Swing Dance I",
+            "Class Days": "M",
+            "Class": 60,
+            "CRN": 44678,
+            "Units": 0.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Walton, J",
+            "Course Title": "DANC 167.2 \u2013 Swing Dance II",
+            "Class Days": "M",
+            "Class": 61,
+            "CRN": 44679,
+            "Units": 0.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Walton, J",
+            "Course Title": "DANC 167.3 \u2013 Swing Dance III",
+            "Class Days": "M",
+            "Class": 62,
+            "CRN": 44680,
+            "Units": 0.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Walton, J",
+            "Course Title": "DANC 167.4 \u2013 Swing Dance IV",
+            "Class Days": "M",
+            "Class": 63,
+            "CRN": 44681,
+            "Units": 0.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Steele, A",
+            "Course Title": "DANC 350.1 \u2013 Cardio Dance I",
+            "Class Days": "",
+            "Class": 64,
+            "CRN": 47235,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Steele, A",
+            "Course Title": "DANC 350.2 \u2013 Cardio Dance II",
+            "Class Days": "",
+            "Class": 65,
+            "CRN": 47236,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Steele, A",
+            "Course Title": "DANC 350.3 \u2013 Cardio Dance III",
+            "Class Days": "",
+            "Class": 66,
+            "CRN": 47685,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Chertudi, L",
+            "Course Title": "DANC 400.1 \u2013 Dance Performance & Prod I",
+            "Class Days": "T, Th",
+            "Class": 67,
+            "CRN": 44660,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Begley, C",
+            "Course Title": "DANC 400.1 \u2013 Dance Performance & Prod I",
+            "Class Days": "T, Th",
+            "Class": 68,
+            "CRN": 47138,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Steele, A",
+            "Course Title": "DANC 400.1 \u2013 Dance Performance & Prod I",
+            "Class Days": "",
+            "Class": 69,
+            "CRN": 44124,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Chertudi, L",
+            "Course Title": "DANC 400.2 \u2013 Dance Performance & Prod II",
+            "Class Days": "T, Th",
+            "Class": 70,
+            "CRN": 44661,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Begley, C",
+            "Course Title": "DANC 400.2 \u2013 Dance Performance & Prod II",
+            "Class Days": "T, Th",
+            "Class": 71,
+            "CRN": 47139,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Steele, A",
+            "Course Title": "DANC 400.2 \u2013 Dance Performance & Prod II",
+            "Class Days": "",
+            "Class": 72,
+            "CRN": 44125,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Chertudi, L",
+            "Course Title": "DANC 400.3 \u2013 Dance Performance & Prod III",
+            "Class Days": "T, Th",
+            "Class": 73,
+            "CRN": 45254,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Begley, C",
+            "Course Title": "DANC 400.3 \u2013 Dance Performance & Prod III",
+            "Class Days": "T, Th",
+            "Class": 74,
+            "CRN": 47140,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Steele, A",
+            "Course Title": "DANC 400.3 \u2013 Dance Performance & Prod III",
+            "Class Days": "",
+            "Class": 75,
+            "CRN": 44126,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Chertudi, L",
+            "Course Title": "DANC 400.4 \u2013 Dance Performance & Prod IV",
+            "Class Days": "T, Th",
+            "Class": 76,
+            "CRN": 45418,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Begley, C",
+            "Course Title": "DANC 400.4 \u2013 Dance Performance & Prod. IV",
+            "Class Days": "T, Th",
+            "Class": 77,
+            "CRN": 47141,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Steele, A",
+            "Course Title": "DANC 400.4 \u2013 Dance Performance & Prod. IV",
+            "Class Days": "",
+            "Class": 78,
+            "CRN": 45097,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Ferguson, G",
+            "Course Title": "DANC 410.1 \u2013 Dance - Musical Theater Prod I",
+            "Class Days": "T",
+            "Class": 79,
+            "CRN": 44282,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ferguson, G",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 80,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ferguson, G",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 81,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ferguson, G",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 82,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Ferguson, G",
+            "Course Title": "DANC 410.2 \u2013 Dance-Musical Theater Prod II",
+            "Class Days": "T",
+            "Class": 83,
+            "CRN": 44284,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ferguson, G",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 84,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ferguson, G",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 85,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ferguson, G",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 86,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Ferguson, G",
+            "Course Title": "DANC 410.3 \u2013 Dance-Musical Theater Prod III",
+            "Class Days": "T",
+            "Class": 87,
+            "CRN": 44669,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ferguson, G",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 88,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ferguson, G",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 89,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ferguson, G",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 90,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Ferguson, G",
+            "Course Title": "DANC 410.4 \u2013 Dance-Musical Theater Prod IV",
+            "Class Days": "T",
+            "Class": 91,
+            "CRN": 45098,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ferguson, G",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 92,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ferguson, G",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 93,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ferguson, G",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 94,
+            "CRN": 0,
+            "Units": 2
+        }
+    ],
+    "Cosmetology": [
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Hemstreet, L",
+            "Course Title": "COSM 701 \u2013 Cosmetology Core Concepts",
+            "Class Days": "M, T",
+            "Class": 1,
+            "CRN": 46852,
+            "Units": 6
+        },
+        {
+            "Status": "",
+            "Professor": "Hemstreet, L",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 6
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Stephens, A",
+            "Course Title": "COSM 702 \u2013 COSM Hair Design Concepts",
+            "Class Days": "W, Th",
+            "Class": 3,
+            "CRN": 46853,
+            "Units": 6
+        },
+        {
+            "Status": "",
+            "Professor": "Stephens, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 0,
+            "Units": 6
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Levesque, D",
+            "Course Title": "COSM 703 \u2013 Cosmetology Chemical Concepts",
+            "Class Days": "F",
+            "Class": 5,
+            "CRN": 46854,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Levesque, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Robles, C",
+            "Course Title": "COSM 704 \u2013 COSM Intermediate Concepts",
+            "Class Days": "M, T",
+            "Class": 7,
+            "CRN": 46509,
+            "Units": 6
+        },
+        {
+            "Status": "",
+            "Professor": "Robles, C",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 0,
+            "Units": 6
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "COSM 705 \u2013 COSM Business/Salon Experience",
+            "Class Days": "W, Th, F",
+            "Class": 9,
+            "CRN": 46511,
+            "Units": 9
+        },
+        {
+            "Status": "",
+            "Professor": "Staff,",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 10,
+            "CRN": 0,
+            "Units": 9
+        },
+        {
+            "Status": "Open",
+            "Professor": "Medrano, A",
+            "Course Title": "COSM 712 \u2013 Cosmetology I",
+            "Class Days": "M, W, F",
+            "Class": 11,
+            "CRN": 47440,
+            "Units": 9.5
+        },
+        {
+            "Status": "",
+            "Professor": "Medrano, A",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 12,
+            "CRN": 0,
+            "Units": 9.5
+        },
+        {
+            "Status": "",
+            "Professor": "Medrano, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 13,
+            "CRN": 0,
+            "Units": 9.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Baker, D",
+            "Course Title": "COSM 722 \u2013 Cosmetology II",
+            "Class Days": "T, Th",
+            "Class": 14,
+            "CRN": 47441,
+            "Units": 9.5
+        },
+        {
+            "Status": "",
+            "Professor": "Baker, D",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 15,
+            "CRN": 0,
+            "Units": 9.5
+        },
+        {
+            "Status": "",
+            "Professor": "Baker, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 16,
+            "CRN": 0,
+            "Units": 9.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Levesque, D",
+            "Course Title": "COSM 725 \u2013 State Board Written Exam Prep",
+            "Class Days": "",
+            "Class": 17,
+            "CRN": 48175,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Salido, K",
+            "Course Title": "COSM 732 \u2013 Cosmetology III",
+            "Class Days": "T, Th",
+            "Class": 18,
+            "CRN": 47442,
+            "Units": 9.5
+        },
+        {
+            "Status": "",
+            "Professor": "Salido, K",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 19,
+            "CRN": 0,
+            "Units": 9.5
+        },
+        {
+            "Status": "",
+            "Professor": "Salido, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 20,
+            "CRN": 0,
+            "Units": 9.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Salido, K",
+            "Course Title": "COSM 742 \u2013 Cosmetology IV",
+            "Class Days": "M, W, F",
+            "Class": 21,
+            "CRN": 47443,
+            "Units": 9.5
+        },
+        {
+            "Status": "",
+            "Professor": "Salido, K",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 22,
+            "CRN": 0,
+            "Units": 9.5
+        },
+        {
+            "Status": "",
+            "Professor": "Salido, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 23,
+            "CRN": 0,
+            "Units": 9.5
+        }
+    ],
+    "Digital Art and Animation": [
+        {
+            "Status": "Open",
+            "Professor": "Quaglia, E",
+            "Course Title": "MART 314 \u2013 Introduction to Comp. Graphics",
+            "Class Days": "T, Th",
+            "Class": 1,
+            "CRN": 39954,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Quaglia, E",
+            "Course Title": "MART 314 \u2013 Introduction to Comp. Graphics",
+            "Class Days": "T, Th",
+            "Class": 2,
+            "CRN": 47782,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Quaglia, E",
+            "Course Title": "MART 325 \u2013 Digital Painting",
+            "Class Days": "Th",
+            "Class": 3,
+            "CRN": 39955,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Quaglia, E",
+            "Course Title": "MART 362 \u2013 Intro. to Digital Photography",
+            "Class Days": "M, W",
+            "Class": 4,
+            "CRN": 39956,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Quaglia, E",
+            "Course Title": "MART 362 \u2013 Intro. to Digital Photography",
+            "Class Days": "M, W",
+            "Class": 5,
+            "CRN": 39957,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Quaglia, E",
+            "Course Title": "MART 371 \u2013 User Interface/Exp. Design",
+            "Class Days": "M",
+            "Class": 6,
+            "CRN": 44662,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Quaglia, E",
+            "Course Title": "MART 376 \u2013 Intro. to Digital Imaging",
+            "Class Days": "T, Th",
+            "Class": 7,
+            "CRN": 41442,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Quaglia, E",
+            "Course Title": "MART 376 \u2013 Intro. to Digital Imaging",
+            "Class Days": "T, Th",
+            "Class": 8,
+            "CRN": 40620,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Quaglia, E",
+            "Course Title": "MART 378 \u2013 Digital Page Layout",
+            "Class Days": "Th",
+            "Class": 9,
+            "CRN": 42464,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Gainey, D",
+            "Course Title": "MART 379 \u2013 Intro. to Digital Animation",
+            "Class Days": "T",
+            "Class": 10,
+            "CRN": 39964,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Gainey, D",
+            "Course Title": "MART 380 \u2013 Advanced Digital Animation",
+            "Class Days": "Th",
+            "Class": 11,
+            "CRN": 42465,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Naas, P",
+            "Course Title": "MART 390 \u2013 Portfolio Creation",
+            "Class Days": "T",
+            "Class": 12,
+            "CRN": 39965,
+            "Units": 1.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "MART 393 \u2013 UX Data Visualization",
+            "Class Days": "Th",
+            "Class": 13,
+            "CRN": 47650,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Naas, P",
+            "Course Title": "MART 400 \u2013 Motion Graphics",
+            "Class Days": "T",
+            "Class": 14,
+            "CRN": 40622,
+            "Units": 1.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Naas, P",
+            "Course Title": "MART 416 \u2013 Drawing for Animation",
+            "Class Days": "T",
+            "Class": 15,
+            "CRN": 45088,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Burger, B",
+            "Course Title": "MART 417 \u2013 Principles of Animation",
+            "Class Days": "W",
+            "Class": 16,
+            "CRN": 43285,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Giambruno, J",
+            "Course Title": "MART 420 \u2013 Intro. 3D Modeling & Animation",
+            "Class Days": "M, T, F",
+            "Class": 17,
+            "CRN": 47852,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Giambruno, J",
+            "Course Title": "",
+            "Class Days": "M, T, F",
+            "Class": 18,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Giambruno, J",
+            "Course Title": "",
+            "Class Days": "M, T, F",
+            "Class": 19,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Giambruno, J",
+            "Course Title": "",
+            "Class Days": "M, T, F",
+            "Class": 20,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Naas, P",
+            "Course Title": "MART 420 \u2013 Intro. 3D Modeling & Animation",
+            "Class Days": "M, W",
+            "Class": 21,
+            "CRN": 40924,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Naas, P",
+            "Course Title": "MART 420 \u2013 Intro. 3D Modeling & Animation",
+            "Class Days": "M",
+            "Class": 22,
+            "CRN": 40624,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Gustlin, D",
+            "Course Title": "MART 421 \u2013 Adv. 3D Modeling and Animation",
+            "Class Days": "T",
+            "Class": 23,
+            "CRN": 42469,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Naas, P",
+            "Course Title": "MART 425 \u2013 Advanced 3D Animation",
+            "Class Days": "M",
+            "Class": 24,
+            "CRN": 47651,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Giambruno, J",
+            "Course Title": "MART 432 \u2013 3D Environments & Hard S. Mod.",
+            "Class Days": "Th",
+            "Class": 25,
+            "CRN": 47854,
+            "Units": 1.5
+        },
+        {
+            "Status": "",
+            "Professor": "Giambruno, J",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 26,
+            "CRN": 0,
+            "Units": 1.5
+        },
+        {
+            "Status": "",
+            "Professor": "Giambruno, J",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 27,
+            "CRN": 0,
+            "Units": 1.5
+        },
+        {
+            "Status": "",
+            "Professor": "Giambruno, J",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 28,
+            "CRN": 0,
+            "Units": 1.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "MART 432 \u2013 3D Environments & Hard S. Mod.",
+            "Class Days": "W",
+            "Class": 29,
+            "CRN": 41355,
+            "Units": 1.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Angle, R",
+            "Course Title": "MART 441 \u2013 Intro. to Video Game Design",
+            "Class Days": "",
+            "Class": 30,
+            "CRN": 46864,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Burger, B",
+            "Course Title": "MART 442 \u2013 History of Video Games",
+            "Class Days": "",
+            "Class": 31,
+            "CRN": 47652,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Angle, R",
+            "Course Title": "MART 445 \u2013 3D Game Scripting",
+            "Class Days": "",
+            "Class": 32,
+            "CRN": 46865,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Angle, R",
+            "Course Title": "MART 446 \u2013 Storytelling with Games",
+            "Class Days": "",
+            "Class": 33,
+            "CRN": 46867,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "MART 450 \u2013 Collaborative Game Production",
+            "Class Days": "",
+            "Class": 34,
+            "CRN": 48073,
+            "Units": 3
+        }
+    ],
+    "Dental Assisting": [
+        {
+            "Status": "Open",
+            "Professor": "Davis, I",
+            "Course Title": "DENT 702 \u2013 Dental Science II",
+            "Class Days": "F",
+            "Class": 1,
+            "CRN": 44776,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Davis, I",
+            "Course Title": "DENT 722 \u2013 Dental Materials II",
+            "Class Days": "M",
+            "Class": 2,
+            "CRN": 32048,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Davis, I",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 3,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Davis, I",
+            "Course Title": "DENT 722 \u2013 Dental Materials II",
+            "Class Days": "M",
+            "Class": 4,
+            "CRN": 32049,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Davis, I",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 5,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "La Rochelle, E",
+            "Course Title": "DENT 742 \u2013 Chairside Assisting II",
+            "Class Days": "W",
+            "Class": 6,
+            "CRN": 32051,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Weinstein, M",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 7,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "La Rochelle, E",
+            "Course Title": "DENT 742 \u2013 Chairside Assisting II",
+            "Class Days": "W",
+            "Class": 8,
+            "CRN": 32052,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Weinstein, M",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 9,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "La Rochelle, E",
+            "Course Title": "DENT 753 \u2013 Dental Assisting Clinical Prac",
+            "Class Days": "T, Th",
+            "Class": 10,
+            "CRN": 45992,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Herold, R",
+            "Course Title": "DENT 770 \u2013 Dental Office Procedures",
+            "Class Days": "F",
+            "Class": 11,
+            "CRN": 44775,
+            "Units": 2.5
+        },
+        {
+            "Status": "",
+            "Professor": "Herold, R",
+            "Course Title": "",
+            "Class Days": "F",
+            "Class": 12,
+            "CRN": 0,
+            "Units": 2.5
+        }
+    ],
+    "Drama - Theatre Arts": [
+        {
+            "Status": "Open",
+            "Professor": "Budd, A",
+            "Course Title": "DRAM 140 \u2013 Introduction To The Theatre",
+            "Class Days": "Th",
+            "Class": 1,
+            "CRN": 33478,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Budd, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Budd, A",
+            "Course Title": "DRAM 140 \u2013 Introduction to the Theatre",
+            "Class Days": "Th",
+            "Class": 3,
+            "CRN": 48307,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Budd, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Budd, A",
+            "Course Title": "DRAM 140 \u2013 Introduction to the Theatre",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 44482,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Budd, A",
+            "Course Title": "DRAM 140 \u2013 Introduction to the Theatre",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 45049,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Simmers, K",
+            "Course Title": "DRAM 200 \u2013 Theory of Acting",
+            "Class Days": "M, W",
+            "Class": 7,
+            "CRN": 44383,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Budd, A",
+            "Course Title": "DRAM 200 \u2013 Acting I",
+            "Class Days": "Th",
+            "Class": 8,
+            "CRN": 45109,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Budd, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 9,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Simmers, K",
+            "Course Title": "DRAM 201 \u2013 Advanced Acting I",
+            "Class Days": "M, W",
+            "Class": 10,
+            "CRN": 44384,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Budd, A",
+            "Course Title": "DRAM 201 \u2013 Acting II",
+            "Class Days": "Th",
+            "Class": 11,
+            "CRN": 44709,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Budd, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 12,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Simmers, K",
+            "Course Title": "DRAM 202 \u2013 Advanced Acting II",
+            "Class Days": "M, W",
+            "Class": 13,
+            "CRN": 44851,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Budd, A",
+            "Course Title": "DRAM 233 \u2013 Intro. to New Play Development",
+            "Class Days": "Th",
+            "Class": 14,
+            "CRN": 41247,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Budd, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 15,
+            "CRN": 0,
+            "Units": 3
+        }
+    ]
+}

@@ -1,0 +1,6488 @@
+{
+    "Biotechnology": [
+        {
+            "Status": "Open",
+            "Professor": "Ward, K",
+            "Course Title": "BTEC 170 \u2013 Principles-Applied Bioscience",
+            "Class Days": "",
+            "Class": 1,
+            "CRN": 47024,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Ward, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Ng, S",
+            "Course Title": "BTEC 171 \u2013 Lab Principles-Applied Biosci",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 46621,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Ward, K",
+            "Course Title": "BTEC 171 \u2013 Lab Principles-Applied Biosci",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 47025,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Afshar, G",
+            "Course Title": "BTEC 220 \u2013 Cell Culture/Protein Recovery",
+            "Class Days": "M, W",
+            "Class": 5,
+            "CRN": 46530,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Afshar, G",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Ng, S",
+            "Course Title": "BTEC 400 \u2013 Foundations of Biotechnology",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 46627,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ng, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Ng, S",
+            "Course Title": "BTEC 400 \u2013 Foundations of Biotechnology",
+            "Class Days": "",
+            "Class": 9,
+            "CRN": 46628,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ng, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 10,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 11,
+            "CRN": 0,
+            "Units": 0
+        }
+    ],
+    "Aquatics": [
+        {
+            "Status": "Open",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 109.1 \u2013 Water Polo I",
+            "Class Days": "M, W",
+            "Class": 1,
+            "CRN": 43978,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 109.2 \u2013 Water Polo II",
+            "Class Days": "M, W",
+            "Class": 2,
+            "CRN": 43979,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 109.3 \u2013 Water Polo III",
+            "Class Days": "M, W",
+            "Class": 3,
+            "CRN": 43980,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 109.4 \u2013 Water Polo IV",
+            "Class Days": "M, W",
+            "Class": 4,
+            "CRN": 43981,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.1 \u2013 Swim Stroke Development I",
+            "Class Days": "M, W, F",
+            "Class": 5,
+            "CRN": 47691,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.1 \u2013 Swim Stroke Development I",
+            "Class Days": "M, W, F",
+            "Class": 6,
+            "CRN": 48009,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 127.1 \u2013 Swim Stroke Development I",
+            "Class Days": "M, W",
+            "Class": 7,
+            "CRN": 48171,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.1 \u2013 Swim Stroke Development I",
+            "Class Days": "M, W, F",
+            "Class": 8,
+            "CRN": 48013,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.1 \u2013 Swim Stroke Development I",
+            "Class Days": "M, W, F",
+            "Class": 9,
+            "CRN": 48017,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 127.1 \u2013 Swim Stroke Development I",
+            "Class Days": "T, Th",
+            "Class": 10,
+            "CRN": 43929,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.2 \u2013 Swim Stroke Development II",
+            "Class Days": "M, W, F",
+            "Class": 11,
+            "CRN": 47692,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.2 \u2013 Swim Stroke Development II",
+            "Class Days": "M, W, F",
+            "Class": 12,
+            "CRN": 48010,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 127.2 \u2013 Swim Stroke Development II",
+            "Class Days": "M, W",
+            "Class": 13,
+            "CRN": 48172,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.2 \u2013 Swim Stroke Development II",
+            "Class Days": "M, W, F",
+            "Class": 14,
+            "CRN": 48014,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.2 \u2013 Swim Stroke Development II",
+            "Class Days": "M, W, F",
+            "Class": 15,
+            "CRN": 48018,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 127.2 \u2013 Swim Stroke Development II",
+            "Class Days": "T, Th",
+            "Class": 16,
+            "CRN": 43930,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.3 \u2013 Swim Stroke Development III",
+            "Class Days": "M, W, F",
+            "Class": 17,
+            "CRN": 47693,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.3 \u2013 Swim Stroke Development III",
+            "Class Days": "M, W, F",
+            "Class": 18,
+            "CRN": 48011,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 127.3 \u2013 Swim Stroke Development III",
+            "Class Days": "M, W",
+            "Class": 19,
+            "CRN": 48173,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.3 \u2013 Swim Stroke Development III",
+            "Class Days": "M, W, F",
+            "Class": 20,
+            "CRN": 48015,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.3 \u2013 Swim Stroke Development III",
+            "Class Days": "M, W, F",
+            "Class": 21,
+            "CRN": 48019,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 127.3 \u2013 Swim Stroke Development III",
+            "Class Days": "T, Th",
+            "Class": 22,
+            "CRN": 43931,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.4 \u2013 Swim Stroke Development IV",
+            "Class Days": "M, W, F",
+            "Class": 23,
+            "CRN": 47694,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.4 \u2013 Swim Stroke Development IV",
+            "Class Days": "M, W, F",
+            "Class": 24,
+            "CRN": 48012,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 127.4 \u2013 Swim Stroke Development IV",
+            "Class Days": "M, W",
+            "Class": 25,
+            "CRN": 48174,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.4 \u2013 Swim Stroke Development IV",
+            "Class Days": "M, W, F",
+            "Class": 26,
+            "CRN": 48016,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.4 \u2013 Swim Stroke Development IV",
+            "Class Days": "M, W, F",
+            "Class": 27,
+            "CRN": 48020,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 127.4 \u2013 Swim Stroke Development IV",
+            "Class Days": "T, Th",
+            "Class": 28,
+            "CRN": 43932,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 133.1 \u2013 Individual Swim Conditioning I",
+            "Class Days": "M, W",
+            "Class": 29,
+            "CRN": 43982,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 133.1 \u2013 Individual Swim Conditioning I",
+            "Class Days": "T, Th",
+            "Class": 30,
+            "CRN": 43933,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 133.2 \u2013 Indiv Swim Conditioning II",
+            "Class Days": "M, W",
+            "Class": 31,
+            "CRN": 43983,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 133.2 \u2013 Indiv Swim Conditioning II",
+            "Class Days": "T, Th",
+            "Class": 32,
+            "CRN": 43934,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 133.3 \u2013 Indiv Swim Conditioning III",
+            "Class Days": "M, W",
+            "Class": 33,
+            "CRN": 43984,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 133.3 \u2013 Indiv Swim Conditioning III",
+            "Class Days": "T, Th",
+            "Class": 34,
+            "CRN": 43935,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 133.4 \u2013 Indiv Swim Conditioning IV",
+            "Class Days": "M, W",
+            "Class": 35,
+            "CRN": 43985,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 133.4 \u2013 Indiv Swim Conditioning IV",
+            "Class Days": "T, Th",
+            "Class": 36,
+            "CRN": 43937,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Barrilleaux, E",
+            "Course Title": "AQUA 135.1 \u2013 Aqua Exercise I",
+            "Class Days": "T, Th",
+            "Class": 37,
+            "CRN": 44030,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Barrilleaux, E",
+            "Course Title": "AQUA 135.2 \u2013 Aqua Exercise II",
+            "Class Days": "T, Th",
+            "Class": 38,
+            "CRN": 44031,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Barrilleaux, E",
+            "Course Title": "AQUA 135.3 \u2013 Aqua Exercise III",
+            "Class Days": "T, Th",
+            "Class": 39,
+            "CRN": 44032,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Barrilleaux, E",
+            "Course Title": "AQUA 135.4 \u2013 Aqua Exercise IV",
+            "Class Days": "T, Th",
+            "Class": 40,
+            "CRN": 44033,
+            "Units": 1
+        }
+    ],
+    "Art": [
+        {
+            "Status": "Open",
+            "Professor": "Takayama, A",
+            "Course Title": "ART 101 \u2013 History of Western Art I",
+            "Class Days": "M, W, F",
+            "Class": 1,
+            "CRN": 40718,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Cortez, C",
+            "Course Title": "ART 101 \u2013 Art &Arch frm Anct World to M",
+            "Class Days": "M, W",
+            "Class": 2,
+            "CRN": 42737,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Zarur, K",
+            "Course Title": "ART 101 \u2013 History of Art I",
+            "Class Days": "T, Th",
+            "Class": 3,
+            "CRN": 36803,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Gardini, A",
+            "Course Title": "ART 101 \u2013 Art & Arch frm Anct World to M",
+            "Class Days": "T, Th",
+            "Class": 4,
+            "CRN": 31697,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Erickson, D",
+            "Course Title": "ART 101 \u2013 Anci, Class, Medieval Art Hist",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 30848,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Zarur, K",
+            "Course Title": "ART 101 \u2013 History of Western Art I",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 41432,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Cortez, C",
+            "Course Title": "ART 101 \u2013 Art & Arch frm Anct World to M",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 42004,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Cortez, C",
+            "Course Title": "ART 101 \u2013 Art & Arch frm Anct World to M",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 43803,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Takayama, A",
+            "Course Title": "ART 101 \u2013 History of Western Art I",
+            "Class Days": "",
+            "Class": 9,
+            "CRN": 47057,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Erickson, D",
+            "Course Title": "ART 101 \u2013 Anci, Class, Medieval Art Hist",
+            "Class Days": "",
+            "Class": 10,
+            "CRN": 47409,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Gardini, A",
+            "Course Title": "ART 101 \u2013 History of Western Art I",
+            "Class Days": "",
+            "Class": 11,
+            "CRN": 47978,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Erickson, D",
+            "Course Title": "ART 102 \u2013 Late Med, Ren, & Bar. Art Hist",
+            "Class Days": "",
+            "Class": 12,
+            "CRN": 39275,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Takayama, A",
+            "Course Title": "ART 102 \u2013 History of Art II",
+            "Class Days": "",
+            "Class": 13,
+            "CRN": 41770,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Cortez, C",
+            "Course Title": "ART 102 \u2013 Art of Renaissance & Baroque",
+            "Class Days": "",
+            "Class": 14,
+            "CRN": 44552,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Gardini, A",
+            "Course Title": "ART 102 \u2013 History of Art II",
+            "Class Days": "",
+            "Class": 15,
+            "CRN": 47373,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Carroll, E",
+            "Course Title": "ART 102 \u2013 Art of Renaissance & Baroque",
+            "Class Days": "",
+            "Class": 16,
+            "CRN": 48344,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Cortez, C",
+            "Course Title": "ART 103 \u2013 Art of Europe&America:Neoclass",
+            "Class Days": "M, W",
+            "Class": 17,
+            "CRN": 40011,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Erickson, D",
+            "Course Title": "ART 104 \u2013 History of Modern Art",
+            "Class Days": "T",
+            "Class": 18,
+            "CRN": 40632,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Erickson, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 19,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Touze, S",
+            "Course Title": "ART 104 \u2013 Modern Art",
+            "Class Days": "",
+            "Class": 20,
+            "CRN": 46719,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Listopad, J",
+            "Course Title": "ART 105 \u2013 Asian Art and Architecture",
+            "Class Days": "T",
+            "Class": 21,
+            "CRN": 48343,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Listopad, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 22,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Zarur, K",
+            "Course Title": "ART 105 \u2013 Asian Art and Architecture",
+            "Class Days": "",
+            "Class": 23,
+            "CRN": 46472,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Zarur, K",
+            "Course Title": "ART 107 \u2013 Art of Our Times",
+            "Class Days": "",
+            "Class": 24,
+            "CRN": 46017,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Takayama, A",
+            "Course Title": "ART 115 \u2013 Art, Music and Ideas",
+            "Class Days": "M, W",
+            "Class": 25,
+            "CRN": 45446,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Zarur, K",
+            "Course Title": "ART 120 \u2013 Art of the Americas",
+            "Class Days": "T, Th",
+            "Class": 26,
+            "CRN": 40583,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Cunniff, T",
+            "Course Title": "ART 130 \u2013 Art Appreciation",
+            "Class Days": "",
+            "Class": 27,
+            "CRN": 46469,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "ART 130 \u2013 Art Appreciation",
+            "Class Days": "",
+            "Class": 28,
+            "CRN": 46934,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Schmierer, T",
+            "Course Title": "ART 175 \u2013 Vis.Theory/Practc:Ceramic-PROM",
+            "Class Days": "M, W",
+            "Class": 29,
+            "CRN": 46988,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Schmierer, T",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 30,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Schmierer, T",
+            "Course Title": "ART 175 \u2013 Visual Theory/Practice:Ceramic",
+            "Class Days": "M, W",
+            "Class": 31,
+            "CRN": 47375,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Schmierer, T",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 32,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Iqbal, B",
+            "Course Title": "ART 203 \u2013 Plein Air Painting",
+            "Class Days": "T",
+            "Class": 33,
+            "CRN": 46009,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Iqbal, B",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 34,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Ferrer Clotas, A",
+            "Course Title": "ART 204 \u2013 Drawing I",
+            "Class Days": "W",
+            "Class": 35,
+            "CRN": 46456,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Ferrer Clotas, A",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 36,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Ferrer Clotas, A",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 37,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Ferrer Clotas, A",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 38,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Artola, A",
+            "Course Title": "ART 204 \u2013 Drawing I",
+            "Class Days": "M, W",
+            "Class": 39,
+            "CRN": 42794,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Artola, A",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 40,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Karimi, P",
+            "Course Title": "ART 204 \u2013 Drawing I",
+            "Class Days": "W",
+            "Class": 41,
+            "CRN": 46010,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Karimi, P",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 42,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Amory, B",
+            "Course Title": "ART 204 \u2013 Drawing I",
+            "Class Days": "T",
+            "Class": 43,
+            "CRN": 43572,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Amory, B",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 44,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Amory, B",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 45,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Deretsky, Z",
+            "Course Title": "ART 204 \u2013 Drawing I",
+            "Class Days": "W",
+            "Class": 46,
+            "CRN": 48346,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Deretsky, Z",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 47,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Clemens, A",
+            "Course Title": "ART 204 \u2013 Drawing I",
+            "Class Days": "T, Th",
+            "Class": 48,
+            "CRN": 30034,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Clemens, A",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 49,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Artola, A",
+            "Course Title": "ART 204 \u2013 Drawing I",
+            "Class Days": "",
+            "Class": 50,
+            "CRN": 44886,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Artola, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 51,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Corvelle, D",
+            "Course Title": "ART 204 \u2013 Drawing I",
+            "Class Days": "",
+            "Class": 52,
+            "CRN": 46335,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Corvelle, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 53,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Ferrer Clotas, A",
+            "Course Title": "ART 205 \u2013 Drawing II",
+            "Class Days": "W",
+            "Class": 54,
+            "CRN": 46020,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Ferrer Clotas, A",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 55,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Ferrer Clotas, A",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 56,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Ferrer Clotas, A",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 57,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Artola, A",
+            "Course Title": "ART 205 \u2013 Drawing II",
+            "Class Days": "M, W",
+            "Class": 58,
+            "CRN": 30037,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Artola, A",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 59,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Deretsky, Z",
+            "Course Title": "ART 205 \u2013 Drawing II",
+            "Class Days": "W",
+            "Class": 60,
+            "CRN": 48347,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Deretsky, Z",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 61,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Clemens, A",
+            "Course Title": "ART 205 \u2013 Drawing II",
+            "Class Days": "T, Th",
+            "Class": 62,
+            "CRN": 48455,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Clemens, A",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 63,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Artola, A",
+            "Course Title": "ART 205 \u2013 Drawing II",
+            "Class Days": "",
+            "Class": 64,
+            "CRN": 44888,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Artola, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 65,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Corvelle, D",
+            "Course Title": "ART 205 \u2013 Drawing II",
+            "Class Days": "",
+            "Class": 66,
+            "CRN": 46457,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Corvelle, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 67,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Belenky, D",
+            "Course Title": "ART 207 \u2013 Life Drawing",
+            "Class Days": "M",
+            "Class": 68,
+            "CRN": 40633,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Belenky, D",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 69,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Belenky, D",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 70,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Buchanan, N",
+            "Course Title": "ART 207 \u2013 Life Drawing",
+            "Class Days": "T",
+            "Class": 71,
+            "CRN": 31709,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Buchanan, N",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 72,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Buchanan, N",
+            "Course Title": "ART 208 \u2013 Portrait Drawing I",
+            "Class Days": "T",
+            "Class": 73,
+            "CRN": 44953,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Buchanan, N",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 74,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Buchanan, N",
+            "Course Title": "ART 209 \u2013 Portrait Drawing II",
+            "Class Days": "T",
+            "Class": 75,
+            "CRN": 44954,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Buchanan, N",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 76,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Belenky, D",
+            "Course Title": "ART 213 \u2013 Life Drawing II",
+            "Class Days": "M",
+            "Class": 77,
+            "CRN": 45105,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Belenky, D",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 78,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Belenky, D",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 79,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Buchanan, N",
+            "Course Title": "ART 213 \u2013 Life Drawing II",
+            "Class Days": "T",
+            "Class": 80,
+            "CRN": 45834,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Buchanan, N",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 81,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Bridenbaugh, P",
+            "Course Title": "ART 214 \u2013 Color",
+            "Class Days": "",
+            "Class": 82,
+            "CRN": 47378,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Bridenbaugh, P",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 83,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Buchanan, N",
+            "Course Title": "ART 215 \u2013 Portraiture III",
+            "Class Days": "T",
+            "Class": 84,
+            "CRN": 46030,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Buchanan, N",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 85,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Buchanan, N",
+            "Course Title": "ART 216 \u2013 Portraiture IV",
+            "Class Days": "T",
+            "Class": 86,
+            "CRN": 46031,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Buchanan, N",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 87,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Bridenbaugh, P",
+            "Course Title": "ART 221 \u2013 Painting I",
+            "Class Days": "T, Th",
+            "Class": 88,
+            "CRN": 46014,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Bridenbaugh, P",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 89,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Amory, B",
+            "Course Title": "ART 221 \u2013 Painting I",
+            "Class Days": "T",
+            "Class": 90,
+            "CRN": 39264,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Amory, B",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 91,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Amory, B",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 92,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Clemens, A",
+            "Course Title": "ART 221 \u2013 Painting I",
+            "Class Days": "M, W",
+            "Class": 93,
+            "CRN": 48456,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Clemens, A",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 94,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Esfahani, A",
+            "Course Title": "ART 221 \u2013 Painting I - Mural Painting",
+            "Class Days": "Sa",
+            "Class": 95,
+            "CRN": 30044,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Esfahani, A",
+            "Course Title": "",
+            "Class Days": "Sa",
+            "Class": 96,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Ryan, M",
+            "Course Title": "ART 221 \u2013 Painting I",
+            "Class Days": "",
+            "Class": 97,
+            "CRN": 47719,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Ryan, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 98,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Bridenbaugh, P",
+            "Course Title": "ART 222 \u2013 Painting II",
+            "Class Days": "T, Th",
+            "Class": 99,
+            "CRN": 46065,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Bridenbaugh, P",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 100,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Amory, B",
+            "Course Title": "ART 222 \u2013 Painting II",
+            "Class Days": "T",
+            "Class": 101,
+            "CRN": 39724,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Amory, B",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 102,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Amory, B",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 103,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Clemens, A",
+            "Course Title": "ART 222 \u2013 Painting II",
+            "Class Days": "M, W",
+            "Class": 104,
+            "CRN": 48457,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Clemens, A",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 105,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Esfahani, A",
+            "Course Title": "ART 222 \u2013 Painting II - Mural Painting",
+            "Class Days": "Sa",
+            "Class": 106,
+            "CRN": 30046,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Esfahani, A",
+            "Course Title": "",
+            "Class Days": "Sa",
+            "Class": 107,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Ryan, M",
+            "Course Title": "ART 222 \u2013 Painting II",
+            "Class Days": "",
+            "Class": 108,
+            "CRN": 47720,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Ryan, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 109,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Ferrer Clotas, A",
+            "Course Title": "ART 223 \u2013 Oil Painting I",
+            "Class Days": "W",
+            "Class": 110,
+            "CRN": 43417,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Ferrer Clotas, A",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 111,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Ferrer Clotas, A",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 112,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Ferrer Clotas, A",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 113,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Ferrer Clotas, A",
+            "Course Title": "ART 224 \u2013 Oil Painting II",
+            "Class Days": "W",
+            "Class": 114,
+            "CRN": 43418,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Ferrer Clotas, A",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 115,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Ferrer Clotas, A",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 116,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Ferrer Clotas, A",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 117,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Matthews, S",
+            "Course Title": "ART 225 \u2013 Acrylic Painting I",
+            "Class Days": "T",
+            "Class": 118,
+            "CRN": 46037,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Matthews, S",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 119,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Matthews, S",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 120,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Matthews, S",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 121,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Matthews, S",
+            "Course Title": "ART 226 \u2013 Acrylic Painting II",
+            "Class Days": "T",
+            "Class": 122,
+            "CRN": 46038,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Matthews, S",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 123,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Matthews, S",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 124,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Matthews, S",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 125,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "David, E",
+            "Course Title": "ART 231 \u2013 Watercolor I",
+            "Class Days": "T, Th",
+            "Class": 126,
+            "CRN": 42795,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "David, E",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 127,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Matthews, S",
+            "Course Title": "ART 231 \u2013 Watercolor I",
+            "Class Days": "T",
+            "Class": 128,
+            "CRN": 47669,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Matthews, S",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 129,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Matthews, S",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 130,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Matthews, S",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 131,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Corvelle, D",
+            "Course Title": "ART 231 \u2013 Watercolor I",
+            "Class Days": "",
+            "Class": 132,
+            "CRN": 31715,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Corvelle, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 133,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "David, E",
+            "Course Title": "ART 231 \u2013 Watercolor I",
+            "Class Days": "",
+            "Class": 134,
+            "CRN": 48469,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "David, E",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 135,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "David, E",
+            "Course Title": "ART 232 \u2013 Watercolor II",
+            "Class Days": "T, Th",
+            "Class": 136,
+            "CRN": 43252,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "David, E",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 137,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Matthews, S",
+            "Course Title": "ART 232 \u2013 Watercolor II",
+            "Class Days": "T",
+            "Class": 138,
+            "CRN": 47670,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Matthews, S",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 139,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Matthews, S",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 140,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Matthews, S",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 141,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Corvelle, D",
+            "Course Title": "ART 232 \u2013 Watercolor II",
+            "Class Days": "",
+            "Class": 142,
+            "CRN": 31716,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Corvelle, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 143,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "David, E",
+            "Course Title": "ART 232 \u2013 Watercolor II",
+            "Class Days": "",
+            "Class": 144,
+            "CRN": 48470,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "David, E",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 145,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Matthews, S",
+            "Course Title": "ART 233 \u2013 Watercolor III",
+            "Class Days": "T",
+            "Class": 146,
+            "CRN": 47671,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Matthews, S",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 147,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Matthews, S",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 148,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Matthews, S",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 149,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Corvelle, D",
+            "Course Title": "ART 233 \u2013 Watercolor III",
+            "Class Days": "",
+            "Class": 150,
+            "CRN": 45260,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Corvelle, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 151,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Matthews, S",
+            "Course Title": "ART 243 \u2013 Watercolor IV",
+            "Class Days": "T",
+            "Class": 152,
+            "CRN": 47672,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Matthews, S",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 153,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Matthews, S",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 154,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Matthews, S",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 155,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Corvelle, D",
+            "Course Title": "ART 243 \u2013 Watercolor IV",
+            "Class Days": "",
+            "Class": 156,
+            "CRN": 45261,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Corvelle, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 157,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Ferrer Clotas, A",
+            "Course Title": "ART 244 \u2013 Oil Painting III",
+            "Class Days": "W",
+            "Class": 158,
+            "CRN": 45530,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Ferrer Clotas, A",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 159,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Ferrer Clotas, A",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 160,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Ferrer Clotas, A",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 161,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Waitlist Closed",
+            "Professor": "Ferrer Clotas, A",
+            "Course Title": "ART 247 \u2013 Oil Painting IV",
+            "Class Days": "W",
+            "Class": 162,
+            "CRN": 45531,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Ferrer Clotas, A",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 163,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Ferrer Clotas, A",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 164,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Ferrer Clotas, A",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 165,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Erickson, D",
+            "Course Title": "ART 250 \u2013 The Art History of Rome",
+            "Class Days": "F",
+            "Class": 166,
+            "CRN": 48302,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Matthews, S",
+            "Course Title": "ART 251 \u2013 Acrylic Painting III",
+            "Class Days": "T",
+            "Class": 167,
+            "CRN": 46039,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Matthews, S",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 168,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Matthews, S",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 169,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Matthews, S",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 170,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Matthews, S",
+            "Course Title": "ART 252 \u2013 Acrylic Painting IV",
+            "Class Days": "T",
+            "Class": 171,
+            "CRN": 46040,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Matthews, S",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 172,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Matthews, S",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 173,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Matthews, S",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 174,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Iqbal, B",
+            "Course Title": "ART 253 \u2013 Plein Air Painting II",
+            "Class Days": "T",
+            "Class": 175,
+            "CRN": 46997,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Iqbal, B",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 176,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Iqbal, B",
+            "Course Title": "ART 254 \u2013 Plein Air Painting III",
+            "Class Days": "T",
+            "Class": 177,
+            "CRN": 46998,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Iqbal, B",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 178,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Iqbal, B",
+            "Course Title": "ART 255 \u2013 Plein Air Painting IV",
+            "Class Days": "T",
+            "Class": 179,
+            "CRN": 46999,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Iqbal, B",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 180,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Karimi, P",
+            "Course Title": "ART 301 \u2013 Two-Dimensional Design",
+            "Class Days": "W",
+            "Class": 181,
+            "CRN": 48345,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Karimi, P",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 182,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Slapin Lufkin, E",
+            "Course Title": "ART 301 \u2013 Two-Dimensional Design",
+            "Class Days": "",
+            "Class": 183,
+            "CRN": 31721,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Slapin Lufkin, E",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 184,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Bridenbaugh, P",
+            "Course Title": "ART 301 \u2013 Two-Dimensional Design",
+            "Class Days": "",
+            "Class": 185,
+            "CRN": 47379,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Bridenbaugh, P",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 186,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Jones, D",
+            "Course Title": "ART 350 \u2013 Visual Perception-Photography",
+            "Class Days": "",
+            "Class": 187,
+            "CRN": 46937,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "VanSlambrouck, P",
+            "Course Title": "ART 351 \u2013 Beg Black/White Photography",
+            "Class Days": "W",
+            "Class": 188,
+            "CRN": 31725,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "VanSlambrouck, P",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 189,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "VanSlambrouck, P",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 190,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Takayama, A",
+            "Course Title": "ART 351 \u2013 Photography I",
+            "Class Days": "T, Th",
+            "Class": 191,
+            "CRN": 42104,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Takayama, A",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 192,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Takayama, A",
+            "Course Title": "ART 352 \u2013 Photography II",
+            "Class Days": "T, Th",
+            "Class": 193,
+            "CRN": 42303,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Takayama, A",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 194,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Teng, L",
+            "Course Title": "ART 352 \u2013 Int.Black/White Photography",
+            "Class Days": "T",
+            "Class": 195,
+            "CRN": 31728,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Teng, L",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 196,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Teng, L",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 197,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Takayama, A",
+            "Course Title": "ART 353 \u2013 Photography III",
+            "Class Days": "T, Th",
+            "Class": 198,
+            "CRN": 30057,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Takayama, A",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 199,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Teng, L",
+            "Course Title": "ART 353 \u2013 Adv Black/White Photography",
+            "Class Days": "T",
+            "Class": 200,
+            "CRN": 42084,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Teng, L",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 201,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Teng, L",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 202,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Jones, D",
+            "Course Title": "ART 354 \u2013 Color Photography I",
+            "Class Days": "",
+            "Class": 203,
+            "CRN": 30059,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Jones, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 204,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Jones, D",
+            "Course Title": "ART 355 \u2013 Color Photography II",
+            "Class Days": "",
+            "Class": 205,
+            "CRN": 44579,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Jones, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 206,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Van Dongen, N",
+            "Course Title": "ART 381 \u2013 Beginning Digital Photography",
+            "Class Days": "Th",
+            "Class": 207,
+            "CRN": 43736,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Pack, T",
+            "Course Title": "ART 381 \u2013 Beginning Digital Photography",
+            "Class Days": "",
+            "Class": 208,
+            "CRN": 41106,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Teng, L",
+            "Course Title": "ART 381 \u2013 Beginning Digital Photography",
+            "Class Days": "",
+            "Class": 209,
+            "CRN": 46754,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Pack, T",
+            "Course Title": "ART 381 \u2013 Begin Digital Photography",
+            "Class Days": "",
+            "Class": 210,
+            "CRN": 48365,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "ART 383 \u2013 Intermed Digital Photography",
+            "Class Days": "W",
+            "Class": 211,
+            "CRN": 43707,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Staff,",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 212,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Staff,",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 213,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "ART 384 \u2013 Advanced Digital Photography",
+            "Class Days": "W",
+            "Class": 214,
+            "CRN": 43708,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Staff,",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 215,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Staff,",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 216,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Teng, L",
+            "Course Title": "ART 391 \u2013 Experimental Photography 1",
+            "Class Days": "T",
+            "Class": 217,
+            "CRN": 44545,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Teng, L",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 218,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Teng, L",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 219,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Teng, L",
+            "Course Title": "ART 392 \u2013 Experimental Photography 2",
+            "Class Days": "T",
+            "Class": 220,
+            "CRN": 44546,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Teng, L",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 221,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Teng, L",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 222,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Teng, L",
+            "Course Title": "ART 393 \u2013 Experimental Photography 3",
+            "Class Days": "T",
+            "Class": 223,
+            "CRN": 44547,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Teng, L",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 224,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Teng, L",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 225,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Teng, L",
+            "Course Title": "ART 394 \u2013 Experimental Photography 4",
+            "Class Days": "T",
+            "Class": 226,
+            "CRN": 44548,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Teng, L",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 227,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Teng, L",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 228,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kern, M",
+            "Course Title": "ART 401 \u2013 Three-Dimensional Design",
+            "Class Days": "W",
+            "Class": 229,
+            "CRN": 45075,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Kern, M",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 230,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Kern, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 231,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Cunniff, T",
+            "Course Title": "ART 405 \u2013 Sculpture I",
+            "Class Days": "M, W",
+            "Class": 232,
+            "CRN": 40044,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Cunniff, T",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 233,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Iqbal, B",
+            "Course Title": "ART 405 \u2013 Sculpture I",
+            "Class Days": "T",
+            "Class": 234,
+            "CRN": 48366,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Iqbal, B",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 235,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Iqbal, B",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 236,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Cunniff, T",
+            "Course Title": "ART 406 \u2013 Sculpture II",
+            "Class Days": "M, W",
+            "Class": 237,
+            "CRN": 40112,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Cunniff, T",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 238,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Iqbal, B",
+            "Course Title": "ART 406 \u2013 Sculpture II",
+            "Class Days": "T",
+            "Class": 239,
+            "CRN": 48367,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Iqbal, B",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 240,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Iqbal, B",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 241,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Waitlist Closed",
+            "Professor": "Ichimura, J",
+            "Course Title": "ART 411 \u2013 Ceramics I",
+            "Class Days": "W",
+            "Class": 242,
+            "CRN": 31731,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Ichimura, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 243,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Ichimura, J",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 244,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Schmierer, T",
+            "Course Title": "ART 411 \u2013 Ceramics I",
+            "Class Days": "T, Th",
+            "Class": 245,
+            "CRN": 40128,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Schmierer, T",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 246,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Schmierer, T",
+            "Course Title": "ART 411 \u2013 Ceramics I",
+            "Class Days": "T, Th",
+            "Class": 247,
+            "CRN": 30072,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Schmierer, T",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 248,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Waitlist Closed",
+            "Professor": "Levine, Z",
+            "Course Title": "ART 411 \u2013 Ceramics I",
+            "Class Days": "T",
+            "Class": 249,
+            "CRN": 31732,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Levine, Z",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 250,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Levine, Z",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 251,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Ichimura, J",
+            "Course Title": "ART 412 \u2013 Ceramics II",
+            "Class Days": "W",
+            "Class": 252,
+            "CRN": 47031,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Ichimura, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 253,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Ichimura, J",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 254,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Schmierer, T",
+            "Course Title": "ART 412 \u2013 Ceramics II",
+            "Class Days": "T, Th",
+            "Class": 255,
+            "CRN": 40130,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Schmierer, T",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 256,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Schmierer, T",
+            "Course Title": "ART 412 \u2013 Ceramics II",
+            "Class Days": "T, Th",
+            "Class": 257,
+            "CRN": 30075,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Schmierer, T",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 258,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Levine, Z",
+            "Course Title": "ART 412 \u2013 Ceramics II",
+            "Class Days": "T",
+            "Class": 259,
+            "CRN": 31734,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Levine, Z",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 260,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Levine, Z",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 261,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Schmierer, T",
+            "Course Title": "ART 417 \u2013 Ceramic Glazing Techniques",
+            "Class Days": "T, Th",
+            "Class": 262,
+            "CRN": 40131,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Schmierer, T",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 263,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Schmierer, T",
+            "Course Title": "ART 417 \u2013 Ceramic Glazing Technique",
+            "Class Days": "T, Th",
+            "Class": 264,
+            "CRN": 30078,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Schmierer, T",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 265,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Waitlist Closed",
+            "Professor": "Ichimura, J",
+            "Course Title": "ART 418 \u2013 Ceramics III",
+            "Class Days": "W",
+            "Class": 266,
+            "CRN": 47653,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Ichimura, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 267,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Ichimura, J",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 268,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Schmierer, T",
+            "Course Title": "ART 418 \u2013 Ceramics III",
+            "Class Days": "T, Th",
+            "Class": 269,
+            "CRN": 44312,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Schmierer, T",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 270,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Schmierer, T",
+            "Course Title": "ART 418 \u2013 Ceramics III",
+            "Class Days": "T, Th",
+            "Class": 271,
+            "CRN": 44309,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Schmierer, T",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 272,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Levine, Z",
+            "Course Title": "ART 418 \u2013 Ceramics III",
+            "Class Days": "T",
+            "Class": 273,
+            "CRN": 45541,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Levine, Z",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 274,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Levine, Z",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 275,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Bridenbaugh, P",
+            "Course Title": "ART 430 \u2013 Introduction to Digital Art",
+            "Class Days": "M, W",
+            "Class": 276,
+            "CRN": 44782,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Bridenbaugh, P",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 277,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Esfahani, A",
+            "Course Title": "ART 440 \u2013 Introduction to Web Design",
+            "Class Days": "",
+            "Class": 278,
+            "CRN": 46016,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Esfahani, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 279,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Esfahani, A",
+            "Course Title": "ART 665SF \u2013 Gallery Practicum",
+            "Class Days": "Sa",
+            "Class": 280,
+            "CRN": 40584,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Esfahani, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 281,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lohmann, R",
+            "Course Title": "ART 806 \u2013 Digital Workshop",
+            "Class Days": "Th",
+            "Class": 282,
+            "CRN": 46051,
+            "Units": 0.5
+        }
+    ],
+    "Automotive Technology": [
+        {
+            "Status": "Open",
+            "Professor": "Gleyzer, F",
+            "Course Title": "AUTO 529 \u2013 Modern Engine Design & Repair",
+            "Class Days": "M",
+            "Class": 1,
+            "CRN": 46839,
+            "Units": 4.5
+        },
+        {
+            "Status": "",
+            "Professor": "Gleyzer, F",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 4.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Moore, D",
+            "Course Title": "AUTO 580 \u2013 Careers in Automotive Tech",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 47742,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Escalambre, R",
+            "Course Title": "AUTO 667SA \u2013 2023 Smog Check Update",
+            "Class Days": "Sa, Su",
+            "Class": 4,
+            "CRN": 48189,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Escalambre, R",
+            "Course Title": "AUTO 667SA \u2013 2023 Smog Check Update",
+            "Class Days": "Sa, Su",
+            "Class": 5,
+            "CRN": 48190,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Roman-Medina, J",
+            "Course Title": "AUTO 670 \u2013 Automotive Work Experience",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 34280,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "LaRocca, S",
+            "Course Title": "AUTO 710 \u2013 Fundamentals: Auto Technology",
+            "Class Days": "M, W",
+            "Class": 7,
+            "CRN": 42165,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "LaRocca, S",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 8,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Gumina, J",
+            "Course Title": "AUTO 710 \u2013 Fundamentals: Auto Technology",
+            "Class Days": "T, Th",
+            "Class": 9,
+            "CRN": 41735,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Gumina, J",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 10,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Johnson, J",
+            "Course Title": "AUTO 711 \u2013 Auto Entry Level Tech",
+            "Class Days": "T",
+            "Class": 11,
+            "CRN": 44747,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Johnson, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 12,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Johnson, J",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 13,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Johnson, J",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 14,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Gleyzer, F",
+            "Course Title": "AUTO 713 \u2013 Electricity/Electronics",
+            "Class Days": "M",
+            "Class": 15,
+            "CRN": 38062,
+            "Units": 15
+        },
+        {
+            "Status": "",
+            "Professor": "Gleyzer, F",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 16,
+            "CRN": 0,
+            "Units": 15
+        },
+        {
+            "Status": "",
+            "Professor": "Gleyzer, F",
+            "Course Title": "",
+            "Class Days": "W, Th",
+            "Class": 17,
+            "CRN": 0,
+            "Units": 15
+        },
+        {
+            "Status": "Open",
+            "Professor": "Roman-Medina, J",
+            "Course Title": "AUTO 721 \u2013 Steering, Suspension & Brakes",
+            "Class Days": "M, T, W, Th",
+            "Class": 18,
+            "CRN": 30099,
+            "Units": 15
+        },
+        {
+            "Status": "",
+            "Professor": "Roman-Medina, J",
+            "Course Title": "",
+            "Class Days": "M, T, W, Th",
+            "Class": 19,
+            "CRN": 0,
+            "Units": 15
+        },
+        {
+            "Status": "Open",
+            "Professor": "Johnson, J",
+            "Course Title": "AUTO 734 \u2013 Auto Engine Diagnosis & Repair",
+            "Class Days": "M",
+            "Class": 20,
+            "CRN": 36550,
+            "Units": 15
+        },
+        {
+            "Status": "",
+            "Professor": "Johnson, J",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 21,
+            "CRN": 0,
+            "Units": 15
+        },
+        {
+            "Status": "",
+            "Professor": "Johnson, J",
+            "Course Title": "",
+            "Class Days": "W, Th",
+            "Class": 22,
+            "CRN": 0,
+            "Units": 15
+        },
+        {
+            "Status": "Open",
+            "Professor": "Broxholm, T",
+            "Course Title": "AUTO 735 \u2013 Trans/Drive Trains Diag/Repair",
+            "Class Days": "T",
+            "Class": 23,
+            "CRN": 36370,
+            "Units": 15
+        },
+        {
+            "Status": "",
+            "Professor": "Broxholm, T",
+            "Course Title": "",
+            "Class Days": "W, Th",
+            "Class": 24,
+            "CRN": 0,
+            "Units": 15
+        },
+        {
+            "Status": "",
+            "Professor": "Broxholm, T",
+            "Course Title": "",
+            "Class Days": "F",
+            "Class": 25,
+            "CRN": 0,
+            "Units": 15
+        },
+        {
+            "Status": "Open",
+            "Professor": "Parra, R",
+            "Course Title": "AUTO 751 \u2013 Auto Engine Performance",
+            "Class Days": "M, T",
+            "Class": 26,
+            "CRN": 46799,
+            "Units": 15
+        },
+        {
+            "Status": "",
+            "Professor": "Parra, R",
+            "Course Title": "",
+            "Class Days": "W, Th",
+            "Class": 27,
+            "CRN": 0,
+            "Units": 15
+        },
+        {
+            "Status": "Open",
+            "Professor": "Parra, R",
+            "Course Title": "AUTO 758 \u2013 Auto Computer Controls",
+            "Class Days": "T, Th",
+            "Class": 28,
+            "CRN": 34549,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Parra, R",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 29,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Behravesh, K",
+            "Course Title": "AUTO 793 \u2013 Engine Performance",
+            "Class Days": "T, Th",
+            "Class": 30,
+            "CRN": 41751,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Behravesh, K",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 31,
+            "CRN": 0,
+            "Units": 2
+        }
+    ],
+    "Architecture": [
+        {
+            "Status": "Open",
+            "Professor": "Candrian, B",
+            "Course Title": "ARCH 100 \u2013 Survey of Modern Architecture",
+            "Class Days": "T, Th",
+            "Class": 1,
+            "CRN": 31691,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Torres, E",
+            "Course Title": "ARCH 110 \u2013 Interior Architect. Drafting",
+            "Class Days": "T",
+            "Class": 2,
+            "CRN": 30846,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Torres, E",
+            "Course Title": "ARCH 110 \u2013 Interior Architect. Drafting",
+            "Class Days": "M",
+            "Class": 3,
+            "CRN": 30847,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Reyes, A",
+            "Course Title": "ARCH 120 \u2013 Arch+Design Draw 1:Draw&Visual",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 47587,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Reyes, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Liu, A",
+            "Course Title": "ARCH 120 \u2013 Arch+Design Draw 1:Draw&Visual",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 47588,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Liu, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Yahn, J",
+            "Course Title": "ARCH 140 \u2013 ARCH+Design Drawing II:Design",
+            "Class Days": "W",
+            "Class": 8,
+            "CRN": 41144,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Yahn, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 9,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Sun, G",
+            "Course Title": "ARCH 210 \u2013 Design I:Intro Arch/Env Design",
+            "Class Days": "T, Th",
+            "Class": 10,
+            "CRN": 44770,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Sun, G",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 11,
+            "CRN": 0,
+            "Units": 4
+        }
+    ],
+    "American Sign Language": [
+        {
+            "Status": "Open",
+            "Professor": "Cheung, M",
+            "Course Title": "ASL 100 \u2013 American Sign Language I",
+            "Class Days": "M, W",
+            "Class": 1,
+            "CRN": 45745,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Meng, Q",
+            "Course Title": "ASL 100 \u2013 American Sign Language I",
+            "Class Days": "T, Th",
+            "Class": 2,
+            "CRN": 48166,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Meng, Q",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Wong, W",
+            "Course Title": "ASL 100 \u2013 American Sign Language I",
+            "Class Days": "M",
+            "Class": 4,
+            "CRN": 48440,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Wong, W",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Cheung, M",
+            "Course Title": "ASL 100 \u2013 American Sign Language I",
+            "Class Days": "T, Th",
+            "Class": 6,
+            "CRN": 45234,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Rawson, D",
+            "Course Title": "ASL 110 \u2013 American Sign Language II",
+            "Class Days": "T, Th",
+            "Class": 7,
+            "CRN": 45235,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Rawson, D",
+            "Course Title": "ASL 110 \u2013 American Sign Language II",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 48061,
+            "Units": 5
+        }
+    ],
+    "Accounting": [
+        {
+            "Status": "Open",
+            "Professor": "Nelson, M",
+            "Course Title": "ACTG 100 \u2013 Accounting Procedures",
+            "Class Days": "M, W",
+            "Class": 1,
+            "CRN": 34543,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Fang, L",
+            "Course Title": "ACTG 100 \u2013 Accounting Procedures",
+            "Class Days": "T, Th",
+            "Class": 2,
+            "CRN": 30002,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Bennett, B",
+            "Course Title": "ACTG 100 \u2013 Accounting Procedures",
+            "Class Days": "M",
+            "Class": 3,
+            "CRN": 48063,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Bennett, B",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Zhang, H",
+            "Course Title": "ACTG 100 \u2013 Accounting Procedures",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 30007,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Dorsett, S",
+            "Course Title": "ACTG 100 \u2013 Accounting Procedures",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 42475,
+            "Units": 3
+        },
+        {
+            "Status": "Waitlist Closed",
+            "Professor": "Claire, R",
+            "Course Title": "ACTG 100 \u2013 Accounting Procedures",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 42796,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Flewellen, O",
+            "Course Title": "ACTG 100 \u2013 Accounting Procedures",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 47145,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Flewellen, O",
+            "Course Title": "ACTG 103 \u2013 Ten-Key Skills",
+            "Class Days": "",
+            "Class": 9,
+            "CRN": 36337,
+            "Units": 0.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Zhang, H",
+            "Course Title": "ACTG 103 \u2013 Ten-Key Skills",
+            "Class Days": "",
+            "Class": 10,
+            "CRN": 37617,
+            "Units": 0.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Li, S",
+            "Course Title": "ACTG 107 \u2013 Time Value of Money Survey",
+            "Class Days": "",
+            "Class": 11,
+            "CRN": 46188,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Heath, S",
+            "Course Title": "ACTG 119 \u2013 Personal Financial Planning",
+            "Class Days": "T, Th",
+            "Class": 12,
+            "CRN": 48379,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Heath, S",
+            "Course Title": "ACTG 119 \u2013 Personal Financial Planning",
+            "Class Days": "",
+            "Class": 13,
+            "CRN": 45627,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Heath, S",
+            "Course Title": "ACTG 121 \u2013 Financial Accounting",
+            "Class Days": "M, W",
+            "Class": 14,
+            "CRN": 37439,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Viertel, C",
+            "Course Title": "ACTG 121 \u2013 Financial Accounting",
+            "Class Days": "M, W",
+            "Class": 15,
+            "CRN": 30009,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Zhang, H",
+            "Course Title": "ACTG 121 \u2013 Financial Accounting",
+            "Class Days": "T, Th",
+            "Class": 16,
+            "CRN": 30008,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Li, V",
+            "Course Title": "ACTG 121 \u2013 Financial Accounting",
+            "Class Days": "T, Th",
+            "Class": 17,
+            "CRN": 31608,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Cabrera, L",
+            "Course Title": "ACTG 121 \u2013 Financial Accounting",
+            "Class Days": "T, Th",
+            "Class": 18,
+            "CRN": 48065,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Heath, S",
+            "Course Title": "ACTG 121 \u2013 Financial Accounting",
+            "Class Days": "T, Th",
+            "Class": 19,
+            "CRN": 31609,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Cabrera, L",
+            "Course Title": "ACTG 121 \u2013 Financial Accounting",
+            "Class Days": "Th",
+            "Class": 20,
+            "CRN": 30821,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Cabrera, L",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 21,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Cabrera, L",
+            "Course Title": "ACTG 121 \u2013 Financial Accounting",
+            "Class Days": "Th",
+            "Class": 22,
+            "CRN": 34074,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Cabrera, L",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 23,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Zhang, H",
+            "Course Title": "ACTG 121 \u2013 Financial Accounting",
+            "Class Days": "",
+            "Class": 24,
+            "CRN": 40629,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Li, V",
+            "Course Title": "ACTG 121 \u2013 Financial Accounting",
+            "Class Days": "",
+            "Class": 25,
+            "CRN": 41964,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Cabrera, L",
+            "Course Title": "ACTG 121 \u2013 Financial Accounting",
+            "Class Days": "",
+            "Class": 26,
+            "CRN": 43240,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Li, V",
+            "Course Title": "ACTG 121 \u2013 Financial Accounting",
+            "Class Days": "",
+            "Class": 27,
+            "CRN": 45628,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Li, V",
+            "Course Title": "ACTG 121 \u2013 Financial Accounting",
+            "Class Days": "",
+            "Class": 28,
+            "CRN": 46158,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Li, V",
+            "Course Title": "ACTG 121 \u2013 Financial Accounting",
+            "Class Days": "",
+            "Class": 29,
+            "CRN": 46161,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Heath, S",
+            "Course Title": "ACTG 131 \u2013 Managerial Accounting",
+            "Class Days": "M, W",
+            "Class": 30,
+            "CRN": 31610,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Viertel, C",
+            "Course Title": "ACTG 131 \u2013 Managerial Accounting",
+            "Class Days": "M, W",
+            "Class": 31,
+            "CRN": 30012,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Nelson, M",
+            "Course Title": "ACTG 131 \u2013 Managerial Accounting",
+            "Class Days": "T, Th",
+            "Class": 32,
+            "CRN": 31612,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Nelson, M",
+            "Course Title": "ACTG 131 \u2013 Managerial Accounting",
+            "Class Days": "T",
+            "Class": 33,
+            "CRN": 45970,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Nelson, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 34,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Cabrera, L",
+            "Course Title": "ACTG 131 \u2013 Managerial Accounting",
+            "Class Days": "T",
+            "Class": 35,
+            "CRN": 46077,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Cabrera, L",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 36,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Cabrera, L",
+            "Course Title": "ACTG 131 \u2013 Managerial Accounting",
+            "Class Days": "T",
+            "Class": 37,
+            "CRN": 39309,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Cabrera, L",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 38,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Waitlist Closed",
+            "Professor": "Heath, S",
+            "Course Title": "ACTG 131 \u2013 Managerial Accounting",
+            "Class Days": "",
+            "Class": 39,
+            "CRN": 31613,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Claire, R",
+            "Course Title": "ACTG 131 \u2013 Managerial Accounting",
+            "Class Days": "",
+            "Class": 40,
+            "CRN": 40170,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Viertel, C",
+            "Course Title": "ACTG 131 \u2013 Managerial Accounting",
+            "Class Days": "",
+            "Class": 41,
+            "CRN": 43223,
+            "Units": 4
+        },
+        {
+            "Status": "Waitlist Closed",
+            "Professor": "Heath, S",
+            "Course Title": "ACTG 131 \u2013 Managerial Accounting",
+            "Class Days": "",
+            "Class": 42,
+            "CRN": 45463,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Li, V",
+            "Course Title": "ACTG 131 \u2013 Managerial Accounting",
+            "Class Days": "",
+            "Class": 43,
+            "CRN": 46338,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Li, S",
+            "Course Title": "ACTG 144 \u2013 QuickBooks Set-up/Service Bus.",
+            "Class Days": "",
+            "Class": 44,
+            "CRN": 41056,
+            "Units": 1.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Li, S",
+            "Course Title": "ACTG 145 \u2013 QuickBooksPayroll/Merchndising",
+            "Class Days": "",
+            "Class": 45,
+            "CRN": 41058,
+            "Units": 1.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Zhang, H",
+            "Course Title": "ACTG 146 \u2013 Accounting for Payroll",
+            "Class Days": "",
+            "Class": 46,
+            "CRN": 48395,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Viertel, C",
+            "Course Title": "ACTG 156 \u2013 International Accounting",
+            "Class Days": "",
+            "Class": 47,
+            "CRN": 45631,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Bowman, S",
+            "Course Title": "ACTG 162 \u2013 Intermediate Accounting II",
+            "Class Days": "",
+            "Class": 48,
+            "CRN": 43752,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Bowman, S",
+            "Course Title": "ACTG 163 \u2013 Auditing",
+            "Class Days": "",
+            "Class": 49,
+            "CRN": 46996,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Snyder, R",
+            "Course Title": "ACTG 164 \u2013 Govenmental & Nonprofit Actg",
+            "Class Days": "",
+            "Class": 50,
+            "CRN": 41466,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Nelson, M",
+            "Course Title": "ACTG 165 \u2013 Cost Accounting",
+            "Class Days": "",
+            "Class": 51,
+            "CRN": 41054,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Zhang, H",
+            "Course Title": "ACTG 169 \u2013 Accounting Ethics",
+            "Class Days": "",
+            "Class": 52,
+            "CRN": 46435,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Nelson, M",
+            "Course Title": "ACTG 169 \u2013 Accounting Ethics",
+            "Class Days": "",
+            "Class": 53,
+            "CRN": 47146,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Korniakov, A",
+            "Course Title": "ACTG 172 \u2013 Business Income Taxes",
+            "Class Days": "",
+            "Class": 54,
+            "CRN": 44786,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Marcus, D",
+            "Course Title": "ACTG 175 \u2013 Volunteer Income Tax Prep",
+            "Class Days": "Sa",
+            "Class": 55,
+            "CRN": 42455,
+            "Units": 2.5
+        },
+        {
+            "Status": "",
+            "Professor": "Tang, X",
+            "Course Title": "",
+            "Class Days": "Sa",
+            "Class": 56,
+            "CRN": 0,
+            "Units": 2.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Cabrera, L",
+            "Course Title": "ACTG 180 \u2013 Payroll Accounting",
+            "Class Days": "W",
+            "Class": 57,
+            "CRN": 38831,
+            "Units": 1.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Pon, L",
+            "Course Title": "ACTG 181 \u2013 Taxation Indvs using Tax Softw",
+            "Class Days": "T",
+            "Class": 58,
+            "CRN": 47439,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Bennett, B",
+            "Course Title": "ACTG 200 \u2013 QuickBooks",
+            "Class Days": "M",
+            "Class": 59,
+            "CRN": 42871,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Bennett, B",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 60,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Claire, R",
+            "Course Title": "ACTG 200 \u2013 Quickbooks",
+            "Class Days": "",
+            "Class": 61,
+            "CRN": 48394,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Marcus, D",
+            "Course Title": "ACTG 276 \u2013 VITA Intermediate",
+            "Class Days": "W",
+            "Class": 62,
+            "CRN": 47474,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Tang, X",
+            "Course Title": "",
+            "Class Days": "Sa",
+            "Class": 63,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Marcus, D",
+            "Course Title": "ACTG 277 \u2013 VITA Advanced",
+            "Class Days": "W",
+            "Class": 64,
+            "CRN": 47475,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Tang, X",
+            "Course Title": "",
+            "Class Days": "Sa",
+            "Class": 65,
+            "CRN": 0,
+            "Units": 1
+        }
+    ],
+    "Administration of Justice": [
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Staff,",
+            "Course Title": "ADMJ 100 \u2013 Intro. to the Crim. Just. Sys.",
+            "Class Days": "M, W",
+            "Class": 1,
+            "CRN": 31628,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Phipps, K",
+            "Course Title": "ADMJ 100 \u2013 Intro to Criminal Justice",
+            "Class Days": "M, W, F",
+            "Class": 2,
+            "CRN": 40652,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kiely, J",
+            "Course Title": "ADMJ 100 \u2013 Intro. to the Crim. Just. Sys.",
+            "Class Days": "W",
+            "Class": 3,
+            "CRN": 46322,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "ADMJ 102 \u2013 Principles & Procedures of CJS",
+            "Class Days": "M, W",
+            "Class": 4,
+            "CRN": 31629,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Barberini, E",
+            "Course Title": "ADMJ 102 \u2013 Principles & Procedures of CJS",
+            "Class Days": "T, Th",
+            "Class": 5,
+            "CRN": 48522,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Barberini, E",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 6,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Barberini, E",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 7,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Aurilio, S",
+            "Course Title": "ADMJ 102 \u2013 Princ/Procedures of Justice",
+            "Class Days": "T, Th",
+            "Class": 8,
+            "CRN": 44512,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lethin, M",
+            "Course Title": "ADMJ 102 \u2013 Principles & Procedures of CJS",
+            "Class Days": "",
+            "Class": 9,
+            "CRN": 48523,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Caldwell, G",
+            "Course Title": "ADMJ 104 \u2013 Concepts of Criminal Law",
+            "Class Days": "T, Th",
+            "Class": 10,
+            "CRN": 33955,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Raskin, J",
+            "Course Title": "ADMJ 104 \u2013 Concepts of Criminal Law",
+            "Class Days": "",
+            "Class": 11,
+            "CRN": 45069,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Aurilio, S",
+            "Course Title": "ADMJ 106 \u2013 Legal Aspects of Evidence",
+            "Class Days": "T, Th",
+            "Class": 12,
+            "CRN": 47697,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "ADMJ 106 \u2013 Legal Aspects of Evidence",
+            "Class Days": "T, Th",
+            "Class": 13,
+            "CRN": 31633,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "McDevitt, L",
+            "Course Title": "ADMJ 106 \u2013 Legal Aspects of Evidence",
+            "Class Days": "Th",
+            "Class": 14,
+            "CRN": 40597,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "McDevitt, L",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 15,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "McDevitt, L",
+            "Course Title": "ADMJ 108 \u2013 Community Relations",
+            "Class Days": "T",
+            "Class": 16,
+            "CRN": 47452,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "McDevitt, L",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 17,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Aurilio, S",
+            "Course Title": "ADMJ 108 \u2013 Community Relations",
+            "Class Days": "",
+            "Class": 18,
+            "CRN": 46710,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "ADMJ 120 \u2013 Criminal Investigation",
+            "Class Days": "M, W",
+            "Class": 19,
+            "CRN": 40198,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Aurilio, S",
+            "Course Title": "ADMJ 120 \u2013 Criminal Investigation",
+            "Class Days": "",
+            "Class": 20,
+            "CRN": 38179,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "ADMJ 125 \u2013 Juvenile Procedures",
+            "Class Days": "T, Th",
+            "Class": 21,
+            "CRN": 44326,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Aurilio, S",
+            "Course Title": "ADMJ 125 \u2013 Juvenile Procedures",
+            "Class Days": "",
+            "Class": 22,
+            "CRN": 38769,
+            "Units": 3
+        }
+    ],
+    "Anthropology": [
+        {
+            "Status": "Open",
+            "Professor": "Marshall, J",
+            "Course Title": "ANTH 110 \u2013 Cultural Anthropology",
+            "Class Days": "T, Th",
+            "Class": 1,
+            "CRN": 48303,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Ulloa, J",
+            "Course Title": "ANTH 110 \u2013 Cultural Anthropology",
+            "Class Days": "T, Th",
+            "Class": 2,
+            "CRN": 39512,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Leitner, D",
+            "Course Title": "ANTH 110 \u2013 Cultural Anthropology",
+            "Class Days": "W",
+            "Class": 3,
+            "CRN": 43569,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Leitner, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Slicton, L",
+            "Course Title": "ANTH 110 \u2013 Cultural Anthropology",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 30023,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Marshall, J",
+            "Course Title": "ANTH 110 \u2013 Cultural Anthropology",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 30839,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Slicton, L",
+            "Course Title": "ANTH 110 \u2013 Cultural Anthropology",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 45964,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Titus, M",
+            "Course Title": "ANTH 110 \u2013 Cultural Anthropology",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 48364,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Titus, M",
+            "Course Title": "ANTH 125 \u2013 Physical Anthropology",
+            "Class Days": "T, Th",
+            "Class": 9,
+            "CRN": 45516,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Marshall, J",
+            "Course Title": "ANTH 125 \u2013 Physical Anthropology",
+            "Class Days": "T, Th",
+            "Class": 10,
+            "CRN": 48304,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Cecil, C",
+            "Course Title": "ANTH 125 \u2013 Biological Anthropology",
+            "Class Days": "T, Th",
+            "Class": 11,
+            "CRN": 46711,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Leitner, D",
+            "Course Title": "ANTH 125 \u2013 Biological Anthropology",
+            "Class Days": "W",
+            "Class": 12,
+            "CRN": 40248,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Leitner, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 13,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Marshall, J",
+            "Course Title": "ANTH 125 \u2013 Biological Anthropology",
+            "Class Days": "",
+            "Class": 14,
+            "CRN": 43570,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Slicton, L",
+            "Course Title": "ANTH 125 \u2013 Biological Anthropology",
+            "Class Days": "",
+            "Class": 15,
+            "CRN": 47703,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Slicton, L",
+            "Course Title": "ANTH 125 \u2013 Biological Anthropology",
+            "Class Days": "",
+            "Class": 16,
+            "CRN": 48407,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Leitner, D",
+            "Course Title": "ANTH 126 \u2013 Biological Anthro. Laboratory",
+            "Class Days": "",
+            "Class": 17,
+            "CRN": 42536,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Titus, M",
+            "Course Title": "ANTH 127 \u2013 Physical Anthropology Lab",
+            "Class Days": "T, Th",
+            "Class": 18,
+            "CRN": 45517,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Cecil, C",
+            "Course Title": "ANTH 127 \u2013 Biological Anthropology Lab",
+            "Class Days": "Th",
+            "Class": 19,
+            "CRN": 44832,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Cecil, C",
+            "Course Title": "ANTH 150 \u2013 Introduction to Archaeology:",
+            "Class Days": "W",
+            "Class": 20,
+            "CRN": 48405,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Slicton, L",
+            "Course Title": "ANTH 170 \u2013 Anthropology of Death",
+            "Class Days": "",
+            "Class": 21,
+            "CRN": 48408,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Marshall, J",
+            "Course Title": "ANTH 200 \u2013 Ethnographic Film",
+            "Class Days": "M, W",
+            "Class": 22,
+            "CRN": 48306,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Slicton, L",
+            "Course Title": "ANTH 360 \u2013 Indians Of North America",
+            "Class Days": "",
+            "Class": 23,
+            "CRN": 48416,
+            "Units": 3
+        }
+    ],
+    "Biology": [
+        {
+            "Status": "Open",
+            "Professor": "Whyte, W",
+            "Course Title": "BIOL 100 \u2013 Intro to the Life Sciences",
+            "Class Days": "M, W",
+            "Class": 1,
+            "CRN": 31754,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Whyte, W",
+            "Course Title": "BIOL 100 \u2013 Intro to the Life Sciences",
+            "Class Days": "T, Th",
+            "Class": 2,
+            "CRN": 31755,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Limm, M",
+            "Course Title": "BIOL 100 \u2013 Intro To Life Sciences",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 30873,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Hankamp, P",
+            "Course Title": "BIOL 100 \u2013 Intro to the Life Sciences",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 45218,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Hankamp, P",
+            "Course Title": "BIOL 100 \u2013 Intro to the Life Sciences",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 45444,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Limm, M",
+            "Course Title": "BIOL 100 \u2013 Intro To Life Sciences",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 45904,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Davis, K",
+            "Course Title": "BIOL 101 \u2013 Our Biological World",
+            "Class Days": "W",
+            "Class": 7,
+            "CRN": 30140,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Song, M",
+            "Course Title": "",
+            "Class Days": "M, W, F",
+            "Class": 8,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Churches, N",
+            "Course Title": "BIOL 110 \u2013 Genl Principles of Biology",
+            "Class Days": "M, W",
+            "Class": 9,
+            "CRN": 40549,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Churches, N",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 10,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Churches, N",
+            "Course Title": "BIOL 110 \u2013 Genl Principles of Biology",
+            "Class Days": "M, W",
+            "Class": 11,
+            "CRN": 44516,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Churches, N",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 12,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Diamond, K",
+            "Course Title": "BIOL 110 \u2013 Genl Principles of Biology",
+            "Class Days": "T, Th",
+            "Class": 13,
+            "CRN": 31761,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Diamond, K",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 14,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Diamond, K",
+            "Course Title": "BIOL 110 \u2013 Genl Principles of Biology",
+            "Class Days": "T, Th",
+            "Class": 15,
+            "CRN": 34534,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Diamond, K",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 16,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Anttila, C",
+            "Course Title": "BIOL 110 \u2013 Principles Of Biology",
+            "Class Days": "T, Th",
+            "Class": 17,
+            "CRN": 33956,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Touneh, K",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 18,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Anttila, C",
+            "Course Title": "BIOL 110 \u2013 Principles Of Biology",
+            "Class Days": "T, Th",
+            "Class": 19,
+            "CRN": 47354,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Touneh, K",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 20,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Young, E",
+            "Course Title": "BIOL 110 \u2013 Principles Of Biology",
+            "Class Days": "T",
+            "Class": 21,
+            "CRN": 30874,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Young, E",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 22,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Young, E",
+            "Course Title": "BIOL 110 \u2013 Principles Of Biology",
+            "Class Days": "W",
+            "Class": 23,
+            "CRN": 30877,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Young, E",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 24,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Patki, S",
+            "Course Title": "BIOL 110 \u2013 Principles Of Biology",
+            "Class Days": "Th",
+            "Class": 25,
+            "CRN": 40788,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Patki, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 26,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Patki, S",
+            "Course Title": "BIOL 110 \u2013 Principles Of Biology",
+            "Class Days": "Th",
+            "Class": 27,
+            "CRN": 45860,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Patki, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 28,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Bookstaff, S",
+            "Course Title": "BIOL 110 \u2013 Principles Of Biology",
+            "Class Days": "T",
+            "Class": 29,
+            "CRN": 30142,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Bookstaff, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 30,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Bookstaff, S",
+            "Course Title": "BIOL 110 \u2013 Principles of Biology",
+            "Class Days": "W",
+            "Class": 31,
+            "CRN": 30141,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Bookstaff, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 32,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Anttila, C",
+            "Course Title": "BIOL 110 \u2013 Principles Of Biology",
+            "Class Days": "",
+            "Class": 33,
+            "CRN": 48396,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Anttila, C",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 34,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Anttila, C",
+            "Course Title": "BIOL 110 \u2013 Principles Of Biology",
+            "Class Days": "",
+            "Class": 35,
+            "CRN": 48397,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Anttila, C",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 36,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, C",
+            "Course Title": "BIOL 123 \u2013 Tech/Polymerase Chain Reaction",
+            "Class Days": "T",
+            "Class": 37,
+            "CRN": 46165,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, C",
+            "Course Title": "BIOL 124 \u2013 Seminar DNA & Apps in Biotech",
+            "Class Days": "Th",
+            "Class": 38,
+            "CRN": 48062,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Davis, K",
+            "Course Title": "BIOL 130 \u2013 Human Biology",
+            "Class Days": "M, W",
+            "Class": 39,
+            "CRN": 30146,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "White, S",
+            "Course Title": "BIOL 130 \u2013 Human Biology",
+            "Class Days": "T, Th",
+            "Class": 40,
+            "CRN": 41425,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "White, S",
+            "Course Title": "BIOL 130 \u2013 Human Biology",
+            "Class Days": "T, Th",
+            "Class": 41,
+            "CRN": 40172,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, C",
+            "Course Title": "BIOL 130 \u2013 Human Biology",
+            "Class Days": "T, Th",
+            "Class": 42,
+            "CRN": 31766,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Martin, T",
+            "Course Title": "BIOL 130 \u2013 Human Biology",
+            "Class Days": "",
+            "Class": 43,
+            "CRN": 41333,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Martin, T",
+            "Course Title": "BIOL 130 \u2013 Human Biology",
+            "Class Days": "",
+            "Class": 44,
+            "CRN": 44781,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Lise, R",
+            "Course Title": "BIOL 130 \u2013 Human Biology",
+            "Class Days": "",
+            "Class": 45,
+            "CRN": 45905,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lise, R",
+            "Course Title": "BIOL 130 \u2013 Human Biology",
+            "Class Days": "",
+            "Class": 46,
+            "CRN": 46650,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smiley, J",
+            "Course Title": "BIOL 130 \u2013 Human Biology",
+            "Class Days": "",
+            "Class": 47,
+            "CRN": 46827,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, C",
+            "Course Title": "BIOL 132 \u2013 Human Biology Laboratory",
+            "Class Days": "T, Th",
+            "Class": 48,
+            "CRN": 45232,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Patki, S",
+            "Course Title": "BIOL 132 \u2013 Human Biology Laboratory",
+            "Class Days": "F",
+            "Class": 49,
+            "CRN": 42560,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Nekrep, N",
+            "Course Title": "BIOL 133 \u2013 Emerging Infectious Diseases",
+            "Class Days": "M, W",
+            "Class": 50,
+            "CRN": 48477,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Bookstaff, S",
+            "Course Title": "BIOL 140 \u2013 Animals, People & Environment",
+            "Class Days": "",
+            "Class": 51,
+            "CRN": 42541,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hankamp, P",
+            "Course Title": "BIOL 145 \u2013 Plants, People & Environment",
+            "Class Days": "",
+            "Class": 52,
+            "CRN": 40658,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Bookstaff, S",
+            "Course Title": "BIOL 150 \u2013 Intro To Marine Biology",
+            "Class Days": "",
+            "Class": 53,
+            "CRN": 30150,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Tran, H",
+            "Course Title": "BIOL 210 \u2013 General Zoology",
+            "Class Days": "M, W",
+            "Class": 54,
+            "CRN": 31770,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Tran, H",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 55,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Tran, H",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 56,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Tran, H",
+            "Course Title": "BIOL 210 \u2013 General Zoology",
+            "Class Days": "M, W",
+            "Class": 57,
+            "CRN": 45449,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Tran, H",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 58,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Tran, H",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 59,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Song, M",
+            "Course Title": "BIOL 215 \u2013 Organismal Biology",
+            "Class Days": "M, W, F",
+            "Class": 60,
+            "CRN": 30151,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Song, M",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 61,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Song, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 62,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Song, M",
+            "Course Title": "BIOL 215 \u2013 Organismal Biology",
+            "Class Days": "M, W, F",
+            "Class": 63,
+            "CRN": 41373,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Song, M",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 64,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Song, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 65,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Song, M",
+            "Course Title": "BIOL 215 \u2013 Organismal Biology- BCS",
+            "Class Days": "M, W, F",
+            "Class": 66,
+            "CRN": 47429,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Song, M",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 67,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Song, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 68,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Song, M",
+            "Course Title": "BIOL 215 \u2013 Organismal Biology- PSP",
+            "Class Days": "M, W, F",
+            "Class": 69,
+            "CRN": 48398,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Song, M",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 70,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Song, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 71,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Hankamp, P",
+            "Course Title": "BIOL 220 \u2013 General Botany",
+            "Class Days": "T",
+            "Class": 72,
+            "CRN": 43399,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Hankamp, P",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 73,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Hankamp, P",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 74,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Hankamp, P",
+            "Course Title": "BIOL 220 \u2013 General Botany",
+            "Class Days": "Th",
+            "Class": 75,
+            "CRN": 31771,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Hankamp, P",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 76,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Hankamp, P",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 77,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Limm, M",
+            "Course Title": "BIOL 225 \u2013 Biology Of Organisms",
+            "Class Days": "M, W",
+            "Class": 78,
+            "CRN": 38348,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Limm, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 79,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Guth, S",
+            "Course Title": "BIOL 230 \u2013 Intro To Cell Biology",
+            "Class Days": "M, W, F",
+            "Class": 80,
+            "CRN": 30152,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Guth, S",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 81,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Guth, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 82,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Guth, S",
+            "Course Title": "BIOL 230 \u2013 Intro to Cell Biol - BCS",
+            "Class Days": "M, W, F",
+            "Class": 83,
+            "CRN": 47027,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Guth, S",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 84,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Guth, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 85,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staples, N",
+            "Course Title": "BIOL 230 \u2013 Cell and Molecular Biology",
+            "Class Days": "M, W",
+            "Class": 86,
+            "CRN": 43398,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Staples, N",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 87,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Staples, N",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 88,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Diamond, K",
+            "Course Title": "BIOL 230 \u2013 Introductory Cell Biology",
+            "Class Days": "M",
+            "Class": 89,
+            "CRN": 34273,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Diamond, K",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 90,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Thomson, B",
+            "Course Title": "BIOL 240 \u2013 General Microbiology",
+            "Class Days": "T, Th",
+            "Class": 91,
+            "CRN": 38829,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Thomson, B",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 92,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Yuan, O",
+            "Course Title": "BIOL 240 \u2013 General Microbiology",
+            "Class Days": "T, Th",
+            "Class": 93,
+            "CRN": 48088,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Yuan, O",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 94,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Yuan, O",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 95,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Yuan, O",
+            "Course Title": "BIOL 240 \u2013 General Microbiology",
+            "Class Days": "T, Th",
+            "Class": 96,
+            "CRN": 48089,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Yuan, O",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 97,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Yuan, O",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 98,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Thomson, B",
+            "Course Title": "BIOL 240 \u2013 General Microbiology",
+            "Class Days": "T, Th",
+            "Class": 99,
+            "CRN": 39410,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Thomson, B",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 100,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, C",
+            "Course Title": "BIOL 240 \u2013 General Microbiology",
+            "Class Days": "M, W",
+            "Class": 101,
+            "CRN": 38664,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Smith, C",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 102,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, C",
+            "Course Title": "BIOL 240 \u2013 General Microbiology",
+            "Class Days": "M, W",
+            "Class": 103,
+            "CRN": 41426,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Smith, C",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 104,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Guth, S",
+            "Course Title": "BIOL 240 \u2013 General Microbiology",
+            "Class Days": "M, W",
+            "Class": 105,
+            "CRN": 30154,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Guth, S",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 106,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Guth, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 107,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Guth, S",
+            "Course Title": "BIOL 240 \u2013 General Microbiology",
+            "Class Days": "M, W",
+            "Class": 108,
+            "CRN": 48496,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Guth, S",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 109,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Guth, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 110,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Nekrep, N",
+            "Course Title": "BIOL 240 \u2013 General Microbiology",
+            "Class Days": "Th",
+            "Class": 111,
+            "CRN": 30883,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Nekrep, N",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 112,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Luu, J",
+            "Course Title": "BIOL 250 \u2013 Human Anatomy - Honors",
+            "Class Days": "M, W",
+            "Class": 113,
+            "CRN": 35766,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Luu, J",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 114,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Luu, J",
+            "Course Title": "BIOL 250 \u2013 Human Anatomy",
+            "Class Days": "M, W",
+            "Class": 115,
+            "CRN": 40195,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Luu, J",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 116,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Luu, J",
+            "Course Title": "BIOL 250 \u2013 Human Anatomy",
+            "Class Days": "T, Th",
+            "Class": 117,
+            "CRN": 35763,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Luu, J",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 118,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Tran, H",
+            "Course Title": "BIOL 250 \u2013 Human Anatomy",
+            "Class Days": "T, Th",
+            "Class": 119,
+            "CRN": 48101,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Tran, H",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 120,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Tran, H",
+            "Course Title": "BIOL 250 \u2013 Human Anatomy",
+            "Class Days": "T, Th",
+            "Class": 121,
+            "CRN": 48102,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Tran, H",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 122,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Luu, J",
+            "Course Title": "BIOL 250 \u2013 Human Anatomy",
+            "Class Days": "T, Th",
+            "Class": 123,
+            "CRN": 39015,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Luu, J",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 124,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Aquino, Y",
+            "Course Title": "BIOL 250 \u2013 Human Anatomy",
+            "Class Days": "W",
+            "Class": 125,
+            "CRN": 30155,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Aquino, Y",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 126,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Karve, S",
+            "Course Title": "BIOL 250 \u2013 Human Anatomy",
+            "Class Days": "F",
+            "Class": 127,
+            "CRN": 39757,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Karve, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 128,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Smiley, J",
+            "Course Title": "BIOL 250 \u2013 Human Anatomy",
+            "Class Days": "F",
+            "Class": 129,
+            "CRN": 38830,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Smiley, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 130,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Smiley, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 131,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smiley, J",
+            "Course Title": "BIOL 250 \u2013 Human Anatomy/PSP",
+            "Class Days": "F",
+            "Class": 132,
+            "CRN": 48417,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Smiley, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 133,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Smiley, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 134,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Martin, T",
+            "Course Title": "BIOL 250 \u2013 Human Anatomy",
+            "Class Days": "M, W",
+            "Class": 135,
+            "CRN": 41430,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Martin, T",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 136,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Martin, T",
+            "Course Title": "BIOL 250 \u2013 Human Anatomy",
+            "Class Days": "M, W",
+            "Class": 137,
+            "CRN": 41431,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Martin, T",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 138,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Singh, D",
+            "Course Title": "BIOL 250 \u2013 Human Anatomy",
+            "Class Days": "W",
+            "Class": 139,
+            "CRN": 47762,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Singh, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 140,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Smiley, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 141,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "McDaniel, J",
+            "Course Title": "BIOL 250 \u2013 Human Anatomy",
+            "Class Days": "",
+            "Class": 142,
+            "CRN": 30156,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "McDaniel, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 143,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "McDaniel, J",
+            "Course Title": "BIOL 250 \u2013 Human Anatomy",
+            "Class Days": "",
+            "Class": 144,
+            "CRN": 46828,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "McDaniel, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 145,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Karve, S",
+            "Course Title": "BIOL 250 \u2013 Human Anatomy",
+            "Class Days": "",
+            "Class": 146,
+            "CRN": 46829,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Karve, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 147,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Aquino, Y",
+            "Course Title": "BIOL 250 \u2013 Human Anatomy",
+            "Class Days": "",
+            "Class": 148,
+            "CRN": 46932,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Aquino, Y",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 149,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staples, N",
+            "Course Title": "BIOL 260 \u2013 Human Physiology",
+            "Class Days": "T",
+            "Class": 150,
+            "CRN": 38998,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Staples, N",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 151,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Staples, N",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 152,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Staples, N",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 153,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Silva, J",
+            "Course Title": "BIOL 260 \u2013 Human Physiology",
+            "Class Days": "T, Th",
+            "Class": 154,
+            "CRN": 31774,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Silva, J",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 155,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Silva, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 156,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Hirzel, D",
+            "Course Title": "BIOL 260 \u2013 Human Physiology",
+            "Class Days": "W",
+            "Class": 157,
+            "CRN": 40910,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Hirzel, D",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 158,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Hirzel, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 159,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Hirzel, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 160,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Hirzel, D",
+            "Course Title": "BIOL 260 \u2013 Human Physiology",
+            "Class Days": "Th",
+            "Class": 161,
+            "CRN": 45437,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Hirzel, D",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 162,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Hirzel, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 163,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Hirzel, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 164,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Karve, S",
+            "Course Title": "BIOL 260 \u2013 Human Physiology",
+            "Class Days": "",
+            "Class": 165,
+            "CRN": 48401,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Timpe, L",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 166,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Silva, J",
+            "Course Title": "BIOL 260 \u2013 Human Physiology",
+            "Class Days": "T, Th",
+            "Class": 167,
+            "CRN": 45237,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Silva, J",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 168,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Silva, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 169,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kanaaneh, J",
+            "Course Title": "BIOL 260 \u2013 Human Physiology",
+            "Class Days": "T, Th",
+            "Class": 170,
+            "CRN": 30158,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Kanaaneh, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 171,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Aquino, Y",
+            "Course Title": "BIOL 260 \u2013 Human Physiology",
+            "Class Days": "",
+            "Class": 172,
+            "CRN": 30157,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Aquino, Y",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 173,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Aquino, Y",
+            "Course Title": "BIOL 260 \u2013 Human Physiology",
+            "Class Days": "",
+            "Class": 174,
+            "CRN": 39572,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Aquino, Y",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 175,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Karve, S",
+            "Course Title": "BIOL 260 \u2013 Human Physiology",
+            "Class Days": "",
+            "Class": 176,
+            "CRN": 47930,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Karve, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 177,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Woods, D",
+            "Course Title": "BIOL 310 \u2013 Nutrition",
+            "Class Days": "T, Th",
+            "Class": 178,
+            "CRN": 45238,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mackusick, E",
+            "Course Title": "BIOL 310 \u2013 Nutrition",
+            "Class Days": "",
+            "Class": 179,
+            "CRN": 42858,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mackusick, E",
+            "Course Title": "BIOL 310 \u2013 Nutrition",
+            "Class Days": "",
+            "Class": 180,
+            "CRN": 43150,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mackusick, E",
+            "Course Title": "BIOL 310 \u2013 Nutrition",
+            "Class Days": "",
+            "Class": 181,
+            "CRN": 43433,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Woods, D",
+            "Course Title": "BIOL 310 \u2013 Nutrition",
+            "Class Days": "",
+            "Class": 182,
+            "CRN": 44695,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Gerrish, H",
+            "Course Title": "BIOL 310 \u2013 Nutrition",
+            "Class Days": "",
+            "Class": 183,
+            "CRN": 46835,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Gerrish, H",
+            "Course Title": "BIOL 310 \u2013 Nutrition",
+            "Class Days": "",
+            "Class": 184,
+            "CRN": 46836,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Woods, D",
+            "Course Title": "BIOL 311 \u2013 Sports Nutrition",
+            "Class Days": "",
+            "Class": 185,
+            "CRN": 48315,
+            "Units": 3
+        }
+    ],
+    "Barbering": [
+        {
+            "Status": "Open",
+            "Professor": "Lopez, E",
+            "Course Title": "BARB 701 \u2013 Barbering Fundamental Concepts",
+            "Class Days": "M, T",
+            "Class": 1,
+            "CRN": 48177,
+            "Units": 6
+        },
+        {
+            "Status": "",
+            "Professor": "Lopez, E",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 6
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "BARB 702 \u2013 BARB Techniques/Hair Design",
+            "Class Days": "W, Th",
+            "Class": 3,
+            "CRN": 48178,
+            "Units": 6
+        },
+        {
+            "Status": "",
+            "Professor": "Staff,",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 0,
+            "Units": 6
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "BARB 703 \u2013 Barbering Chemical Concepts",
+            "Class Days": "F",
+            "Class": 5,
+            "CRN": 48179,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Staff,",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "BARB 704 \u2013 Barber Intermediate Concepts",
+            "Class Days": "M, T",
+            "Class": 7,
+            "CRN": 48191,
+            "Units": 6
+        },
+        {
+            "Status": "",
+            "Professor": "Staff,",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 0,
+            "Units": 6
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lopez, E",
+            "Course Title": "BARB 705 \u2013 Business and Barbershop Experi",
+            "Class Days": "W, Th, F",
+            "Class": 9,
+            "CRN": 48192,
+            "Units": 9
+        },
+        {
+            "Status": "",
+            "Professor": "Lopez, E",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 10,
+            "CRN": 0,
+            "Units": 9
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lopez, E",
+            "Course Title": "BARB 725 \u2013 State Board Written Exam Prep",
+            "Class Days": "",
+            "Class": 11,
+            "CRN": 48182,
+            "Units": 3
+        }
+    ],
+    "Astronomy": [
+        {
+            "Status": "Open",
+            "Professor": "Elteto, A",
+            "Course Title": "ASTR 100 \u2013 Introduction To Astronomy",
+            "Class Days": "M, W",
+            "Class": 1,
+            "CRN": 30870,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Elteto, A",
+            "Course Title": "ASTR 100 \u2013 Intro To Astronomy-Honors",
+            "Class Days": "M, W",
+            "Class": 2,
+            "CRN": 45016,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Polomski, E",
+            "Course Title": "ASTR 100 \u2013 Introduction To Astronomy",
+            "Class Days": "M, W",
+            "Class": 3,
+            "CRN": 44530,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lopez-Thibodeaux, M",
+            "Course Title": "ASTR 100 \u2013 Introduction to Astronomy",
+            "Class Days": "T, Th",
+            "Class": 4,
+            "CRN": 41500,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Stanford, D",
+            "Course Title": "ASTR 100 \u2013 Introduction To Astronomy",
+            "Class Days": "T, Th",
+            "Class": 5,
+            "CRN": 31738,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Stanford, D",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 6,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Stanford, D",
+            "Course Title": "ASTR 100 \u2013 Introduction To Astronomy",
+            "Class Days": "T, Th",
+            "Class": 7,
+            "CRN": 33003,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Stanford, D",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 8,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Stanford, D",
+            "Course Title": "ASTR 100 \u2013 Introduction To Astronomy",
+            "Class Days": "T, Th",
+            "Class": 9,
+            "CRN": 38017,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Stanford, D",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 10,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Stanford, D",
+            "Course Title": "ASTR 100 \u2013 Introduction To Astronomy",
+            "Class Days": "T, Th",
+            "Class": 11,
+            "CRN": 40756,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Stanford, D",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 12,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Stanford, D",
+            "Course Title": "ASTR 100 \u2013 Introduction To Astronomy",
+            "Class Days": "",
+            "Class": 13,
+            "CRN": 43185,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Digel, J",
+            "Course Title": "ASTR 100 \u2013 Introduction To Astronomy",
+            "Class Days": "",
+            "Class": 14,
+            "CRN": 44078,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Reil, K",
+            "Course Title": "ASTR 100 \u2013 Introduction To Astronomy",
+            "Class Days": "",
+            "Class": 15,
+            "CRN": 46424,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Prochter, G",
+            "Course Title": "ASTR 100 \u2013 Introduction To Astronomy",
+            "Class Days": "",
+            "Class": 16,
+            "CRN": 47871,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Pevyhouse, A",
+            "Course Title": "ASTR 100 \u2013 Introduction To Astronomy",
+            "Class Days": "",
+            "Class": 17,
+            "CRN": 47929,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Prochter, G",
+            "Course Title": "ASTR 100 \u2013 Introduction To Astronomy/ECAP",
+            "Class Days": "",
+            "Class": 18,
+            "CRN": 48419,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Elteto, A",
+            "Course Title": "ASTR 101 \u2013 Astronomy Laboratory",
+            "Class Days": "M, W",
+            "Class": 19,
+            "CRN": 43392,
+            "Units": 1
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Stanford, D",
+            "Course Title": "ASTR 101 \u2013 Astronomy Laboratory",
+            "Class Days": "T",
+            "Class": 20,
+            "CRN": 41323,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Polomski, E",
+            "Course Title": "ASTR 101 \u2013 Astronomy Laboratory",
+            "Class Days": "W",
+            "Class": 21,
+            "CRN": 46667,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Polomski, E",
+            "Course Title": "ASTR 101 \u2013 Astronomy Laboratory",
+            "Class Days": "Th",
+            "Class": 22,
+            "CRN": 38439,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lopez-Thibodeaux, M",
+            "Course Title": "ASTR 101 \u2013 Astronomy Laboratory",
+            "Class Days": "Th",
+            "Class": 23,
+            "CRN": 46425,
+            "Units": 1
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Prochter, G",
+            "Course Title": "ASTR 101 \u2013 Astronomy Laboratory",
+            "Class Days": "",
+            "Class": 24,
+            "CRN": 43446,
+            "Units": 1
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Prochter, G",
+            "Course Title": "ASTR 101 \u2013 Astronomy Laboratory",
+            "Class Days": "",
+            "Class": 25,
+            "CRN": 43447,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Digel, J",
+            "Course Title": "ASTR 101 \u2013 Astronomy Laboratory",
+            "Class Days": "",
+            "Class": 26,
+            "CRN": 44079,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Stanford, D",
+            "Course Title": "ASTR 103 \u2013 Observational Astronomy Lab",
+            "Class Days": "T",
+            "Class": 27,
+            "CRN": 38264,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Polomski, E",
+            "Course Title": "ASTR 115 \u2013 The Solar System",
+            "Class Days": "T, Th",
+            "Class": 28,
+            "CRN": 40126,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Stanford, D",
+            "Course Title": "ASTR 125 \u2013 Stars, Galaxies and Cosmology",
+            "Class Days": "M, W, F",
+            "Class": 29,
+            "CRN": 41351,
+            "Units": 3
+        }
+    ]
+}

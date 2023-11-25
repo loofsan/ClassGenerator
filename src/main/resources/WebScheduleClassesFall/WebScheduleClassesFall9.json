@@ -1,0 +1,1343 @@
+{
+    "Social Justice Studies": [
+        {
+            "Status": "Closed",
+            "Professor": "Fabian, R",
+            "Course Title": "SJS 110 \u2013 Intro to Social Justice Studie",
+            "Class Days": "M, W",
+            "Class": 1,
+            "CRN": 97650,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Amunrud, M",
+            "Course Title": "SJS 130 \u2013 Intro to LGBTQ Studies",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 97249,
+            "Units": 3
+        }
+    ],
+    "Sociology": [
+        {
+            "Status": "Closed",
+            "Professor": "Mathur, M",
+            "Course Title": "SOCI 100 \u2013 Introduction to Sociology",
+            "Class Days": "M",
+            "Class": 1,
+            "CRN": 82940,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Mathur, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Mathur, M",
+            "Course Title": "SOCI 100 \u2013 Introduction to Sociology",
+            "Class Days": "M",
+            "Class": 3,
+            "CRN": 82941,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Mathur, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lee, R",
+            "Course Title": "SOCI 100 \u2013 Intro. to Sociology-Honors",
+            "Class Days": "M, W",
+            "Class": 5,
+            "CRN": 94987,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lee, R",
+            "Course Title": "SOCI 100 \u2013 Introduction to Sociology",
+            "Class Days": "M, W",
+            "Class": 6,
+            "CRN": 97469,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Mathur, M",
+            "Course Title": "SOCI 100 \u2013 Introduction to Sociology",
+            "Class Days": "T",
+            "Class": 7,
+            "CRN": 86173,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Mathur, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lee, R",
+            "Course Title": "SOCI 100 \u2013 Introduction to Sociology",
+            "Class Days": "T, Th",
+            "Class": 9,
+            "CRN": 81538,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Fabian, R",
+            "Course Title": "SOCI 100 \u2013 Introduction to Sociology- PSP",
+            "Class Days": "T, Th",
+            "Class": 10,
+            "CRN": 80751,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Fabian, R",
+            "Course Title": "SOCI 100 \u2013 Introduction to Sociology",
+            "Class Days": "T, Th",
+            "Class": 11,
+            "CRN": 83467,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Murajda, T",
+            "Course Title": "SOCI 100 \u2013 Introduction to Sociology",
+            "Class Days": "",
+            "Class": 12,
+            "CRN": 80752,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Mathur, M",
+            "Course Title": "SOCI 100 \u2013 Introduction to Sociology",
+            "Class Days": "",
+            "Class": 13,
+            "CRN": 82937,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "DeHaan, T",
+            "Course Title": "SOCI 100 \u2013 Introduction to Sociology",
+            "Class Days": "",
+            "Class": 14,
+            "CRN": 83416,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Mathur, M",
+            "Course Title": "SOCI 100 \u2013 Introduction to Sociology",
+            "Class Days": "",
+            "Class": 15,
+            "CRN": 90372,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "DeHaan, T",
+            "Course Title": "SOCI 100 \u2013 Introduction to Sociology",
+            "Class Days": "",
+            "Class": 16,
+            "CRN": 91744,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Mathur, M",
+            "Course Title": "SOCI 100 \u2013 Introduction to Sociology",
+            "Class Days": "",
+            "Class": 17,
+            "CRN": 93241,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Alvarado-Strasser, E",
+            "Course Title": "SOCI 100 \u2013 Introduction to Sociology",
+            "Class Days": "",
+            "Class": 18,
+            "CRN": 95529,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "DeHaan, J",
+            "Course Title": "SOCI 100 \u2013 Introduction to Sociology",
+            "Class Days": "",
+            "Class": 19,
+            "CRN": 95633,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Murajda, T",
+            "Course Title": "SOCI 100 \u2013 Introduction to Sociology",
+            "Class Days": "",
+            "Class": 20,
+            "CRN": 95784,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "DeHaan, J",
+            "Course Title": "SOCI 100 \u2013 Introduction to Sociology",
+            "Class Days": "",
+            "Class": 21,
+            "CRN": 97088,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Mathur, M",
+            "Course Title": "SOCI 100 \u2013 Introduction to Sociology",
+            "Class Days": "",
+            "Class": 22,
+            "CRN": 97907,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lee, R",
+            "Course Title": "SOCI 105 \u2013 Social Problems",
+            "Class Days": "M, W",
+            "Class": 23,
+            "CRN": 86675,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Fabian, R",
+            "Course Title": "SOCI 105 \u2013 Contemporary Social Issues",
+            "Class Days": "T, Th",
+            "Class": 24,
+            "CRN": 98035,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Womack, M",
+            "Course Title": "SOCI 105 \u2013 Social Problems",
+            "Class Days": "",
+            "Class": 25,
+            "CRN": 95572,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "DeHaan, T",
+            "Course Title": "SOCI 105 \u2013 Social Problems",
+            "Class Days": "",
+            "Class": 26,
+            "CRN": 96447,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "DeHaan, T",
+            "Course Title": "SOCI 105 \u2013 Social Problems",
+            "Class Days": "",
+            "Class": 27,
+            "CRN": 96448,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lynn, W",
+            "Course Title": "SOCI 110 \u2013 Courtship, Marriage & Family",
+            "Class Days": "",
+            "Class": 28,
+            "CRN": 91230,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lynn, W",
+            "Course Title": "SOCI 110 \u2013 Courtship, Marriage & Family",
+            "Class Days": "",
+            "Class": 29,
+            "CRN": 92427,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lee, R",
+            "Course Title": "SOCI 141 \u2013 Ethnicity and Race in Society",
+            "Class Days": "T, Th",
+            "Class": 30,
+            "CRN": 81540,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Mathur, M",
+            "Course Title": "SOCI 141 \u2013 Race and Ethnic Relations",
+            "Class Days": "",
+            "Class": 31,
+            "CRN": 82949,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Murajda, T",
+            "Course Title": "SOCI 141 \u2013 Race and Ethnicity",
+            "Class Days": "",
+            "Class": 32,
+            "CRN": 94687,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lee, R",
+            "Course Title": "SOCI 205 \u2013 Soc. Science Research Methods",
+            "Class Days": "M, W",
+            "Class": 33,
+            "CRN": 92143,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "DeHaan, J",
+            "Course Title": "SOCI 205 \u2013 Soc. Science Research Methods",
+            "Class Days": "Th",
+            "Class": 34,
+            "CRN": 94501,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "DeHaan, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 35,
+            "CRN": 0,
+            "Units": 3
+        }
+    ],
+    "Real Estate": [
+        {
+            "Status": "Closed",
+            "Professor": "Nuttall, A",
+            "Course Title": "R.E. 100 \u2013 Real Estate Principles",
+            "Class Days": "",
+            "Class": 1,
+            "CRN": 80726,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Gottlieb, M",
+            "Course Title": "R.E. 100 \u2013 Real Estate Principles",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 96869,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Nuttall, A",
+            "Course Title": "R.E. 110 \u2013 Real Estate Practice",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 89895,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Gottlieb, M",
+            "Course Title": "R.E. 110 \u2013 Real Estate Practice",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 96870,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Gottlieb, M",
+            "Course Title": "R.E. 121 \u2013 Legal Aspects of Real Estate",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 97171,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Nuttall, A",
+            "Course Title": "R.E. 130 \u2013 CA Mort/Loan Broker/Lend",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 89575,
+            "Units": 3
+        }
+    ],
+    "Wellness": [
+        {
+            "Status": "Closed",
+            "Professor": "Wimmer, R",
+            "Course Title": "WELL 707 \u2013 Foundations of Aromatherapy...",
+            "Class Days": "",
+            "Class": 1,
+            "CRN": 96559,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wimmer, R",
+            "Course Title": "WELL 716 \u2013 Foundations-Health&Well-Being",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 97695,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Egan, C",
+            "Course Title": "WELL 718 \u2013 Stress Management Techniques",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 97268,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wimmer, R",
+            "Course Title": "WELL 723 \u2013 Ayurvedic Aromatherapy",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 97683,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wimmer, R",
+            "Course Title": "WELL 725 \u2013 Consciousness/Intnt/Meditation",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 95021,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Egan, C",
+            "Course Title": "WELL 742 \u2013 Herbal/Botanical Med/Ethnobot",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 95926,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wimmer, R",
+            "Course Title": "WELL 743 \u2013 Holistic Nutrition/Functional",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 97696,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wimmer, R",
+            "Course Title": "WELL 760 \u2013 Intro to Holistic Health/Med",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 93517,
+            "Units": 3
+        }
+    ],
+    "Surgical Technology": [
+        {
+            "Status": "Closed",
+            "Professor": "Deal, F",
+            "Course Title": "SURG 441 \u2013 Surgical Patient Care Concepts",
+            "Class Days": "M, T, W, Th",
+            "Class": 1,
+            "CRN": 89294,
+            "Units": 5.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Shea, B",
+            "Course Title": "SURG 446 \u2013 Clinical Practice for CST",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 2,
+            "CRN": 91364,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Deal, F",
+            "Course Title": "SURG 451 \u2013 Surgical Skills Lab",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 95487,
+            "Units": 5.5
+        }
+    ],
+    "Spanish": [
+        {
+            "Status": "Closed",
+            "Professor": "Nixon, C",
+            "Course Title": "SPAN 110 \u2013 Elementary Spanish",
+            "Class Days": "M, W",
+            "Class": 1,
+            "CRN": 91571,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Nixon, C",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Nixon, C",
+            "Course Title": "SPAN 110 \u2013 Elementary Spanish",
+            "Class Days": "T, Th",
+            "Class": 3,
+            "CRN": 82967,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Malamud, M",
+            "Course Title": "SPAN 110 \u2013 Elementary Spanish",
+            "Class Days": "F",
+            "Class": 4,
+            "CRN": 81546,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Malamud, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Gazulla Garanto, J",
+            "Course Title": "SPAN 110 \u2013 Elementary Spanish",
+            "Class Days": "M, W",
+            "Class": 6,
+            "CRN": 98047,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Mpandenyama, A",
+            "Course Title": "SPAN 110 \u2013 Elementary Spanish",
+            "Class Days": "T",
+            "Class": 7,
+            "CRN": 95030,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Mpandenyama, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Malamud, M",
+            "Course Title": "SPAN 110 \u2013 Elementary Spanish",
+            "Class Days": "Th",
+            "Class": 9,
+            "CRN": 94990,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Malamud, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 10,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Castro, L",
+            "Course Title": "SPAN 110 \u2013 Elementary Spanish",
+            "Class Days": "",
+            "Class": 11,
+            "CRN": 98046,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Malamud, M",
+            "Course Title": "SPAN 111 \u2013 Elementary Spanish I",
+            "Class Days": "F",
+            "Class": 12,
+            "CRN": 90802,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Malamud, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 13,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Malamud, M",
+            "Course Title": "SPAN 112 \u2013 Elementary Spanish II",
+            "Class Days": "Th",
+            "Class": 14,
+            "CRN": 95079,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Malamud, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 15,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Castro, L",
+            "Course Title": "SPAN 120 \u2013 Advanced Elementary Spanish",
+            "Class Days": "M, W, F",
+            "Class": 16,
+            "CRN": 97709,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Castro, L",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 17,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Nixon, C",
+            "Course Title": "SPAN 120 \u2013 Advanced Elementary Spanish",
+            "Class Days": "M, W",
+            "Class": 18,
+            "CRN": 97799,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Nixon, C",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 19,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Abedrabbo, A",
+            "Course Title": "SPAN 120 \u2013 Advanced Elementary Spanish",
+            "Class Days": "Th",
+            "Class": 20,
+            "CRN": 95682,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Abedrabbo, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 21,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Castro, L",
+            "Course Title": "SPAN 120 \u2013 Advanced Elementary Spanish",
+            "Class Days": "M, W, F",
+            "Class": 22,
+            "CRN": 98048,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Castro, L",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 23,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Abedrabbo, A",
+            "Course Title": "SPAN 122 \u2013 Advanced Elementary Spanish II",
+            "Class Days": "Th",
+            "Class": 24,
+            "CRN": 95993,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Abedrabbo, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 25,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Harmon, S",
+            "Course Title": "SPAN 131 \u2013 Intermediate Spanish I",
+            "Class Days": "T",
+            "Class": 26,
+            "CRN": 81548,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Harmon, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 27,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Mpandenyama, A",
+            "Course Title": "SPAN 131 \u2013 Intermediate Spanish I",
+            "Class Days": "Th",
+            "Class": 28,
+            "CRN": 82977,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Harmon, S",
+            "Course Title": "SPAN 131 \u2013 Intermediate Spanish I",
+            "Class Days": "T",
+            "Class": 29,
+            "CRN": 91606,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Harmon, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 30,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Harmon, S",
+            "Course Title": "SPAN 132 \u2013 Intermediate Spanish II",
+            "Class Days": "T",
+            "Class": 31,
+            "CRN": 89532,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Harmon, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 32,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Harmon, S",
+            "Course Title": "SPAN 132 \u2013 Intermediate Spanish II",
+            "Class Days": "T",
+            "Class": 33,
+            "CRN": 91607,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Harmon, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 34,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Harmon, S",
+            "Course Title": "SPAN 140 \u2013 Advanced Intermediate Spanish",
+            "Class Days": "T",
+            "Class": 35,
+            "CRN": 89533,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Harmon, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 36,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Harmon, S",
+            "Course Title": "SPAN 140 \u2013 Advanced Intermediate Spanish",
+            "Class Days": "T",
+            "Class": 37,
+            "CRN": 91608,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Harmon, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 38,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Guerrero-Betteo, G",
+            "Course Title": "SPAN 150 \u2013 Spanish fr Heritage Speakers I",
+            "Class Days": "W",
+            "Class": 39,
+            "CRN": 91959,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Guerrero-Betteo, G",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 40,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Guerrero-Betteo, G",
+            "Course Title": "SPAN 152 \u2013 Spanish fr Heritage Speaker II",
+            "Class Days": "W",
+            "Class": 41,
+            "CRN": 90806,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Guerrero-Betteo, G",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 42,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Castro, L",
+            "Course Title": "SPAN 160 \u2013 Readings in Lit. in Spanish",
+            "Class Days": "",
+            "Class": 43,
+            "CRN": 97473,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Castro, L",
+            "Course Title": "SPAN 220 \u2013 Spanish for Spanish Speakers I",
+            "Class Days": "W",
+            "Class": 44,
+            "CRN": 97710,
+            "Units": 45
+        },
+        {
+            "Status": "",
+            "Professor": "Castro, L",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 45,
+            "CRN": 0,
+            "Units": 45
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Castro, L",
+            "Course Title": "SPAN 230 \u2013 SPAN for Spanish Speakers II",
+            "Class Days": "W",
+            "Class": 46,
+            "CRN": 97711,
+            "Units": 45
+        },
+        {
+            "Status": "",
+            "Professor": "Castro, L",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 47,
+            "CRN": 0,
+            "Units": 45
+        }
+    ],
+    "Radiologic Technology": [
+        {
+            "Status": "Closed",
+            "Professor": "Inman, L",
+            "Course Title": "RADT 408 \u2013 Perspectives In Radiology",
+            "Class Days": "T, Th",
+            "Class": 1,
+            "CRN": 93449,
+            "Units": 1.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Rivera, R",
+            "Course Title": "RADT 410 \u2013 Radiographic Positioning",
+            "Class Days": "M, W",
+            "Class": 2,
+            "CRN": 81524,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Rivera, R",
+            "Course Title": "",
+            "Class Days": "F",
+            "Class": 3,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Inman, L",
+            "Course Title": "RADT 410 \u2013 Radiographic Positioning",
+            "Class Days": "W",
+            "Class": 4,
+            "CRN": 89351,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Rivera, R",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 5,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Inman, L",
+            "Course Title": "RADT 418 \u2013 Clinical Education I",
+            "Class Days": "T, Th",
+            "Class": 6,
+            "CRN": 81525,
+            "Units": 4.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Rivera, R",
+            "Course Title": "RADT 435 \u2013 Imaging Equip/Quality Control",
+            "Class Days": "T",
+            "Class": 7,
+            "CRN": 83146,
+            "Units": 1.5
+        },
+        {
+            "Status": "",
+            "Professor": "Rivera, R",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 8,
+            "CRN": 0,
+            "Units": 1.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Rivera, R",
+            "Course Title": "RADT 440 \u2013 Adv Imaging Modalities & Spec",
+            "Class Days": "T, Th",
+            "Class": 9,
+            "CRN": 83145,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Inman, L",
+            "Course Title": "RADT 441 \u2013 Sectional Anatomy",
+            "Class Days": "T, Th",
+            "Class": 10,
+            "CRN": 91798,
+            "Units": 1.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Inman, L",
+            "Course Title": "RADT 448 \u2013 Clinical Education IV",
+            "Class Days": "M, W, F",
+            "Class": 11,
+            "CRN": 83147,
+            "Units": 9.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Inman, L",
+            "Course Title": "RADT 458 \u2013 Clinical Education V",
+            "Class Days": "M, W, F",
+            "Class": 12,
+            "CRN": 97393,
+            "Units": 9
+        }
+    ],
+    "Social Science": [
+        {
+            "Status": "Closed",
+            "Professor": "Schulze, W",
+            "Course Title": "SOSC 301 \u2013 Intro to Addiction Studies",
+            "Class Days": "T",
+            "Class": 1,
+            "CRN": 84232,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Eiland, B",
+            "Course Title": "SOSC 304 \u2013 Intervention, Treatment & Rec",
+            "Class Days": "Th",
+            "Class": 2,
+            "CRN": 98142,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Devera, M",
+            "Course Title": "SOSC 307 \u2013 Family Systems in Addiction",
+            "Class Days": "M",
+            "Class": 3,
+            "CRN": 93158,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Devera, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Schulze, W",
+            "Course Title": "SOSC 310 \u2013 Spec Pop Grp Addiction Studies",
+            "Class Days": "Th",
+            "Class": 5,
+            "CRN": 92279,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Eiland, B",
+            "Course Title": "SOSC 314 \u2013 Indiv. AOD Counseling Process",
+            "Class Days": "T",
+            "Class": 6,
+            "CRN": 87123,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Devera, M",
+            "Course Title": "SOSC 315 \u2013 Field Studies/Seminar I",
+            "Class Days": "W",
+            "Class": 7,
+            "CRN": 97824,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Devera, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Fullerton, M",
+            "Course Title": "SOSC 325 \u2013 C0-Occur DisordsII: Mgmt/Treat",
+            "Class Days": "Th",
+            "Class": 9,
+            "CRN": 95507,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Devera, M",
+            "Course Title": "SOSC 333 \u2013 Laws&Ethics Addiction Studies",
+            "Class Days": "M, W",
+            "Class": 10,
+            "CRN": 97186,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Raskin, J",
+            "Course Title": "SOSC B10 \u2013 Public Health Policy",
+            "Class Days": "",
+            "Class": 11,
+            "CRN": 97698,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Raskin, J",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 12,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Raskin, J",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 13,
+            "CRN": 0,
+            "Units": 3
+        }
+    ],
+    "Respiratory Therapy": [
+        {
+            "Status": "Closed",
+            "Professor": "Martinez, A",
+            "Course Title": "RPTH 410 \u2013 Patient Care/Resp. Assessment",
+            "Class Days": "Th",
+            "Class": 1,
+            "CRN": 80741,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Martinez, A",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Daniel, B",
+            "Course Title": "RPTH 415 \u2013 Respiratory Pharmacology",
+            "Class Days": "T",
+            "Class": 3,
+            "CRN": 93229,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hernandez, R",
+            "Course Title": "RPTH 420 \u2013 Application of Cardiopulmonary",
+            "Class Days": "T",
+            "Class": 4,
+            "CRN": 80742,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Bartoszynski, A",
+            "Course Title": "RPTH 450 \u2013 Respiratory Diseases II",
+            "Class Days": "T",
+            "Class": 5,
+            "CRN": 80744,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Bartoszynski, A",
+            "Course Title": "",
+            "Class Days": "F",
+            "Class": 6,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Daniel, B",
+            "Course Title": "RPTH 458 \u2013 Clinical Clerkship III",
+            "Class Days": "M",
+            "Class": 7,
+            "CRN": 80745,
+            "Units": 6.5
+        },
+        {
+            "Status": "",
+            "Professor": "Daniel, B",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 0,
+            "Units": 6.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Daniel, B",
+            "Course Title": "RPTH 460 \u2013 Respiratory Critical Care",
+            "Class Days": "M, W",
+            "Class": 9,
+            "CRN": 80746,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Daniel, B",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 10,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Daniel, B",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 11,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Shelton, A",
+            "Course Title": "RPTH 490 \u2013 Neonatal/Pediatric/Rehab. Care",
+            "Class Days": "F",
+            "Class": 12,
+            "CRN": 90567,
+            "Units": 2.5
+        },
+        {
+            "Status": "",
+            "Professor": "Shelton, A",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 13,
+            "CRN": 0,
+            "Units": 2.5
+        },
+        {
+            "Status": "",
+            "Professor": "Shelton, A",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 14,
+            "CRN": 0,
+            "Units": 2.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Bartoszynski, A",
+            "Course Title": "RPTH B10 \u2013 Adv.Cardiopulmonary Resp. Care",
+            "Class Days": "",
+            "Class": 15,
+            "CRN": 96188,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Craddock, K",
+            "Course Title": "RPTH B20 \u2013 Adv. Respiratory Case Mgmt.",
+            "Class Days": "",
+            "Class": 16,
+            "CRN": 96189,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Craddock, K",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 17,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Craddock, K",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 18,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hernandez, R",
+            "Course Title": "RPTH B30 \u2013 Principles of Health Education",
+            "Class Days": "",
+            "Class": 19,
+            "CRN": 96190,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Burns, G",
+            "Course Title": "RPTH B40 \u2013 Health Care Research Design/Me",
+            "Class Days": "",
+            "Class": 20,
+            "CRN": 95734,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Nwamuo, U",
+            "Course Title": "RPTH B60 \u2013 Adv. Neonatal/Pediatric Resp",
+            "Class Days": "",
+            "Class": 21,
+            "CRN": 96953,
+            "Units": 3
+        }
+    ]
+}

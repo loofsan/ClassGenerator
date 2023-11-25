@@ -1,4 +1,6 @@
 package org.example;
+import org.openqa.selenium.json.Json;
+
 import java.util.ArrayList;
 
 public class ClassGenerator {
@@ -11,10 +13,21 @@ public class ClassGenerator {
             objects in the JSON array in the file to java objects
 
          */
-        JsonToJava createProfObj = new JsonToJava();
-        createProfObj.convertProfJsonToJavaObj(profArray);
+        //JsonToJava createProfObj = new JsonToJava();
+        //createProfObj.convertProfJsonToJavaObj(profArray);
 
-        System.out.println(profArray);
+        /*
+        ---
+        Used this on Nov, 24, 2023
+        to grab all the classes from web schedule
+        ---
+
+        WebScraper_Jsoup scraper = new WebScraper_Jsoup();
+        scraper.getData();
+
+        JsonCombiner cb = new JsonCombiner();
+        cb.combine();
+         */
 
     }
 }

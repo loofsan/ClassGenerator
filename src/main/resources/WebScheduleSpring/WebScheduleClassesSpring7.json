@@ -1,0 +1,5823 @@
+{
+    "Literature": [
+        {
+            "Status": "Open",
+            "Professor": "Travis, K",
+            "Course Title": "LIT. 115 \u2013 The Short Poem in Engl: Survey",
+            "Class Days": "M, W, F",
+            "Class": 1,
+            "CRN": 47635,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Erwert, A",
+            "Course Title": "LIT. 202 \u2013 American Literature II",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 45715,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Eslamieh, S",
+            "Course Title": "LIT. 205 \u2013 New Voices In World Literature",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 40117,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lawrence, S",
+            "Course Title": "LIT. 232 \u2013 Survey of English Lit. II",
+            "Class Days": "T, Th",
+            "Class": 4,
+            "CRN": 32962,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Erpelo, L",
+            "Course Title": "LIT. 265 \u2013 Asian American Literature",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 44442,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Negus, S",
+            "Course Title": "LIT. 442 \u2013 Film Study and Appreciation",
+            "Class Days": "W",
+            "Class": 6,
+            "CRN": 40760,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Negus, S",
+            "Course Title": "LIT. 442 \u2013 Film Study and Appreciation",
+            "Class Days": "W",
+            "Class": 7,
+            "CRN": 48316,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lawrence, S",
+            "Course Title": "LIT. 838 \u2013 Survey of English Lit. II",
+            "Class Days": "T, Th",
+            "Class": 8,
+            "CRN": 38108,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Travis, K",
+            "Course Title": "LIT. 840 \u2013 The Short Poem in Engl: Survey",
+            "Class Days": "M, W, F",
+            "Class": 9,
+            "CRN": 48493,
+            "Units": 3
+        }
+    ],
+    "Hospitality/Tourism Management": [
+        {
+            "Status": "Open",
+            "Professor": "Krone, L",
+            "Course Title": "HTM. 101 \u2013 Intro-Hospitality/Tourism Mgmt",
+            "Class Days": "",
+            "Class": 1,
+            "CRN": 44932,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Salceda, L",
+            "Course Title": "HTM. 108 \u2013 Tech Essentials in Hospitality",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 48462,
+            "Units": 3
+        }
+    ],
+    "Mathematics": [
+        {
+            "Status": "Open",
+            "Professor": "Urman, R",
+            "Course Title": "MATH 125 \u2013 Elementary Finite Mathematics",
+            "Class Days": "M, W, F",
+            "Class": 1,
+            "CRN": 32503,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Wong, A",
+            "Course Title": "MATH 130 \u2013 Analytical Trigonometry",
+            "Class Days": "M, W",
+            "Class": 2,
+            "CRN": 41917,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Wong, A",
+            "Course Title": "",
+            "Class Days": "F",
+            "Class": 3,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Gavryshova, N",
+            "Course Title": "MATH 130 \u2013 Analytical Trigonometry",
+            "Class Days": "M",
+            "Class": 4,
+            "CRN": 46881,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Gavryshova, N",
+            "Course Title": "",
+            "Class Days": "W, F",
+            "Class": 5,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "MATH 130 \u2013 Analytical Trigonometry",
+            "Class Days": "M, W",
+            "Class": 6,
+            "CRN": 42031,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "MATH 130 \u2013 Analytical Trigonometry",
+            "Class Days": "T, Th",
+            "Class": 7,
+            "CRN": 41916,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Leach, E",
+            "Course Title": "MATH 130 \u2013 Trigonometry",
+            "Class Days": "T, Th",
+            "Class": 8,
+            "CRN": 42032,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Moss, C",
+            "Course Title": "MATH 130 \u2013 Analytical Trigonometry",
+            "Class Days": "",
+            "Class": 9,
+            "CRN": 46493,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Rhodes, J",
+            "Course Title": "MATH 145 \u2013 Liberal Arts Mathematics",
+            "Class Days": "M, W, F",
+            "Class": 10,
+            "CRN": 47003,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "MATH 145 \u2013 Liberal Arts Mathematics",
+            "Class Days": "T, Th",
+            "Class": 11,
+            "CRN": 40005,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Rhodes, J",
+            "Course Title": "MATH 145 \u2013 Liberal Arts Mathematics",
+            "Class Days": "T, Th",
+            "Class": 12,
+            "CRN": 41572,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Fischer, R",
+            "Course Title": "MATH 145 \u2013 Liberal Arts Mathematics",
+            "Class Days": "T, Th",
+            "Class": 13,
+            "CRN": 40588,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hasson, D",
+            "Course Title": "MATH 150 \u2013 Math for Elementary School Tea",
+            "Class Days": "T, Th",
+            "Class": 14,
+            "CRN": 48403,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Gavryshova, N",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "M, W",
+            "Class": 15,
+            "CRN": 34924,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Callahan, P",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "M, W",
+            "Class": 16,
+            "CRN": 47006,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hoffman, M",
+            "Course Title": "MATH 200 \u2013 Elem. Probability & Statistics",
+            "Class Days": "M, W",
+            "Class": 17,
+            "CRN": 41550,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Wang, C",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "M, W",
+            "Class": 18,
+            "CRN": 47017,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Weathersby, K",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "M, F",
+            "Class": 19,
+            "CRN": 47820,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Weathersby, K",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 20,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Weathersby, K",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Stat/UMOJA",
+            "Class Days": "M, F",
+            "Class": 21,
+            "CRN": 48515,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Weathersby, K",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 22,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Freedman, J",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "M, W",
+            "Class": 23,
+            "CRN": 41417,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Feinman, Y",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "M, W",
+            "Class": 24,
+            "CRN": 46885,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Callahan, P",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "M, W",
+            "Class": 25,
+            "CRN": 32519,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Weathersby, K",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "M, T, W, Th",
+            "Class": 26,
+            "CRN": 45682,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Weathersby, K",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Stats PROM",
+            "Class Days": "M, T, W, Th",
+            "Class": 27,
+            "CRN": 46552,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Weathersby, K",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Stats MCHS",
+            "Class Days": "M, T, W, Th",
+            "Class": 28,
+            "CRN": 47018,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Monarres, D",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "M, T, W, Th",
+            "Class": 29,
+            "CRN": 46759,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Pilar Moreno, A",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "M, W",
+            "Class": 30,
+            "CRN": 46409,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Beatty, M",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "M, W",
+            "Class": 31,
+            "CRN": 47004,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "M, F",
+            "Class": 32,
+            "CRN": 48150,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Staff,",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 33,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Wang, C",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "T, Th",
+            "Class": 34,
+            "CRN": 40900,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Fahey, A",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "T, Th",
+            "Class": 35,
+            "CRN": 45116,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "T, Th",
+            "Class": 36,
+            "CRN": 32515,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hough Jr, R",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Stats PSP",
+            "Class Days": "T, Th",
+            "Class": 37,
+            "CRN": 46551,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Hough Jr, R",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "T, Th",
+            "Class": 38,
+            "CRN": 46890,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Pilar Moreno, A",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "T, Th",
+            "Class": 39,
+            "CRN": 45878,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Meng, H",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "T, Th",
+            "Class": 40,
+            "CRN": 45470,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Fahey, A",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "T, Th",
+            "Class": 41,
+            "CRN": 46760,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kalantar, M",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "T, Th",
+            "Class": 42,
+            "CRN": 32522,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Choi, Y",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Stats-FYE",
+            "Class Days": "T, Th",
+            "Class": 43,
+            "CRN": 45625,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Choi, Y",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "T, Th",
+            "Class": 44,
+            "CRN": 48152,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Nadkarni, H",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "T, Th",
+            "Class": 45,
+            "CRN": 45010,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Gopinath, L",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "M, W",
+            "Class": 46,
+            "CRN": 46896,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Shahrvini, B",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "M, W",
+            "Class": 47,
+            "CRN": 32517,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Shahrvini, B",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "T, Th",
+            "Class": 48,
+            "CRN": 47909,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Klimkovsky, V",
+            "Course Title": "MATH 200 \u2013 Elem. Probability & Statistics",
+            "Class Days": "M, W",
+            "Class": 49,
+            "CRN": 31357,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Zemskova, O",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "M, W",
+            "Class": 50,
+            "CRN": 32520,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "T, Th",
+            "Class": 51,
+            "CRN": 46130,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Choy, J",
+            "Course Title": "MATH 200 \u2013 Elem. Probability & Statistics",
+            "Class Days": "T, Th",
+            "Class": 52,
+            "CRN": 33472,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Choy, J",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "T, Th",
+            "Class": 53,
+            "CRN": 46601,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Alkeswani, A",
+            "Course Title": "MATH 200 \u2013 Elem. Probability & Statistics",
+            "Class Days": "",
+            "Class": 54,
+            "CRN": 31358,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lapuz, R",
+            "Course Title": "MATH 200 \u2013 Elem. Probability & Statistics",
+            "Class Days": "",
+            "Class": 55,
+            "CRN": 39756,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Moss, C",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "",
+            "Class": 56,
+            "CRN": 40736,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Feinman, Y",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "",
+            "Class": 57,
+            "CRN": 43445,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Williams, P",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "",
+            "Class": 58,
+            "CRN": 45477,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Shankar, S",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "",
+            "Class": 59,
+            "CRN": 45855,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Alkeswani, A",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "",
+            "Class": 60,
+            "CRN": 46600,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Butterworth, Y",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "",
+            "Class": 61,
+            "CRN": 47607,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Moss, C",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "",
+            "Class": 62,
+            "CRN": 47967,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Moss, C",
+            "Course Title": "MATH 201 \u2013 Math in Society",
+            "Class Days": "",
+            "Class": 63,
+            "CRN": 38171,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hum, D",
+            "Course Title": "MATH 211 \u2013 Introduction to Data Science",
+            "Class Days": "M",
+            "Class": 64,
+            "CRN": 47577,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Hum, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 65,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hasson, D",
+            "Course Title": "MATH 222 \u2013 Precalculus",
+            "Class Days": "M, W",
+            "Class": 66,
+            "CRN": 46132,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Wong, A",
+            "Course Title": "MATH 222 \u2013 Precalculus",
+            "Class Days": "M, W",
+            "Class": 67,
+            "CRN": 37093,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Nishanian, H",
+            "Course Title": "MATH 222 \u2013 Precalculus",
+            "Class Days": "T, Th",
+            "Class": 68,
+            "CRN": 45879,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Fredricks, S",
+            "Course Title": "MATH 222 \u2013 Precalculus",
+            "Class Days": "",
+            "Class": 69,
+            "CRN": 46899,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Monarres, D",
+            "Course Title": "MATH 225 \u2013 Path to Calculus",
+            "Class Days": "M, T, W, Th",
+            "Class": 70,
+            "CRN": 45492,
+            "Units": 6
+        },
+        {
+            "Status": "Open",
+            "Professor": "Westmoreland, S",
+            "Course Title": "MATH 225 \u2013 Path to Calculus",
+            "Class Days": "M, W, F",
+            "Class": 71,
+            "CRN": 47007,
+            "Units": 6
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hough Jr, R",
+            "Course Title": "MATH 225 \u2013 Path to Calculus",
+            "Class Days": "M, W, F",
+            "Class": 72,
+            "CRN": 48204,
+            "Units": 6
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hough Jr, R",
+            "Course Title": "MATH 225 \u2013 Path to Calculus - Middle Clg",
+            "Class Days": "M, W, F",
+            "Class": 73,
+            "CRN": 48205,
+            "Units": 6
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "MATH 225 \u2013 Path to Calculus",
+            "Class Days": "M, W, F",
+            "Class": 74,
+            "CRN": 48324,
+            "Units": 6
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hough Jr, R",
+            "Course Title": "MATH 225 \u2013 Path to Calculus - PSP",
+            "Class Days": "M, W, F",
+            "Class": 75,
+            "CRN": 48501,
+            "Units": 6
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Rhodes, J",
+            "Course Title": "MATH 225 \u2013 Path to Calculus",
+            "Class Days": "M, T, W",
+            "Class": 76,
+            "CRN": 46901,
+            "Units": 6
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hoffman, M",
+            "Course Title": "MATH 225 \u2013 Path to Calculus",
+            "Class Days": "M, W, F",
+            "Class": 77,
+            "CRN": 45117,
+            "Units": 6
+        },
+        {
+            "Status": "Open",
+            "Professor": "Choi, Y",
+            "Course Title": "MATH 225 \u2013 Path to Calculus",
+            "Class Days": "M, W, F",
+            "Class": 78,
+            "CRN": 46524,
+            "Units": 6
+        },
+        {
+            "Status": "Open",
+            "Professor": "Choi, Y",
+            "Course Title": "MATH 225 \u2013 Path to Calculus - FYE",
+            "Class Days": "M, W, F",
+            "Class": 79,
+            "CRN": 46916,
+            "Units": 6
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hasson, D",
+            "Course Title": "MATH 225 \u2013 Path to Calculus PSP",
+            "Class Days": "T, Th",
+            "Class": 80,
+            "CRN": 46962,
+            "Units": 6
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hasson, D",
+            "Course Title": "MATH 225 \u2013 Path to Calculus",
+            "Class Days": "T, Th",
+            "Class": 81,
+            "CRN": 48137,
+            "Units": 6
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hasson, D",
+            "Course Title": "MATH 225 \u2013 Path to Calculus BCS",
+            "Class Days": "T, Th",
+            "Class": 82,
+            "CRN": 48138,
+            "Units": 6
+        },
+        {
+            "Status": "Open",
+            "Professor": "Shankar, S",
+            "Course Title": "MATH 225 \u2013 Path to Calculus",
+            "Class Days": "T, Th",
+            "Class": 83,
+            "CRN": 47527,
+            "Units": 6
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "MATH 225 \u2013 Path to Calculus",
+            "Class Days": "M, W, F",
+            "Class": 84,
+            "CRN": 46401,
+            "Units": 6
+        },
+        {
+            "Status": "Open",
+            "Professor": "Beatty, M",
+            "Course Title": "MATH 241 \u2013 Applied Calculus I",
+            "Class Days": "M, F",
+            "Class": 85,
+            "CRN": 46905,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Beatty, M",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 86,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Almassy, H",
+            "Course Title": "MATH 241 \u2013 Business Calculus I",
+            "Class Days": "T, Th",
+            "Class": 87,
+            "CRN": 43258,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Butterworth, Y",
+            "Course Title": "MATH 241 \u2013 Applied Calculus I",
+            "Class Days": "T",
+            "Class": 88,
+            "CRN": 48333,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Butterworth, Y",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 89,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Fredricks, S",
+            "Course Title": "MATH 241 \u2013 Applied Calculus I",
+            "Class Days": "",
+            "Class": 90,
+            "CRN": 48244,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kalantar, M",
+            "Course Title": "MATH 242 \u2013 Applied Calculus II",
+            "Class Days": "T, Th",
+            "Class": 91,
+            "CRN": 32532,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Fredricks, S",
+            "Course Title": "MATH 243 \u2013 Business Calc II with Trigonom",
+            "Class Days": "",
+            "Class": 92,
+            "CRN": 48402,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Freedman, J",
+            "Course Title": "MATH 251 \u2013 Calculus/Analytic Geo I - BCS",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 93,
+            "CRN": 37921,
+            "Units": 5
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Pilar Moreno, A",
+            "Course Title": "MATH 251 \u2013 Calcu/Analytic Geometry I",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 94,
+            "CRN": 40322,
+            "Units": 5
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Nishanian, H",
+            "Course Title": "MATH 251 \u2013 Calcu/Analytic Geometry I",
+            "Class Days": "M, W",
+            "Class": 95,
+            "CRN": 45403,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Nishanian, H",
+            "Course Title": "",
+            "Class Days": "F",
+            "Class": 96,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Freedman, J",
+            "Course Title": "MATH 251 \u2013 Calculus/Analytic Geometry I",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 97,
+            "CRN": 46930,
+            "Units": 5
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Leach, E",
+            "Course Title": "MATH 251 \u2013 Calc/Analytic Geometry I",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 98,
+            "CRN": 40707,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Leach, E",
+            "Course Title": "MATH 251 \u2013 Calc./Analytic Geo I - ETS",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 99,
+            "CRN": 45688,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Leach, E",
+            "Course Title": "MATH 251 \u2013 Calculus/Analyt. Geometry IBCS",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 100,
+            "CRN": 48409,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Shankar, S",
+            "Course Title": "MATH 251 \u2013 Analytical Geometry/Calculus I",
+            "Class Days": "M, W",
+            "Class": 101,
+            "CRN": 40903,
+            "Units": 5
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Tsuchida, T",
+            "Course Title": "MATH 251 \u2013 Calculus/Analytic Geometry I",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 102,
+            "CRN": 47744,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Wong, A",
+            "Course Title": "MATH 251 \u2013 Calcu/Analytic Geometry I",
+            "Class Days": "M, W",
+            "Class": 103,
+            "CRN": 32536,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Wong, A",
+            "Course Title": "",
+            "Class Days": "F",
+            "Class": 104,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Tsuchida, T",
+            "Course Title": "MATH 251 \u2013 Calculus/Analytic Geometry I",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 105,
+            "CRN": 46662,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "MATH 251 \u2013 Calcu/Analytic Geometry I",
+            "Class Days": "M, W",
+            "Class": 106,
+            "CRN": 48348,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Tsuchiyose, K",
+            "Course Title": "MATH 251 \u2013 Calcu/Analytic Geometry I",
+            "Class Days": "T, Th",
+            "Class": 107,
+            "CRN": 48334,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Westmoreland, S",
+            "Course Title": "MATH 251 \u2013 Calcu/Analytic Geometry I",
+            "Class Days": "T, Th",
+            "Class": 108,
+            "CRN": 34580,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Almassy, H",
+            "Course Title": "MATH 251 \u2013 Analytical Geometry/Calculus I",
+            "Class Days": "T, Th",
+            "Class": 109,
+            "CRN": 41478,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Tsuchiyose, K",
+            "Course Title": "MATH 251 \u2013 Calcu/Analytic Geometry I",
+            "Class Days": "T, Th",
+            "Class": 110,
+            "CRN": 32535,
+            "Units": 5
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Williams, P",
+            "Course Title": "MATH 251 \u2013 Calc. Analytl Geometry I",
+            "Class Days": "",
+            "Class": 111,
+            "CRN": 30570,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Wang, C",
+            "Course Title": "MATH 252 \u2013 Calcu/Analytic Geo II - BCS",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 112,
+            "CRN": 30571,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Westmoreland, S",
+            "Course Title": "MATH 252 \u2013 Calcu/Analytic Geometry II",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 113,
+            "CRN": 32539,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Wang, C",
+            "Course Title": "MATH 252 \u2013 Calcu/Analyt. Geo II - ETS",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 114,
+            "CRN": 46526,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Wang, C",
+            "Course Title": "MATH 252 \u2013 Calcu/Analytic Geometry II",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 115,
+            "CRN": 46911,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Almassy, H",
+            "Course Title": "MATH 252 \u2013 Analytical Geometry/Calc II",
+            "Class Days": "M, W",
+            "Class": 116,
+            "CRN": 47677,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Wong, W",
+            "Course Title": "MATH 252 \u2013 Calcu/Analytic Geometry II",
+            "Class Days": "M, W",
+            "Class": 117,
+            "CRN": 48349,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Wong, W",
+            "Course Title": "",
+            "Class Days": "F",
+            "Class": 118,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Freedman, J",
+            "Course Title": "MATH 252 \u2013 Calcu/Analytic Geometry II",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 119,
+            "CRN": 46486,
+            "Units": 5
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Tsuchiyose, K",
+            "Course Title": "MATH 252 \u2013 Calcu/Analytic Geometry II",
+            "Class Days": "T, Th",
+            "Class": 120,
+            "CRN": 46406,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hasson, R",
+            "Course Title": "MATH 252 \u2013 Calcu/Analytic Geometry II",
+            "Class Days": "T, Th",
+            "Class": 121,
+            "CRN": 47014,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Alkeswani, A",
+            "Course Title": "MATH 252 \u2013 Analyt. Geometry/Calculus II",
+            "Class Days": "M, T, W, Th",
+            "Class": 122,
+            "CRN": 31362,
+            "Units": 5
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Church, G",
+            "Course Title": "MATH 252 \u2013 Calcu/Analytic Geometry II",
+            "Class Days": "M, W",
+            "Class": 123,
+            "CRN": 32538,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Church, G",
+            "Course Title": "",
+            "Class Days": "F",
+            "Class": 124,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lapuz, R",
+            "Course Title": "MATH 252 \u2013 Calcu/Analytic Geometry II",
+            "Class Days": "",
+            "Class": 125,
+            "CRN": 46249,
+            "Units": 5
+        },
+        {
+            "Status": "Waitlist Closed",
+            "Professor": "Klimkovsky, V",
+            "Course Title": "MATH 252 \u2013 Calcu/Analytic Geometry II",
+            "Class Days": "",
+            "Class": 126,
+            "CRN": 48242,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Wong, W",
+            "Course Title": "MATH 253 \u2013 Calcu/Analytic Geometry III",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 127,
+            "CRN": 45018,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Tsuchida, T",
+            "Course Title": "MATH 253 \u2013 Calculus/Analytic Geometry III",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 128,
+            "CRN": 46912,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Tsuchida, T",
+            "Course Title": "MATH 253 \u2013 Calc/Analytic Geometry III PSP",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 129,
+            "CRN": 48142,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Nishanian, H",
+            "Course Title": "MATH 253 \u2013 Calcu/Analytic Geometry III",
+            "Class Days": "M, W",
+            "Class": 130,
+            "CRN": 32541,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Nishanian, H",
+            "Course Title": "",
+            "Class Days": "F",
+            "Class": 131,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 132,
+            "CRN": 0,
+            "Units": 0
+        }
+    ],
+    "Library Science": [
+        {
+            "Status": "Open",
+            "Professor": "Montgomery, M",
+            "Course Title": "LIBR 100 \u2013 Intro to Library Research",
+            "Class Days": "W",
+            "Class": 1,
+            "CRN": 43013,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Molteni, V",
+            "Course Title": "LIBR 100 \u2013 Intro to Library Research",
+            "Class Days": "W",
+            "Class": 2,
+            "CRN": 35472,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Molteni, V",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 3,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Estrada, V",
+            "Course Title": "LIBR 100 \u2013 Intro to Library Research",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 43509,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Tedone-Goldstone, D",
+            "Course Title": "LIBR 100 \u2013 Intro. to Information Research",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 44959,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lugo, A",
+            "Course Title": "LIBR 100 \u2013 Intro. to Information Research",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 45145,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Tedone-Goldstone, D",
+            "Course Title": "LIBR 100 \u2013 Intro. to Info Research-Honors",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 46772,
+            "Units": 1
+        }
+    ],
+    "Management": [
+        {
+            "Status": "Open",
+            "Professor": "Beltran, H",
+            "Course Title": "MGMT 100 \u2013 Intro to Business Management",
+            "Class Days": "T",
+            "Class": 1,
+            "CRN": 43866,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Beltran, H",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lewall, G",
+            "Course Title": "MGMT 100 \u2013 Intro to Business Management",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 45954,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "VonBleichert, P",
+            "Course Title": "MGMT 100 \u2013 Introduction to Management",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 46818,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "VonBleichert, P",
+            "Course Title": "MGMT 100 \u2013 Introduction to Management",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 47161,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Duhe, R",
+            "Course Title": "MGMT 102 \u2013 Leading Innovative Teams",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 48359,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Duhe, R",
+            "Course Title": "MGMT 103 \u2013 Leading for Performance",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 48361,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Snyder, R",
+            "Course Title": "MGMT 106 \u2013 Essentials of Negotiation",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 48362,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Beltran, H",
+            "Course Title": "MGMT 151 \u2013 HR Compensation & Benefits",
+            "Class Days": "",
+            "Class": 9,
+            "CRN": 48161,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Stokke, P",
+            "Course Title": "MGMT 152 \u2013 Staffing and Performance",
+            "Class Days": "",
+            "Class": 10,
+            "CRN": 48059,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "McCarthy, S",
+            "Course Title": "MGMT 153 \u2013 Managing Culture and Diversity",
+            "Class Days": "",
+            "Class": 11,
+            "CRN": 47280,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Stokke, P",
+            "Course Title": "MGMT 154 \u2013 Training and Development",
+            "Class Days": "",
+            "Class": 12,
+            "CRN": 48060,
+            "Units": 3
+        }
+    ],
+    "Learning Skills": [
+        {
+            "Status": "Open",
+            "Professor": "Lindo, J",
+            "Course Title": "LSKL 110 \u2013 Effective Tutoring & Practicum",
+            "Class Days": "T, Th",
+            "Class": 1,
+            "CRN": 35564,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Lindo, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "De Barra, C",
+            "Course Title": "LSKL 800 \u2013 Supplemental Learn Assist (1)",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 40768,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "De Barra, C",
+            "Course Title": "LSKL 800 \u2013 Supplemental Learn Assist.(.5)",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 40769,
+            "Units": 0.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "De Barra, C",
+            "Course Title": "LSKL 800 \u2013 Supp. Lrn Asst. - TRIO",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 40843,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "De Barra, C",
+            "Course Title": "LSKL 800 \u2013 Supp. Lrn Asst. - TRIO",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 42037,
+            "Units": 0.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "De Barra, C",
+            "Course Title": "LSKL 800 \u2013 Supp. Lrn. Asst. - Promise",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 46688,
+            "Units": 0.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "De Barra, C",
+            "Course Title": "LSKL 800 \u2013 Supp. Lrn. Asst. - Promise",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 47405,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "De Barra, C",
+            "Course Title": "LSKL 800 \u2013 Supplemental Learn Assist.(.5)",
+            "Class Days": "",
+            "Class": 9,
+            "CRN": 40954,
+            "Units": 0.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "De Barra, C",
+            "Course Title": "LSKL 800 \u2013 Supplemental Learn Assist.(1)",
+            "Class Days": "",
+            "Class": 10,
+            "CRN": 41720,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "De Barra, C",
+            "Course Title": "LSKL 800 \u2013 Supp. Lrn. Asst. - PROM (.5)",
+            "Class Days": "",
+            "Class": 11,
+            "CRN": 41721,
+            "Units": 0.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "De Barra, C",
+            "Course Title": "LSKL 800 \u2013 Supp. Lrn. Asst. - PROM (1)",
+            "Class Days": "",
+            "Class": 12,
+            "CRN": 41722,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "De Barra, C",
+            "Course Title": "LSKL 800 \u2013 Supp.Lrn Asst.-TRIO (.5)",
+            "Class Days": "",
+            "Class": 13,
+            "CRN": 41723,
+            "Units": 0.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "De Barra, C",
+            "Course Title": "LSKL 800 \u2013 Supp.Lrn Asst.-TRIO (1)",
+            "Class Days": "",
+            "Class": 14,
+            "CRN": 41724,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "De Barra, C",
+            "Course Title": "LSKL 803 \u2013 Supervised Peer Tutoring",
+            "Class Days": "",
+            "Class": 15,
+            "CRN": 40809,
+            "Units": 0
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hein, E",
+            "Course Title": "LSKL 803 \u2013 Superv. Peer Tutoring - MESA",
+            "Class Days": "",
+            "Class": 16,
+            "CRN": 40823,
+            "Units": 0
+        },
+        {
+            "Status": "Open",
+            "Professor": "De Barra, C",
+            "Course Title": "LSKL 803 \u2013 Superv. Peer Tutoring - TRIO",
+            "Class Days": "",
+            "Class": 17,
+            "CRN": 44590,
+            "Units": 0
+        },
+        {
+            "Status": "Open",
+            "Professor": "De Barra, C",
+            "Course Title": "LSKL 803 \u2013 Superv. Peer Tutoring Promise",
+            "Class Days": "",
+            "Class": 18,
+            "CRN": 46471,
+            "Units": 0
+        },
+        {
+            "Status": "Open",
+            "Professor": "De Barra, C",
+            "Course Title": "LSKL 803 \u2013 Supervised Peer Tutoring",
+            "Class Days": "",
+            "Class": 19,
+            "CRN": 44414,
+            "Units": 0
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hein, E",
+            "Course Title": "LSKL 803 \u2013 Supv. Peer Tutoring - MESA",
+            "Class Days": "",
+            "Class": 20,
+            "CRN": 44608,
+            "Units": 0
+        },
+        {
+            "Status": "Open",
+            "Professor": "De Barra, C",
+            "Course Title": "LSKL 803 \u2013 Supv. Peer Tutoring - TRIO",
+            "Class Days": "",
+            "Class": 21,
+            "CRN": 44609,
+            "Units": 0
+        },
+        {
+            "Status": "Open",
+            "Professor": "De Barra, C",
+            "Course Title": "LSKL 803 \u2013 Supv. Peer Tutoring - PROM",
+            "Class Days": "",
+            "Class": 22,
+            "CRN": 44610,
+            "Units": 0
+        },
+        {
+            "Status": "Open",
+            "Professor": "Schubert, S",
+            "Course Title": "LSKL 892 \u2013 Chemistry Jam",
+            "Class Days": "",
+            "Class": 23,
+            "CRN": 46913,
+            "Units": 0
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lopez-Thibodeaux, M",
+            "Course Title": "LSKL 894 \u2013 Physics Jam",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 24,
+            "CRN": 47390,
+            "Units": 0
+        }
+    ],
+    "Learning Center": [
+        {
+            "Status": "Open",
+            "Professor": "Martinez Luna, D",
+            "Course Title": "LCTR 100 \u2013 Effective Tutoring & Practicum",
+            "Class Days": "F",
+            "Class": 1,
+            "CRN": 43741,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Martinez Luna, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Taylor, J",
+            "Course Title": "LCTR 100 \u2013 Effective Tutoring & Practicum",
+            "Class Days": "F",
+            "Class": 3,
+            "CRN": 42867,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Taylor, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Taylor, J",
+            "Course Title": "LCTR 139 \u2013 The Research Paper from A to Z",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 34303,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Taylor, J",
+            "Course Title": "LCTR 140 \u2013 Professional Writing",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 35170,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Taylor, J",
+            "Course Title": "LCTR 698 \u2013 Supvsd Tutoring/Acad. Assistnc",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 46768,
+            "Units": 0
+        },
+        {
+            "Status": "Open",
+            "Professor": "Martinez Luna, D",
+            "Course Title": "LCTR 698 \u2013 Supvsd Tutoring/Acad. Assistnc",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 43805,
+            "Units": 0
+        },
+        {
+            "Status": "Open",
+            "Professor": "Taylor, J",
+            "Course Title": "LCTR 810 \u2013 Study Skills",
+            "Class Days": "",
+            "Class": 9,
+            "CRN": 34306,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lapuz, R",
+            "Course Title": "LCTR 810 \u2013 Study Skills",
+            "Class Days": "",
+            "Class": 10,
+            "CRN": 47888,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lund, L",
+            "Course Title": "LCTR 810 \u2013 Study Skills",
+            "Class Days": "",
+            "Class": 11,
+            "CRN": 48467,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Taylor, J",
+            "Course Title": "LCTR 822 \u2013 Grammar Trouble Spots I",
+            "Class Days": "",
+            "Class": 12,
+            "CRN": 34312,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Taylor, J",
+            "Course Title": "LCTR 840 \u2013 Vocabulary Improvement I",
+            "Class Days": "",
+            "Class": 13,
+            "CRN": 35169,
+            "Units": 1
+        }
+    ],
+    "Kinesiology": [
+        {
+            "Status": "Open",
+            "Professor": "Schmidt, M",
+            "Course Title": "ADAP 100 \u2013 Adapted Aquatics",
+            "Class Days": "T, Th",
+            "Class": 1,
+            "CRN": 31618,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Young, S",
+            "Course Title": "ADAP 110 \u2013 Adapted General Conditioning",
+            "Class Days": "M, W, F",
+            "Class": 2,
+            "CRN": 31619,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Young, S",
+            "Course Title": "ADAP 110 \u2013 Adapted General Conditioning",
+            "Class Days": "M, W, F",
+            "Class": 3,
+            "CRN": 31620,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Young, S",
+            "Course Title": "ADAP 110 \u2013 Adapted General Conditioning",
+            "Class Days": "T",
+            "Class": 4,
+            "CRN": 31622,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Young, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Young, S",
+            "Course Title": "ADAP 140 \u2013 Adapted Weight Trning",
+            "Class Days": "M, W, F",
+            "Class": 6,
+            "CRN": 39488,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Young, S",
+            "Course Title": "ADAP 155 \u2013 Adapted Back Care",
+            "Class Days": "M, W",
+            "Class": 7,
+            "CRN": 36505,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Young, S",
+            "Course Title": "ADAP 155 \u2013 Adapted Back Care",
+            "Class Days": "T",
+            "Class": 8,
+            "CRN": 36504,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Young, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 9,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Marquez, R",
+            "Course Title": "ADAP 358 \u2013 Adapted Strength Development",
+            "Class Days": "M, W",
+            "Class": 10,
+            "CRN": 41787,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Marquez, R",
+            "Course Title": "ADAP 359 \u2013 Balance/Functional Movement...",
+            "Class Days": "",
+            "Class": 11,
+            "CRN": 41790,
+            "Units": 51
+        },
+        {
+            "Status": "Open",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 109.1 \u2013 Water Polo I",
+            "Class Days": "M, W",
+            "Class": 12,
+            "CRN": 43978,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 109.2 \u2013 Water Polo II",
+            "Class Days": "M, W",
+            "Class": 13,
+            "CRN": 43979,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 109.3 \u2013 Water Polo III",
+            "Class Days": "M, W",
+            "Class": 14,
+            "CRN": 43980,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 109.4 \u2013 Water Polo IV",
+            "Class Days": "M, W",
+            "Class": 15,
+            "CRN": 43981,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.1 \u2013 Swim Stroke Development I",
+            "Class Days": "M, W, F",
+            "Class": 16,
+            "CRN": 47691,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.1 \u2013 Swim Stroke Development I",
+            "Class Days": "M, W, F",
+            "Class": 17,
+            "CRN": 48009,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 127.1 \u2013 Swim Stroke Development I",
+            "Class Days": "M, W",
+            "Class": 18,
+            "CRN": 48171,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.1 \u2013 Swim Stroke Development I",
+            "Class Days": "M, W, F",
+            "Class": 19,
+            "CRN": 48013,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.1 \u2013 Swim Stroke Development I",
+            "Class Days": "M, W, F",
+            "Class": 20,
+            "CRN": 48017,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 127.1 \u2013 Swim Stroke Development I",
+            "Class Days": "T, Th",
+            "Class": 21,
+            "CRN": 43929,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.2 \u2013 Swim Stroke Development II",
+            "Class Days": "M, W, F",
+            "Class": 22,
+            "CRN": 47692,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.2 \u2013 Swim Stroke Development II",
+            "Class Days": "M, W, F",
+            "Class": 23,
+            "CRN": 48010,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 127.2 \u2013 Swim Stroke Development II",
+            "Class Days": "M, W",
+            "Class": 24,
+            "CRN": 48172,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.2 \u2013 Swim Stroke Development II",
+            "Class Days": "M, W, F",
+            "Class": 25,
+            "CRN": 48014,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.2 \u2013 Swim Stroke Development II",
+            "Class Days": "M, W, F",
+            "Class": 26,
+            "CRN": 48018,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 127.2 \u2013 Swim Stroke Development II",
+            "Class Days": "T, Th",
+            "Class": 27,
+            "CRN": 43930,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.3 \u2013 Swim Stroke Development III",
+            "Class Days": "M, W, F",
+            "Class": 28,
+            "CRN": 47693,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.3 \u2013 Swim Stroke Development III",
+            "Class Days": "M, W, F",
+            "Class": 29,
+            "CRN": 48011,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 127.3 \u2013 Swim Stroke Development III",
+            "Class Days": "M, W",
+            "Class": 30,
+            "CRN": 48173,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.3 \u2013 Swim Stroke Development III",
+            "Class Days": "M, W, F",
+            "Class": 31,
+            "CRN": 48015,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.3 \u2013 Swim Stroke Development III",
+            "Class Days": "M, W, F",
+            "Class": 32,
+            "CRN": 48019,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 127.3 \u2013 Swim Stroke Development III",
+            "Class Days": "T, Th",
+            "Class": 33,
+            "CRN": 43931,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.4 \u2013 Swim Stroke Development IV",
+            "Class Days": "M, W, F",
+            "Class": 34,
+            "CRN": 47694,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.4 \u2013 Swim Stroke Development IV",
+            "Class Days": "M, W, F",
+            "Class": 35,
+            "CRN": 48012,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 127.4 \u2013 Swim Stroke Development IV",
+            "Class Days": "M, W",
+            "Class": 36,
+            "CRN": 48174,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.4 \u2013 Swim Stroke Development IV",
+            "Class Days": "M, W, F",
+            "Class": 37,
+            "CRN": 48016,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.4 \u2013 Swim Stroke Development IV",
+            "Class Days": "M, W, F",
+            "Class": 38,
+            "CRN": 48020,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 127.4 \u2013 Swim Stroke Development IV",
+            "Class Days": "T, Th",
+            "Class": 39,
+            "CRN": 43932,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 133.1 \u2013 Individual Swim Conditioning I",
+            "Class Days": "M, W",
+            "Class": 40,
+            "CRN": 43982,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 133.1 \u2013 Individual Swim Conditioning I",
+            "Class Days": "T, Th",
+            "Class": 41,
+            "CRN": 43933,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 133.2 \u2013 Indiv Swim Conditioning II",
+            "Class Days": "M, W",
+            "Class": 42,
+            "CRN": 43983,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 133.2 \u2013 Indiv Swim Conditioning II",
+            "Class Days": "T, Th",
+            "Class": 43,
+            "CRN": 43934,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 133.3 \u2013 Indiv Swim Conditioning III",
+            "Class Days": "M, W",
+            "Class": 44,
+            "CRN": 43984,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 133.3 \u2013 Indiv Swim Conditioning III",
+            "Class Days": "T, Th",
+            "Class": 45,
+            "CRN": 43935,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 133.4 \u2013 Indiv Swim Conditioning IV",
+            "Class Days": "M, W",
+            "Class": 46,
+            "CRN": 43985,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 133.4 \u2013 Indiv Swim Conditioning IV",
+            "Class Days": "T, Th",
+            "Class": 47,
+            "CRN": 43937,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Barrilleaux, E",
+            "Course Title": "AQUA 135.1 \u2013 Aqua Exercise I",
+            "Class Days": "T, Th",
+            "Class": 48,
+            "CRN": 44030,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Barrilleaux, E",
+            "Course Title": "AQUA 135.2 \u2013 Aqua Exercise II",
+            "Class Days": "T, Th",
+            "Class": 49,
+            "CRN": 44031,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Barrilleaux, E",
+            "Course Title": "AQUA 135.3 \u2013 Aqua Exercise III",
+            "Class Days": "T, Th",
+            "Class": 50,
+            "CRN": 44032,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Barrilleaux, E",
+            "Course Title": "AQUA 135.4 \u2013 Aqua Exercise IV",
+            "Class Days": "T, Th",
+            "Class": 51,
+            "CRN": 44033,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Haddon, J",
+            "Course Title": "COMB 401.1 \u2013 Self Defense I",
+            "Class Days": "",
+            "Class": 52,
+            "CRN": 47233,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Haddon, J",
+            "Course Title": "COMB 401.2 \u2013 Self Defense II",
+            "Class Days": "",
+            "Class": 53,
+            "CRN": 47234,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Haddon, J",
+            "Course Title": "COMB 401.3 \u2013 Self Defense III",
+            "Class Days": "",
+            "Class": 54,
+            "CRN": 47679,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Walton, J",
+            "Course Title": "DANC 100 \u2013 Dance Appreciation",
+            "Class Days": "T, Th",
+            "Class": 55,
+            "CRN": 45271,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Miladinova, A",
+            "Course Title": "DANC 100 \u2013 Dance Appreciation",
+            "Class Days": "W",
+            "Class": 56,
+            "CRN": 46274,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Dailey, D",
+            "Course Title": "DANC 100 \u2013 Dance Appreciation",
+            "Class Days": "",
+            "Class": 57,
+            "CRN": 47164,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Keyes, A",
+            "Course Title": "DANC 100 \u2013 Dance Appreciation",
+            "Class Days": "",
+            "Class": 58,
+            "CRN": 47912,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Steele, A",
+            "Course Title": "DANC 102 \u2013 Hip Hop Dance Roots",
+            "Class Days": "",
+            "Class": 59,
+            "CRN": 46743,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Keyes, A",
+            "Course Title": "DANC 103 \u2013 Global Dance Traditions",
+            "Class Days": "",
+            "Class": 60,
+            "CRN": 48363,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Montano, L",
+            "Course Title": "DANC 115.1 \u2013 Mexican Folkloric Dance I",
+            "Class Days": "Sa",
+            "Class": 61,
+            "CRN": 48350,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Montano, L",
+            "Course Title": "DANC 115.2 \u2013 Mexican Folkloric Dance II",
+            "Class Days": "Sa",
+            "Class": 62,
+            "CRN": 48351,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Walton, J",
+            "Course Title": "DANC 117.1 \u2013 Tap Dance I",
+            "Class Days": "M",
+            "Class": 63,
+            "CRN": 44682,
+            "Units": 0.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Walton, J",
+            "Course Title": "DANC 117.2 \u2013 Tap Dance II",
+            "Class Days": "M",
+            "Class": 64,
+            "CRN": 44683,
+            "Units": 0.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Walton, J",
+            "Course Title": "DANC 117.3 \u2013 Tap Dance III",
+            "Class Days": "M",
+            "Class": 65,
+            "CRN": 44684,
+            "Units": 0.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Walton, J",
+            "Course Title": "DANC 117.4 \u2013 Tap Dance IV",
+            "Class Days": "M",
+            "Class": 66,
+            "CRN": 44685,
+            "Units": 0.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Chertudi, L",
+            "Course Title": "DANC 121.1 \u2013 Modern Dance I",
+            "Class Days": "T, Th",
+            "Class": 67,
+            "CRN": 44643,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Steele, A",
+            "Course Title": "DANC 121.1 \u2013 Contemporary Modern Dance I",
+            "Class Days": "T, Th",
+            "Class": 68,
+            "CRN": 47680,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lorenz, C",
+            "Course Title": "DANC 121.1 \u2013 Modern Dance I",
+            "Class Days": "W",
+            "Class": 69,
+            "CRN": 44495,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Chertudi, L",
+            "Course Title": "DANC 121.2 \u2013 Modern Dance II",
+            "Class Days": "T, Th",
+            "Class": 70,
+            "CRN": 44644,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Steele, A",
+            "Course Title": "DANC 121.2 \u2013 Contemporary Modern Dance II",
+            "Class Days": "T, Th",
+            "Class": 71,
+            "CRN": 47681,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lorenz, C",
+            "Course Title": "DANC 121.2 \u2013 Modern Dance II",
+            "Class Days": "W",
+            "Class": 72,
+            "CRN": 44496,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Chertudi, L",
+            "Course Title": "DANC 121.3 \u2013 Modern Dance III",
+            "Class Days": "T, Th",
+            "Class": 73,
+            "CRN": 44645,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Steele, A",
+            "Course Title": "DANC 121.3 \u2013 Contemporary Modern Dance III",
+            "Class Days": "T, Th",
+            "Class": 74,
+            "CRN": 47682,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lorenz, C",
+            "Course Title": "DANC 121.3 \u2013 Modern Dance III",
+            "Class Days": "W",
+            "Class": 75,
+            "CRN": 44497,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Chertudi, L",
+            "Course Title": "DANC 121.4 \u2013 Modern Dance IV",
+            "Class Days": "T, Th",
+            "Class": 76,
+            "CRN": 44646,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Steele, A",
+            "Course Title": "DANC 121.4 \u2013 Contemporary Modern Dance IV",
+            "Class Days": "T, Th",
+            "Class": 77,
+            "CRN": 47683,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lorenz, C",
+            "Course Title": "DANC 121.4 \u2013 Modern Dance IV",
+            "Class Days": "W",
+            "Class": 78,
+            "CRN": 44498,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Quijano, V",
+            "Course Title": "DANC 125.1 \u2013 Salsa I",
+            "Class Days": "T, Th",
+            "Class": 79,
+            "CRN": 44075,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Quijano, V",
+            "Course Title": "DANC 125.2 \u2013 Salsa II",
+            "Class Days": "T, Th",
+            "Class": 80,
+            "CRN": 43989,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Quijano, V",
+            "Course Title": "DANC 125.3 \u2013 Salsa III",
+            "Class Days": "T, Th",
+            "Class": 81,
+            "CRN": 43990,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Quijano, V",
+            "Course Title": "DANC 125.4 \u2013 Salsa IV",
+            "Class Days": "T, Th",
+            "Class": 82,
+            "CRN": 43991,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Begley, C",
+            "Course Title": "DANC 130.1 \u2013 Jazz Dance I",
+            "Class Days": "T, Th",
+            "Class": 83,
+            "CRN": 43992,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Begley, C",
+            "Course Title": "DANC 130.2 \u2013 Jazz Dance II",
+            "Class Days": "T, Th",
+            "Class": 84,
+            "CRN": 43993,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Begley, C",
+            "Course Title": "DANC 130.3 \u2013 Jazz Dance III",
+            "Class Days": "T, Th",
+            "Class": 85,
+            "CRN": 43994,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Begley, C",
+            "Course Title": "DANC 130.4 \u2013 Jazz Dance IV",
+            "Class Days": "T, Th",
+            "Class": 86,
+            "CRN": 43995,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Miladinova, A",
+            "Course Title": "DANC 140.1 \u2013 Ballet I",
+            "Class Days": "M, W",
+            "Class": 87,
+            "CRN": 43996,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Steele, A",
+            "Course Title": "DANC 140.1 \u2013 Ballet I",
+            "Class Days": "M, W",
+            "Class": 88,
+            "CRN": 48147,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Simmers, K",
+            "Course Title": "DANC 140.1 \u2013 Ballet I",
+            "Class Days": "T, Th",
+            "Class": 89,
+            "CRN": 44664,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Miladinova, A",
+            "Course Title": "DANC 140.2 \u2013 Ballet II",
+            "Class Days": "M, W",
+            "Class": 90,
+            "CRN": 43997,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Steele, A",
+            "Course Title": "DANC 140.2 \u2013 Ballet II",
+            "Class Days": "M, W",
+            "Class": 91,
+            "CRN": 48148,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Simmers, K",
+            "Course Title": "DANC 140.2 \u2013 Ballet II",
+            "Class Days": "T, Th",
+            "Class": 92,
+            "CRN": 44665,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Miladinova, A",
+            "Course Title": "DANC 140.3 \u2013 Ballet III",
+            "Class Days": "M, W",
+            "Class": 93,
+            "CRN": 43998,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Steele, A",
+            "Course Title": "DANC 140.3 \u2013 Ballet III",
+            "Class Days": "M, W",
+            "Class": 94,
+            "CRN": 48149,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Simmers, K",
+            "Course Title": "DANC 140.3 \u2013 Ballet III",
+            "Class Days": "T, Th",
+            "Class": 95,
+            "CRN": 44666,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Miladinova, A",
+            "Course Title": "DANC 140.4 \u2013 Ballet IV",
+            "Class Days": "M, W",
+            "Class": 96,
+            "CRN": 43999,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Simmers, K",
+            "Course Title": "DANC 140.4 \u2013 Ballet IV",
+            "Class Days": "T, Th",
+            "Class": 97,
+            "CRN": 44667,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Begley, C",
+            "Course Title": "DANC 150.1 \u2013 Hip Hop I",
+            "Class Days": "T, Th",
+            "Class": 98,
+            "CRN": 44077,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Ulloa, M",
+            "Course Title": "DANC 150.1 \u2013 Hip Hop I",
+            "Class Days": "M, W",
+            "Class": 99,
+            "CRN": 44711,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Begley, C",
+            "Course Title": "DANC 150.2 \u2013 Hip Hop II",
+            "Class Days": "T, Th",
+            "Class": 100,
+            "CRN": 45511,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Ulloa, M",
+            "Course Title": "DANC 150.2 \u2013 Hip Hop II",
+            "Class Days": "M, W",
+            "Class": 101,
+            "CRN": 44712,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Begley, C",
+            "Course Title": "DANC 150.3 \u2013 Hip Hop III",
+            "Class Days": "T, Th",
+            "Class": 102,
+            "CRN": 45512,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Begley, C",
+            "Course Title": "DANC 150.4 \u2013 Hip Hop IV",
+            "Class Days": "T, Th",
+            "Class": 103,
+            "CRN": 45513,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Delmar, K",
+            "Course Title": "DANC 152.1 \u2013 Cuban Salsa I",
+            "Class Days": "M",
+            "Class": 104,
+            "CRN": 44112,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Delmar, K",
+            "Course Title": "DANC 152.2 \u2013 Cuban Salsa II",
+            "Class Days": "M",
+            "Class": 105,
+            "CRN": 44113,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Delmar, K",
+            "Course Title": "DANC 152.3 \u2013 Cuban Salsa III",
+            "Class Days": "M",
+            "Class": 106,
+            "CRN": 44114,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Delmar, K",
+            "Course Title": "DANC 157.1 \u2013 Afro Cuban Dance I",
+            "Class Days": "W",
+            "Class": 107,
+            "CRN": 47688,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Delmar, K",
+            "Course Title": "DANC 157.2 \u2013 Afro Cuban Dance II",
+            "Class Days": "W",
+            "Class": 108,
+            "CRN": 47689,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Delmar, K",
+            "Course Title": "DANC 157.3 \u2013 Afro Cuban Dance III",
+            "Class Days": "W",
+            "Class": 109,
+            "CRN": 47690,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Delmar, K",
+            "Course Title": "DANC 161.1 \u2013 Tango Argentino I",
+            "Class Days": "F",
+            "Class": 110,
+            "CRN": 47638,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Delmar, K",
+            "Course Title": "DANC 161.2 \u2013 Tango Argentino II",
+            "Class Days": "F",
+            "Class": 111,
+            "CRN": 47639,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Delmar, K",
+            "Course Title": "DANC 161.3 \u2013 Tango Argentino III",
+            "Class Days": "F",
+            "Class": 112,
+            "CRN": 47640,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Delmar, K",
+            "Course Title": "DANC 161.4 \u2013 Tango Argentino IV",
+            "Class Days": "F",
+            "Class": 113,
+            "CRN": 47641,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Walton, J",
+            "Course Title": "DANC 167.1 \u2013 Swing Dance I",
+            "Class Days": "M",
+            "Class": 114,
+            "CRN": 44678,
+            "Units": 0.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Walton, J",
+            "Course Title": "DANC 167.2 \u2013 Swing Dance II",
+            "Class Days": "M",
+            "Class": 115,
+            "CRN": 44679,
+            "Units": 0.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Walton, J",
+            "Course Title": "DANC 167.3 \u2013 Swing Dance III",
+            "Class Days": "M",
+            "Class": 116,
+            "CRN": 44680,
+            "Units": 0.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Walton, J",
+            "Course Title": "DANC 167.4 \u2013 Swing Dance IV",
+            "Class Days": "M",
+            "Class": 117,
+            "CRN": 44681,
+            "Units": 0.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Steele, A",
+            "Course Title": "DANC 350.1 \u2013 Cardio Dance I",
+            "Class Days": "",
+            "Class": 118,
+            "CRN": 47235,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Steele, A",
+            "Course Title": "DANC 350.2 \u2013 Cardio Dance II",
+            "Class Days": "",
+            "Class": 119,
+            "CRN": 47236,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Steele, A",
+            "Course Title": "DANC 350.3 \u2013 Cardio Dance III",
+            "Class Days": "",
+            "Class": 120,
+            "CRN": 47685,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Chertudi, L",
+            "Course Title": "DANC 400.1 \u2013 Dance Performance & Prod I",
+            "Class Days": "T, Th",
+            "Class": 121,
+            "CRN": 44660,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Begley, C",
+            "Course Title": "DANC 400.1 \u2013 Dance Performance & Prod I",
+            "Class Days": "T, Th",
+            "Class": 122,
+            "CRN": 47138,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Steele, A",
+            "Course Title": "DANC 400.1 \u2013 Dance Performance & Prod I",
+            "Class Days": "",
+            "Class": 123,
+            "CRN": 44124,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Chertudi, L",
+            "Course Title": "DANC 400.2 \u2013 Dance Performance & Prod II",
+            "Class Days": "T, Th",
+            "Class": 124,
+            "CRN": 44661,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Begley, C",
+            "Course Title": "DANC 400.2 \u2013 Dance Performance & Prod II",
+            "Class Days": "T, Th",
+            "Class": 125,
+            "CRN": 47139,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Steele, A",
+            "Course Title": "DANC 400.2 \u2013 Dance Performance & Prod II",
+            "Class Days": "",
+            "Class": 126,
+            "CRN": 44125,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Chertudi, L",
+            "Course Title": "DANC 400.3 \u2013 Dance Performance & Prod III",
+            "Class Days": "T, Th",
+            "Class": 127,
+            "CRN": 45254,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Begley, C",
+            "Course Title": "DANC 400.3 \u2013 Dance Performance & Prod III",
+            "Class Days": "T, Th",
+            "Class": 128,
+            "CRN": 47140,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Steele, A",
+            "Course Title": "DANC 400.3 \u2013 Dance Performance & Prod III",
+            "Class Days": "",
+            "Class": 129,
+            "CRN": 44126,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Chertudi, L",
+            "Course Title": "DANC 400.4 \u2013 Dance Performance & Prod IV",
+            "Class Days": "T, Th",
+            "Class": 130,
+            "CRN": 45418,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Begley, C",
+            "Course Title": "DANC 400.4 \u2013 Dance Performance & Prod. IV",
+            "Class Days": "T, Th",
+            "Class": 131,
+            "CRN": 47141,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Steele, A",
+            "Course Title": "DANC 400.4 \u2013 Dance Performance & Prod. IV",
+            "Class Days": "",
+            "Class": 132,
+            "CRN": 45097,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Ferguson, G",
+            "Course Title": "DANC 410.1 \u2013 Dance - Musical Theater Prod I",
+            "Class Days": "T",
+            "Class": 133,
+            "CRN": 44282,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ferguson, G",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 134,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ferguson, G",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 135,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ferguson, G",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 136,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Ferguson, G",
+            "Course Title": "DANC 410.2 \u2013 Dance-Musical Theater Prod II",
+            "Class Days": "T",
+            "Class": 137,
+            "CRN": 44284,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ferguson, G",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 138,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ferguson, G",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 139,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ferguson, G",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 140,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Ferguson, G",
+            "Course Title": "DANC 410.3 \u2013 Dance-Musical Theater Prod III",
+            "Class Days": "T",
+            "Class": 141,
+            "CRN": 44669,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ferguson, G",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 142,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ferguson, G",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 143,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ferguson, G",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 144,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Ferguson, G",
+            "Course Title": "DANC 410.4 \u2013 Dance-Musical Theater Prod IV",
+            "Class Days": "T",
+            "Class": 145,
+            "CRN": 45098,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ferguson, G",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 146,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ferguson, G",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 147,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ferguson, G",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 148,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Sharabi, M",
+            "Course Title": "FITN 106 \u2013 Varsity Conditioning",
+            "Class Days": "",
+            "Class": 149,
+            "CRN": 45450,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Saucedo, G",
+            "Course Title": "FITN 106 \u2013 Varsity Conditioning",
+            "Class Days": "",
+            "Class": 150,
+            "CRN": 47237,
+            "Units": 2
+        },
+        {
+            "Status": "Waitlist Closed",
+            "Professor": "Piergrossi, J",
+            "Course Title": "FITN 106 \u2013 Varsity Conditioning",
+            "Class Days": "",
+            "Class": 151,
+            "CRN": 46219,
+            "Units": 1
+        },
+        {
+            "Status": "Waitlist Closed",
+            "Professor": "Brunicardi, A",
+            "Course Title": "FITN 107 \u2013 Intercollegiate Fitness",
+            "Class Days": "",
+            "Class": 152,
+            "CRN": 43233,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Saucedo, G",
+            "Course Title": "FITN 112.1 \u2013 Cross Training I",
+            "Class Days": "M, W, F",
+            "Class": 153,
+            "CRN": 44128,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Saucedo, G",
+            "Course Title": "FITN 112.2 \u2013 Cross Training II",
+            "Class Days": "M, W, F",
+            "Class": 154,
+            "CRN": 44129,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Saucedo, G",
+            "Course Title": "FITN 112.3 \u2013 Cross Training III",
+            "Class Days": "M, W, F",
+            "Class": 155,
+            "CRN": 44130,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Marcial, M",
+            "Course Title": "FITN 116.1 \u2013 Body Conditioning I",
+            "Class Days": "M, W",
+            "Class": 156,
+            "CRN": 46296,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Burns, K",
+            "Course Title": "FITN 116.1 \u2013 Body Conditioning I",
+            "Class Days": "T, Th",
+            "Class": 157,
+            "CRN": 43970,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Sharabi, M",
+            "Course Title": "FITN 116.1 \u2013 Body Conditioning I",
+            "Class Days": "T, Th",
+            "Class": 158,
+            "CRN": 44138,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Diaz, S",
+            "Course Title": "FITN 116.1 \u2013 Body Conditioning I",
+            "Class Days": "T, Th",
+            "Class": 159,
+            "CRN": 44141,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Barrilleaux, E",
+            "Course Title": "FITN 116.1 \u2013 Body Conditioning I",
+            "Class Days": "T, Th",
+            "Class": 160,
+            "CRN": 43882,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Schmidt, M",
+            "Course Title": "FITN 116.1 \u2013 Body Conditioning I",
+            "Class Days": "",
+            "Class": 161,
+            "CRN": 44640,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Marcial, M",
+            "Course Title": "FITN 116.2 \u2013 Body Conditioning II",
+            "Class Days": "M, W",
+            "Class": 162,
+            "CRN": 46297,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Burns, K",
+            "Course Title": "FITN 116.2 \u2013 Body Conditioning II",
+            "Class Days": "T, Th",
+            "Class": 163,
+            "CRN": 43971,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Sharabi, M",
+            "Course Title": "FITN 116.2 \u2013 Body Conditioning II",
+            "Class Days": "T, Th",
+            "Class": 164,
+            "CRN": 44139,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Diaz, S",
+            "Course Title": "FITN 116.2 \u2013 Body Conditioning II",
+            "Class Days": "T, Th",
+            "Class": 165,
+            "CRN": 44142,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Barrilleaux, E",
+            "Course Title": "FITN 116.2 \u2013 Body Conditioning II",
+            "Class Days": "T, Th",
+            "Class": 166,
+            "CRN": 43883,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Saucedo, G",
+            "Course Title": "FITN 116.2 \u2013 Body Conditioning II",
+            "Class Days": "",
+            "Class": 167,
+            "CRN": 47239,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Marcial, M",
+            "Course Title": "FITN 116.3 \u2013 Body Conditioning III",
+            "Class Days": "M, W",
+            "Class": 168,
+            "CRN": 46298,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Burns, K",
+            "Course Title": "FITN 116.3 \u2013 Body Conditioning III",
+            "Class Days": "T, Th",
+            "Class": 169,
+            "CRN": 43972,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Sharabi, M",
+            "Course Title": "FITN 116.3 \u2013 Body Conditioning III",
+            "Class Days": "T, Th",
+            "Class": 170,
+            "CRN": 44140,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Diaz, S",
+            "Course Title": "FITN 116.3 \u2013 Body Conditioning III",
+            "Class Days": "T, Th",
+            "Class": 171,
+            "CRN": 45514,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Barrilleaux, E",
+            "Course Title": "FITN 116.3 \u2013 Body Conditioning III",
+            "Class Days": "T, Th",
+            "Class": 172,
+            "CRN": 43885,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Marcial, M",
+            "Course Title": "FITN 116.4 \u2013 Body Conditioning IV",
+            "Class Days": "M, W",
+            "Class": 173,
+            "CRN": 46299,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Burns, K",
+            "Course Title": "FITN 116.4 \u2013 Body Conditioning IV",
+            "Class Days": "T, Th",
+            "Class": 174,
+            "CRN": 43973,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Barrilleaux, E",
+            "Course Title": "FITN 116.4 \u2013 Body Conditioning IV",
+            "Class Days": "T, Th",
+            "Class": 175,
+            "CRN": 43886,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Harris, E",
+            "Course Title": "FITN 117 \u2013 Fitn. Assess./Strength Cond.",
+            "Class Days": "M, W",
+            "Class": 176,
+            "CRN": 40516,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Perkins, K",
+            "Course Title": "FITN 117 \u2013 Fitn. Assess./Strength Cond.",
+            "Class Days": "T, Th",
+            "Class": 177,
+            "CRN": 45182,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Carr, N",
+            "Course Title": "FITN 117 \u2013 Fitn. Assess./Strength Cond.",
+            "Class Days": "T, Th",
+            "Class": 178,
+            "CRN": 40517,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Harris, E",
+            "Course Title": "FITN 118 \u2013 Beginning Fitness Center",
+            "Class Days": "M, W",
+            "Class": 179,
+            "CRN": 40520,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Perkins, K",
+            "Course Title": "FITN 118 \u2013 Beginning Fitness Center",
+            "Class Days": "T, Th",
+            "Class": 180,
+            "CRN": 45183,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Carr, N",
+            "Course Title": "FITN 118 \u2013 Beginning Fitness Center",
+            "Class Days": "T, Th",
+            "Class": 181,
+            "CRN": 40526,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Harris, E",
+            "Course Title": "FITN 119 \u2013 Intermediate Fitness Center",
+            "Class Days": "M, W",
+            "Class": 182,
+            "CRN": 40530,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Perkins, K",
+            "Course Title": "FITN 119 \u2013 Intermediate Fitness Center",
+            "Class Days": "T, Th",
+            "Class": 183,
+            "CRN": 45184,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Carr, N",
+            "Course Title": "FITN 119 \u2013 Intermediate Fitness Center",
+            "Class Days": "T, Th",
+            "Class": 184,
+            "CRN": 40538,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Jimenez, C",
+            "Course Title": "FITN 122 \u2013 Total Body Burn",
+            "Class Days": "M, W",
+            "Class": 185,
+            "CRN": 42648,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Carr, N",
+            "Course Title": "FITN 128.1 \u2013 Core Strength Func Training I",
+            "Class Days": "M, W",
+            "Class": 186,
+            "CRN": 48499,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Carr, N",
+            "Course Title": "FITN 128.2 \u2013 Core Strength Func Training II",
+            "Class Days": "M, W",
+            "Class": 187,
+            "CRN": 48500,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Schmidt, M",
+            "Course Title": "FITN 134 \u2013 Track and Trail Aerobics",
+            "Class Days": "",
+            "Class": 188,
+            "CRN": 43114,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Corsiglia, K",
+            "Course Title": "FITN 199.1 \u2013 Interactive Cardio Fitness I",
+            "Class Days": "",
+            "Class": 189,
+            "CRN": 44147,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Corsiglia, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 190,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Corsiglia, K",
+            "Course Title": "FITN 199.1 \u2013 Interactive Cardio Fitness I",
+            "Class Days": "",
+            "Class": 191,
+            "CRN": 46717,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Corsiglia, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 192,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Corsiglia, K",
+            "Course Title": "FITN 199.2 \u2013 Interactive Cardio Fitness II",
+            "Class Days": "",
+            "Class": 193,
+            "CRN": 44148,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Corsiglia, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 194,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Quigley-Borg, N",
+            "Course Title": "FITN 201.1 \u2013 Weight Training I",
+            "Class Days": "M, W",
+            "Class": 195,
+            "CRN": 45202,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Quigley-Borg, N",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 196,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Saucedo, G",
+            "Course Title": "FITN 201.1 \u2013 Weight Training I",
+            "Class Days": "T, Th",
+            "Class": 197,
+            "CRN": 44155,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Diaz, S",
+            "Course Title": "FITN 201.1 \u2013 Weight Training I",
+            "Class Days": "M, W",
+            "Class": 198,
+            "CRN": 44158,
+            "Units": 1
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Brunicardi, A",
+            "Course Title": "FITN 201.1 \u2013 Weight Training I",
+            "Class Days": "",
+            "Class": 199,
+            "CRN": 44150,
+            "Units": 1
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Quigley-Borg, N",
+            "Course Title": "FITN 201.2 \u2013 Weight Training II",
+            "Class Days": "M, W",
+            "Class": 200,
+            "CRN": 45203,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Quigley-Borg, N",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 201,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Saucedo, G",
+            "Course Title": "FITN 201.2 \u2013 Weight Training II",
+            "Class Days": "T, Th",
+            "Class": 202,
+            "CRN": 44156,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Diaz, S",
+            "Course Title": "FITN 201.2 \u2013 Weight Training II",
+            "Class Days": "M, W",
+            "Class": 203,
+            "CRN": 44159,
+            "Units": 1
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Brunicardi, A",
+            "Course Title": "FITN 201.2 \u2013 Weight Training II",
+            "Class Days": "",
+            "Class": 204,
+            "CRN": 44153,
+            "Units": 1
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Quigley-Borg, N",
+            "Course Title": "FITN 201.3 \u2013 Weight Training III",
+            "Class Days": "M, W",
+            "Class": 205,
+            "CRN": 45204,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Quigley-Borg, N",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 206,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Saucedo, G",
+            "Course Title": "FITN 201.3 \u2013 Weight Training III",
+            "Class Days": "T, Th",
+            "Class": 207,
+            "CRN": 44157,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Diaz, S",
+            "Course Title": "FITN 201.3 \u2013 Weight Training III",
+            "Class Days": "M, W",
+            "Class": 208,
+            "CRN": 44160,
+            "Units": 1
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Brunicardi, A",
+            "Course Title": "FITN 201.3 \u2013 Weight Training III",
+            "Class Days": "",
+            "Class": 209,
+            "CRN": 44154,
+            "Units": 1
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Quigley-Borg, N",
+            "Course Title": "FITN 201.4 \u2013 Weight Training IV",
+            "Class Days": "M, W",
+            "Class": 210,
+            "CRN": 45205,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Quigley-Borg, N",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 211,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Gaspar, E",
+            "Course Title": "FITN 210 \u2013 Varsity Weight Conditioning",
+            "Class Days": "T, Th",
+            "Class": 212,
+            "CRN": 48327,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Sekona, H",
+            "Course Title": "FITN 220 \u2013 Weight Conditioning/Vars. Ftbl",
+            "Class Days": "",
+            "Class": 213,
+            "CRN": 32321,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Tulloch, T",
+            "Course Title": "FITN 220 \u2013 Weight Conditioning/Vars. Ftbl",
+            "Class Days": "",
+            "Class": 214,
+            "CRN": 39516,
+            "Units": 1.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Pollack, B",
+            "Course Title": "FITN 220 \u2013 Weight Conditioning/Vars. Ftbl",
+            "Class Days": "",
+            "Class": 215,
+            "CRN": 40976,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Tulloch, T",
+            "Course Title": "FITN 220 \u2013 Weight Conditioning/Vars. Ftbl",
+            "Class Days": "",
+            "Class": 216,
+            "CRN": 48170,
+            "Units": 0.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lewis, M",
+            "Course Title": "FITN 225 \u2013 Athletic Conditioning",
+            "Class Days": "M, W, F",
+            "Class": 217,
+            "CRN": 46583,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Marcial, M",
+            "Course Title": "FITN 225 \u2013 Athletic Conditioning",
+            "Class Days": "",
+            "Class": 218,
+            "CRN": 42373,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Warner, M",
+            "Course Title": "FITN 225 \u2013 Athletic Conditioning",
+            "Class Days": "",
+            "Class": 219,
+            "CRN": 43339,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Goldhahn, K",
+            "Course Title": "FITN 225 \u2013 Athletic Conditioning",
+            "Class Days": "",
+            "Class": 220,
+            "CRN": 45042,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Quigley-Borg, N",
+            "Course Title": "FITN 225 \u2013 Athletic Conditioning",
+            "Class Days": "",
+            "Class": 221,
+            "CRN": 45864,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Silva, A",
+            "Course Title": "FITN 225 \u2013 Athletic Conditioning",
+            "Class Days": "",
+            "Class": 222,
+            "CRN": 47573,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Goulding, R",
+            "Course Title": "FITN 225 \u2013 Athletic Conditioning",
+            "Class Days": "M, W, F",
+            "Class": 223,
+            "CRN": 42374,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Goulding, R",
+            "Course Title": "FITN 225 \u2013 Athletic Conditioning",
+            "Class Days": "M, W, F",
+            "Class": 224,
+            "CRN": 45629,
+            "Units": 1.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Goulding, R",
+            "Course Title": "FITN 225 \u2013 Athletic Conditioning",
+            "Class Days": "W",
+            "Class": 225,
+            "CRN": 45038,
+            "Units": 0.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Williams, D",
+            "Course Title": "FITN 226 \u2013 Plyometric Conditioning",
+            "Class Days": "",
+            "Class": 226,
+            "CRN": 43481,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Marcial, M",
+            "Course Title": "FITN 226 \u2013 Plyometric Conditioning",
+            "Class Days": "",
+            "Class": 227,
+            "CRN": 45439,
+            "Units": 0.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Warner, M",
+            "Course Title": "FITN 226 \u2013 Plyometric Conditioning",
+            "Class Days": "",
+            "Class": 228,
+            "CRN": 46025,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Quigley-Borg, N",
+            "Course Title": "FITN 226 \u2013 Plyometric Conditioning",
+            "Class Days": "",
+            "Class": 229,
+            "CRN": 46284,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Goldhahn, K",
+            "Course Title": "FITN 226 \u2013 Plyometric Conditioning",
+            "Class Days": "",
+            "Class": 230,
+            "CRN": 47108,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Marcial, M",
+            "Course Title": "FITN 226 \u2013 Plyometric Conditioning",
+            "Class Days": "",
+            "Class": 231,
+            "CRN": 47169,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Harris, E",
+            "Course Title": "FITN 227.1 \u2013 TRX® Suspension Training I",
+            "Class Days": "T, Th",
+            "Class": 232,
+            "CRN": 47642,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Harris, E",
+            "Course Title": "FITN 227.2 \u2013 TRX® Suspension Training II",
+            "Class Days": "T, Th",
+            "Class": 233,
+            "CRN": 47643,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Harris, E",
+            "Course Title": "FITN 227.3 \u2013 TRX® Suspension Training III",
+            "Class Days": "T, Th",
+            "Class": 234,
+            "CRN": 48025,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Harris, E",
+            "Course Title": "FITN 227.4 \u2013 TRX® Suspension Training IV",
+            "Class Days": "T, Th",
+            "Class": 235,
+            "CRN": 48026,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Jimenez, C",
+            "Course Title": "FITN 235 \u2013 Boot Camp",
+            "Class Days": "M, W",
+            "Class": 236,
+            "CRN": 42647,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Sharabi, M",
+            "Course Title": "FITN 301.1 \u2013 Spinning I",
+            "Class Days": "T, Th",
+            "Class": 237,
+            "CRN": 44170,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Schmidt, M",
+            "Course Title": "FITN 301.1 \u2013 Indoor Cycling I",
+            "Class Days": "T, Th",
+            "Class": 238,
+            "CRN": 45242,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Harris, E",
+            "Course Title": "FITN 301.1 \u2013 Spinning I",
+            "Class Days": "T, Th",
+            "Class": 239,
+            "CRN": 47644,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Sharabi, M",
+            "Course Title": "FITN 301.2 \u2013 Spinning II",
+            "Class Days": "T, Th",
+            "Class": 240,
+            "CRN": 44173,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Schmidt, M",
+            "Course Title": "FITN 301.2 \u2013 Indoor Cycling II",
+            "Class Days": "T, Th",
+            "Class": 241,
+            "CRN": 45243,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Harris, E",
+            "Course Title": "FITN 301.2 \u2013 Spinning II",
+            "Class Days": "T, Th",
+            "Class": 242,
+            "CRN": 47645,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Sharabi, M",
+            "Course Title": "FITN 301.3 \u2013 Spinning III",
+            "Class Days": "T, Th",
+            "Class": 243,
+            "CRN": 44176,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Schmidt, M",
+            "Course Title": "FITN 301.3 \u2013 Indoor Cycling III",
+            "Class Days": "T, Th",
+            "Class": 244,
+            "CRN": 45244,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Harris, E",
+            "Course Title": "FITN 301.3 \u2013 Spinning III",
+            "Class Days": "T, Th",
+            "Class": 245,
+            "CRN": 48027,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Schmidt, M",
+            "Course Title": "FITN 301.4 \u2013 Indoor Cycling IV",
+            "Class Days": "T, Th",
+            "Class": 246,
+            "CRN": 45245,
+            "Units": 1
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Miladinova, A",
+            "Course Title": "FITN 304.1 \u2013 Walking Fitness I",
+            "Class Days": "Th",
+            "Class": 247,
+            "CRN": 44404,
+            "Units": 1
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Miladinova, A",
+            "Course Title": "FITN 304.1 \u2013 Walking Fitness I",
+            "Class Days": "Th",
+            "Class": 248,
+            "CRN": 44555,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Miladinova, A",
+            "Course Title": "FITN 304.1 \u2013 Walking Fitness I",
+            "Class Days": "Th",
+            "Class": 249,
+            "CRN": 44944,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Miladinova, A",
+            "Course Title": "FITN 304.1 \u2013 Walking Fitness I",
+            "Class Days": "Th",
+            "Class": 250,
+            "CRN": 47462,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "FITN 304.1 \u2013 Walking Fitness I",
+            "Class Days": "Th",
+            "Class": 251,
+            "CRN": 48283,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Brunicardi, A",
+            "Course Title": "FITN 304.1 \u2013 Walking Fitness I",
+            "Class Days": "",
+            "Class": 252,
+            "CRN": 47246,
+            "Units": 1
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Miladinova, A",
+            "Course Title": "FITN 304.2 \u2013 Walking Fitness II",
+            "Class Days": "Th",
+            "Class": 253,
+            "CRN": 44405,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Miladinova, A",
+            "Course Title": "FITN 304.2 \u2013 Walking Fitness II",
+            "Class Days": "Th",
+            "Class": 254,
+            "CRN": 44945,
+            "Units": 1
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Miladinova, A",
+            "Course Title": "FITN 304.2 \u2013 Walking Fitness II",
+            "Class Days": "Th",
+            "Class": 255,
+            "CRN": 45736,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Miladinova, A",
+            "Course Title": "FITN 304.2 \u2013 Walking Fitness II",
+            "Class Days": "Th",
+            "Class": 256,
+            "CRN": 47500,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "FITN 304.2 \u2013 Walking Fitness II",
+            "Class Days": "",
+            "Class": 257,
+            "CRN": 48284,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Perkins, K",
+            "Course Title": "FITN 308.1 \u2013 Hiking/Trekking for Fitness I",
+            "Class Days": "W",
+            "Class": 258,
+            "CRN": 47646,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Perkins, K",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 259,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Gaspar, E",
+            "Course Title": "FITN 332.1 \u2013 Stretching and Flexibility I",
+            "Class Days": "M, W",
+            "Class": 260,
+            "CRN": 48337,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Schmidt, M",
+            "Course Title": "FITN 332.1 \u2013 Stretching and Flexibility I",
+            "Class Days": "",
+            "Class": 261,
+            "CRN": 45206,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Schmidt, M",
+            "Course Title": "FITN 332.1 \u2013 Stretching and Flexibility I",
+            "Class Days": "",
+            "Class": 262,
+            "CRN": 47165,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Watters, C",
+            "Course Title": "FITN 332.1 \u2013 Stretching and Flexibility I",
+            "Class Days": "",
+            "Class": 263,
+            "CRN": 47255,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Gaspar, E",
+            "Course Title": "FITN 332.2 \u2013 Stretching and Flexibility II",
+            "Class Days": "M, W",
+            "Class": 264,
+            "CRN": 48338,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Watters, C",
+            "Course Title": "FITN 332.2 \u2013 Stretching and Flexibility II",
+            "Class Days": "",
+            "Class": 265,
+            "CRN": 47256,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Watters, C",
+            "Course Title": "FITN 332.3 \u2013 Stretching and Flexibility III",
+            "Class Days": "",
+            "Class": 266,
+            "CRN": 47257,
+            "Units": 1
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Dailey, D",
+            "Course Title": "FITN 334.1 \u2013 Yoga I",
+            "Class Days": "M, W",
+            "Class": 267,
+            "CRN": 43887,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Steele, A",
+            "Course Title": "FITN 334.1 \u2013 Yoga I",
+            "Class Days": "M, W",
+            "Class": 268,
+            "CRN": 44191,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Steele, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 269,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Simmers, K",
+            "Course Title": "FITN 334.1 \u2013 Yoga I",
+            "Class Days": "T, Th",
+            "Class": 270,
+            "CRN": 44194,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Quijano, V",
+            "Course Title": "FITN 334.1 \u2013 Yoga I",
+            "Class Days": "T, Th",
+            "Class": 271,
+            "CRN": 44729,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Quijano, V",
+            "Course Title": "FITN 334.1 \u2013 Yoga I",
+            "Class Days": "T, Th",
+            "Class": 272,
+            "CRN": 44046,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Cho, D",
+            "Course Title": "FITN 334.1 \u2013 Yoga I",
+            "Class Days": "T, Th",
+            "Class": 273,
+            "CRN": 44195,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Miladinova, A",
+            "Course Title": "FITN 334.1 \u2013 Yoga I",
+            "Class Days": "W",
+            "Class": 274,
+            "CRN": 44042,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Miladinova, A",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 275,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "FITN 334.1 \u2013 Yoga I",
+            "Class Days": "Th",
+            "Class": 276,
+            "CRN": 47469,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Miladinova, A",
+            "Course Title": "FITN 334.1 \u2013 Yoga I",
+            "Class Days": "Th",
+            "Class": 277,
+            "CRN": 48285,
+            "Units": 1
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Cho, D",
+            "Course Title": "FITN 334.1 \u2013 Yoga I",
+            "Class Days": "",
+            "Class": 278,
+            "CRN": 47917,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Dailey, D",
+            "Course Title": "FITN 334.2 \u2013 Yoga II",
+            "Class Days": "M, W",
+            "Class": 279,
+            "CRN": 43888,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Steele, A",
+            "Course Title": "FITN 334.2 \u2013 Yoga II",
+            "Class Days": "M, W",
+            "Class": 280,
+            "CRN": 44192,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Steele, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 281,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Simmers, K",
+            "Course Title": "FITN 334.2 \u2013 Yoga II",
+            "Class Days": "T, Th",
+            "Class": 282,
+            "CRN": 44198,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Quijano, V",
+            "Course Title": "FITN 334.2 \u2013 Yoga II",
+            "Class Days": "T, Th",
+            "Class": 283,
+            "CRN": 44730,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Quijano, V",
+            "Course Title": "FITN 334.2 \u2013 Yoga II",
+            "Class Days": "T, Th",
+            "Class": 284,
+            "CRN": 44047,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Cho, D",
+            "Course Title": "FITN 334.2 \u2013 Yoga II",
+            "Class Days": "T, Th",
+            "Class": 285,
+            "CRN": 44200,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Miladinova, A",
+            "Course Title": "FITN 334.2 \u2013 Yoga II",
+            "Class Days": "W",
+            "Class": 286,
+            "CRN": 44043,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Miladinova, A",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 287,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "FITN 334.2 \u2013 Yoga II",
+            "Class Days": "Th",
+            "Class": 288,
+            "CRN": 47470,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Miladinova, A",
+            "Course Title": "FITN 334.2 \u2013 Yoga II",
+            "Class Days": "Th",
+            "Class": 289,
+            "CRN": 48286,
+            "Units": 1
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Cho, D",
+            "Course Title": "FITN 334.2 \u2013 Yoga II",
+            "Class Days": "",
+            "Class": 290,
+            "CRN": 47918,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Dailey, D",
+            "Course Title": "FITN 334.3 \u2013 Yoga III",
+            "Class Days": "M, W",
+            "Class": 291,
+            "CRN": 43889,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Steele, A",
+            "Course Title": "FITN 334.3 \u2013 Yoga III",
+            "Class Days": "M, W",
+            "Class": 292,
+            "CRN": 44193,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Steele, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 293,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Simmers, K",
+            "Course Title": "FITN 334.3 \u2013 Yoga III",
+            "Class Days": "T, Th",
+            "Class": 294,
+            "CRN": 44203,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Quijano, V",
+            "Course Title": "FITN 334.3 \u2013 Yoga III",
+            "Class Days": "T, Th",
+            "Class": 295,
+            "CRN": 44731,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Quijano, V",
+            "Course Title": "FITN 334.3 \u2013 Yoga III",
+            "Class Days": "T, Th",
+            "Class": 296,
+            "CRN": 44048,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Cho, D",
+            "Course Title": "FITN 334.3 \u2013 Yoga III",
+            "Class Days": "T, Th",
+            "Class": 297,
+            "CRN": 44204,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Miladinova, A",
+            "Course Title": "FITN 334.3 \u2013 Yoga III",
+            "Class Days": "W",
+            "Class": 298,
+            "CRN": 44044,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Miladinova, A",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 299,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "FITN 334.3 \u2013 Yoga III",
+            "Class Days": "Th",
+            "Class": 300,
+            "CRN": 47471,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Miladinova, A",
+            "Course Title": "FITN 334.3 \u2013 Yoga III",
+            "Class Days": "Th",
+            "Class": 301,
+            "CRN": 48287,
+            "Units": 1
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Cho, D",
+            "Course Title": "FITN 334.3 \u2013 Yoga III",
+            "Class Days": "",
+            "Class": 302,
+            "CRN": 47919,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Dailey, D",
+            "Course Title": "FITN 334.4 \u2013 Yoga IV",
+            "Class Days": "M, W",
+            "Class": 303,
+            "CRN": 43890,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Quijano, V",
+            "Course Title": "FITN 334.4 \u2013 Yoga IV",
+            "Class Days": "T, Th",
+            "Class": 304,
+            "CRN": 44732,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Quijano, V",
+            "Course Title": "FITN 334.4 \u2013 Yoga IV",
+            "Class Days": "T, Th",
+            "Class": 305,
+            "CRN": 44049,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Miladinova, A",
+            "Course Title": "FITN 334.4 \u2013 Yoga IV",
+            "Class Days": "W",
+            "Class": 306,
+            "CRN": 44045,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Miladinova, A",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 307,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "FITN 334.4 \u2013 Yoga IV",
+            "Class Days": "Th",
+            "Class": 308,
+            "CRN": 47472,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Miladinova, A",
+            "Course Title": "FITN 334.4 \u2013 Yoga IV",
+            "Class Days": "Th",
+            "Class": 309,
+            "CRN": 48288,
+            "Units": 1
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Cho, D",
+            "Course Title": "FITN 334.4 \u2013 Yoga IV",
+            "Class Days": "",
+            "Class": 310,
+            "CRN": 47944,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Steele, A",
+            "Course Title": "FITN 335.1 \u2013 Pilates I",
+            "Class Days": "M, W",
+            "Class": 311,
+            "CRN": 44211,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Steele, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 312,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Miladinova, A",
+            "Course Title": "FITN 335.1 \u2013 Pilates I",
+            "Class Days": "M, W",
+            "Class": 313,
+            "CRN": 48328,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Miladinova, A",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 314,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Steele, A",
+            "Course Title": "FITN 335.2 \u2013 Pilates II",
+            "Class Days": "M, W",
+            "Class": 315,
+            "CRN": 44213,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Steele, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 316,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Miladinova, A",
+            "Course Title": "FITN 335.2 \u2013 Pilates II",
+            "Class Days": "M, W",
+            "Class": 317,
+            "CRN": 48329,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Miladinova, A",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 318,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Steele, A",
+            "Course Title": "FITN 335.3 \u2013 Pilates III",
+            "Class Days": "M, W",
+            "Class": 319,
+            "CRN": 44216,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Steele, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 320,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Miladinova, A",
+            "Course Title": "FITN 335.3 \u2013 Pilates III",
+            "Class Days": "M, W",
+            "Class": 321,
+            "CRN": 48330,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Miladinova, A",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 322,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Miladinova, A",
+            "Course Title": "FITN 335.4 \u2013 Pilates IV",
+            "Class Days": "M, W",
+            "Class": 323,
+            "CRN": 48331,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Miladinova, A",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 324,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Artha Negara, S",
+            "Course Title": "FITN 339 \u2013 Pilates Circuit Training",
+            "Class Days": "T, Th",
+            "Class": 325,
+            "CRN": 47686,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Corsiglia, K",
+            "Course Title": "FITN 400.1 \u2013 Fitness Academy I",
+            "Class Days": "",
+            "Class": 326,
+            "CRN": 47710,
+            "Units": 13
+        },
+        {
+            "Status": "Open",
+            "Professor": "Corsiglia, K",
+            "Course Title": "FITN 400.2 \u2013 Fitness Academy II",
+            "Class Days": "",
+            "Class": 327,
+            "CRN": 47711,
+            "Units": 13
+        },
+        {
+            "Status": "Open",
+            "Professor": "Corsiglia, K",
+            "Course Title": "FITN 400.3 \u2013 Fitness Academy III",
+            "Class Days": "",
+            "Class": 328,
+            "CRN": 47712,
+            "Units": 13
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Marcial, M",
+            "Course Title": "INDV 121.1 \u2013 Badminton I",
+            "Class Days": "M, W",
+            "Class": 329,
+            "CRN": 45419,
+            "Units": 1
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Marcial, M",
+            "Course Title": "INDV 121.2 \u2013 Badminton II",
+            "Class Days": "M, W",
+            "Class": 330,
+            "CRN": 45420,
+            "Units": 1
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Marcial, M",
+            "Course Title": "INDV 121.3 \u2013 Badminton III",
+            "Class Days": "M, W",
+            "Class": 331,
+            "CRN": 45421,
+            "Units": 1
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Marcial, M",
+            "Course Title": "INDV 121.4 \u2013 Badminton IV",
+            "Class Days": "M, W",
+            "Class": 332,
+            "CRN": 45422,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Watters, C",
+            "Course Title": "INDV 251.1 \u2013 Tennis I",
+            "Class Days": "T, Th",
+            "Class": 333,
+            "CRN": 44235,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Watters, C",
+            "Course Title": "INDV 251.2 \u2013 Tennis II",
+            "Class Days": "T, Th",
+            "Class": 334,
+            "CRN": 44236,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Watters, C",
+            "Course Title": "INDV 251.3 \u2013 Tennis III",
+            "Class Days": "T, Th",
+            "Class": 335,
+            "CRN": 44237,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Watters, C",
+            "Course Title": "INDV 251.4 \u2013 Tennis IV",
+            "Class Days": "T, Th",
+            "Class": 336,
+            "CRN": 44238,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Corsiglia, K",
+            "Course Title": "KINE 100 \u2013 Introduction to Kinesiology",
+            "Class Days": "T, Th",
+            "Class": 337,
+            "CRN": 44278,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Corsiglia, K",
+            "Course Title": "KINE 100 \u2013 Introduction to Kinesiology",
+            "Class Days": "",
+            "Class": 338,
+            "CRN": 47265,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Gaspar, E",
+            "Course Title": "KINE 101 \u2013 Introduction to Kinesiology",
+            "Class Days": "W",
+            "Class": 339,
+            "CRN": 43426,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Gaspar, E",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 340,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mangan, J",
+            "Course Title": "KINE 101 \u2013 Introduction to Kinesiology",
+            "Class Days": "",
+            "Class": 341,
+            "CRN": 43880,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mangan, J",
+            "Course Title": "KINE 101 \u2013 Introduction to Kinesiology",
+            "Class Days": "",
+            "Class": 342,
+            "CRN": 45190,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Silva, A",
+            "Course Title": "KINE 103 \u2013 Social Issues in Sport",
+            "Class Days": "",
+            "Class": 343,
+            "CRN": 48248,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mangan, J",
+            "Course Title": "KINE 103 \u2013 Social Issues in Sport",
+            "Class Days": "",
+            "Class": 344,
+            "CRN": 45605,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Goldhahn, K",
+            "Course Title": "KINE 103 \u2013 Social Issues in Sport",
+            "Class Days": "",
+            "Class": 345,
+            "CRN": 47177,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Perkins, K",
+            "Course Title": "KINE 105 \u2013 Stress Management",
+            "Class Days": "W",
+            "Class": 346,
+            "CRN": 45543,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Perkins, K",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 347,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Perkins, K",
+            "Course Title": "KINE 109 \u2013 Lifetime Fitness and Nutrition",
+            "Class Days": "",
+            "Class": 348,
+            "CRN": 48336,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Schmidt, M",
+            "Course Title": "KINE 119 \u2013 First Aid/Adult & Pedi CPR",
+            "Class Days": "",
+            "Class": 349,
+            "CRN": 44639,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Schmidt, M",
+            "Course Title": "",
+            "Class Days": "Sa",
+            "Class": 350,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Schmidt, M",
+            "Course Title": "KINE 119 \u2013 First Aid/Adult & Pedi CPR",
+            "Class Days": "",
+            "Class": 351,
+            "CRN": 47776,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Schmidt, M",
+            "Course Title": "",
+            "Class Days": "Sa",
+            "Class": 352,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Artha Negara, S",
+            "Course Title": "KINE 127 \u2013 Pilates Apparatus Instr Trng",
+            "Class Days": "T, Th",
+            "Class": 353,
+            "CRN": 46152,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Artha Negara, S",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 354,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Quigley-Borg, N",
+            "Course Title": "KINE 135 \u2013 Acad Skill Dev-Intercol Athl I",
+            "Class Days": "M",
+            "Class": 355,
+            "CRN": 45417,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Warner, M",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 356,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Burns, K",
+            "Course Title": "KINE 135 \u2013 Acad Skill Dev-Intercol Athl I",
+            "Class Days": "M, W",
+            "Class": 357,
+            "CRN": 48385,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Pollack, B",
+            "Course Title": "KINE 135 \u2013 Acad Skill Dev-Intercol Athl I",
+            "Class Days": "M, W",
+            "Class": 358,
+            "CRN": 45740,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Goldhahn, K",
+            "Course Title": "KINE 135 \u2013 Acad Skill Dev-Intercol Athl I",
+            "Class Days": "T, Th",
+            "Class": 359,
+            "CRN": 46797,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Quigley-Borg, N",
+            "Course Title": "KINE 136 \u2013 Acd Skill Dev-Intercol Athl II",
+            "Class Days": "M, W",
+            "Class": 360,
+            "CRN": 46212,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Warner, M",
+            "Course Title": "KINE 136 \u2013 Acd Skill Dev-Intercol Athl II",
+            "Class Days": "M, W",
+            "Class": 361,
+            "CRN": 46878,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Sekona, H",
+            "Course Title": "KINE 136 \u2013 Acd Skill Dev-Intercol Athl II",
+            "Class Days": "M, W",
+            "Class": 362,
+            "CRN": 45433,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Goldhahn, K",
+            "Course Title": "KINE 136 \u2013 Acd Skill Dev-Intercol Athl II",
+            "Class Days": "T",
+            "Class": 363,
+            "CRN": 46798,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Marcial, M",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 364,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Harris, E",
+            "Course Title": "KINE 137 \u2013 Athlete Skill Success 1st Year",
+            "Class Days": "M",
+            "Class": 365,
+            "CRN": 47103,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Harris, E",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 366,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Harris, E",
+            "Course Title": "KINE 138 \u2013 Athlete Skill Success 2nd Year",
+            "Class Days": "M",
+            "Class": 367,
+            "CRN": 47104,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Harris, E",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 368,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Williams, D",
+            "Course Title": "KINE 190 \u2013 Baseball Theory: Defense",
+            "Class Days": "W",
+            "Class": 369,
+            "CRN": 45990,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Williams, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 370,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Dailey, D",
+            "Course Title": "KINE 200 \u2013 Yoga History & Culture",
+            "Class Days": "M, W",
+            "Class": 371,
+            "CRN": 43307,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Dailey, D",
+            "Course Title": "KINE 201 \u2013 Yoga Pedagogy Lecture",
+            "Class Days": "M, W",
+            "Class": 372,
+            "CRN": 43408,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Dailey, D",
+            "Course Title": "KINE 202 \u2013 Yoga Asana Studies",
+            "Class Days": "M, W",
+            "Class": 373,
+            "CRN": 47687,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Dailey, D",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 374,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Artha Negara, S",
+            "Course Title": "KINE 300 \u2013 Anatomy of Motion",
+            "Class Days": "",
+            "Class": 375,
+            "CRN": 45124,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Corsiglia, K",
+            "Course Title": "KINE 305 \u2013 Health-Related Fitn/Wellness",
+            "Class Days": "",
+            "Class": 376,
+            "CRN": 48356,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Piergrossi, J",
+            "Course Title": "KINE 510 \u2013 Sport, Movement and Film",
+            "Class Days": "",
+            "Class": 377,
+            "CRN": 45527,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Nomicos, D",
+            "Course Title": "KINE 695 \u2013 Independent Study-Kinesiology",
+            "Class Days": "",
+            "Class": 378,
+            "CRN": 45479,
+            "Units": 53
+        },
+        {
+            "Status": "Open",
+            "Professor": "Tulloch, T",
+            "Course Title": "P.E. 104 \u2013 Theory of Special Teams",
+            "Class Days": "M, W, F",
+            "Class": 379,
+            "CRN": 44323,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Brunicardi, A",
+            "Course Title": "P.E. 105 \u2013 The Student-Athlete Experience",
+            "Class Days": "",
+            "Class": 380,
+            "CRN": 41382,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Quigley-Borg, N",
+            "Course Title": "P.E. 106 \u2013 Theoretical Analysis/Softball",
+            "Class Days": "M, W, F",
+            "Class": 381,
+            "CRN": 48384,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Marquez, R",
+            "Course Title": "P.E. 301 \u2013 Intro to Personal Training",
+            "Class Days": "",
+            "Class": 382,
+            "CRN": 44692,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Piergrossi, J",
+            "Course Title": "TEAM 111.1 \u2013 Basketball I",
+            "Class Days": "M, W, F",
+            "Class": 383,
+            "CRN": 44239,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Harris, E",
+            "Course Title": "TEAM 111.1 \u2013 Basketball I",
+            "Class Days": "M, W",
+            "Class": 384,
+            "CRN": 44063,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Carr, N",
+            "Course Title": "TEAM 111.1 \u2013 Basketball I",
+            "Class Days": "Sa",
+            "Class": 385,
+            "CRN": 48029,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Piergrossi, J",
+            "Course Title": "TEAM 111.2 \u2013 Basketball II",
+            "Class Days": "M, W, F",
+            "Class": 386,
+            "CRN": 44240,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Harris, E",
+            "Course Title": "TEAM 111.2 \u2013 Basketball II",
+            "Class Days": "M, W",
+            "Class": 387,
+            "CRN": 44064,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Carr, N",
+            "Course Title": "TEAM 111.2 \u2013 Basketball II",
+            "Class Days": "Sa",
+            "Class": 388,
+            "CRN": 48030,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Piergrossi, J",
+            "Course Title": "TEAM 111.3 \u2013 Basketball III",
+            "Class Days": "M, W, F",
+            "Class": 389,
+            "CRN": 44241,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Harris, E",
+            "Course Title": "TEAM 111.3 \u2013 Basketball III",
+            "Class Days": "M, W",
+            "Class": 390,
+            "CRN": 44065,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Carr, N",
+            "Course Title": "TEAM 111.3 \u2013 Basketball III",
+            "Class Days": "Sa",
+            "Class": 391,
+            "CRN": 48031,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Piergrossi, J",
+            "Course Title": "TEAM 111.4 \u2013 Basketball IV",
+            "Class Days": "M, W, F",
+            "Class": 392,
+            "CRN": 44242,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Harris, E",
+            "Course Title": "TEAM 111.4 \u2013 Basketball IV",
+            "Class Days": "M, W",
+            "Class": 393,
+            "CRN": 44066,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Carr, N",
+            "Course Title": "TEAM 111.4 \u2013 Basketball IV",
+            "Class Days": "Sa",
+            "Class": 394,
+            "CRN": 48032,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Watters, C",
+            "Course Title": "TEAM 112 \u2013 Basketball: Adv. Comp Strategy",
+            "Class Days": "",
+            "Class": 395,
+            "CRN": 41821,
+            "Units": 1
+        },
+        {
+            "Status": "Waitlist Closed",
+            "Professor": "Piergrossi, J",
+            "Course Title": "TEAM 116 \u2013 Basketball: Indv Skill Develop",
+            "Class Days": "",
+            "Class": 396,
+            "CRN": 40274,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Marcial, M",
+            "Course Title": "TEAM 116 \u2013 Basketball: Indv Skill Develop",
+            "Class Days": "",
+            "Class": 397,
+            "CRN": 46736,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Warner, M",
+            "Course Title": "TEAM 118 \u2013 Advanced Basketball",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 398,
+            "CRN": 42218,
+            "Units": 1.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Warner, M",
+            "Course Title": "TEAM 118 \u2013 Advanced Basketball",
+            "Class Days": "",
+            "Class": 399,
+            "CRN": 44410,
+            "Units": 0.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Pollack, B",
+            "Course Title": "TEAM 135 \u2013 Advanced Football/Conditioning",
+            "Class Days": "",
+            "Class": 400,
+            "CRN": 32854,
+            "Units": 1.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Sekona, H",
+            "Course Title": "TEAM 135 \u2013 Advanced Football/Conditioning",
+            "Class Days": "",
+            "Class": 401,
+            "CRN": 44325,
+            "Units": 1.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Tulloch, T",
+            "Course Title": "TEAM 135 \u2013 Advanced Football/Conditioning",
+            "Class Days": "",
+            "Class": 402,
+            "CRN": 48291,
+            "Units": 0.5
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Sharabi, M",
+            "Course Title": "TEAM 148.1 \u2013 Indoor Soccer I",
+            "Class Days": "M, W, F",
+            "Class": 403,
+            "CRN": 44266,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Gaspar, E",
+            "Course Title": "TEAM 148.1 \u2013 Indoor Soccer I",
+            "Class Days": "T, Th",
+            "Class": 404,
+            "CRN": 45136,
+            "Units": 1
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Sharabi, M",
+            "Course Title": "TEAM 148.2 \u2013 Indoor Soccer II",
+            "Class Days": "M, W, F",
+            "Class": 405,
+            "CRN": 44267,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Gaspar, E",
+            "Course Title": "TEAM 148.2 \u2013 Indoor Soccer II",
+            "Class Days": "T, Th",
+            "Class": 406,
+            "CRN": 45138,
+            "Units": 1
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Sharabi, M",
+            "Course Title": "TEAM 148.3 \u2013 Indoor Soccer III",
+            "Class Days": "M, W, F",
+            "Class": 407,
+            "CRN": 44265,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Gaspar, E",
+            "Course Title": "TEAM 148.3 \u2013 Indoor Soccer III",
+            "Class Days": "T, Th",
+            "Class": 408,
+            "CRN": 45139,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Gaspar, E",
+            "Course Title": "TEAM 148.4 \u2013 Indoor Soccer IV",
+            "Class Days": "T, Th",
+            "Class": 409,
+            "CRN": 45140,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Quigley-Borg, N",
+            "Course Title": "TEAM 150 \u2013 Softball",
+            "Class Days": "",
+            "Class": 410,
+            "CRN": 44054,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Gaspar, E",
+            "Course Title": "TEAM 184 \u2013 Soccer: Skill Dev & Condition.",
+            "Class Days": "M, T, W, Th",
+            "Class": 411,
+            "CRN": 45141,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Perkins, K",
+            "Course Title": "TEAM 184 \u2013 Soccer: Skill Dev & Condition.",
+            "Class Days": "T, W, Th",
+            "Class": 412,
+            "CRN": 45142,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Harris, E",
+            "Course Title": "TEAM 186 \u2013 Basketball: Ind. Skill Develop",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 413,
+            "CRN": 44164,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mauricio, E",
+            "Course Title": "TEAM 189 \u2013 Volleyball Theory. Offense",
+            "Class Days": "",
+            "Class": 414,
+            "CRN": 45533,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Mauricio, E",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 415,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Piergrossi, J",
+            "Course Title": "TEAM 193 \u2013 Men's Basketball Theory, Offen",
+            "Class Days": "",
+            "Class": 416,
+            "CRN": 41823,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Piergrossi, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 417,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Warner, M",
+            "Course Title": "TEAM 194 \u2013 Women's Basketball Theory, Def",
+            "Class Days": "M",
+            "Class": 418,
+            "CRN": 48386,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Warner, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 419,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Watters, C",
+            "Course Title": "TEAM 195 \u2013 Women's Basketball Theory, Off",
+            "Class Days": "",
+            "Class": 420,
+            "CRN": 41824,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Watters, C",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 421,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Saucedo, G",
+            "Course Title": "TEAM 197 \u2013 Men's Soccer Theory. Offense",
+            "Class Days": "T, Th",
+            "Class": 422,
+            "CRN": 46215,
+            "Units": 2.5
+        },
+        {
+            "Status": "",
+            "Professor": "Saucedo, G",
+            "Course Title": "",
+            "Class Days": "F",
+            "Class": 423,
+            "CRN": 0,
+            "Units": 2.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Sharabi, M",
+            "Course Title": "TEAM 198 \u2013 Women's Soccer Theory. Defense",
+            "Class Days": "T, Th",
+            "Class": 424,
+            "CRN": 41822,
+            "Units": 2.5
+        },
+        {
+            "Status": "",
+            "Professor": "Sharabi, M",
+            "Course Title": "",
+            "Class Days": "F",
+            "Class": 425,
+            "CRN": 0,
+            "Units": 2.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Haddon, J",
+            "Course Title": "TEAM 201 \u2013 Wrestling Theory",
+            "Class Days": "T, Th",
+            "Class": 426,
+            "CRN": 46246,
+            "Units": 2.5
+        },
+        {
+            "Status": "",
+            "Professor": "Haddon, J",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 427,
+            "CRN": 0,
+            "Units": 2.5
+        },
+        {
+            "Status": "",
+            "Professor": "Haddon, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 428,
+            "CRN": 0,
+            "Units": 2.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Goldhahn, K",
+            "Course Title": "TEAM 680MG \u2013 Theory/Appl Interc Volleyball",
+            "Class Days": "M",
+            "Class": 429,
+            "CRN": 48164,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Goldhahn, K",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 430,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Williams, D",
+            "Course Title": "VARS 100 \u2013 Varsity Baseball",
+            "Class Days": "",
+            "Class": 431,
+            "CRN": 32862,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Pointer, M",
+            "Course Title": "VARS 100 \u2013 Varsity Baseball",
+            "Class Days": "",
+            "Class": 432,
+            "CRN": 40920,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lucca, A",
+            "Course Title": "VARS 104 \u2013 Varsity Baseball",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 433,
+            "CRN": 34287,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Williams, D",
+            "Course Title": "VARS 105 \u2013 Varsity Basball Conditioning",
+            "Class Days": "",
+            "Class": 434,
+            "CRN": 41101,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Williams, D",
+            "Course Title": "VARS 105 \u2013 Varsity Basball Conditioning",
+            "Class Days": "",
+            "Class": 435,
+            "CRN": 45440,
+            "Units": 0.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Marcial, M",
+            "Course Title": "VARS 110 \u2013 Varsity Men's Basketball",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 436,
+            "CRN": 46735,
+            "Units": 1.5
+        },
+        {
+            "Status": "Waitlist Closed",
+            "Professor": "Piergrossi, J",
+            "Course Title": "VARS 110 \u2013 Men's Varsity Basketball",
+            "Class Days": "",
+            "Class": 437,
+            "CRN": 40921,
+            "Units": 1.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Harris, E",
+            "Course Title": "VARS 114 \u2013 Varsity Basketball",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 438,
+            "CRN": 39676,
+            "Units": 1.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Silva, A",
+            "Course Title": "VARS 160 \u2013 Varsity Swim",
+            "Class Days": "",
+            "Class": 439,
+            "CRN": 41103,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Nerenberg, D",
+            "Course Title": "VARS 170 \u2013 Varsity Tennis",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 440,
+            "CRN": 45134,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Burns, K",
+            "Course Title": "VARS 185 \u2013 Varsity Track & Field (M & W)",
+            "Class Days": "",
+            "Class": 441,
+            "CRN": 33220,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Warner, M",
+            "Course Title": "VARS 300 \u2013 Varsity Basketball: Women",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 442,
+            "CRN": 46733,
+            "Units": 1.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Watters, C",
+            "Course Title": "VARS 300 \u2013 Vars. Women's Basketball",
+            "Class Days": "",
+            "Class": 443,
+            "CRN": 45188,
+            "Units": 1.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Quigley-Borg, N",
+            "Course Title": "VARS 320 \u2013 Varsity Softball: Women",
+            "Class Days": "",
+            "Class": 444,
+            "CRN": 45262,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Goldhahn, K",
+            "Course Title": "VARS 342 \u2013 Beach Volleyball",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 445,
+            "CRN": 46732,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Watters, C",
+            "Course Title": "VARS 350 \u2013 Women's Varsity Badminton",
+            "Class Days": "",
+            "Class": 446,
+            "CRN": 41581,
+            "Units": 3
+        }
+    ]
+}

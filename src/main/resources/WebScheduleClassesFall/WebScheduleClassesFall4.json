@@ -1,0 +1,4148 @@
+{
+    "English Second Language": [
+        {
+            "Status": "Closed",
+            "Professor": "Westfold, E",
+            "Course Title": "ESL 400 \u2013 Adv Engl Multilingual Stud",
+            "Class Days": "M, W",
+            "Class": 1,
+            "CRN": 95300,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Westfold, E",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Sidman-Taveau, R",
+            "Course Title": "ESL 400 \u2013 Comp. Multilingual Students",
+            "Class Days": "M, W",
+            "Class": 3,
+            "CRN": 96430,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Kaiser, E",
+            "Course Title": "ESL 400 \u2013 Adv Engl Multilingual Stud",
+            "Class Days": "M, W, F",
+            "Class": 4,
+            "CRN": 95985,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Schuler, E",
+            "Course Title": "ESL 400 \u2013 Adv Engl Multilingual Stud",
+            "Class Days": "T, Th",
+            "Class": 5,
+            "CRN": 92214,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Pelletier, D",
+            "Course Title": "ESL 400 \u2013 Comp. Multilingual Students",
+            "Class Days": "T",
+            "Class": 6,
+            "CRN": 96429,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Pelletier, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Johnson, I",
+            "Course Title": "ESL 400 \u2013 Adv Engl Multilingual Stud",
+            "Class Days": "M, W",
+            "Class": 8,
+            "CRN": 95986,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Pacheco Matus, G",
+            "Course Title": "ESL 400 \u2013 Comp. Multilingual Students",
+            "Class Days": "M, W",
+            "Class": 9,
+            "CRN": 96431,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ades, N",
+            "Course Title": "ESL 800 \u2013 ESL Preparatory Course",
+            "Class Days": "M, W",
+            "Class": 10,
+            "CRN": 93371,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hwang, S",
+            "Course Title": "ESL 826 \u2013 Writing for Multilingual II",
+            "Class Days": "M, W, F",
+            "Class": 11,
+            "CRN": 82343,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ridgway, K",
+            "Course Title": "ESL 827 \u2013 Writing Non-Native SpeakersIII",
+            "Class Days": "M, W, F",
+            "Class": 12,
+            "CRN": 82347,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Walsh, M",
+            "Course Title": "ESL 827 \u2013 Writing Non-Native SpeakersIII",
+            "Class Days": "M, W, F",
+            "Class": 13,
+            "CRN": 82349,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ridgway, K",
+            "Course Title": "ESL 827 \u2013 Writing for Multilingual III",
+            "Class Days": "M, W",
+            "Class": 14,
+            "CRN": 82350,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Murphy, T",
+            "Course Title": "ESL 828 \u2013 Writing for Multilingual IV",
+            "Class Days": "M, W, F",
+            "Class": 15,
+            "CRN": 82351,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lim, S",
+            "Course Title": "ESL 828 \u2013 Writing for Multilingual IV",
+            "Class Days": "M, W, F",
+            "Class": 16,
+            "CRN": 92796,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Kurland, E",
+            "Course Title": "ESL 828 \u2013 Writing for Multilingual IV",
+            "Class Days": "T, Th",
+            "Class": 17,
+            "CRN": 94353,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Kurland, E",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 18,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Abbas, M",
+            "Course Title": "ESL 828 \u2013 Writing for Multilingual IV",
+            "Class Days": "W",
+            "Class": 19,
+            "CRN": 82353,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Abbas, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 20,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Pacheco Matus, G",
+            "Course Title": "ESL 836 \u2013 English Pronunciation",
+            "Class Days": "T, Th",
+            "Class": 21,
+            "CRN": 92273,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Pacheco Matus, G",
+            "Course Title": "ESL 837 \u2013 Intmdt. Vocabulary Development",
+            "Class Days": "M, W",
+            "Class": 22,
+            "CRN": 92173,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Pacheco Matus, G",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 23,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Westfold, E",
+            "Course Title": "ESL 846 \u2013 Listening and Speaking II",
+            "Class Days": "M, W, F",
+            "Class": 24,
+            "CRN": 97351,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Walsh, M",
+            "Course Title": "ESL 846 \u2013 Listening and Speaking II",
+            "Class Days": "T",
+            "Class": 25,
+            "CRN": 83021,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Murphy, T",
+            "Course Title": "ESL 847 \u2013 Listening and Speaking III",
+            "Class Days": "M, W, F",
+            "Class": 26,
+            "CRN": 97215,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Kurland, E",
+            "Course Title": "ESL 847 \u2013 Listening and Speaking III",
+            "Class Days": "T, Th",
+            "Class": 27,
+            "CRN": 83022,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Gable, E",
+            "Course Title": "ESL 847 \u2013 Listening and Speaking III",
+            "Class Days": "T",
+            "Class": 28,
+            "CRN": 89620,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hwang, S",
+            "Course Title": "ESL 848 \u2013 Listening and Speaking IV",
+            "Class Days": "M, W, F",
+            "Class": 29,
+            "CRN": 94354,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Schuler, E",
+            "Course Title": "ESL 848 \u2013 Listening and Speaking IV",
+            "Class Days": "T",
+            "Class": 30,
+            "CRN": 89816,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Schuler, E",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 31,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Westfold, E",
+            "Course Title": "ESL 849 \u2013 Listening & Speaking Workshop",
+            "Class Days": "",
+            "Class": 32,
+            "CRN": 96304,
+            "Units": 0.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ridgway, K",
+            "Course Title": "ESL 856 \u2013 Reading for Multilingual II",
+            "Class Days": "M, F",
+            "Class": 33,
+            "CRN": 89978,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Kurland, E",
+            "Course Title": "ESL 857 \u2013 Reading for Multilingual III",
+            "Class Days": "T, Th",
+            "Class": 34,
+            "CRN": 92802,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hwang, S",
+            "Course Title": "ESL 858 \u2013 Reading for Multilingual IV",
+            "Class Days": "M, W",
+            "Class": 35,
+            "CRN": 93666,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Bianchi-Mcelwee, S",
+            "Course Title": "ESL 887 \u2013 Pronunc Engl Consonants/Vowels",
+            "Class Days": "T",
+            "Class": 36,
+            "CRN": 96881,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Kaiser, E",
+            "Course Title": "ESL 888 \u2013 Pronunc Engl Stress/Rhythm/Int",
+            "Class Days": "T, Th",
+            "Class": 37,
+            "CRN": 96463,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Westfold, E",
+            "Course Title": "ESL 895 \u2013 Reading Improvmnt-Multilingual",
+            "Class Days": "",
+            "Class": 38,
+            "CRN": 89523,
+            "Units": 0.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Westfold, E",
+            "Course Title": "ESL 897 \u2013 Int Vocabulary - Multilingual",
+            "Class Days": "",
+            "Class": 39,
+            "CRN": 87541,
+            "Units": 51
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Kurland, E",
+            "Course Title": "ESL 898 \u2013 Comp Grammar Rev-Multilingual",
+            "Class Days": "",
+            "Class": 40,
+            "CRN": 94540,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Westfold, E",
+            "Course Title": "ESL 907 \u2013 Independent Writng Study-Inter",
+            "Class Days": "",
+            "Class": 41,
+            "CRN": 94656,
+            "Units": 51
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Westfold, E",
+            "Course Title": "ESL 908 \u2013 Independent Writing Study-Advn",
+            "Class Days": "",
+            "Class": 42,
+            "CRN": 94659,
+            "Units": 51
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Bunse, G",
+            "Course Title": "ESL 911 \u2013 Reading & Listening/Speaking I",
+            "Class Days": "M, W",
+            "Class": 43,
+            "CRN": 93652,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Carey, J",
+            "Course Title": "ESL 912 \u2013 Reading & Listening-Speakng II",
+            "Class Days": "T, Th",
+            "Class": 44,
+            "CRN": 92741,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Pelletier, D",
+            "Course Title": "ESL 912 \u2013 Reading & Listening-Speakng II",
+            "Class Days": "T",
+            "Class": 45,
+            "CRN": 92742,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Pelletier, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 46,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Schertle, K",
+            "Course Title": "ESL 913 \u2013 Reading & Listening-Speakg III",
+            "Class Days": "T",
+            "Class": 47,
+            "CRN": 92743,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Schertle, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 48,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Pacheco Matus, G",
+            "Course Title": "ESL 913 \u2013 Reading & Listening-Speakg III",
+            "Class Days": "T, Th",
+            "Class": 49,
+            "CRN": 92744,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Aguirre, A",
+            "Course Title": "ESL 914 \u2013 Reading & Listening-Speakin IV",
+            "Class Days": "T, Th",
+            "Class": 50,
+            "CRN": 92745,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Haven, K",
+            "Course Title": "ESL 914 \u2013 Reading & Listening-Speakin IV",
+            "Class Days": "Th",
+            "Class": 51,
+            "CRN": 92746,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Haven, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 52,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Haven, K",
+            "Course Title": "ESL 921 \u2013 Grammar and Writing I",
+            "Class Days": "M, W, F",
+            "Class": 53,
+            "CRN": 93362,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Scarabelli, S",
+            "Course Title": "ESL 921 \u2013 Grammar and Writing I",
+            "Class Days": "T, Th",
+            "Class": 54,
+            "CRN": 93364,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Schertle, K",
+            "Course Title": "ESL 922 \u2013 Grammar and Writing II",
+            "Class Days": "M",
+            "Class": 55,
+            "CRN": 92749,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Schertle, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 56,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Schertle, K",
+            "Course Title": "ESL 922 \u2013 Grammar and Writing II",
+            "Class Days": "M",
+            "Class": 57,
+            "CRN": 92750,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Schertle, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 58,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Pacheco Matus, G",
+            "Course Title": "ESL 923 \u2013 Grammar and Writing III",
+            "Class Days": "M, W",
+            "Class": 59,
+            "CRN": 92751,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Pelletier, D",
+            "Course Title": "ESL 923 \u2013 Grammar and Writing III",
+            "Class Days": "W",
+            "Class": 60,
+            "CRN": 92752,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Pelletier, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 61,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Carey, J",
+            "Course Title": "ESL 924 \u2013 Grammar and Writing IV",
+            "Class Days": "W",
+            "Class": 62,
+            "CRN": 92753,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Carey, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 63,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Carey, J",
+            "Course Title": "ESL 924 \u2013 Grammar and Writing IV",
+            "Class Days": "W",
+            "Class": 64,
+            "CRN": 95159,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Carey, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 65,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Shaw, L",
+            "Course Title": "ESOL 400 \u2013 English Comp-Nonnative Spkrs",
+            "Class Days": "M, W, F",
+            "Class": 66,
+            "CRN": 91643,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Struss, E",
+            "Course Title": "ESOL 400 \u2013 English Comp-Nonnative Spkrs",
+            "Class Days": "T, Th",
+            "Class": 67,
+            "CRN": 97657,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Struss, E",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 68,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Struss, E",
+            "Course Title": "ESOL 400 \u2013 English Comp-Nonnative Spkrs",
+            "Class Days": "T, Th",
+            "Class": 69,
+            "CRN": 84396,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Shaw, L",
+            "Course Title": "ESOL 830 \u2013 ENGL Spkrs Other Languages III",
+            "Class Days": "T, Th",
+            "Class": 70,
+            "CRN": 85322,
+            "Units": 6
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Mazzi, F",
+            "Course Title": "ESOL 840 \u2013 ENGL Spkrs Other Languages IV",
+            "Class Days": "M, W, F",
+            "Class": 71,
+            "CRN": 96754,
+            "Units": 6
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Mazzi, F",
+            "Course Title": "ESOL 840 \u2013 ENGL Spkrs Other Languages IV",
+            "Class Days": "T, Th",
+            "Class": 72,
+            "CRN": 97667,
+            "Units": 6
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Kocak, M",
+            "Course Title": "ESOL 840 \u2013 ENGL Spkrs Other Languages IV",
+            "Class Days": "T, Th",
+            "Class": 73,
+            "CRN": 94966,
+            "Units": 6
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Mazzi, F",
+            "Course Title": "ESOL 853 \u2013 Int. ESL Listening & Speaking",
+            "Class Days": "T, Th",
+            "Class": 74,
+            "CRN": 97668,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Struss, E",
+            "Course Title": "ESOL 854 \u2013 High-Int. ESL Listen & Speak",
+            "Class Days": "M, W",
+            "Class": 75,
+            "CRN": 97669,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Kocak, M",
+            "Course Title": "ESOL 873 \u2013 Intermediate ESL Grammar",
+            "Class Days": "Sa",
+            "Class": 76,
+            "CRN": 97670,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Shaw, L",
+            "Course Title": "ESOL 875 \u2013 Advanced ESL Grammar & Editing",
+            "Class Days": "M, W",
+            "Class": 77,
+            "CRN": 97671,
+            "Units": 3
+        }
+    ],
+    "Esthetics": [
+        {
+            "Status": "Closed",
+            "Professor": "Stephens, A",
+            "Course Title": "ESTI 725 \u2013 State Board Written Exam Prep",
+            "Class Days": "",
+            "Class": 1,
+            "CRN": 97808,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Stephens, A",
+            "Course Title": "ESTI 725 \u2013 State Board Written Exam Prep",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 98026,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Mitchell, R",
+            "Course Title": "ESTI 775 \u2013 Esthetics I",
+            "Class Days": "M, T, W, Th",
+            "Class": 3,
+            "CRN": 97102,
+            "Units": 12
+        },
+        {
+            "Status": "",
+            "Professor": "Mitchell, R",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 0,
+            "Units": 12
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hemstreet, L",
+            "Course Title": "ESTI 775 \u2013 Esthetics I",
+            "Class Days": "M, T, W, Th",
+            "Class": 5,
+            "CRN": 97103,
+            "Units": 12
+        },
+        {
+            "Status": "",
+            "Professor": "Hemstreet, L",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 0,
+            "Units": 12
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Calderon, T",
+            "Course Title": "ESTI 776 \u2013 Esthetics II",
+            "Class Days": "M, T, W, Th",
+            "Class": 7,
+            "CRN": 97117,
+            "Units": 12
+        },
+        {
+            "Status": "",
+            "Professor": "Calderon, T",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 0,
+            "Units": 12
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Rizzo, J",
+            "Course Title": "ESTI 776 \u2013 Esthetics II",
+            "Class Days": "M, T, W, Th",
+            "Class": 9,
+            "CRN": 98025,
+            "Units": 12
+        },
+        {
+            "Status": "",
+            "Professor": "Rizzo, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 10,
+            "CRN": 0,
+            "Units": 12
+        }
+    ],
+    "Fashion Design": [
+        {
+            "Status": "Closed",
+            "Professor": "Matsuo, H",
+            "Course Title": "FASH 110 \u2013 Beg. Clothing Construction",
+            "Class Days": "Th",
+            "Class": 1,
+            "CRN": 89439,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Matsuo, H",
+            "Course Title": "FASH 110 \u2013 Beg. Clothing Construction",
+            "Class Days": "T",
+            "Class": 2,
+            "CRN": 84099,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Maynard, L",
+            "Course Title": "FASH 111 \u2013 Techniques of Fit",
+            "Class Days": "T",
+            "Class": 3,
+            "CRN": 84100,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Jackson, J",
+            "Course Title": "FASH 113 \u2013 Textiles",
+            "Class Days": "W",
+            "Class": 4,
+            "CRN": 93035,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Chaney, R",
+            "Course Title": "FASH 115 \u2013 Int Clothing Construction",
+            "Class Days": "T",
+            "Class": 5,
+            "CRN": 87257,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Chaney, R",
+            "Course Title": "FASH 116 \u2013 Tailoring",
+            "Class Days": "W",
+            "Class": 6,
+            "CRN": 92706,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Chaney, R",
+            "Course Title": "FASH 118 \u2013 Flat Pattern",
+            "Class Days": "W",
+            "Class": 7,
+            "CRN": 89441,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Chaney, R",
+            "Course Title": "FASH 122 \u2013 Advanced Tailoring",
+            "Class Days": "W",
+            "Class": 8,
+            "CRN": 92707,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Maynard, L",
+            "Course Title": "FASH 132 \u2013 Trouser Construction",
+            "Class Days": "M",
+            "Class": 9,
+            "CRN": 93033,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Chaney, R",
+            "Course Title": "FASH 146 \u2013 Designer Techniques in Sewing",
+            "Class Days": "Th",
+            "Class": 10,
+            "CRN": 94874,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Jackson, J",
+            "Course Title": "FASH 150 \u2013 History of Fashion",
+            "Class Days": "M",
+            "Class": 11,
+            "CRN": 93034,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Jackson, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 12,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Maynard, L",
+            "Course Title": "FASH 171 \u2013 Pants Drafting",
+            "Class Days": "M",
+            "Class": 13,
+            "CRN": 90864,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Maynard, L",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 14,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "McCarney, K",
+            "Course Title": "FASH 175 \u2013 Advanced Illustration",
+            "Class Days": "Th",
+            "Class": 15,
+            "CRN": 89968,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "McCarney, K",
+            "Course Title": "FASH 195 \u2013 Portfolio Development",
+            "Class Days": "Th",
+            "Class": 16,
+            "CRN": 93354,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Schneider, E",
+            "Course Title": "FASH 226 \u2013 Visual Merchandising & Display",
+            "Class Days": "",
+            "Class": 17,
+            "CRN": 91515,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Jones, A",
+            "Course Title": "FASH 672 \u2013 Cooperative Ed.: Internship",
+            "Class Days": "W",
+            "Class": 18,
+            "CRN": 91513,
+            "Units": 13
+        },
+        {
+            "Status": "",
+            "Professor": "Jones, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 19,
+            "CRN": 0,
+            "Units": 13
+        }
+    ],
+    "Electronics": [
+        {
+            "Status": "Closed",
+            "Professor": "Langhoff, N",
+            "Course Title": "ELEC 111 \u2013 Intro to Electronics Fundmntls",
+            "Class Days": "T, Th",
+            "Class": 1,
+            "CRN": 97246,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Langhoff, N",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Tsuchida, T",
+            "Course Title": "ELEC 231 \u2013 Basic Applied Electronics Math",
+            "Class Days": "T, Th",
+            "Class": 3,
+            "CRN": 97247,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Bruxvoort, J",
+            "Course Title": "ELEC 231 \u2013 Basic Applied Electronics Math",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 97400,
+            "Units": 2
+        }
+    ],
+    "Environmental Science": [
+        {
+            "Status": "Closed",
+            "Professor": "Danfoura, M",
+            "Course Title": "ENVS 100 \u2013 Intro to Environmental Science",
+            "Class Days": "T, Th",
+            "Class": 1,
+            "CRN": 93168,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Anttila, C",
+            "Course Title": "ENVS 100 \u2013 Intro to Environmental Science",
+            "Class Days": "Th",
+            "Class": 2,
+            "CRN": 96295,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Anttila, C",
+            "Course Title": "ENVS 100 \u2013 Intr to Environm Science- ECAP",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 98029,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Mahoney, S",
+            "Course Title": "ENVS 101 \u2013 Environmental Science Lab",
+            "Class Days": "W",
+            "Class": 4,
+            "CRN": 97538,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Danfoura, M",
+            "Course Title": "ENVS 101 \u2013 Environmental Science Lab",
+            "Class Days": "Th",
+            "Class": 5,
+            "CRN": 96965,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Anttila, C",
+            "Course Title": "ENVS 101 \u2013 Environmental Science Lab",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 97515,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Anttila, C",
+            "Course Title": "ENVS 101 \u2013 Environmental Scien Lab - ECAP",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 98059,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Mahoney, S",
+            "Course Title": "ENVS 115 \u2013 Environmental Science",
+            "Class Days": "M, W",
+            "Class": 8,
+            "CRN": 93485,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Mahoney, S",
+            "Course Title": "ENVS 115 \u2013 Environmental Science -Honors",
+            "Class Days": "M, W",
+            "Class": 9,
+            "CRN": 96735,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Mahoney, S",
+            "Course Title": "ENVS 115 \u2013 Environmental Science",
+            "Class Days": "",
+            "Class": 10,
+            "CRN": 94414,
+            "Units": 3
+        }
+    ],
+    "Network Engineering Technology": [
+        {
+            "Status": "Closed",
+            "Professor": "Lohmann, R",
+            "Course Title": "NETX 400 \u2013 Intro to Local Area Network",
+            "Class Days": "",
+            "Class": 1,
+            "CRN": 96784,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Lohmann, R",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Pirehabdollahkandi, R",
+            "Course Title": "NETX 400 \u2013 Intro to Local Area Network",
+            "Class Days": "T, W, Th",
+            "Class": 3,
+            "CRN": 97832,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Pirehabdollahkandi, R",
+            "Course Title": "",
+            "Class Days": "T, W, Th",
+            "Class": 4,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Cortes, Q",
+            "Course Title": "NETX 400 \u2013 Intro to Local Area Network",
+            "Class Days": "Th",
+            "Class": 5,
+            "CRN": 94955,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Cortes, Q",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Del Prado, N",
+            "Course Title": "NETX 402 \u2013 Cybersecurity Infrastructure",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 98076,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hicks, R",
+            "Course Title": "NETX 405 \u2013 Data Center Infrastructure",
+            "Class Days": "T",
+            "Class": 8,
+            "CRN": 98077,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lohmann, R",
+            "Course Title": "NETX 420 \u2013 PC Configuration and Repair",
+            "Class Days": "M, W",
+            "Class": 9,
+            "CRN": 97553,
+            "Units": 6
+        },
+        {
+            "Status": "",
+            "Professor": "Lohmann, R",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 10,
+            "CRN": 0,
+            "Units": 6
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Del Prado, N",
+            "Course Title": "NETX 430 \u2013 Introduction to Routers",
+            "Class Days": "M",
+            "Class": 11,
+            "CRN": 94957,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Del Prado, N",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 12,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Del Prado, N",
+            "Course Title": "NETX 432 \u2013 Routing Concepts/Applications",
+            "Class Days": "",
+            "Class": 13,
+            "CRN": 94961,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Del Prado, N",
+            "Course Title": "NETX 439 \u2013 TroubleshootingtheInternetwork",
+            "Class Days": "",
+            "Class": 14,
+            "CRN": 97558,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Pirehabdollahkandi, R",
+            "Course Title": "NETX 443 \u2013 Intro to Linux Administration",
+            "Class Days": "",
+            "Class": 15,
+            "CRN": 98075,
+            "Units": 3.5
+        },
+        {
+            "Status": "",
+            "Professor": "Pirehabdollahkandi, R",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 16,
+            "CRN": 0,
+            "Units": 3.5
+        }
+    ],
+    "Emergency Medical Care": [
+        {
+            "Status": "Closed",
+            "Professor": "Ambuehl, J",
+            "Course Title": "EMC. 410 \u2013 Emergency Medical Technician",
+            "Class Days": "F",
+            "Class": 1,
+            "CRN": 85109,
+            "Units": 8
+        },
+        {
+            "Status": "",
+            "Professor": "Baalbaki, I",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 8
+        },
+        {
+            "Status": "",
+            "Professor": "Baalbaki, I",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 0,
+            "Units": 8
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Miller, R",
+            "Course Title": "EMC. 425 \u2013 CPR: Health Care Provider-RPTH",
+            "Class Days": "M",
+            "Class": 4,
+            "CRN": 98176,
+            "Units": 0.5
+        },
+        {
+            "Status": "",
+            "Professor": "Miller, R",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 5,
+            "CRN": 0,
+            "Units": 0.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Miller, R",
+            "Course Title": "EMC. 425 \u2013 CPR: Health Care Provider",
+            "Class Days": "M, T",
+            "Class": 6,
+            "CRN": 87370,
+            "Units": 0.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Miller, R",
+            "Course Title": "EMC. 425 \u2013 CPR: Health Care Provider",
+            "Class Days": "M, T",
+            "Class": 7,
+            "CRN": 87371,
+            "Units": 0.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Miller, R",
+            "Course Title": "EMC. 425 \u2013 CPR: Health Care Provider",
+            "Class Days": "M, T",
+            "Class": 8,
+            "CRN": 90529,
+            "Units": 0.5
+        }
+    ],
+    "English": [
+        {
+            "Status": "Closed",
+            "Professor": "Harrison, M",
+            "Course Title": "ENGL 100 \u2013 Reading and Composition",
+            "Class Days": "M, W",
+            "Class": 1,
+            "CRN": 81151,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "McQuade, J",
+            "Course Title": "ENGL 100 \u2013 Reading and Composition",
+            "Class Days": "M, W",
+            "Class": 2,
+            "CRN": 81153,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Goldstone, S",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "M, W, F",
+            "Class": 3,
+            "CRN": 82251,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ubungen, M",
+            "Course Title": "ENGL 100 \u2013 Composition",
+            "Class Days": "M, W, F",
+            "Class": 4,
+            "CRN": 84287,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Goldstone, S",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "M, W, F",
+            "Class": 5,
+            "CRN": 82244,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Fitzgerald, V",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "M, W, F",
+            "Class": 6,
+            "CRN": 90939,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Nuila-Chae, S",
+            "Course Title": "ENGL 100 \u2013 Composition",
+            "Class Days": "M, W, F",
+            "Class": 7,
+            "CRN": 97315,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Anderson, R",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "M, W",
+            "Class": 8,
+            "CRN": 82235,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Negus, S",
+            "Course Title": "ENGL 100 \u2013 Reading and Composition",
+            "Class Days": "M, W",
+            "Class": 9,
+            "CRN": 81154,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Harrison, M",
+            "Course Title": "ENGL 100 \u2013 Reading and Composition",
+            "Class Days": "M, W",
+            "Class": 10,
+            "CRN": 92998,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Fitzgerald, V",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "M, W, F",
+            "Class": 11,
+            "CRN": 82224,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wallace, J",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "M, W, F",
+            "Class": 12,
+            "CRN": 82225,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Nuila-Chae, S",
+            "Course Title": "ENGL 100 \u2013 Composition",
+            "Class Days": "M, W, F",
+            "Class": 13,
+            "CRN": 91408,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Travis, K",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "M, W",
+            "Class": 14,
+            "CRN": 82227,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Sin, S",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "M, W, F",
+            "Class": 15,
+            "CRN": 82237,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Murphy, M",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "M, W",
+            "Class": 16,
+            "CRN": 82242,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Murphy, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 17,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Harrison, M",
+            "Course Title": "ENGL 100 \u2013 Reading and Composition",
+            "Class Days": "M, W",
+            "Class": 18,
+            "CRN": 93013,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Cross, M",
+            "Course Title": "ENGL 100 \u2013 Composition",
+            "Class Days": "M, W, F",
+            "Class": 19,
+            "CRN": 95979,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Heltzel, E",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "M, W",
+            "Class": 20,
+            "CRN": 82229,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hern, K",
+            "Course Title": "ENGL 100 \u2013 Composition",
+            "Class Days": "M, W",
+            "Class": 21,
+            "CRN": 95787,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Hern, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 22,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wiley, M",
+            "Course Title": "ENGL 100 \u2013 Reading and Composition-Honors",
+            "Class Days": "M, W",
+            "Class": 23,
+            "CRN": 92120,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Mills, A",
+            "Course Title": "ENGL 100 \u2013 Reading and Composition",
+            "Class Days": "M, W",
+            "Class": 24,
+            "CRN": 96017,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wiley, M",
+            "Course Title": "ENGL 100 \u2013 Reading and Composition",
+            "Class Days": "M, W",
+            "Class": 25,
+            "CRN": 97101,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hern, K",
+            "Course Title": "ENGL 100 \u2013 Composition",
+            "Class Days": "M, W",
+            "Class": 26,
+            "CRN": 95404,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hern, K",
+            "Course Title": "ENGL 100 \u2013 Composition - PSP",
+            "Class Days": "M, W",
+            "Class": 27,
+            "CRN": 96631,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Murphy, M",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "M, W",
+            "Class": 28,
+            "CRN": 97373,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Murphy, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 29,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Baden, R",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "M, W",
+            "Class": 30,
+            "CRN": 97891,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lawson, D",
+            "Course Title": "ENGL 100 \u2013 Reading and Composition",
+            "Class Days": "T, Th",
+            "Class": 31,
+            "CRN": 81152,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Maxwell, T",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "T, Th",
+            "Class": 32,
+            "CRN": 82240,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Feiner, J",
+            "Course Title": "ENGL 100 \u2013 Composition",
+            "Class Days": "T, Th",
+            "Class": 33,
+            "CRN": 90448,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Bell, R",
+            "Course Title": "ENGL 100 \u2013 Composition",
+            "Class Days": "T, Th",
+            "Class": 34,
+            "CRN": 85832,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Terzakis, E",
+            "Course Title": "ENGL 100 \u2013 Reading and Composition",
+            "Class Days": "T, Th",
+            "Class": 35,
+            "CRN": 81155,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Cudahy, M",
+            "Course Title": "ENGL 100 \u2013 Reading and Composition",
+            "Class Days": "T, Th",
+            "Class": 36,
+            "CRN": 81157,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Cudahy, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 37,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Woltag, L",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "T, Th",
+            "Class": 38,
+            "CRN": 82252,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "De Andreis, E",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "T, Th",
+            "Class": 39,
+            "CRN": 90938,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Sidman-Taveau, R",
+            "Course Title": "ENGL 100 \u2013 Reading and Composition",
+            "Class Days": "T, Th",
+            "Class": 40,
+            "CRN": 92119,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Kim, R",
+            "Course Title": "ENGL 100 \u2013 Reading and Composition",
+            "Class Days": "T, Th",
+            "Class": 41,
+            "CRN": 94766,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Kim, R",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 42,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lawson, D",
+            "Course Title": "ENGL 100 \u2013 Reading and Composition",
+            "Class Days": "T, Th",
+            "Class": 43,
+            "CRN": 94975,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Bell, R",
+            "Course Title": "ENGL 100 \u2013 Composition",
+            "Class Days": "T, Th",
+            "Class": 44,
+            "CRN": 83920,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Honda, K",
+            "Course Title": "ENGL 100 \u2013 Reading and Composition",
+            "Class Days": "T, Th",
+            "Class": 45,
+            "CRN": 90721,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Honda, K",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 46,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "McQuade, J",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 47,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Travis, K",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "T, Th",
+            "Class": 48,
+            "CRN": 94829,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "De Andreis, E",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "T, Th",
+            "Class": 49,
+            "CRN": 82230,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Terzakis, E",
+            "Course Title": "ENGL 100 \u2013 Reading and Composition",
+            "Class Days": "T, Th",
+            "Class": 50,
+            "CRN": 84758,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Woltag, L",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "T, Th",
+            "Class": 51,
+            "CRN": 82223,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Woltag, L",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "T, Th",
+            "Class": 52,
+            "CRN": 82226,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Woltag, L",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 53,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Williams, R",
+            "Course Title": "ENGL 100 \u2013 Composition",
+            "Class Days": "T, Th",
+            "Class": 54,
+            "CRN": 80295,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Clark, W",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "M",
+            "Class": 55,
+            "CRN": 82253,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Warden, M",
+            "Course Title": "ENGL 100 \u2013 Composition",
+            "Class Days": "W",
+            "Class": 56,
+            "CRN": 80307,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Malavade, K",
+            "Course Title": "ENGL 100 \u2013 Reading and Composition",
+            "Class Days": "Th",
+            "Class": 57,
+            "CRN": 84211,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Malavade, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 58,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Malavade, K",
+            "Course Title": "ENGL 100 \u2013 Reading and Composition",
+            "Class Days": "Th",
+            "Class": 59,
+            "CRN": 93392,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Malavade, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 60,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Admassu, S",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "M, W",
+            "Class": 61,
+            "CRN": 86232,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Admassu, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 62,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Cross, M",
+            "Course Title": "ENGL 100 \u2013 Composition - PSP",
+            "Class Days": "M, W, F",
+            "Class": 63,
+            "CRN": 96630,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Terzakis, E",
+            "Course Title": "ENGL 100 \u2013 Reading and Composition",
+            "Class Days": "T, Th",
+            "Class": 64,
+            "CRN": 95994,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Bruni, P",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "W",
+            "Class": 65,
+            "CRN": 82256,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Dowling, C",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "",
+            "Class": 66,
+            "CRN": 82219,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Dowling, C",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "",
+            "Class": 67,
+            "CRN": 83857,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Anderson, R",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "",
+            "Class": 68,
+            "CRN": 84518,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Jones, N",
+            "Course Title": "ENGL 100 \u2013 Composition",
+            "Class Days": "",
+            "Class": 69,
+            "CRN": 91114,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Anderson, R",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "",
+            "Class": 70,
+            "CRN": 91718,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Cross, M",
+            "Course Title": "ENGL 100 \u2013 Composition",
+            "Class Days": "",
+            "Class": 71,
+            "CRN": 91932,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wiley, M",
+            "Course Title": "ENGL 100 \u2013 Reading and Composition",
+            "Class Days": "",
+            "Class": 72,
+            "CRN": 92973,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Admassu, S",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "",
+            "Class": 73,
+            "CRN": 93335,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wiley, M",
+            "Course Title": "ENGL 100 \u2013 Reading and Composition",
+            "Class Days": "",
+            "Class": 74,
+            "CRN": 94398,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Glanting, P",
+            "Course Title": "ENGL 100 \u2013 Reading and Composition",
+            "Class Days": "",
+            "Class": 75,
+            "CRN": 94399,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Sumstad, J",
+            "Course Title": "ENGL 100 \u2013 Reading and Composition",
+            "Class Days": "",
+            "Class": 76,
+            "CRN": 95206,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Clark, W",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "",
+            "Class": 77,
+            "CRN": 95350,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Cross, M",
+            "Course Title": "ENGL 100 \u2013 Composition",
+            "Class Days": "",
+            "Class": 78,
+            "CRN": 96282,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Jones, N",
+            "Course Title": "ENGL 100 \u2013 Composition",
+            "Class Days": "",
+            "Class": 79,
+            "CRN": 96283,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Dowling, C",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "",
+            "Class": 80,
+            "CRN": 96898,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Sandel, A",
+            "Course Title": "ENGL 100 \u2013 Composition",
+            "Class Days": "",
+            "Class": 81,
+            "CRN": 96975,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Zoughbie, S",
+            "Course Title": "ENGL 100 \u2013 Composition",
+            "Class Days": "",
+            "Class": 82,
+            "CRN": 97053,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Sandel, A",
+            "Course Title": "ENGL 100 \u2013 Composition",
+            "Class Days": "",
+            "Class": 83,
+            "CRN": 97054,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Heltzel, E",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "",
+            "Class": 84,
+            "CRN": 97218,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Christensen, G",
+            "Course Title": "ENGL 100 \u2013 Composition",
+            "Class Days": "",
+            "Class": 85,
+            "CRN": 97274,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Maher, D",
+            "Course Title": "ENGL 100 \u2013 Reading and Composition",
+            "Class Days": "",
+            "Class": 86,
+            "CRN": 97811,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Erpelo, L",
+            "Course Title": "ENGL 103 \u2013 ENGLSkillsCultProd I Kababayan",
+            "Class Days": "T, Th",
+            "Class": 87,
+            "CRN": 97703,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Feiner, J",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "M, W, F",
+            "Class": 88,
+            "CRN": 94993,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Belluomini, J",
+            "Course Title": "ENGL 105 \u2013 Comp w Supp Middle College",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 89,
+            "CRN": 96649,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Cudahy, M",
+            "Course Title": "ENGL 105 \u2013 Intensive Composition &Reading",
+            "Class Days": "M, W",
+            "Class": 90,
+            "CRN": 96436,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Maxwell, T",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "M, W, F",
+            "Class": 91,
+            "CRN": 95339,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lau, D",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "M, W, F",
+            "Class": 92,
+            "CRN": 95342,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lau, D",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "M, W, F",
+            "Class": 93,
+            "CRN": 95343,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Belluomini, J",
+            "Course Title": "ENGL 105 \u2013 Com w Supp Middle College",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 94,
+            "CRN": 96650,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Williams, R",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "M, W",
+            "Class": 95,
+            "CRN": 98012,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Williams, R",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 96,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lawrence, S",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "M, W, F",
+            "Class": 97,
+            "CRN": 95331,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Travis, K",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "M, W, F",
+            "Class": 98,
+            "CRN": 95334,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Feiner, J",
+            "Course Title": "ENGL 105 \u2013 Comp. with Support - FYE",
+            "Class Days": "M, W, F",
+            "Class": 99,
+            "CRN": 95482,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Feiner, J",
+            "Course Title": "ENGL 105 \u2013 Comp w Supp. - FYE PSP",
+            "Class Days": "M, W, F",
+            "Class": 100,
+            "CRN": 96691,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Erpelo, L",
+            "Course Title": "ENGL 105 \u2013 Comp w Support KABA - PSP",
+            "Class Days": "M, W",
+            "Class": 101,
+            "CRN": 96635,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Erpelo, L",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 102,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Erpelo, L",
+            "Course Title": "ENGL 105 \u2013 Comp with Support Kababayan",
+            "Class Days": "M, W",
+            "Class": 103,
+            "CRN": 98052,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Erpelo, L",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 104,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Sanchez, H",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "M, W, F",
+            "Class": 105,
+            "CRN": 94526,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wallace, J",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "M, W, F",
+            "Class": 106,
+            "CRN": 95338,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Sherer, M",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "M, W, F",
+            "Class": 107,
+            "CRN": 95575,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Valenzuela, Y",
+            "Course Title": "ENGL 105 \u2013 Intensive Composition &Reading",
+            "Class Days": "M, W",
+            "Class": 108,
+            "CRN": 96438,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "James, K",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "M, T, W, Th",
+            "Class": 109,
+            "CRN": 95335,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "James, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 110,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lachmayr, L",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "M, W",
+            "Class": 111,
+            "CRN": 97699,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Lachmayr, L",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 112,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lachmayr, L",
+            "Course Title": "ENGL 105 \u2013 Composition with Support - PSP",
+            "Class Days": "M, W",
+            "Class": 113,
+            "CRN": 98050,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Lachmayr, L",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 114,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Sin, S",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "M, W, F",
+            "Class": 115,
+            "CRN": 95341,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Sanchez, H",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "T, Th",
+            "Class": 116,
+            "CRN": 96951,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Valenzuela, Y",
+            "Course Title": "ENGL 105 \u2013 Intensive Composition &Reading",
+            "Class Days": "T, Th",
+            "Class": 117,
+            "CRN": 96437,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Kitamura, J",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "T, Th",
+            "Class": 118,
+            "CRN": 94529,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Kitamura, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 119,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hern, K",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "T, Th",
+            "Class": 120,
+            "CRN": 95801,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hern, K",
+            "Course Title": "ENGL 105 \u2013 Comp w Support - PSP",
+            "Class Days": "T, Th",
+            "Class": 121,
+            "CRN": 96633,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wallace, J",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "T, Th",
+            "Class": 122,
+            "CRN": 97224,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Baden, R",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "T, Th",
+            "Class": 123,
+            "CRN": 95333,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lachmayr, L",
+            "Course Title": "ENGL 105 \u2013 Comp. with Support - Puente",
+            "Class Days": "T, Th",
+            "Class": 124,
+            "CRN": 95483,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Macaldo-Gubatina, M",
+            "Course Title": "ENGL 105 \u2013 Comp w Supp CIPHER Hip Hop",
+            "Class Days": "T, Th",
+            "Class": 125,
+            "CRN": 95616,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Valenzuela, Y",
+            "Course Title": "ENGL 105 \u2013 Intensive Composition &Reading",
+            "Class Days": "T, Th",
+            "Class": 126,
+            "CRN": 96439,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lachmayr, L",
+            "Course Title": "ENGL 105 \u2013 Comp w Supp PUENTE - PSP",
+            "Class Days": "T, Th",
+            "Class": 127,
+            "CRN": 96638,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Macaldo-Gubatina, M",
+            "Course Title": "ENGL 105 \u2013 Comp w Support CIPHER PSP",
+            "Class Days": "T, Th",
+            "Class": 128,
+            "CRN": 96670,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Melnick, L",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "T, Th",
+            "Class": 129,
+            "CRN": 97352,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Williams, R",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "T, Th",
+            "Class": 130,
+            "CRN": 97356,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Williams, R",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 131,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ghan, C",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "M, W",
+            "Class": 132,
+            "CRN": 95434,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Stokes Cobb, J",
+            "Course Title": "ENGL 105 \u2013 Intensive Composition &Reading",
+            "Class Days": "T, Th",
+            "Class": 133,
+            "CRN": 96432,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Stokes Cobb, J",
+            "Course Title": "ENGL 105 \u2013 Intensive Composition &Reading",
+            "Class Days": "T, Th",
+            "Class": 134,
+            "CRN": 96433,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Treanor, E",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "T, Th",
+            "Class": 135,
+            "CRN": 94530,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Cooper, S",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "",
+            "Class": 136,
+            "CRN": 95027,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lacy, T",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "",
+            "Class": 137,
+            "CRN": 95329,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Mangin-Hinkley, S",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "",
+            "Class": 138,
+            "CRN": 95344,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Webster, K",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "",
+            "Class": 139,
+            "CRN": 95992,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ghan, C",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "",
+            "Class": 140,
+            "CRN": 96286,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Mangin-Hinkley, S",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "",
+            "Class": 141,
+            "CRN": 97044,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Mangin-Hinkley, S",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "",
+            "Class": 142,
+            "CRN": 97139,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Cooper, S",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "",
+            "Class": 143,
+            "CRN": 97222,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Warden, M",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "",
+            "Class": 144,
+            "CRN": 97276,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ghan, C",
+            "Course Title": "ENGL 105 \u2013 Composition w/ Support - ECAP",
+            "Class Days": "",
+            "Class": 145,
+            "CRN": 97277,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Zoughbie, S",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "",
+            "Class": 146,
+            "CRN": 97700,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Zoughbie, S",
+            "Course Title": "ENGL 105 \u2013 Comp with Support - PSP",
+            "Class Days": "",
+            "Class": 147,
+            "CRN": 97701,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Sin, S",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "M, W, F",
+            "Class": 148,
+            "CRN": 90211,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Sapigao, J",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "M, W",
+            "Class": 149,
+            "CRN": 97704,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Sapigao, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 150,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Keller, D",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "M, W, F",
+            "Class": 151,
+            "CRN": 93133,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Keller, D",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "M, W, F",
+            "Class": 152,
+            "CRN": 94531,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Malavade, K",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "M, W",
+            "Class": 153,
+            "CRN": 94317,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Goldstone, S",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "M, W, F",
+            "Class": 154,
+            "CRN": 93347,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Cudahy, M",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "M, W",
+            "Class": 155,
+            "CRN": 81166,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Anderson, R",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "M, W",
+            "Class": 156,
+            "CRN": 82263,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Anderson, R",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "M, W",
+            "Class": 157,
+            "CRN": 93132,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "McClung, K",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "M, W, F",
+            "Class": 158,
+            "CRN": 96960,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Cross, M",
+            "Course Title": "ENGL 110 \u2013 Comp, Lit. & Critical Thinking",
+            "Class Days": "M, W",
+            "Class": 159,
+            "CRN": 90457,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Kitamura, J",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "M, W, Th",
+            "Class": 160,
+            "CRN": 91980,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Cross, M",
+            "Course Title": "ENGL 110 \u2013 Comp.Lit.&Crit.Thinking - PSP",
+            "Class Days": "M, W",
+            "Class": 161,
+            "CRN": 96658,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Webster, K",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "M, W",
+            "Class": 162,
+            "CRN": 90308,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Sapigao, J",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "T, Th",
+            "Class": 163,
+            "CRN": 94347,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Weiss, L",
+            "Course Title": "ENGL 110 \u2013 Comp. Lit.& Critic Thinking",
+            "Class Days": "T, Th",
+            "Class": 164,
+            "CRN": 94994,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Weiss, L",
+            "Course Title": "ENGL 110 \u2013 Comp.,Lit.&Crit.Thinking - PSP",
+            "Class Days": "T, Th",
+            "Class": 165,
+            "CRN": 96659,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Eslamieh, S",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "T, Th",
+            "Class": 166,
+            "CRN": 81161,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Richardson, R",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "T, Th",
+            "Class": 167,
+            "CRN": 92999,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Keller, D",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "T, Th",
+            "Class": 168,
+            "CRN": 93272,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Sherer, M",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "T, Th",
+            "Class": 169,
+            "CRN": 82259,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Eslamieh, S",
+            "Course Title": "ENGL 110 \u2013 Comp., Lit., & Crit.- Honors",
+            "Class Days": "T, Th",
+            "Class": 170,
+            "CRN": 90830,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Eslamieh, S",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "T, Th",
+            "Class": 171,
+            "CRN": 92121,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Mangin-Hinkley, S",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "T, Th",
+            "Class": 172,
+            "CRN": 93285,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lawson, D",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "T, Th",
+            "Class": 173,
+            "CRN": 94359,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Stokes Cobb, J",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "T, Th",
+            "Class": 174,
+            "CRN": 92122,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Treanor, E",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "T, Th",
+            "Class": 175,
+            "CRN": 91740,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "McClung, K",
+            "Course Title": "ENGL 110 \u2013 Comp, Lit. & Critical Thinking",
+            "Class Days": "M",
+            "Class": 176,
+            "CRN": 90535,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Fitzgerald, V",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "M",
+            "Class": 177,
+            "CRN": 82262,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Maher, D",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "Th",
+            "Class": 178,
+            "CRN": 93647,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Maher, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 179,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Maher, D",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "Th",
+            "Class": 180,
+            "CRN": 97454,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Maher, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 181,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Garfinkle, D",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "",
+            "Class": 182,
+            "CRN": 82264,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Erwert, A",
+            "Course Title": "ENGL 110 \u2013 Comp. Lit. & Critical Thinking",
+            "Class Days": "",
+            "Class": 183,
+            "CRN": 91639,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Bell, R",
+            "Course Title": "ENGL 110 \u2013 Comp, Lit. & Critical Thinking",
+            "Class Days": "",
+            "Class": 184,
+            "CRN": 92321,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Bell, R",
+            "Course Title": "ENGL 110 \u2013 Comp. Lit. & Critical Thinking",
+            "Class Days": "",
+            "Class": 185,
+            "CRN": 92599,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Maher, D",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "",
+            "Class": 186,
+            "CRN": 93642,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Terzakis, E",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "",
+            "Class": 187,
+            "CRN": 94400,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Maher, D",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "",
+            "Class": 188,
+            "CRN": 95185,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Malavade, K",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "",
+            "Class": 189,
+            "CRN": 95207,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Eslamieh, S",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "",
+            "Class": 190,
+            "CRN": 95975,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Erwert, A",
+            "Course Title": "ENGL 110 \u2013 Comp. Lit. & Crit. Think - PSP",
+            "Class Days": "",
+            "Class": 191,
+            "CRN": 96288,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Webster, K",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "",
+            "Class": 192,
+            "CRN": 96897,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Kunkel, D",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "",
+            "Class": 193,
+            "CRN": 97227,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Jones, N",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "",
+            "Class": 194,
+            "CRN": 97279,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Eslamieh, S",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "",
+            "Class": 195,
+            "CRN": 97825,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Jones, N",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "",
+            "Class": 196,
+            "CRN": 98132,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Glanting, P",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "",
+            "Class": 197,
+            "CRN": 98167,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "McClung, K",
+            "Course Title": "ENGL 161 \u2013 Creative Writing I",
+            "Class Days": "M, W",
+            "Class": 198,
+            "CRN": 80322,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Clark, W",
+            "Course Title": "ENGL 161 \u2013 Creative Writing I",
+            "Class Days": "M, W",
+            "Class": 199,
+            "CRN": 82274,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Maxwell, T",
+            "Course Title": "ENGL 161 \u2013 Creative Writing I",
+            "Class Days": "T, Th",
+            "Class": 200,
+            "CRN": 91760,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Terzakis, E",
+            "Course Title": "ENGL 161 \u2013 Creative Writing I",
+            "Class Days": "T",
+            "Class": 201,
+            "CRN": 81167,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Williams, R",
+            "Course Title": "ENGL 161 \u2013 Creative Writing I",
+            "Class Days": "",
+            "Class": 202,
+            "CRN": 94507,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Clark, W",
+            "Course Title": "ENGL 162 \u2013 Creative Writing II",
+            "Class Days": "M, W",
+            "Class": 203,
+            "CRN": 82277,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "McClung, K",
+            "Course Title": "ENGL 162 \u2013 Creative Writing II",
+            "Class Days": "M, W",
+            "Class": 204,
+            "CRN": 97705,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Maxwell, T",
+            "Course Title": "ENGL 162 \u2013 Creative Writing II",
+            "Class Days": "T, Th",
+            "Class": 205,
+            "CRN": 82279,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Terzakis, E",
+            "Course Title": "ENGL 162 \u2013 Creative Writing II",
+            "Class Days": "T",
+            "Class": 206,
+            "CRN": 83858,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Clark, W",
+            "Course Title": "ENGL 163 \u2013 Creative Writing III",
+            "Class Days": "M, W",
+            "Class": 207,
+            "CRN": 82280,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Maxwell, T",
+            "Course Title": "ENGL 163 \u2013 Creative Writing III",
+            "Class Days": "T, Th",
+            "Class": 208,
+            "CRN": 91764,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Murphy, M",
+            "Course Title": "ENGL 165 \u2013 Comp, Argument & Crit Thinking",
+            "Class Days": "M, W",
+            "Class": 209,
+            "CRN": 82283,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Richardson, R",
+            "Course Title": "ENGL 165 \u2013 Comp, Argument & Crit Thinking",
+            "Class Days": "T, Th",
+            "Class": 210,
+            "CRN": 84474,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Garfinkle, D",
+            "Course Title": "ENGL 165 \u2013 Comp, Argument & Crit Thinking",
+            "Class Days": "",
+            "Class": 211,
+            "CRN": 86414,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Christensen, G",
+            "Course Title": "ENGL 165 \u2013 Critical Think. & Adv. Compos.",
+            "Class Days": "",
+            "Class": 212,
+            "CRN": 91086,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Harmon, S",
+            "Course Title": "ENGL 200 \u2013 Introduction to Linguistics",
+            "Class Days": "W",
+            "Class": 213,
+            "CRN": 89996,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Harmon, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 214,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Harmon, S",
+            "Course Title": "ENGL 200 \u2013 Intro. to Linguistics: Survey",
+            "Class Days": "W",
+            "Class": 215,
+            "CRN": 93488,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Harmon, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 216,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "De Barra, C",
+            "Course Title": "ENGL 650 \u2013 English Supplement for TRIO",
+            "Class Days": "",
+            "Class": 217,
+            "CRN": 89715,
+            "Units": 0.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "De Barra, C",
+            "Course Title": "ENGL 650 \u2013 English Supplement for TRIO",
+            "Class Days": "",
+            "Class": 218,
+            "CRN": 97592,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "De Barra, C",
+            "Course Title": "ENGL 650 \u2013 English Supplement for TRIO",
+            "Class Days": "",
+            "Class": 219,
+            "CRN": 80332,
+            "Units": 0.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "De Barra, C",
+            "Course Title": "ENGL 650 \u2013 English Supplement for TRIO",
+            "Class Days": "",
+            "Class": 220,
+            "CRN": 93630,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Murphy, M",
+            "Course Title": "ENGL 690 \u2013 Special Projects",
+            "Class Days": "",
+            "Class": 221,
+            "CRN": 86947,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Erpelo, L",
+            "Course Title": "ENGL 695 \u2013 Independent Study in English",
+            "Class Days": "",
+            "Class": 222,
+            "CRN": 95999,
+            "Units": 53
+        }
+    ],
+    "Engineering": [
+        {
+            "Status": "Closed",
+            "Professor": "Kalyanaraman, R",
+            "Course Title": "ENGR 100 \u2013 Introduction to Engineering",
+            "Class Days": "M",
+            "Class": 1,
+            "CRN": 96474,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Kalyanaraman, R",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Khan, M",
+            "Course Title": "ENGR 100 \u2013 Introduction to Engineering",
+            "Class Days": "M, W",
+            "Class": 3,
+            "CRN": 95569,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Khan, M",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 4,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Gutierrez, J",
+            "Course Title": "ENGR 100 \u2013 Introduction to Engineering",
+            "Class Days": "M, W",
+            "Class": 5,
+            "CRN": 91105,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Gutierrez, J",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 6,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Sukumar, S",
+            "Course Title": "ENGR 210 \u2013 Engineering Graphics",
+            "Class Days": "M, W",
+            "Class": 7,
+            "CRN": 85906,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Sukumar, S",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 8,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Khan, M",
+            "Course Title": "ENGR 215 \u2013 Computational Methods for Engr",
+            "Class Days": "W",
+            "Class": 9,
+            "CRN": 98073,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Khan, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 10,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Gutierrez, J",
+            "Course Title": "ENGR 215 \u2013 Computational Methods for Engr",
+            "Class Days": "M",
+            "Class": 11,
+            "CRN": 91595,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Gutierrez, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 12,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Gutierrez, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 13,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Gutierrez, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 14,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Gutierrez, J",
+            "Course Title": "ENGR 215 \u2013 Computational Methods for Engr",
+            "Class Days": "M",
+            "Class": 15,
+            "CRN": 95982,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Gutierrez, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 16,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Gutierrez, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 17,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Gutierrez, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 18,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Gutierrez, J",
+            "Course Title": "ENGR 230 \u2013 Engineering Statics",
+            "Class Days": "T, Th",
+            "Class": 19,
+            "CRN": 93221,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Sukumar, S",
+            "Course Title": "ENGR 230 \u2013 Engineering Statics",
+            "Class Days": "M, W",
+            "Class": 20,
+            "CRN": 96624,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Sukumar, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 21,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Langhoff, N",
+            "Course Title": "ENGR 260 \u2013 Circuits and Devices",
+            "Class Days": "T, Th",
+            "Class": 22,
+            "CRN": 98074,
+            "Units": 34
+        },
+        {
+            "Status": "Closed",
+            "Professor": "McCall, T",
+            "Course Title": "ENGR 261 \u2013 Circuits & Devices Lab.",
+            "Class Days": "T",
+            "Class": 23,
+            "CRN": 95486,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Kalyanaraman, R",
+            "Course Title": "ENGR 270 \u2013 Materials Science",
+            "Class Days": "T",
+            "Class": 24,
+            "CRN": 91922,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Kalyanaraman, R",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 25,
+            "CRN": 0,
+            "Units": 4
+        }
+    ],
+    "Filipino": [{
+        "Status": "Closed",
+        "Professor": "Desai, M",
+        "Course Title": "FILI 110 \u2013 Elementary Filipino - KABA",
+        "Class Days": "T, Th",
+        "Class": 1,
+        "CRN": 96844,
+        "Units": 5
+    }],
+    "Energy Systems Technology Mgmt": [
+        {
+            "Status": "Closed",
+            "Professor": "Lopez, E",
+            "Course Title": "ESTM 482 \u2013 Construction Basics I",
+            "Class Days": "",
+            "Class": 1,
+            "CRN": 97404,
+            "Units": 2.5
+        },
+        {
+            "Status": "",
+            "Professor": "Lopez, E",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 2.5
+        }
+    ],
+    "Educational Access": [
+        {
+            "Status": "Closed",
+            "Professor": "Truglio, J",
+            "Course Title": "EDAC 823 \u2013 Fundamental Skills: Writing I",
+            "Class Days": "T",
+            "Class": 1,
+            "CRN": 96946,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Truglio, J",
+            "Course Title": "EDAC 823 \u2013 Fundamental Skills: Writing I",
+            "Class Days": "T",
+            "Class": 2,
+            "CRN": 98013,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Robbins, K",
+            "Course Title": "EDAC 828 \u2013 Technology Tools for Writing",
+            "Class Days": "M",
+            "Class": 3,
+            "CRN": 96954,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Robbins, K",
+            "Course Title": "EDAC 828 \u2013 Technology Tools for Writing",
+            "Class Days": "M",
+            "Class": 4,
+            "CRN": 98017,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Robbins, K",
+            "Course Title": "EDAC 830 \u2013 Intro Assistive Computer Tech",
+            "Class Days": "M",
+            "Class": 5,
+            "CRN": 96952,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Robbins, K",
+            "Course Title": "EDAC 830 \u2013 Intro Assistive Computer Tech",
+            "Class Days": "M",
+            "Class": 6,
+            "CRN": 98018,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Robbins, K",
+            "Course Title": "EDAC 831 \u2013 Technology Tools for Reading",
+            "Class Days": "W",
+            "Class": 7,
+            "CRN": 96955,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Robbins, K",
+            "Course Title": "EDAC 831 \u2013 Technology Tools for Reading",
+            "Class Days": "W",
+            "Class": 8,
+            "CRN": 98019,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Robbins, K",
+            "Course Title": "EDAC 832 \u2013 Tech Tools for Note Taking",
+            "Class Days": "W",
+            "Class": 9,
+            "CRN": 96958,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Robbins, K",
+            "Course Title": "EDAC 832 \u2013 Tech Tools for Note Taking",
+            "Class Days": "W",
+            "Class": 10,
+            "CRN": 98020,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Truglio, J",
+            "Course Title": "EDAC 840 \u2013 Success Strategies for Math",
+            "Class Days": "Th",
+            "Class": 11,
+            "CRN": 96947,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Truglio, J",
+            "Course Title": "EDAC 840 \u2013 Success Strategies for Math",
+            "Class Days": "Th",
+            "Class": 12,
+            "CRN": 98014,
+            "Units": 1
+        }
+    ],
+    "Ethnic Studies": [
+        {
+            "Status": "Closed",
+            "Professor": "Ramirez, R",
+            "Course Title": "ETHN 101 \u2013 Latin Amer History and Cult.",
+            "Class Days": "T, Th",
+            "Class": 1,
+            "CRN": 92278,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ramirez, R",
+            "Course Title": "ETHN 101 \u2013 Latin Amer History and Cult.",
+            "Class Days": "T, Th",
+            "Class": 2,
+            "CRN": 97958,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Mojica Villegas, E",
+            "Course Title": "ETHN 101 \u2013 Latin Amer History and Cult.",
+            "Class Days": "W",
+            "Class": 3,
+            "CRN": 96929,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Mojica Villegas, E",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ramirez, R",
+            "Course Title": "ETHN 101 \u2013 Latin Amer History and Cult.",
+            "Class Days": "W",
+            "Class": 5,
+            "CRN": 90044,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Iyengar, M",
+            "Course Title": "ETHN 101 \u2013 Latin Amer History and Cult.",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 82374,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Mojica Villegas, E",
+            "Course Title": "ETHN 101 \u2013 Latin Amer History and Cult.",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 87476,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Santizo, J",
+            "Course Title": "ETHN 101 \u2013 Latin Amer History and Cult.",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 91948,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Mojica Villegas, E",
+            "Course Title": "ETHN 101 \u2013 Latin Amer History and Cult.",
+            "Class Days": "",
+            "Class": 9,
+            "CRN": 92034,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Iyengar, M",
+            "Course Title": "ETHN 101 \u2013 Latin Amer History and Cult.",
+            "Class Days": "",
+            "Class": 10,
+            "CRN": 96911,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Santizo, J",
+            "Course Title": "ETHN 101 \u2013 Latin Amer History and Cult.",
+            "Class Days": "",
+            "Class": 11,
+            "CRN": 97723,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Mojica Villegas, E",
+            "Course Title": "ETHN 101 \u2013 Latin Amer History and Cult.",
+            "Class Days": "",
+            "Class": 12,
+            "CRN": 98157,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Santizo, J",
+            "Course Title": "ETHN 101 \u2013 Latin Amer History and Cult.",
+            "Class Days": "",
+            "Class": 13,
+            "CRN": 98174,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Daus - Magbual, R",
+            "Course Title": "ETHN 103 \u2013 Asian American US Institutions",
+            "Class Days": "M, W, F",
+            "Class": 14,
+            "CRN": 97609,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Moon, S",
+            "Course Title": "ETHN 103 \u2013 Asian American US Institutions",
+            "Class Days": "W",
+            "Class": 15,
+            "CRN": 95852,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Moon, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 16,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Moon, S",
+            "Course Title": "ETHN 103 \u2013 Asian American US Institutions",
+            "Class Days": "",
+            "Class": 17,
+            "CRN": 94685,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Daus - Magbual, R",
+            "Course Title": "ETHN 103 \u2013 Asian American US Institutions",
+            "Class Days": "",
+            "Class": 18,
+            "CRN": 97256,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Bolick, P",
+            "Course Title": "ETHN 103 \u2013 Asian American US Institutions",
+            "Class Days": "",
+            "Class": 19,
+            "CRN": 97607,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lorenzana, K",
+            "Course Title": "ETHN 103 \u2013 Asian American Studies",
+            "Class Days": "",
+            "Class": 20,
+            "CRN": 97892,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Gaines, F",
+            "Course Title": "ETHN 105 \u2013 African American Hist/Culture",
+            "Class Days": "T, Th",
+            "Class": 21,
+            "CRN": 94688,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Iyengar, M",
+            "Course Title": "ETHN 106 \u2013 Oceania & the Arts",
+            "Class Days": "M",
+            "Class": 22,
+            "CRN": 96080,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Iyengar, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 23,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Mojica Villegas, E",
+            "Course Title": "ETHN 107 \u2013 Intro Native American Studies",
+            "Class Days": "M",
+            "Class": 24,
+            "CRN": 97973,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Mojica Villegas, E",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 25,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hernandez, J",
+            "Course Title": "ETHN 108 \u2013 Rethinking Race,Gender, Nation",
+            "Class Days": "M, W",
+            "Class": 26,
+            "CRN": 97893,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Iyengar, M",
+            "Course Title": "ETHN 108 \u2013 Rethinking Race,Gender, Nation",
+            "Class Days": "M",
+            "Class": 27,
+            "CRN": 96913,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Iyengar, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 28,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Loi-On, L",
+            "Course Title": "ETHN 108 \u2013 Rethinking Race,Gender, Nation",
+            "Class Days": "T, Th",
+            "Class": 29,
+            "CRN": 97961,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Villela-Smith, A",
+            "Course Title": "ETHN 108 \u2013 Race, Gender, Power in America",
+            "Class Days": "T, Th",
+            "Class": 30,
+            "CRN": 97610,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Villela-Smith, A",
+            "Course Title": "ETHN 108 \u2013 Race,Gender,Power in Ame/UMOJA",
+            "Class Days": "T, Th",
+            "Class": 31,
+            "CRN": 98133,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Villela-Smith, A",
+            "Course Title": "ETHN 108 \u2013 Race, Gender, Power in America",
+            "Class Days": "",
+            "Class": 32,
+            "CRN": 97257,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Villela-Smith, A",
+            "Course Title": "ETHN 108 \u2013 Race, Gender, Power in America",
+            "Class Days": "",
+            "Class": 33,
+            "CRN": 97258,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Seals, B",
+            "Course Title": "ETHN 108 \u2013 Rethinking Race,Gender, Nation",
+            "Class Days": "",
+            "Class": 34,
+            "CRN": 97298,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Villela-Smith, A",
+            "Course Title": "ETHN 108 \u2013 Race, Gender, and Power in Ame",
+            "Class Days": "",
+            "Class": 35,
+            "CRN": 98039,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Elkan, D",
+            "Course Title": "ETHN 108 \u2013 Rethinking Race,Gender, Nation",
+            "Class Days": "",
+            "Class": 36,
+            "CRN": 98143,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Iyengar, M",
+            "Course Title": "ETHN 109 \u2013 Borders and Crossings",
+            "Class Days": "W",
+            "Class": 37,
+            "CRN": 97191,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Iyengar, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 38,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Bolick, P",
+            "Course Title": "ETHN 109 \u2013 Borders and Crossings",
+            "Class Days": "",
+            "Class": 39,
+            "CRN": 98114,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Gaines, F",
+            "Course Title": "ETHN 122 \u2013 Black Leadership Theory",
+            "Class Days": "M, W, F",
+            "Class": 40,
+            "CRN": 96081,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Daus - Magbual, R",
+            "Course Title": "ETHN 142 \u2013 Filipina/o Community Issues",
+            "Class Days": "T, Th",
+            "Class": 41,
+            "CRN": 97259,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Daus - Magbual, R",
+            "Course Title": "ETHN 142 \u2013 Filipina/o Community Iss. KABA",
+            "Class Days": "T, Th",
+            "Class": 42,
+            "CRN": 97260,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Daus - Magbual, R",
+            "Course Title": "ETHN 142 \u2013 Filipina/o/x Comm Issues PSP",
+            "Class Days": "T, Th",
+            "Class": 43,
+            "CRN": 98040,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Daus - Magbual, R",
+            "Course Title": "ETHN 142 \u2013 Filipina/o/x Community Issues",
+            "Class Days": "",
+            "Class": 44,
+            "CRN": 97611,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Gaines, F",
+            "Course Title": "ETHN 265 \u2013 Evolution of Hip Hop Culture",
+            "Class Days": "T, Th",
+            "Class": 45,
+            "CRN": 95887,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Villela-Smith, A",
+            "Course Title": "ETHN 265 \u2013 Evolution of Hip Hop Culture",
+            "Class Days": "T, Th",
+            "Class": 46,
+            "CRN": 98058,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Villela-Smith, A",
+            "Course Title": "ETHN 265 \u2013 Evolution-HipHopCulture-CIPHER",
+            "Class Days": "T, Th",
+            "Class": 47,
+            "CRN": 98125,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Gaines, F",
+            "Course Title": "ETHN 265 \u2013 Evolution of Hip Hop Culture",
+            "Class Days": "T",
+            "Class": 48,
+            "CRN": 89322,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Gaines, F",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 49,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Gaines, F",
+            "Course Title": "ETHN 288 \u2013 African-American Cinema",
+            "Class Days": "M, W",
+            "Class": 50,
+            "CRN": 82380,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Mojica Villegas, E",
+            "Course Title": "ETHN 300 \u2013 Introduction to LaRaza Studies",
+            "Class Days": "T",
+            "Class": 51,
+            "CRN": 85304,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Mojica Villegas, E",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 52,
+            "CRN": 0,
+            "Units": 3
+        }
+    ]
+}

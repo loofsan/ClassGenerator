@@ -1,0 +1,1352 @@
+{
+    "Geography": [
+        {
+            "Status": "Open",
+            "Professor": "Mahoney, S",
+            "Course Title": "GEOG 100 \u2013 Physical Geography",
+            "Class Days": "M",
+            "Class": 1,
+            "CRN": 44080,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Mahoney, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Cunningham, R",
+            "Course Title": "GEOG 100 \u2013 Physical Geography",
+            "Class Days": "M, W, F",
+            "Class": 3,
+            "CRN": 46939,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Cunningham, R",
+            "Course Title": "GEOG 100 \u2013 Physical Geography",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 44449,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kaluzny, M",
+            "Course Title": "GEOG 100 \u2013 Physical Geography",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 46088,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Gutierrez, A",
+            "Course Title": "GEOG 100 \u2013 Physical Geography",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 46715,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Cunningham, R",
+            "Course Title": "GEOG 101 \u2013 Physical Geography Lab",
+            "Class Days": "M",
+            "Class": 7,
+            "CRN": 47709,
+            "Units": 1
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Gutierrez, A",
+            "Course Title": "GEOG 101 \u2013 Physical Geography Lab",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 46716,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Cunningham, R",
+            "Course Title": "GEOG 110 \u2013 Cultural Geography",
+            "Class Days": "M, W, F",
+            "Class": 9,
+            "CRN": 43118,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Cunningham, R",
+            "Course Title": "GEOG 110 \u2013 Cultural Geography",
+            "Class Days": "",
+            "Class": 10,
+            "CRN": 45961,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kaluzny, M",
+            "Course Title": "GEOG 110 \u2013 Cultural Geography",
+            "Class Days": "",
+            "Class": 11,
+            "CRN": 46723,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Gutierrez, A",
+            "Course Title": "GEOG 150 \u2013 World Regional Geography",
+            "Class Days": "",
+            "Class": 12,
+            "CRN": 44484,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kaluzny, M",
+            "Course Title": "GEOG 150 \u2013 World Regional Geography",
+            "Class Days": "",
+            "Class": 13,
+            "CRN": 47180,
+            "Units": 3
+        }
+    ],
+    "Interdisciplinary Studies": [
+        {
+            "Status": "Open",
+            "Professor": "Hunt, J",
+            "Course Title": "IDST 101 \u2013 Humanities Honors Seminar I",
+            "Class Days": "Th",
+            "Class": 1,
+            "CRN": 44759,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Rhodes, J",
+            "Course Title": "IDST 102 \u2013 Sciences Honors Seminar I",
+            "Class Days": "F",
+            "Class": 2,
+            "CRN": 44787,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hunt, J",
+            "Course Title": "IDST 103 \u2013 Humanities Honors Seminar II",
+            "Class Days": "Th",
+            "Class": 3,
+            "CRN": 44758,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Rhodes, J",
+            "Course Title": "IDST 104 \u2013 Sciences Honors Seminar II",
+            "Class Days": "F",
+            "Class": 4,
+            "CRN": 44789,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Sapigao, J",
+            "Course Title": "IDST 105 \u2013 Honors Research Seminar",
+            "Class Days": "W",
+            "Class": 5,
+            "CRN": 47308,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Schubert, S",
+            "Course Title": "IDST 105 \u2013 Honors Research Seminar",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 47765,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Sapigao, J",
+            "Course Title": "IDST 106 \u2013 Honors Research Seminar II",
+            "Class Days": "W",
+            "Class": 7,
+            "CRN": 48482,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Schubert, S",
+            "Course Title": "IDST 106 \u2013 Honors Research Seminar II",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 48483,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Sidman-Taveau, R",
+            "Course Title": "IDST 150 \u2013 Honors Research Seminar",
+            "Class Days": "W",
+            "Class": 9,
+            "CRN": 47655,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Sidman-Taveau, R",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 10,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Sidman-Taveau, R",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 11,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Sidman-Taveau, R",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 12,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Sidman-Taveau, R",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 13,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Sidman-Taveau, R",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 14,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Sidman-Taveau, R",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 15,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Sidman-Taveau, R",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 16,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Sidman-Taveau, R",
+            "Course Title": "IDST 150 \u2013 Honors Research Seminar",
+            "Class Days": "",
+            "Class": 17,
+            "CRN": 48317,
+            "Units": 1
+        }
+    ],
+    "Health Science": [
+        {
+            "Status": "Open",
+            "Professor": "Silva, J",
+            "Course Title": "HSCI 100 \u2013 General Health Science",
+            "Class Days": "",
+            "Class": 1,
+            "CRN": 43434,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Evans, M",
+            "Course Title": "HSCI 100 \u2013 General Health Science",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 44833,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Evans, M",
+            "Course Title": "HSCI 135 \u2013 Introduction to Public Health",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 46589,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kiesselbach, L",
+            "Course Title": "HSCI 314 \u2013 Health/Safety/Nutrition-Child",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 43799,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Kiesselbach, L",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 5,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Kiesselbach, L",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 6,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Kiesselbach, L",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 7,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hernandez, C",
+            "Course Title": "HSCI 484 \u2013 Medical Terminology",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 42150,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Holland, C",
+            "Course Title": "HSCI 484 \u2013 Medical Terminology",
+            "Class Days": "",
+            "Class": 9,
+            "CRN": 45767,
+            "Units": 3
+        }
+    ],
+    "Geology": [
+        {
+            "Status": "Open",
+            "Professor": "Wiese, K",
+            "Course Title": "GEOL 100 \u2013 Survey of Geology",
+            "Class Days": "M, W",
+            "Class": 1,
+            "CRN": 48312,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Wiese, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mahoney, S",
+            "Course Title": "GEOL 100 \u2013 Introduction to Geology",
+            "Class Days": "T, Th",
+            "Class": 3,
+            "CRN": 43565,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "James, B",
+            "Course Title": "GEOL 100 \u2013 Survey of Geology",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 45360,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Wiese, K",
+            "Course Title": "GEOL 101 \u2013 Geology Laboratory",
+            "Class Days": "W",
+            "Class": 5,
+            "CRN": 32357,
+            "Units": 1
+        }
+    ],
+    "Hospitality/Tourism Management": [
+        {
+            "Status": "Open",
+            "Professor": "Krone, L",
+            "Course Title": "HTM. 101 \u2013 Intro-Hospitality/Tourism Mgmt",
+            "Class Days": "",
+            "Class": 1,
+            "CRN": 44932,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Salceda, L",
+            "Course Title": "HTM. 108 \u2013 Tech Essentials in Hospitality",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 48462,
+            "Units": 3
+        }
+    ],
+    "Global Studies": [{
+        "Status": "Open",
+        "Professor": "Ball, J",
+        "Course Title": "GBST 101 \u2013 Introduction to Global Studies",
+        "Class Days": "M, W",
+        "Class": 1,
+        "CRN": 46078,
+        "Units": 3
+    }],
+    "Human Services": [
+        {
+            "Status": "Open",
+            "Professor": "Musawwir, A",
+            "Course Title": "HMSV 121 \u2013 Social Work & Hum Svcs Seminar",
+            "Class Days": "",
+            "Class": 1,
+            "CRN": 48236,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Musawwir, A",
+            "Course Title": "HMSV 122 \u2013 Social Work/Hum Svcs Fieldwork",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 48237,
+            "Units": 2
+        }
+    ],
+    "Journalism": [
+        {
+            "Status": "Open",
+            "Professor": "Kaplan-Biegel, N",
+            "Course Title": "JOUR 110 \u2013 Mass Media & Society",
+            "Class Days": "M, W, F",
+            "Class": 1,
+            "CRN": 47649,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kaplan-Biegel, N",
+            "Course Title": "JOUR 110 \u2013 Mass Media & Society",
+            "Class Days": "M, W, F",
+            "Class": 2,
+            "CRN": 37124,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kaplan-Biegel, N",
+            "Course Title": "JOUR 110 \u2013 Mass Media & Society",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 46897,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kaplan-Biegel, N",
+            "Course Title": "JOUR 120 \u2013 Wrtng&ReportngfortheMedia",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 47936,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kaplan-Biegel, N",
+            "Course Title": "JOUR 121 \u2013 AdvWriting&Reporting for Media",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 48072,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kaplan-Biegel, N",
+            "Course Title": "JOUR 320 \u2013 Beginning Newspaper Staff",
+            "Class Days": "M, W, F",
+            "Class": 6,
+            "CRN": 44444,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kaplan-Biegel, N",
+            "Course Title": "JOUR 330 \u2013 Intermediate Newspaper Staff",
+            "Class Days": "M, W, F",
+            "Class": 7,
+            "CRN": 44445,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kaplan-Biegel, N",
+            "Course Title": "JOUR 340 \u2013 Intermed. Adv. Newspaper Staff",
+            "Class Days": "M, W, F",
+            "Class": 8,
+            "CRN": 44454,
+            "Units": 3
+        }
+    ],
+    "Interior Design": [
+        {
+            "Status": "Open",
+            "Professor": "Torres, E",
+            "Course Title": "INTD 115 \u2013 Intro to Interior Design",
+            "Class Days": "W",
+            "Class": 1,
+            "CRN": 31266,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mueller, B",
+            "Course Title": "INTD 115 \u2013 Intro to Interior Design",
+            "Class Days": "W",
+            "Class": 2,
+            "CRN": 31268,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Joshi, A",
+            "Course Title": "INTD 126 \u2013 Critical Thinking for Interior",
+            "Class Days": "T",
+            "Class": 3,
+            "CRN": 47725,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Joshi, A",
+            "Course Title": "INTD 128 \u2013 Presentation Techniques",
+            "Class Days": "M",
+            "Class": 4,
+            "CRN": 47726,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mueller, B",
+            "Course Title": "INTD 148 \u2013 Color and Design",
+            "Class Days": "M",
+            "Class": 5,
+            "CRN": 39521,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kasser, S",
+            "Course Title": "INTD 151 \u2013 History of Interiors II",
+            "Class Days": "Th",
+            "Class": 6,
+            "CRN": 47728,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Torres, E",
+            "Course Title": "INTD 175 \u2013 Space Planning and Design",
+            "Class Days": "T",
+            "Class": 7,
+            "CRN": 42817,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Montano-Rock, A",
+            "Course Title": "INTD 250 \u2013 Profes. Practices for Int. Des",
+            "Class Days": "W",
+            "Class": 8,
+            "CRN": 43215,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Tawakoli, S",
+            "Course Title": "INTD 260 \u2013 Overview of Lighting Design",
+            "Class Days": "M",
+            "Class": 9,
+            "CRN": 41736,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Cravy, S",
+            "Course Title": "INTD 276 \u2013 Advanced Kitchen and Bath",
+            "Class Days": "M",
+            "Class": 10,
+            "CRN": 45085,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Zameni, A",
+            "Course Title": "INTD 360 \u2013 CAD Apps For Interior Design",
+            "Class Days": "Th",
+            "Class": 11,
+            "CRN": 41737,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Zameni, A",
+            "Course Title": "",
+            "Class Days": "F",
+            "Class": 12,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Zameni, A",
+            "Course Title": "INTD 367 \u2013 3D Modeling SketchUp for INTD",
+            "Class Days": "Th",
+            "Class": 13,
+            "CRN": 45955,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Zameni, A",
+            "Course Title": "",
+            "Class Days": "F",
+            "Class": 14,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Joshi, A",
+            "Course Title": "INTD 450 \u2013 Materials and Finishes",
+            "Class Days": "W",
+            "Class": 15,
+            "CRN": 38255,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Torres, E",
+            "Course Title": "INTD 672 \u2013 Cooperative Ed.: Internship",
+            "Class Days": "",
+            "Class": 16,
+            "CRN": 31292,
+            "Units": 13
+        },
+        {
+            "Status": "",
+            "Professor": "Torres, E",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 17,
+            "CRN": 0,
+            "Units": 13
+        }
+    ],
+    "History": [
+        {
+            "Status": "Open",
+            "Professor": "Stanford, M",
+            "Course Title": "HIST 100 \u2013 History Western Civ I",
+            "Class Days": "M, W",
+            "Class": 1,
+            "CRN": 31227,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Greedy, M",
+            "Course Title": "HIST 100 \u2013 History Western Civ I",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 47310,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Greedy, M",
+            "Course Title": "HIST 101 \u2013 History Western Civ II",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 47311,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Field, A",
+            "Course Title": "HIST 104 \u2013 World History I",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 41998,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Manbachi, K",
+            "Course Title": "HIST 104 \u2013 World Civilizations I",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 46446,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Haine, W",
+            "Course Title": "HIST 106 \u2013 World History II",
+            "Class Days": "M, W",
+            "Class": 6,
+            "CRN": 42845,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Bell, R",
+            "Course Title": "HIST 106 \u2013 World Civilizations II",
+            "Class Days": "M, W, F",
+            "Class": 7,
+            "CRN": 38702,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Manbachi, K",
+            "Course Title": "HIST 106 \u2013 World Civilizations II",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 47312,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hunt, J",
+            "Course Title": "HIST 106 \u2013 World History II: from 1500",
+            "Class Days": "",
+            "Class": 9,
+            "CRN": 48111,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Stanford, M",
+            "Course Title": "HIST 201 \u2013 U.S. History through 1877",
+            "Class Days": "M, W",
+            "Class": 10,
+            "CRN": 39620,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Swanson, A",
+            "Course Title": "HIST 201 \u2013 U.S. History through 1877",
+            "Class Days": "T, Th",
+            "Class": 11,
+            "CRN": 31231,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Swanson, A",
+            "Course Title": "HIST 201 \u2013 United States History I",
+            "Class Days": "T, Th",
+            "Class": 12,
+            "CRN": 35937,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Skovgaard, J",
+            "Course Title": "HIST 201 \u2013 United States History I",
+            "Class Days": "T, Th",
+            "Class": 13,
+            "CRN": 39770,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Irwin, T",
+            "Course Title": "HIST 201 \u2013 United States History I",
+            "Class Days": "W",
+            "Class": 14,
+            "CRN": 32373,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Irwin, T",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 15,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hunt, J",
+            "Course Title": "HIST 201 \u2013 United States History I",
+            "Class Days": "W",
+            "Class": 16,
+            "CRN": 43432,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Hunt, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 17,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hunt, J",
+            "Course Title": "HIST 201 \u2013 United States History I",
+            "Class Days": "W",
+            "Class": 18,
+            "CRN": 46369,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Hunt, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 19,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Manbachi, K",
+            "Course Title": "HIST 201 \u2013 United States History I",
+            "Class Days": "M",
+            "Class": 20,
+            "CRN": 34061,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Irwin, T",
+            "Course Title": "HIST 201 \u2013 United States History I",
+            "Class Days": "",
+            "Class": 21,
+            "CRN": 32984,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Elia, J",
+            "Course Title": "HIST 201 \u2013 United States History I",
+            "Class Days": "",
+            "Class": 22,
+            "CRN": 40049,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Helton, J",
+            "Course Title": "HIST 201 \u2013 United States History I",
+            "Class Days": "",
+            "Class": 23,
+            "CRN": 40114,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Conaway, T",
+            "Course Title": "HIST 201 \u2013 United States History I",
+            "Class Days": "",
+            "Class": 24,
+            "CRN": 42540,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Stanford, M",
+            "Course Title": "HIST 201 \u2013 U.S. History through 1877",
+            "Class Days": "",
+            "Class": 25,
+            "CRN": 44295,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Ulloa, J",
+            "Course Title": "HIST 201 \u2013 United States History I",
+            "Class Days": "",
+            "Class": 26,
+            "CRN": 45862,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Greedy, M",
+            "Course Title": "HIST 201 \u2013 United States History I",
+            "Class Days": "",
+            "Class": 27,
+            "CRN": 47317,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Helton, J",
+            "Course Title": "HIST 201 \u2013 United States History I",
+            "Class Days": "",
+            "Class": 28,
+            "CRN": 47924,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Reidy, N",
+            "Course Title": "HIST 201 \u2013 United States History I",
+            "Class Days": "",
+            "Class": 29,
+            "CRN": 48125,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Bell, R",
+            "Course Title": "HIST 202 \u2013 United States History II",
+            "Class Days": "M, W, F",
+            "Class": 30,
+            "CRN": 30445,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Field, A",
+            "Course Title": "HIST 202 \u2013 U.S. Hist. fm 1877 to Present",
+            "Class Days": "T",
+            "Class": 31,
+            "CRN": 39621,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Field, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 32,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hunt, J",
+            "Course Title": "HIST 202 \u2013 United States History II",
+            "Class Days": "Th",
+            "Class": 33,
+            "CRN": 32374,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Hunt, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 34,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hunt, J",
+            "Course Title": "HIST 202 \u2013 United States History II",
+            "Class Days": "Th",
+            "Class": 35,
+            "CRN": 46874,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Hunt, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 36,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Coburn, J",
+            "Course Title": "HIST 202 \u2013 U.S. Hist. fm 1877 to Present",
+            "Class Days": "M",
+            "Class": 37,
+            "CRN": 47119,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Stanford, M",
+            "Course Title": "HIST 202 \u2013 U.S. Hist. fm 1877 to Present",
+            "Class Days": "",
+            "Class": 38,
+            "CRN": 40218,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Coburn, J",
+            "Course Title": "HIST 202 \u2013 U.S. Hist. fm 1877 to Present",
+            "Class Days": "",
+            "Class": 39,
+            "CRN": 41283,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Stanford, M",
+            "Course Title": "HIST 202 \u2013 U.S. Hist. fm 1877 to Present",
+            "Class Days": "",
+            "Class": 40,
+            "CRN": 42556,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Popal, M",
+            "Course Title": "HIST 202 \u2013 United States History II",
+            "Class Days": "",
+            "Class": 41,
+            "CRN": 43269,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Coburn, J",
+            "Course Title": "HIST 202 \u2013 U.S. Hist. fm 1877 to Present",
+            "Class Days": "",
+            "Class": 42,
+            "CRN": 47118,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Swanson, A",
+            "Course Title": "HIST 202 \u2013 United States History II",
+            "Class Days": "",
+            "Class": 43,
+            "CRN": 47318,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Popal, M",
+            "Course Title": "HIST 235 \u2013 History of Ethnic Groups in US",
+            "Class Days": "M, W",
+            "Class": 44,
+            "CRN": 45013,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Popal, M",
+            "Course Title": "HIST 235 \u2013 Hist of Ethnic GroupsinUS-PSP",
+            "Class Days": "M, W",
+            "Class": 45,
+            "CRN": 46989,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Popal, M",
+            "Course Title": "HIST 235 \u2013 History of Ethnic Groups in US",
+            "Class Days": "",
+            "Class": 46,
+            "CRN": 46444,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Phipps, M",
+            "Course Title": "HIST 235 \u2013 History of Ethnic Groups in US",
+            "Class Days": "",
+            "Class": 47,
+            "CRN": 47321,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Skovgaard, J",
+            "Course Title": "HIST 235 \u2013 History of Ethnic Groups in US",
+            "Class Days": "",
+            "Class": 48,
+            "CRN": 47323,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Popal, M",
+            "Course Title": "HIST 240 \u2013 History of Ethnic Groups in CA",
+            "Class Days": "T, Th",
+            "Class": 49,
+            "CRN": 39194,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Popal, M",
+            "Course Title": "HIST 240 \u2013 History of Ethnic Groups in CA",
+            "Class Days": "T, Th",
+            "Class": 50,
+            "CRN": 48126,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Popal, M",
+            "Course Title": "HIST 240 \u2013 History of Ethnic Groups in CA",
+            "Class Days": "T",
+            "Class": 51,
+            "CRN": 33450,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Phipps, M",
+            "Course Title": "HIST 240 \u2013 History of Ethnic Groups in CA",
+            "Class Days": "",
+            "Class": 52,
+            "CRN": 43742,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Phipps, M",
+            "Course Title": "HIST 240 \u2013 History of Ethnic Groups in CA",
+            "Class Days": "",
+            "Class": 53,
+            "CRN": 46724,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Collins, C",
+            "Course Title": "HIST 244 \u2013 African American History",
+            "Class Days": "",
+            "Class": 54,
+            "CRN": 47339,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Field, A",
+            "Course Title": "HIST 245 \u2013 Race Ethnicity and Immigration",
+            "Class Days": "T, Th",
+            "Class": 55,
+            "CRN": 39320,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Field, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 56,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Field, A",
+            "Course Title": "HIST 245 \u2013 Race Ethnicity and Immigration",
+            "Class Days": "",
+            "Class": 57,
+            "CRN": 39322,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Field, A",
+            "Course Title": "HIST 245 \u2013 Race Ethnicity and Immigration",
+            "Class Days": "",
+            "Class": 58,
+            "CRN": 46739,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Field, A",
+            "Course Title": "HIST 246 \u2013 History of Latinos in the U.S.",
+            "Class Days": "F",
+            "Class": 59,
+            "CRN": 41999,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Irish, M",
+            "Course Title": "HIST 248 \u2013 Women&The American Experience",
+            "Class Days": "",
+            "Class": 60,
+            "CRN": 46725,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Manbachi, K",
+            "Course Title": "HIST 310 \u2013 California History",
+            "Class Days": "M, W, F",
+            "Class": 61,
+            "CRN": 30454,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Manbachi, K",
+            "Course Title": "HIST 310 \u2013 California History",
+            "Class Days": "M, W",
+            "Class": 62,
+            "CRN": 30453,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Irwin, T",
+            "Course Title": "HIST 310 \u2013 California History",
+            "Class Days": "W",
+            "Class": 63,
+            "CRN": 32379,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Irwin, T",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 64,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Reidy, N",
+            "Course Title": "HIST 310 \u2013 California History",
+            "Class Days": "",
+            "Class": 65,
+            "CRN": 30455,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Elia, J",
+            "Course Title": "HIST 310 \u2013 California History",
+            "Class Days": "",
+            "Class": 66,
+            "CRN": 30457,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Elia, J",
+            "Course Title": "HIST 310 \u2013 California History",
+            "Class Days": "",
+            "Class": 67,
+            "CRN": 47333,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Reidy, N",
+            "Course Title": "HIST 310 \u2013 California History",
+            "Class Days": "",
+            "Class": 68,
+            "CRN": 47335,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Bell, R",
+            "Course Title": "HIST 335 \u2013 History/Politics - Middle East",
+            "Class Days": "M, W",
+            "Class": 69,
+            "CRN": 42516,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Ulloa, J",
+            "Course Title": "HIST 429 \u2013 History of Latinos in the U.S.",
+            "Class Days": "T, Th",
+            "Class": 70,
+            "CRN": 43744,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Ulloa, J",
+            "Course Title": "HIST 429 \u2013 Hist of Latinos in US-PUENTE",
+            "Class Days": "T, Th",
+            "Class": 71,
+            "CRN": 48438,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Daus - Magbual, R",
+            "Course Title": "HIST 436 \u2013 Filipinos in America KABA",
+            "Class Days": "T, Th",
+            "Class": 72,
+            "CRN": 43113,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Daus - Magbual, R",
+            "Course Title": "HIST 436 \u2013 Filipinos in America KABA PSP",
+            "Class Days": "T, Th",
+            "Class": 73,
+            "CRN": 45407,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Daus - Magbual, R",
+            "Course Title": "HIST 436 \u2013 Filipinos in America PSP",
+            "Class Days": "T, Th",
+            "Class": 74,
+            "CRN": 47048,
+            "Units": 3
+        }
+    ]
+}

@@ -1,0 +1,4979 @@
+{
+    "Multimedia": [
+        {
+            "Status": "Closed",
+            "Professor": "Quaglia, E",
+            "Course Title": "MART 314 \u2013 Introduction to Comp. Graphics",
+            "Class Days": "T, Th",
+            "Class": 1,
+            "CRN": 84907,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Quaglia, E",
+            "Course Title": "MART 314 \u2013 Introduction to Comp. Graphics",
+            "Class Days": "T, Th",
+            "Class": 2,
+            "CRN": 92149,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Quaglia, E",
+            "Course Title": "MART 362 \u2013 Intro. to Digital Photography",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 89487,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Quaglia, E",
+            "Course Title": "MART 366 \u2013 Color Management and Theory",
+            "Class Days": "T",
+            "Class": 4,
+            "CRN": 95264,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Quaglia, E",
+            "Course Title": "MART 366 \u2013 Color Management and Theory",
+            "Class Days": "T",
+            "Class": 5,
+            "CRN": 97754,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Naas, P",
+            "Course Title": "MART 372 \u2013 Digital Illustration",
+            "Class Days": "W",
+            "Class": 6,
+            "CRN": 92151,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Naas, P",
+            "Course Title": "MART 372 \u2013 Digital Illustration",
+            "Class Days": "W",
+            "Class": 7,
+            "CRN": 97470,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Quaglia, E",
+            "Course Title": "MART 376 \u2013 Intro. to Digital Imaging",
+            "Class Days": "T, Th",
+            "Class": 8,
+            "CRN": 86093,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Quaglia, E",
+            "Course Title": "MART 376 \u2013 Intro. to Digital Imaging",
+            "Class Days": "T, Th",
+            "Class": 9,
+            "CRN": 89768,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Gainey, D",
+            "Course Title": "MART 379 \u2013 Intro. to Digital Animation",
+            "Class Days": "M",
+            "Class": 10,
+            "CRN": 89766,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Naas, P",
+            "Course Title": "MART 385 \u2013 Coding for Designers & Artists",
+            "Class Days": "T",
+            "Class": 11,
+            "CRN": 95747,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Naas, P",
+            "Course Title": "MART 389 \u2013 Digital Media Careers",
+            "Class Days": "",
+            "Class": 12,
+            "CRN": 90934,
+            "Units": 1.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Quaglia, E",
+            "Course Title": "MART 394 \u2013 Interaction Design",
+            "Class Days": "Th",
+            "Class": 13,
+            "CRN": 98094,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Quaglia, E",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 14,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Burger, B",
+            "Course Title": "MART 405 \u2013 Storyboard Dev. for Anim./Inte",
+            "Class Days": "W",
+            "Class": 15,
+            "CRN": 90342,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Naas, P",
+            "Course Title": "MART 418 \u2013 History of Animation",
+            "Class Days": "",
+            "Class": 16,
+            "CRN": 91623,
+            "Units": 1.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Naas, P",
+            "Course Title": "MART 420 \u2013 Intro. 3D Modeling & Animation",
+            "Class Days": "M, W",
+            "Class": 17,
+            "CRN": 95283,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Naas, P",
+            "Course Title": "MART 420 \u2013 Intro. 3D Modeling & Animation",
+            "Class Days": "",
+            "Class": 18,
+            "CRN": 90867,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Giambruno, J",
+            "Course Title": "MART 421 \u2013 Adv. 3D Modeling and Animation",
+            "Class Days": "M, T, W",
+            "Class": 19,
+            "CRN": 98028,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Giambruno, J",
+            "Course Title": "",
+            "Class Days": "M, T, W",
+            "Class": 20,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Giambruno, J",
+            "Course Title": "",
+            "Class Days": "M, T, W",
+            "Class": 21,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Giambruno, J",
+            "Course Title": "",
+            "Class Days": "M, T, W",
+            "Class": 22,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Gustlin, D",
+            "Course Title": "MART 422 \u2013 Introduction to Rigging",
+            "Class Days": "Th",
+            "Class": 23,
+            "CRN": 93358,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Naas, P",
+            "Course Title": "MART 424 \u2013 3D Animation Fundamentals",
+            "Class Days": "T",
+            "Class": 24,
+            "CRN": 96874,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Angle, R",
+            "Course Title": "MART 441 \u2013 Intro. to Video Game Design",
+            "Class Days": "",
+            "Class": 25,
+            "CRN": 96477,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Burger, B",
+            "Course Title": "MART 442 \u2013 History of Video Games",
+            "Class Days": "",
+            "Class": 26,
+            "CRN": 96478,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Angle, R",
+            "Course Title": "MART 443 \u2013 Game Design Fundamentals",
+            "Class Days": "",
+            "Class": 27,
+            "CRN": 96479,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Angle, R",
+            "Course Title": "MART 447 \u2013 3D Level Design",
+            "Class Days": "",
+            "Class": 28,
+            "CRN": 96875,
+            "Units": 3
+        }
+    ],
+    "Nursing": [
+        {
+            "Status": "Closed",
+            "Professor": "Vakis, D",
+            "Course Title": "NURS 211 \u2013 Introduction to Nursing",
+            "Class Days": "M",
+            "Class": 1,
+            "CRN": 82765,
+            "Units": 4.5
+        },
+        {
+            "Status": "",
+            "Professor": "Waechtler, N",
+            "Course Title": "",
+            "Class Days": "M, Th",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 4.5
+        },
+        {
+            "Status": "",
+            "Professor": "Waechtler, N",
+            "Course Title": "",
+            "Class Days": "T, W",
+            "Class": 3,
+            "CRN": 0,
+            "Units": 4.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Haugen, E",
+            "Course Title": "NURS 211 \u2013 Introduction to Nursing",
+            "Class Days": "T, W",
+            "Class": 4,
+            "CRN": 83293,
+            "Units": 4.5
+        },
+        {
+            "Status": "",
+            "Professor": "Tohmc, J",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 5,
+            "CRN": 0,
+            "Units": 4.5
+        },
+        {
+            "Status": "",
+            "Professor": "Waechtler, N",
+            "Course Title": "",
+            "Class Days": "M, Th",
+            "Class": 6,
+            "CRN": 0,
+            "Units": 4.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Nguyen, M",
+            "Course Title": "NURS 211 \u2013 Introduction to Nursing",
+            "Class Days": "Th",
+            "Class": 7,
+            "CRN": 83297,
+            "Units": 4.5
+        },
+        {
+            "Status": "",
+            "Professor": "Waechtler, N",
+            "Course Title": "",
+            "Class Days": "M, Th",
+            "Class": 8,
+            "CRN": 0,
+            "Units": 4.5
+        },
+        {
+            "Status": "",
+            "Professor": "Withrington, J",
+            "Course Title": "",
+            "Class Days": "T, W",
+            "Class": 9,
+            "CRN": 0,
+            "Units": 4.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Simon, I",
+            "Course Title": "NURS 211 \u2013 Introduction to Nursing",
+            "Class Days": "T, W",
+            "Class": 10,
+            "CRN": 88587,
+            "Units": 4.5
+        },
+        {
+            "Status": "",
+            "Professor": "Waechtler, N",
+            "Course Title": "",
+            "Class Days": "M, Th",
+            "Class": 11,
+            "CRN": 0,
+            "Units": 4.5
+        },
+        {
+            "Status": "",
+            "Professor": "Waechtler, N",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 12,
+            "CRN": 0,
+            "Units": 4.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Pascual, J",
+            "Course Title": "NURS 211 \u2013 Introduction to Nursing",
+            "Class Days": "W",
+            "Class": 13,
+            "CRN": 89657,
+            "Units": 4.5
+        },
+        {
+            "Status": "",
+            "Professor": "Spring, S",
+            "Course Title": "",
+            "Class Days": "Th, F",
+            "Class": 14,
+            "CRN": 0,
+            "Units": 4.5
+        },
+        {
+            "Status": "",
+            "Professor": "Waechtler, N",
+            "Course Title": "",
+            "Class Days": "M, Th",
+            "Class": 15,
+            "CRN": 0,
+            "Units": 4.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Vakis, D",
+            "Course Title": "NURS 212 \u2013 Concepts of Homeostasis",
+            "Class Days": "M",
+            "Class": 16,
+            "CRN": 82766,
+            "Units": 4.5
+        },
+        {
+            "Status": "",
+            "Professor": "Waechtler, N",
+            "Course Title": "",
+            "Class Days": "M, Th",
+            "Class": 17,
+            "CRN": 0,
+            "Units": 4.5
+        },
+        {
+            "Status": "",
+            "Professor": "Waechtler, N",
+            "Course Title": "",
+            "Class Days": "T, W",
+            "Class": 18,
+            "CRN": 0,
+            "Units": 4.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Nguyen, M",
+            "Course Title": "NURS 212 \u2013 Concepts of Homeostasis",
+            "Class Days": "Th",
+            "Class": 19,
+            "CRN": 83310,
+            "Units": 4.5
+        },
+        {
+            "Status": "",
+            "Professor": "Waechtler, N",
+            "Course Title": "",
+            "Class Days": "M, Th",
+            "Class": 20,
+            "CRN": 0,
+            "Units": 4.5
+        },
+        {
+            "Status": "",
+            "Professor": "Withrington, J",
+            "Course Title": "",
+            "Class Days": "T, W",
+            "Class": 21,
+            "CRN": 0,
+            "Units": 4.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Haugen, E",
+            "Course Title": "NURS 212 \u2013 Concepts of Homeostasis",
+            "Class Days": "T, W",
+            "Class": 22,
+            "CRN": 83311,
+            "Units": 4.5
+        },
+        {
+            "Status": "",
+            "Professor": "Tohmc, J",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 23,
+            "CRN": 0,
+            "Units": 4.5
+        },
+        {
+            "Status": "",
+            "Professor": "Waechtler, N",
+            "Course Title": "",
+            "Class Days": "M, Th",
+            "Class": 24,
+            "CRN": 0,
+            "Units": 4.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Simon, I",
+            "Course Title": "NURS 212 \u2013 Concepts of Homeostasis",
+            "Class Days": "T, W",
+            "Class": 25,
+            "CRN": 88590,
+            "Units": 4.5
+        },
+        {
+            "Status": "",
+            "Professor": "Tohmc, J",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 26,
+            "CRN": 0,
+            "Units": 4.5
+        },
+        {
+            "Status": "",
+            "Professor": "Waechtler, N",
+            "Course Title": "",
+            "Class Days": "M, Th",
+            "Class": 27,
+            "CRN": 0,
+            "Units": 4.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Pascual, J",
+            "Course Title": "NURS 212 \u2013 Concepts of Homeostasis",
+            "Class Days": "W",
+            "Class": 28,
+            "CRN": 89658,
+            "Units": 4.5
+        },
+        {
+            "Status": "",
+            "Professor": "Spring, S",
+            "Course Title": "",
+            "Class Days": "Th, F",
+            "Class": 29,
+            "CRN": 0,
+            "Units": 4.5
+        },
+        {
+            "Status": "",
+            "Professor": "Waechtler, N",
+            "Course Title": "",
+            "Class Days": "M, Th",
+            "Class": 30,
+            "CRN": 0,
+            "Units": 4.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hollandsworth, M",
+            "Course Title": "NURS 231 \u2013 Mental Health Nursing",
+            "Class Days": "M, Th",
+            "Class": 31,
+            "CRN": 82767,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Rostami Jafarabad, S",
+            "Course Title": "",
+            "Class Days": "Sa, Su",
+            "Class": 32,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hollandsworth, M",
+            "Course Title": "NURS 231 \u2013 Mental Health Nursing",
+            "Class Days": "M, Th",
+            "Class": 33,
+            "CRN": 83321,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Marlowe, L",
+            "Course Title": "",
+            "Class Days": "T, W",
+            "Class": 34,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Bautista, L",
+            "Course Title": "NURS 231 \u2013 Mental Health Nursing",
+            "Class Days": "T, W",
+            "Class": 35,
+            "CRN": 83322,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Hollandsworth, M",
+            "Course Title": "",
+            "Class Days": "M, Th",
+            "Class": 36,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Banini, A",
+            "Course Title": "NURS 231 \u2013 Mental Health Nursing",
+            "Class Days": "F, Sa",
+            "Class": 37,
+            "CRN": 83324,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Hollandsworth, M",
+            "Course Title": "",
+            "Class Days": "M, Th",
+            "Class": 38,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hollandsworth, M",
+            "Course Title": "NURS 231 \u2013 Mental Health Nursing",
+            "Class Days": "M, Th",
+            "Class": 39,
+            "CRN": 89813,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Jackson, C",
+            "Course Title": "",
+            "Class Days": "T, W",
+            "Class": 40,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hollandsworth, M",
+            "Course Title": "NURS 231 \u2013 Mental Health Nursing",
+            "Class Days": "M, Th",
+            "Class": 41,
+            "CRN": 91968,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Nguyen, M",
+            "Course Title": "",
+            "Class Days": "T, W",
+            "Class": 42,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Low, C",
+            "Course Title": "NURS 232 \u2013 Medical/Surgical Nursing",
+            "Class Days": "Sa, Su",
+            "Class": 43,
+            "CRN": 82768,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Spring, S",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 44,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Tohmc, J",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 45,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Spring, S",
+            "Course Title": "NURS 232 \u2013 Medical/Surgical Nursing",
+            "Class Days": "M",
+            "Class": 46,
+            "CRN": 83331,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Tohmc, J",
+            "Course Title": "",
+            "Class Days": "T, W",
+            "Class": 47,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Tohmc, J",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 48,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "De Jarnatt, E",
+            "Course Title": "NURS 232 \u2013 Medical/Surgical Nursing",
+            "Class Days": "T, W",
+            "Class": 49,
+            "CRN": 83332,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Spring, S",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 50,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Tohmc, J",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 51,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Liu, J",
+            "Course Title": "NURS 232 \u2013 Medical/Surgical Nursing",
+            "Class Days": "Sa, Su",
+            "Class": 52,
+            "CRN": 83334,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Spring, S",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 53,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Tohmc, J",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 54,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Martha, T",
+            "Course Title": "NURS 232 \u2013 Medical/Surgical Nursing",
+            "Class Days": "T, W",
+            "Class": 55,
+            "CRN": 89822,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Spring, S",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 56,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Tohmc, J",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 57,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hollandsworth, M",
+            "Course Title": "NURS 232 \u2013 Medical/Surgical Nursing",
+            "Class Days": "T, W",
+            "Class": 58,
+            "CRN": 91970,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Spring, S",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 59,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Tohmc, J",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 60,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hollandsworth, M",
+            "Course Title": "NURS 235 \u2013 Nursing Skills Lab III",
+            "Class Days": "M",
+            "Class": 61,
+            "CRN": 88594,
+            "Units": 0.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Spring, S",
+            "Course Title": "NURS 235 \u2013 Nursing Skills Lab III",
+            "Class Days": "M",
+            "Class": 62,
+            "CRN": 84952,
+            "Units": 0.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hollandsworth, M",
+            "Course Title": "NURS 235 \u2013 Nursing Skills Lab III",
+            "Class Days": "Th",
+            "Class": 63,
+            "CRN": 84953,
+            "Units": 0.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Spring, S",
+            "Course Title": "NURS 235 \u2013 Nursing Skills Lab III",
+            "Class Days": "Th",
+            "Class": 64,
+            "CRN": 89823,
+            "Units": 0.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Nguyen, M",
+            "Course Title": "NURS 666 \u2013 Career Exploration in Nursing",
+            "Class Days": "Sa, Su",
+            "Class": 65,
+            "CRN": 84954,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Tohmc, J",
+            "Course Title": "NURS 816 \u2013 Open Lab for Nursing 211/212",
+            "Class Days": "",
+            "Class": 66,
+            "CRN": 94409,
+            "Units": 0.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Tohmc, J",
+            "Course Title": "NURS 818 \u2013 Open Lab for Nursing 231/232",
+            "Class Days": "",
+            "Class": 67,
+            "CRN": 94410,
+            "Units": 0.5
+        }
+    ],
+    "Music": [
+        {
+            "Status": "Closed",
+            "Professor": "Zuniga, L",
+            "Course Title": "MUS. 100 \u2013 Fundamentals of Music",
+            "Class Days": "M, W, F",
+            "Class": 1,
+            "CRN": 80596,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Rodriguez-Marquez, M",
+            "Course Title": "MUS. 100 \u2013 Fundamentals of Music",
+            "Class Days": "M, W",
+            "Class": 2,
+            "CRN": 93239,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Meckler, D",
+            "Course Title": "MUS. 100 \u2013 Fundamentals of Music",
+            "Class Days": "T, Th",
+            "Class": 3,
+            "CRN": 96440,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Roper, R",
+            "Course Title": "MUS. 100 \u2013 Fundamentals of Music",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 82731,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Roper, R",
+            "Course Title": "MUS. 100 \u2013 Fundamentals of Music",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 82732,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Bobrowski, C",
+            "Course Title": "MUS. 100 \u2013 Fundamentals of Music",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 82733,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Zuniga, L",
+            "Course Title": "MUS. 100 \u2013 Fundamentals of Music",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 89886,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Meckler, D",
+            "Course Title": "MUS. 100 \u2013 Fundamentals of Music",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 96020,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Bobrowski, C",
+            "Course Title": "MUS. 100 \u2013 Fundamentals of Music",
+            "Class Days": "",
+            "Class": 9,
+            "CRN": 98146,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Zuniga, L",
+            "Course Title": "MUS. 100 \u2013 Fundamentals of Music",
+            "Class Days": "",
+            "Class": 10,
+            "CRN": 98147,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Navari, J",
+            "Course Title": "MUS. 105 \u2013 Music Theory I",
+            "Class Days": "M, W, F",
+            "Class": 11,
+            "CRN": 97320,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Navari, J",
+            "Course Title": "MUS. 105 \u2013 Music Theory I",
+            "Class Days": "M, W, F",
+            "Class": 12,
+            "CRN": 93184,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Navari, J",
+            "Course Title": "MUS. 107 \u2013 Music Theory III",
+            "Class Days": "T, Th",
+            "Class": 13,
+            "CRN": 97321,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Navari, J",
+            "Course Title": "MUS. 107 \u2013 Music Theory III",
+            "Class Days": "T, Th",
+            "Class": 14,
+            "CRN": 93557,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Navari, J",
+            "Course Title": "MUS. 111 \u2013 Musicianship I",
+            "Class Days": "M, W, F",
+            "Class": 15,
+            "CRN": 97322,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Thanos, A",
+            "Course Title": "MUS. 111 \u2013 Musicianship I",
+            "Class Days": "T, Th",
+            "Class": 16,
+            "CRN": 95544,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Navari, J",
+            "Course Title": "MUS. 111 \u2013 Musicianship I",
+            "Class Days": "M, W, F",
+            "Class": 17,
+            "CRN": 80599,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Rodriguez-Marquez, M",
+            "Course Title": "MUS. 113 \u2013 Musicianship III",
+            "Class Days": "M, W",
+            "Class": 18,
+            "CRN": 95545,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Navari, J",
+            "Course Title": "MUS. 113 \u2013 Musicianship III",
+            "Class Days": "T, Th",
+            "Class": 19,
+            "CRN": 97323,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Navari, J",
+            "Course Title": "MUS. 113 \u2013 Musicianship III",
+            "Class Days": "T, Th",
+            "Class": 20,
+            "CRN": 93558,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Takayama, A",
+            "Course Title": "MUS. 115 \u2013 Music, Art and Ideas",
+            "Class Days": "M, W",
+            "Class": 21,
+            "CRN": 90570,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Rodriguez-Marquez, M",
+            "Course Title": "MUS. 120 \u2013 Songwriting",
+            "Class Days": "W",
+            "Class": 22,
+            "CRN": 97970,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Rodriguez-Marquez, M",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 23,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Jackson, J",
+            "Course Title": "MUS. 131 \u2013 Harmony I",
+            "Class Days": "T, Th",
+            "Class": 24,
+            "CRN": 82738,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Jackson, J",
+            "Course Title": "MUS. 133 \u2013 Harmony III",
+            "Class Days": "M, W",
+            "Class": 25,
+            "CRN": 82740,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ferguson, C",
+            "Course Title": "MUS. 202 \u2013 Music Appreciation",
+            "Class Days": "M, W",
+            "Class": 26,
+            "CRN": 95888,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Meckler, D",
+            "Course Title": "MUS. 202 \u2013 Music Appreciation",
+            "Class Days": "",
+            "Class": 27,
+            "CRN": 81407,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ferguson, C",
+            "Course Title": "MUS. 202 \u2013 Music Appreciation",
+            "Class Days": "",
+            "Class": 28,
+            "CRN": 85848,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Dibble, M",
+            "Course Title": "MUS. 202 \u2013 Music Appreciation",
+            "Class Days": "",
+            "Class": 29,
+            "CRN": 89682,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Gomez, P",
+            "Course Title": "MUS. 202 \u2013 Music Appreciation",
+            "Class Days": "",
+            "Class": 30,
+            "CRN": 95744,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hoffmann, S",
+            "Course Title": "MUS. 202 \u2013 Music Appreciation",
+            "Class Days": "",
+            "Class": 31,
+            "CRN": 96078,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hoffmann, S",
+            "Course Title": "MUS. 202 \u2013 Music Appreciation",
+            "Class Days": "",
+            "Class": 32,
+            "CRN": 97199,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Rugani, J",
+            "Course Title": "MUS. 210 \u2013 From Blues to Hip Hop",
+            "Class Days": "",
+            "Class": 33,
+            "CRN": 96079,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Meckler, D",
+            "Course Title": "MUS. 250 \u2013 World Music",
+            "Class Days": "T",
+            "Class": 34,
+            "CRN": 97456,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Meckler, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 35,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Otte, A",
+            "Course Title": "MUS. 250 \u2013 World Music",
+            "Class Days": "",
+            "Class": 36,
+            "CRN": 91510,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Otte, A",
+            "Course Title": "MUS. 250 \u2013 World Music",
+            "Class Days": "",
+            "Class": 37,
+            "CRN": 97080,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hutchison, N",
+            "Course Title": "MUS. 250 \u2013 World Music",
+            "Class Days": "",
+            "Class": 38,
+            "CRN": 98072,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hawkins, M",
+            "Course Title": "MUS. 275 \u2013 History of Jazz",
+            "Class Days": "",
+            "Class": 39,
+            "CRN": 96251,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Otte, A",
+            "Course Title": "MUS. 289 \u2013 Recording for Musical Apps",
+            "Class Days": "Th",
+            "Class": 40,
+            "CRN": 97533,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Otte, A",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 41,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Otte, A",
+            "Course Title": "MUS. 290 \u2013 Electronic Music I",
+            "Class Days": "W",
+            "Class": 42,
+            "CRN": 93413,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Otte, A",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 43,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Bobrowski, C",
+            "Course Title": "MUS. 290 \u2013 Electronic Music I",
+            "Class Days": "Th",
+            "Class": 44,
+            "CRN": 84111,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Bobrowski, C",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 45,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Bobrowski, C",
+            "Course Title": "MUS. 292 \u2013 Sound Creation: Sampl & Synth",
+            "Class Days": "W",
+            "Class": 46,
+            "CRN": 86158,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Bobrowski, C",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 47,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Chu, C",
+            "Course Title": "MUS. 294 \u2013 Intro to Music Technology",
+            "Class Days": "Th",
+            "Class": 48,
+            "CRN": 96970,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Chu, C",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 49,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Bobrowski, C",
+            "Course Title": "MUS. 296 \u2013 Elec. Music Comp. Portfolio I",
+            "Class Days": "W",
+            "Class": 50,
+            "CRN": 96170,
+            "Units": 1.5
+        },
+        {
+            "Status": "",
+            "Professor": "Bobrowski, C",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 51,
+            "CRN": 0,
+            "Units": 1.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Bobrowski, C",
+            "Course Title": "MUS. 297 \u2013 Elec. Music Comp. Portfolio II",
+            "Class Days": "W",
+            "Class": 52,
+            "CRN": 96605,
+            "Units": 1.5
+        },
+        {
+            "Status": "",
+            "Professor": "Bobrowski, C",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 53,
+            "CRN": 0,
+            "Units": 1.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Jackson, J",
+            "Course Title": "MUS. 301 \u2013 Piano I",
+            "Class Days": "Th",
+            "Class": 54,
+            "CRN": 82746,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Jackson, J",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 55,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ingber, E",
+            "Course Title": "MUS. 301 \u2013 Piano I",
+            "Class Days": "T",
+            "Class": 56,
+            "CRN": 80605,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ingber, E",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 57,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Gu, R",
+            "Course Title": "MUS. 301 \u2013 Piano I",
+            "Class Days": "T",
+            "Class": 58,
+            "CRN": 95286,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Gu, R",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 59,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ingber, E",
+            "Course Title": "MUS. 301 \u2013 Piano I",
+            "Class Days": "Sa",
+            "Class": 60,
+            "CRN": 91675,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ingber, E",
+            "Course Title": "",
+            "Class Days": "Sa",
+            "Class": 61,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Thanos, A",
+            "Course Title": "MUS. 302 \u2013 Piano II",
+            "Class Days": "Th",
+            "Class": 62,
+            "CRN": 94137,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Thanos, A",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 63,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ingber, E",
+            "Course Title": "MUS. 302 \u2013 Piano II",
+            "Class Days": "T",
+            "Class": 64,
+            "CRN": 80610,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ingber, E",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 65,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Gu, R",
+            "Course Title": "MUS. 302 \u2013 Piano II",
+            "Class Days": "T",
+            "Class": 66,
+            "CRN": 95287,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Gu, R",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 67,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ingber, E",
+            "Course Title": "MUS. 302 \u2013 Piano II",
+            "Class Days": "Sa",
+            "Class": 68,
+            "CRN": 84339,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ingber, E",
+            "Course Title": "",
+            "Class Days": "Sa",
+            "Class": 69,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Thanos, A",
+            "Course Title": "MUS. 303 \u2013 Piano III",
+            "Class Days": "Th",
+            "Class": 70,
+            "CRN": 82750,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Thanos, A",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 71,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ingber, E",
+            "Course Title": "MUS. 303 \u2013 Piano III",
+            "Class Days": "T",
+            "Class": 72,
+            "CRN": 92820,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ingber, E",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 73,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Gu, R",
+            "Course Title": "MUS. 303 \u2013 Piano III",
+            "Class Days": "T",
+            "Class": 74,
+            "CRN": 95288,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Gu, R",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 75,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ingber, E",
+            "Course Title": "MUS. 303 \u2013 Piano III",
+            "Class Days": "Sa",
+            "Class": 76,
+            "CRN": 89208,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ingber, E",
+            "Course Title": "",
+            "Class Days": "Sa",
+            "Class": 77,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Thanos, A",
+            "Course Title": "MUS. 304 \u2013 Piano IV",
+            "Class Days": "Th",
+            "Class": 78,
+            "CRN": 82751,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Thanos, A",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 79,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ingber, E",
+            "Course Title": "MUS. 304 \u2013 Piano IV",
+            "Class Days": "T",
+            "Class": 80,
+            "CRN": 92821,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ingber, E",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 81,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Gu, R",
+            "Course Title": "MUS. 304 \u2013 Piano IV",
+            "Class Days": "T",
+            "Class": 82,
+            "CRN": 95289,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Gu, R",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 83,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ingber, E",
+            "Course Title": "MUS. 304 \u2013 Piano IV",
+            "Class Days": "Sa",
+            "Class": 84,
+            "CRN": 89210,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ingber, E",
+            "Course Title": "",
+            "Class Days": "Sa",
+            "Class": 85,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Gu, R",
+            "Course Title": "MUS. 316 \u2013 Piano Lit. & Perform-Romantic",
+            "Class Days": "W",
+            "Class": 86,
+            "CRN": 95091,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Gu, R",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 87,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ingber, E",
+            "Course Title": "MUS. 355 \u2013 Violin/Viola I",
+            "Class Days": "T",
+            "Class": 88,
+            "CRN": 94182,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ingber, E",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 89,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ingber, E",
+            "Course Title": "MUS. 356 \u2013 Violin/Viola II",
+            "Class Days": "T",
+            "Class": 90,
+            "CRN": 94184,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ingber, E",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 91,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ingber, E",
+            "Course Title": "MUS. 357 \u2013 Violin/Viola III",
+            "Class Days": "T",
+            "Class": 92,
+            "CRN": 94174,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ingber, E",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 93,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ingber, E",
+            "Course Title": "MUS. 358 \u2013 Violin/Viola IV",
+            "Class Days": "T",
+            "Class": 94,
+            "CRN": 94195,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ingber, E",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 95,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Zollinger, M",
+            "Course Title": "MUS. 371 \u2013 Guitar I",
+            "Class Days": "T",
+            "Class": 96,
+            "CRN": 93680,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Zollinger, M",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 97,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ferguson, C",
+            "Course Title": "MUS. 371 \u2013 Guitar I",
+            "Class Days": "Th",
+            "Class": 98,
+            "CRN": 83144,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ferguson, C",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 99,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Zollinger, M",
+            "Course Title": "MUS. 372 \u2013 Guitar II",
+            "Class Days": "T",
+            "Class": 100,
+            "CRN": 94408,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Zollinger, M",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 101,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ferguson, C",
+            "Course Title": "MUS. 372 \u2013 Guitar II",
+            "Class Days": "Th",
+            "Class": 102,
+            "CRN": 83201,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ferguson, C",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 103,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Zollinger, M",
+            "Course Title": "MUS. 373 \u2013 Guitar III",
+            "Class Days": "T",
+            "Class": 104,
+            "CRN": 95418,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Zollinger, M",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 105,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ferguson, C",
+            "Course Title": "MUS. 373 \u2013 Guitar III",
+            "Class Days": "Th",
+            "Class": 106,
+            "CRN": 83901,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ferguson, C",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 107,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Zollinger, M",
+            "Course Title": "MUS. 374 \u2013 Guitar IV",
+            "Class Days": "T",
+            "Class": 108,
+            "CRN": 95419,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Zollinger, M",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 109,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ferguson, C",
+            "Course Title": "MUS. 374 \u2013 Guitar IV",
+            "Class Days": "Th",
+            "Class": 110,
+            "CRN": 83952,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ferguson, C",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 111,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Dichiacchio, J",
+            "Course Title": "MUS. 377 \u2013 Guitar I",
+            "Class Days": "M",
+            "Class": 112,
+            "CRN": 94238,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Dichiacchio, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 113,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Dichiacchio, J",
+            "Course Title": "MUS. 378 \u2013 Guitar II",
+            "Class Days": "M",
+            "Class": 114,
+            "CRN": 94180,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Dichiacchio, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 115,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Dichiacchio, J",
+            "Course Title": "MUS. 379 \u2013 Guitar III",
+            "Class Days": "M",
+            "Class": 116,
+            "CRN": 94255,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Dichiacchio, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 117,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Dichiacchio, J",
+            "Course Title": "MUS. 380 \u2013 Guitar IV",
+            "Class Days": "M",
+            "Class": 118,
+            "CRN": 94256,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Dichiacchio, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 119,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hutchison, N",
+            "Course Title": "MUS. 383.1 \u2013 Guitar Ensemble I",
+            "Class Days": "W",
+            "Class": 120,
+            "CRN": 94234,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hutchison, N",
+            "Course Title": "MUS. 383.2 \u2013 Guitar Ensemble II",
+            "Class Days": "W",
+            "Class": 121,
+            "CRN": 94235,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hutchison, N",
+            "Course Title": "MUS. 383.3 \u2013 Guitar Ensemble III",
+            "Class Days": "W",
+            "Class": 122,
+            "CRN": 94236,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hutchison, N",
+            "Course Title": "MUS. 383.4 \u2013 Guitar Ensemble IV",
+            "Class Days": "W",
+            "Class": 123,
+            "CRN": 94237,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hawkins, M",
+            "Course Title": "MUS. 401 \u2013 Voice I",
+            "Class Days": "M",
+            "Class": 124,
+            "CRN": 85622,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Hawkins, M",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 125,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Dronkers, M",
+            "Course Title": "MUS. 401 \u2013 Voice I",
+            "Class Days": "M",
+            "Class": 126,
+            "CRN": 83786,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Dronkers, M",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 127,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Dibble, M",
+            "Course Title": "MUS. 401 \u2013 Voice I",
+            "Class Days": "",
+            "Class": 128,
+            "CRN": 96640,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Dibble, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 129,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hawkins, M",
+            "Course Title": "MUS. 402 \u2013 Voice II",
+            "Class Days": "M",
+            "Class": 130,
+            "CRN": 85353,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Hawkins, M",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 131,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Dronkers, M",
+            "Course Title": "MUS. 402 \u2013 Voice II",
+            "Class Days": "W",
+            "Class": 132,
+            "CRN": 83204,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Dronkers, M",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 133,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Dibble, M",
+            "Course Title": "MUS. 402 \u2013 Voice II",
+            "Class Days": "",
+            "Class": 134,
+            "CRN": 96646,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Dibble, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 135,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hawkins, M",
+            "Course Title": "MUS. 403 \u2013 Voice III",
+            "Class Days": "M",
+            "Class": 136,
+            "CRN": 90196,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Hawkins, M",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 137,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Dronkers, M",
+            "Course Title": "MUS. 403 \u2013 Voice III",
+            "Class Days": "W",
+            "Class": 138,
+            "CRN": 83208,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Dronkers, M",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 139,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Dibble, M",
+            "Course Title": "MUS. 403 \u2013 Voice III",
+            "Class Days": "",
+            "Class": 140,
+            "CRN": 96647,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Dibble, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 141,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hawkins, M",
+            "Course Title": "MUS. 404 \u2013 Voice IV",
+            "Class Days": "M",
+            "Class": 142,
+            "CRN": 90197,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Hawkins, M",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 143,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Dronkers, M",
+            "Course Title": "MUS. 404 \u2013 Voice IV",
+            "Class Days": "W",
+            "Class": 144,
+            "CRN": 84167,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Dronkers, M",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 145,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Dibble, M",
+            "Course Title": "MUS. 404 \u2013 Voice IV",
+            "Class Days": "",
+            "Class": 146,
+            "CRN": 96648,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Dibble, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 147,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Navari, J",
+            "Course Title": "MUS. 410.1 \u2013 Vocal Ensemb-Musical Theater I",
+            "Class Days": "T, Th",
+            "Class": 148,
+            "CRN": 98083,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Navari, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 149,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Navari, J",
+            "Course Title": "MUS. 410.2 \u2013 Vocal Ensem-Musical Theater II",
+            "Class Days": "T, Th",
+            "Class": 150,
+            "CRN": 98085,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Navari, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 151,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Navari, J",
+            "Course Title": "MUS. 410.3 \u2013 Vocal Ensem-Musical Theatr III",
+            "Class Days": "T, Th",
+            "Class": 152,
+            "CRN": 98086,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Navari, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 153,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Navari, J",
+            "Course Title": "MUS. 410.4 \u2013 Vocal Ensem-Musical Theater IV",
+            "Class Days": "T, Th",
+            "Class": 154,
+            "CRN": 98087,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Navari, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 155,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Gallagher, K",
+            "Course Title": "MUS. 423 \u2013 Small Ensembles - Classical",
+            "Class Days": "W",
+            "Class": 156,
+            "CRN": 98098,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Gallagher, K",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 157,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Mitchell, M",
+            "Course Title": "MUS. 424 \u2013 Small Jazz Ensembles",
+            "Class Days": "Th",
+            "Class": 158,
+            "CRN": 97770,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Mitchell, M",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 159,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Mitchell, M",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 160,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Mitchell, M",
+            "Course Title": "MUS. 425 \u2013 Contemporary Jazz Combo",
+            "Class Days": "Th",
+            "Class": 161,
+            "CRN": 93264,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Mitchell, M",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 162,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Mitchell, M",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 163,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Gallagher, K",
+            "Course Title": "MUS. 429 \u2013 Wind Ensemble",
+            "Class Days": "T",
+            "Class": 164,
+            "CRN": 93414,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Gallagher, K",
+            "Course Title": "MUS. 430 \u2013 Symphonic Band",
+            "Class Days": "T",
+            "Class": 165,
+            "CRN": 90418,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Zuniga, L",
+            "Course Title": "MUS. 430.1 \u2013 Concert Band I",
+            "Class Days": "T",
+            "Class": 166,
+            "CRN": 94221,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Zuniga, L",
+            "Course Title": "MUS. 430.2 \u2013 Concert Band II",
+            "Class Days": "T",
+            "Class": 167,
+            "CRN": 94222,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Zuniga, L",
+            "Course Title": "MUS. 430.3 \u2013 Concert Band III",
+            "Class Days": "T",
+            "Class": 168,
+            "CRN": 94223,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Zuniga, L",
+            "Course Title": "MUS. 430.4 \u2013 Concert Band IV",
+            "Class Days": "T",
+            "Class": 169,
+            "CRN": 94224,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Zuniga, L",
+            "Course Title": "MUS. 450.1 \u2013 Jazz Band I",
+            "Class Days": "M",
+            "Class": 170,
+            "CRN": 94225,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Zuniga, L",
+            "Course Title": "MUS. 450.2 \u2013 Jazz Band II",
+            "Class Days": "M",
+            "Class": 171,
+            "CRN": 94226,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Zuniga, L",
+            "Course Title": "MUS. 450.3 \u2013 Jazz Band III",
+            "Class Days": "M",
+            "Class": 172,
+            "CRN": 94227,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Zuniga, L",
+            "Course Title": "MUS. 450.4 \u2013 Jazz Band IV",
+            "Class Days": "M",
+            "Class": 173,
+            "CRN": 94228,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wolff, P",
+            "Course Title": "MUS. 452 \u2013 Repertory Jazz Band",
+            "Class Days": "M",
+            "Class": 174,
+            "CRN": 95578,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wolff, P",
+            "Course Title": "MUS. 454 \u2013 Jazz Workshop Big Band",
+            "Class Days": "M",
+            "Class": 175,
+            "CRN": 95553,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Dronkers, M",
+            "Course Title": "MUS. 470 \u2013 Concert Choir",
+            "Class Days": "T",
+            "Class": 176,
+            "CRN": 97971,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hawkins, M",
+            "Course Title": "MUS. 470.1 \u2013 Concert Choir I",
+            "Class Days": "T",
+            "Class": 177,
+            "CRN": 94217,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hawkins, M",
+            "Course Title": "MUS. 470.2 \u2013 Concert Choir II",
+            "Class Days": "T",
+            "Class": 178,
+            "CRN": 94299,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hawkins, M",
+            "Course Title": "MUS. 470.3 \u2013 Concert Choir III",
+            "Class Days": "T",
+            "Class": 179,
+            "CRN": 94300,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hawkins, M",
+            "Course Title": "MUS. 470.4 \u2013 Concert Choir IV",
+            "Class Days": "T",
+            "Class": 180,
+            "CRN": 94301,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hawkins, M",
+            "Course Title": "MUS. 485.1 \u2013 Vocal Jazz Ensemble I",
+            "Class Days": "M",
+            "Class": 181,
+            "CRN": 94552,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hawkins, M",
+            "Course Title": "MUS. 485.2 \u2013 Vocal Jazz Ensemble II",
+            "Class Days": "M",
+            "Class": 182,
+            "CRN": 94553,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hawkins, M",
+            "Course Title": "MUS. 485.3 \u2013 Vocal Jazz Ensemble III",
+            "Class Days": "M",
+            "Class": 183,
+            "CRN": 94960,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hawkins, M",
+            "Course Title": "MUS. 485.4 \u2013 Vocal Jazz Ensemble IV",
+            "Class Days": "M",
+            "Class": 184,
+            "CRN": 94978,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Otte, A",
+            "Course Title": "MUS. 501 \u2013 Studio Lessons I",
+            "Class Days": "M",
+            "Class": 185,
+            "CRN": 94694,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hawkins, M",
+            "Course Title": "MUS. 501 \u2013 Studio Lessons I",
+            "Class Days": "T",
+            "Class": 186,
+            "CRN": 94229,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Otte, A",
+            "Course Title": "MUS. 502 \u2013 Studio Lessons II",
+            "Class Days": "M",
+            "Class": 187,
+            "CRN": 94695,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hawkins, M",
+            "Course Title": "MUS. 502 \u2013 Studio Lessons II",
+            "Class Days": "T",
+            "Class": 188,
+            "CRN": 94257,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Otte, A",
+            "Course Title": "MUS. 503 \u2013 Studio Lessons III",
+            "Class Days": "M",
+            "Class": 189,
+            "CRN": 94696,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hawkins, M",
+            "Course Title": "MUS. 503 \u2013 Studio Lessons III",
+            "Class Days": "T",
+            "Class": 190,
+            "CRN": 94258,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Otte, A",
+            "Course Title": "MUS. 504 \u2013 Studio Lessons IV",
+            "Class Days": "M",
+            "Class": 191,
+            "CRN": 94697,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hawkins, M",
+            "Course Title": "MUS. 504 \u2013 Studio Lessons IV",
+            "Class Days": "T",
+            "Class": 192,
+            "CRN": 94259,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Jackson, J",
+            "Course Title": "MUS. 880MA \u2013 Review of Fundamentals Music M",
+            "Class Days": "F",
+            "Class": 193,
+            "CRN": 97290,
+            "Units": 0.5
+        }
+    ],
+    "Paralegal Studies": [
+        {
+            "Status": "Closed",
+            "Professor": "Bernardo, S",
+            "Course Title": "LEGL 240 \u2013 Introduction to Law",
+            "Class Days": "T",
+            "Class": 1,
+            "CRN": 88812,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Powers, V",
+            "Course Title": "LEGL 241 \u2013 Law Office Management",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 96495,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Gaudio, M",
+            "Course Title": "LEGL 245 \u2013 Paralegal Profession I",
+            "Class Days": "M",
+            "Class": 3,
+            "CRN": 96760,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Kippes, A",
+            "Course Title": "LEGL 249 \u2013 Intro. to the Legal System",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 96336,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Schulke Jr, R",
+            "Course Title": "LEGL 250 \u2013 Legal Research and Writing",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 96198,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Bernardo, S",
+            "Course Title": "LEGL 252 \u2013 Civil Litigation I",
+            "Class Days": "Th",
+            "Class": 6,
+            "CRN": 89321,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Bernardo, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Kippes, A",
+            "Course Title": "LEGL 267 \u2013 Animal Law",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 96496,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lubarsky, A",
+            "Course Title": "LEGL 272 \u2013 Immigration Law",
+            "Class Days": "",
+            "Class": 9,
+            "CRN": 94453,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Raskin, J",
+            "Course Title": "LEGL 275 \u2013 Constitutional Law/Supreme Crt",
+            "Class Days": "",
+            "Class": 10,
+            "CRN": 97011,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Aurilio, S",
+            "Course Title": "LEGL 304 \u2013 Concepts of Criminal Law",
+            "Class Days": "",
+            "Class": 11,
+            "CRN": 96195,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Corzonkoff, B",
+            "Course Title": "LEGL 430 \u2013 Law Office Technology",
+            "Class Days": "",
+            "Class": 12,
+            "CRN": 98034,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Raskin, J",
+            "Course Title": "LEGL 670 \u2013 Cooperative Education in LEGL",
+            "Class Days": "",
+            "Class": 13,
+            "CRN": 96243,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Kippes, A",
+            "Course Title": "LEGL 672 \u2013 Cooperative Educ: Internship",
+            "Class Days": "",
+            "Class": 14,
+            "CRN": 86847,
+            "Units": 13
+        }
+    ],
+    "Mathematics": [
+        {
+            "Status": "Closed",
+            "Professor": "Yu, J",
+            "Course Title": "MATH 120 \u2013 Intermediate Algebra",
+            "Class Days": "M, W",
+            "Class": 1,
+            "CRN": 92762,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Yu, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Yu, J",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 3,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Yu, J",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 4,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Yu, J",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 5,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Callahan, P",
+            "Course Title": "MATH 125 \u2013 Elementary Finite Math",
+            "Class Days": "M, W, F",
+            "Class": 6,
+            "CRN": 82647,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Urman, R",
+            "Course Title": "MATH 125 \u2013 Elementary Finite Math",
+            "Class Days": "M, W, F",
+            "Class": 7,
+            "CRN": 82648,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wong, A",
+            "Course Title": "MATH 130 \u2013 Analytic Trigonometry",
+            "Class Days": "M",
+            "Class": 8,
+            "CRN": 82650,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Wong, A",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 9,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Wong, A",
+            "Course Title": "",
+            "Class Days": "F",
+            "Class": 10,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Locke, D",
+            "Course Title": "MATH 130 \u2013 Analytic Trigonometry",
+            "Class Days": "M, W",
+            "Class": 11,
+            "CRN": 96568,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Leach, E",
+            "Course Title": "MATH 130 \u2013 Analytical Trigonometry",
+            "Class Days": "M, W",
+            "Class": 12,
+            "CRN": 97628,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Moss, C",
+            "Course Title": "MATH 130 \u2013 Analytical Trigonometry",
+            "Class Days": "",
+            "Class": 13,
+            "CRN": 97629,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Yu, K",
+            "Course Title": "MATH 145 \u2013 Liberal Arts Mathematics",
+            "Class Days": "M",
+            "Class": 14,
+            "CRN": 98088,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Yu, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 15,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Rhodes, J",
+            "Course Title": "MATH 145 \u2013 Liberal Arts Mathematics",
+            "Class Days": "T, Th",
+            "Class": 16,
+            "CRN": 90396,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wong, W",
+            "Course Title": "MATH 145 \u2013 Liberal Arts Mathematics",
+            "Class Days": "T, Th",
+            "Class": 17,
+            "CRN": 90397,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Kalantar, M",
+            "Course Title": "MATH 145 \u2013 Liberal Arts Mathematics",
+            "Class Days": "T, Th",
+            "Class": 18,
+            "CRN": 96932,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Zemskova, O",
+            "Course Title": "MATH 145 \u2013 Liberal Arts Mathematics",
+            "Class Days": "T, Th",
+            "Class": 19,
+            "CRN": 93499,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Rhodes, J",
+            "Course Title": "MATH 200 \u2013 Elem. Probability & Statistics",
+            "Class Days": "M, W",
+            "Class": 20,
+            "CRN": 82658,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Gavryshova, N",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "M, W",
+            "Class": 21,
+            "CRN": 96492,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Callahan, P",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "M, W",
+            "Class": 22,
+            "CRN": 96515,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wang, C",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "M, F",
+            "Class": 23,
+            "CRN": 80570,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Wang, C",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 24,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hoffman, M",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "M, W",
+            "Class": 25,
+            "CRN": 96751,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hum, D",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "M, W",
+            "Class": 26,
+            "CRN": 97994,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Feinman, Y",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "M, W",
+            "Class": 27,
+            "CRN": 96503,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Pilar Moreno, A",
+            "Course Title": "MATH 200 \u2013 Elem. Probability & Statistics",
+            "Class Days": "M, T, W, Th",
+            "Class": 28,
+            "CRN": 96405,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Weathersby, K",
+            "Course Title": "MATH 200 \u2013 Statistics - Middle College",
+            "Class Days": "M, T, W, Th",
+            "Class": 29,
+            "CRN": 96749,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Weathersby, K",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "M, T, W, Th",
+            "Class": 30,
+            "CRN": 97639,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Monarres, D",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "M, W",
+            "Class": 31,
+            "CRN": 91990,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Beatty, M",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "M, W",
+            "Class": 32,
+            "CRN": 96553,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Weathersby, K",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Stats - PSP",
+            "Class Days": "M, F",
+            "Class": 33,
+            "CRN": 96707,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Weathersby, K",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 34,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Weathersby, K",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "M, F",
+            "Class": 35,
+            "CRN": 97640,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Weathersby, K",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 36,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Pilar Moreno, A",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "M, W",
+            "Class": 37,
+            "CRN": 96564,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Shahrvini, B",
+            "Course Title": "MATH 200 \u2013 Elem. Probability & Statistics",
+            "Class Days": "M, W",
+            "Class": 38,
+            "CRN": 90398,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Gavryshova, N",
+            "Course Title": "MATH 200 \u2013 Elem. Probability & Statistics",
+            "Class Days": "T, Th",
+            "Class": 39,
+            "CRN": 92030,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Alkeswani, A",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "T, Th",
+            "Class": 40,
+            "CRN": 96512,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Fahey, A",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "T, Th",
+            "Class": 41,
+            "CRN": 81374,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Weathersby, K",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "T, Th",
+            "Class": 42,
+            "CRN": 95597,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wang, C",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "T, Th",
+            "Class": 43,
+            "CRN": 98001,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Kalantar, M",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "T, Th",
+            "Class": 44,
+            "CRN": 96555,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hough Jr, R",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "T, Th",
+            "Class": 45,
+            "CRN": 97995,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Choi, Y",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "T, Th",
+            "Class": 46,
+            "CRN": 97642,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Choi, Y",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statist/FYE",
+            "Class Days": "T, Th",
+            "Class": 47,
+            "CRN": 97996,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Tsuchiyose, K",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "T, Th",
+            "Class": 48,
+            "CRN": 96506,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Shahrvini, B",
+            "Course Title": "MATH 200 \u2013 Elem. Probability & Statistics",
+            "Class Days": "T, Th",
+            "Class": 49,
+            "CRN": 91577,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Meng, H",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "M, W",
+            "Class": 50,
+            "CRN": 90272,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Klimkovsky, V",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "M, W, F",
+            "Class": 51,
+            "CRN": 92987,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Meng, H",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "M, W",
+            "Class": 52,
+            "CRN": 94437,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Klimkovsky, V",
+            "Course Title": "MATH 200 \u2013 Elem Probability Stats- Honors",
+            "Class Days": "T, Th",
+            "Class": 53,
+            "CRN": 81373,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Fahey, A",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "T, Th",
+            "Class": 54,
+            "CRN": 95241,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Feinman, Y",
+            "Course Title": "MATH 200 \u2013 Elem. Probability & Statistics",
+            "Class Days": "T, Th",
+            "Class": 55,
+            "CRN": 90692,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Nadkarni, H",
+            "Course Title": "MATH 200 \u2013 Elem. Probability & Statistics",
+            "Class Days": "T, Th",
+            "Class": 56,
+            "CRN": 95641,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Kuan, H",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "T, Th",
+            "Class": 57,
+            "CRN": 95497,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Williams, P",
+            "Course Title": "MATH 200 \u2013 Elem Probability &Statistics",
+            "Class Days": "",
+            "Class": 58,
+            "CRN": 84378,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lapuz, R",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "",
+            "Class": 59,
+            "CRN": 90046,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Moss, C",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "",
+            "Class": 60,
+            "CRN": 91249,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hasson, D",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "",
+            "Class": 61,
+            "CRN": 91755,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Feinman, Y",
+            "Course Title": "MATH 200 \u2013 Elem. Probability & Statistics",
+            "Class Days": "",
+            "Class": 62,
+            "CRN": 93263,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Shankar, S",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "",
+            "Class": 63,
+            "CRN": 95700,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hasson, D",
+            "Course Title": "MATH 200 \u2013 Elem Prob. & Statistics - PSP",
+            "Class Days": "",
+            "Class": 64,
+            "CRN": 96222,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Broxholm, V",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Stats",
+            "Class Days": "",
+            "Class": 65,
+            "CRN": 96339,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Butterworth, Y",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "",
+            "Class": 66,
+            "CRN": 97489,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Moss, C",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "",
+            "Class": 67,
+            "CRN": 97643,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Freedman, J",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "",
+            "Class": 68,
+            "CRN": 97646,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Maoujoudi, A",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "",
+            "Class": 69,
+            "CRN": 97648,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lapuz, R",
+            "Course Title": "MATH 200 \u2013 Elem Probability & Statistics",
+            "Class Days": "",
+            "Class": 70,
+            "CRN": 97745,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Moss, C",
+            "Course Title": "MATH 201 \u2013 Math in Society",
+            "Class Days": "",
+            "Class": 71,
+            "CRN": 93209,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Swartout, B",
+            "Course Title": "MATH 211 \u2013 Introduction to Data Science",
+            "Class Days": "T, Th",
+            "Class": 72,
+            "CRN": 98002,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Swartout, B",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 73,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hough Jr, R",
+            "Course Title": "MATH 222 \u2013 Precalculus",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 74,
+            "CRN": 84731,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Pilar Moreno, A",
+            "Course Title": "MATH 222 \u2013 Precalculus",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 75,
+            "CRN": 90654,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Fredricks, S",
+            "Course Title": "MATH 222 \u2013 Precalculus",
+            "Class Days": "",
+            "Class": 76,
+            "CRN": 96986,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Tsuchida, T",
+            "Course Title": "MATH 225 \u2013 Path to Calculus",
+            "Class Days": "M, W, F",
+            "Class": 77,
+            "CRN": 96330,
+            "Units": 6
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Tsuchida, T",
+            "Course Title": "MATH 225 \u2013 Path to Calculus -ETS",
+            "Class Days": "M, W, F",
+            "Class": 78,
+            "CRN": 97656,
+            "Units": 6
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Monarres, D",
+            "Course Title": "MATH 225 \u2013 Path to Calculus",
+            "Class Days": "M, T, W, Th",
+            "Class": 79,
+            "CRN": 96508,
+            "Units": 6
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Shankar, S",
+            "Course Title": "MATH 225 \u2013 Path to Calculus",
+            "Class Days": "M, W",
+            "Class": 80,
+            "CRN": 95446,
+            "Units": 6
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Nishanian, H",
+            "Course Title": "MATH 225 \u2013 Path to Calculus",
+            "Class Days": "M, W, F",
+            "Class": 81,
+            "CRN": 96316,
+            "Units": 6
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Rhodes, J",
+            "Course Title": "MATH 225 \u2013 Path to Calculus",
+            "Class Days": "M, T, W",
+            "Class": 82,
+            "CRN": 96570,
+            "Units": 6
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hoffman, M",
+            "Course Title": "MATH 225 \u2013 Path to Calculus",
+            "Class Days": "M, W, F",
+            "Class": 83,
+            "CRN": 95077,
+            "Units": 6
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wong, A",
+            "Course Title": "MATH 225 \u2013 Path to Calculus",
+            "Class Days": "M, W",
+            "Class": 84,
+            "CRN": 97976,
+            "Units": 6
+        },
+        {
+            "Status": "",
+            "Professor": "Wong, A",
+            "Course Title": "",
+            "Class Days": "F",
+            "Class": 85,
+            "CRN": 0,
+            "Units": 6
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Choi, Y",
+            "Course Title": "MATH 225 \u2013 Path to Calculus",
+            "Class Days": "M, W, F",
+            "Class": 86,
+            "CRN": 96987,
+            "Units": 6
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Choi, Y",
+            "Course Title": "MATH 225 \u2013 Path to Calculus-FYE",
+            "Class Days": "M, W, F",
+            "Class": 87,
+            "CRN": 97652,
+            "Units": 6
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Choi, Y",
+            "Course Title": "MATH 225 \u2013 Path to Calculus - PSP",
+            "Class Days": "M, W, F",
+            "Class": 88,
+            "CRN": 97654,
+            "Units": 6
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Shankar, S",
+            "Course Title": "MATH 225 \u2013 Path to Calculus",
+            "Class Days": "T, Th",
+            "Class": 89,
+            "CRN": 97964,
+            "Units": 6
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hasson, D",
+            "Course Title": "MATH 225 \u2013 Path to Calculus - PSP",
+            "Class Days": "T, Th",
+            "Class": 90,
+            "CRN": 96711,
+            "Units": 6
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hasson, D",
+            "Course Title": "MATH 225 \u2013 Path to Calculus-BCS",
+            "Class Days": "T, Th",
+            "Class": 91,
+            "CRN": 96747,
+            "Units": 6
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hasson, D",
+            "Course Title": "MATH 225 \u2013 Path to Calculus - Middle Clg",
+            "Class Days": "T, Th",
+            "Class": 92,
+            "CRN": 98003,
+            "Units": 6
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Butterworth, Y",
+            "Course Title": "MATH 225 \u2013 Path to Calculus",
+            "Class Days": "M, W, F",
+            "Class": 93,
+            "CRN": 96101,
+            "Units": 6
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Nguyen, V",
+            "Course Title": "MATH 225 \u2013 Path to Calculus",
+            "Class Days": "",
+            "Class": 94,
+            "CRN": 97236,
+            "Units": 6
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Westmoreland, S",
+            "Course Title": "MATH 241 \u2013 Applied Calculus I",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 95,
+            "CRN": 82666,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Beatty, M",
+            "Course Title": "MATH 241 \u2013 Applied Calculus I",
+            "Class Days": "M, W",
+            "Class": 96,
+            "CRN": 96574,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Almassy, H",
+            "Course Title": "MATH 241 \u2013 Busines Calculus I",
+            "Class Days": "M, W",
+            "Class": 97,
+            "CRN": 96514,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Nguyen, S",
+            "Course Title": "MATH 241 \u2013 Busines Calculus I",
+            "Class Days": "M",
+            "Class": 98,
+            "CRN": 93638,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Nguyen, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 99,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Butterworth, Y",
+            "Course Title": "MATH 241 \u2013 Applied Calculus I",
+            "Class Days": "T",
+            "Class": 100,
+            "CRN": 90780,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Butterworth, Y",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 101,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Fredricks, S",
+            "Course Title": "MATH 241 \u2013 Applied Calculus I",
+            "Class Days": "",
+            "Class": 102,
+            "CRN": 98004,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Kotsishevskaya, Z",
+            "Course Title": "MATH 241 \u2013 Applied Calculus I",
+            "Class Days": "",
+            "Class": 103,
+            "CRN": 98137,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Nadkarni, H",
+            "Course Title": "MATH 242 \u2013 Applied Calculus II",
+            "Class Days": "M, W, F",
+            "Class": 104,
+            "CRN": 82672,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Nishanian, H",
+            "Course Title": "MATH 251 \u2013 Calculus/Analytic Geometry I",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 105,
+            "CRN": 82673,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Freedman, J",
+            "Course Title": "MATH 251 \u2013 Calculus/Analytic Geometry I",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 106,
+            "CRN": 97664,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Feinman, Y",
+            "Course Title": "MATH 251 \u2013 Calculus/Analytic Geometry I",
+            "Class Days": "M, W",
+            "Class": 107,
+            "CRN": 98139,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Feinman, Y",
+            "Course Title": "",
+            "Class Days": "F",
+            "Class": 108,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Westmoreland, S",
+            "Course Title": "MATH 251 \u2013 Calculus/Analytic Geometry I",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 109,
+            "CRN": 82674,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Leach, E",
+            "Course Title": "MATH 251 \u2013 Calc/Analyt Geo I.",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 110,
+            "CRN": 95797,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Leach, E",
+            "Course Title": "MATH 251 \u2013 Calculus/Analytic Geo I - ETS",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 111,
+            "CRN": 96722,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Leach, E",
+            "Course Title": "MATH 251 \u2013 Calculus/Analytic Geometry I",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 112,
+            "CRN": 97665,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Tsuchiyose, K",
+            "Course Title": "MATH 251 \u2013 Calculus/Analytic Geometry I",
+            "Class Days": "T, Th",
+            "Class": 113,
+            "CRN": 97798,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Almassy, H",
+            "Course Title": "MATH 251 \u2013 Analytical Geometry/Calculus I",
+            "Class Days": "T, Th",
+            "Class": 114,
+            "CRN": 89687,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Church, G",
+            "Course Title": "MATH 251 \u2013 Calculus/Analytic Geometry I",
+            "Class Days": "M, W",
+            "Class": 115,
+            "CRN": 91101,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Church, G",
+            "Course Title": "",
+            "Class Days": "F",
+            "Class": 116,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wong, A",
+            "Course Title": "MATH 251 \u2013 Calculus/Analytic Geometry I",
+            "Class Days": "M, W",
+            "Class": 117,
+            "CRN": 95614,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Almassy, H",
+            "Course Title": "MATH 251 \u2013 Analytical Geometry/Calculus I",
+            "Class Days": "T, Th",
+            "Class": 118,
+            "CRN": 93327,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Fredricks, S",
+            "Course Title": "MATH 251 \u2013 Calculus/Analytic Geometry I",
+            "Class Days": "",
+            "Class": 119,
+            "CRN": 95638,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lapuz, R",
+            "Course Title": "MATH 251 \u2013 Analytical Geometry/Calculus I",
+            "Class Days": "",
+            "Class": 120,
+            "CRN": 96056,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Williams, P",
+            "Course Title": "MATH 251 \u2013 Calculus/Analytic Geometry I",
+            "Class Days": "",
+            "Class": 121,
+            "CRN": 98005,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Tsuchida, T",
+            "Course Title": "MATH 252 \u2013 Calc/Analyt Geom. II-ETS",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 122,
+            "CRN": 96263,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Tsuchida, T",
+            "Course Title": "MATH 252 \u2013 Calcu/Analytic Geometry II",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 123,
+            "CRN": 96264,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Tsuchida, T",
+            "Course Title": "MATH 252 \u2013 Calcu/Analytic Geometry II/BCS",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 124,
+            "CRN": 98006,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Westmoreland, S",
+            "Course Title": "MATH 252 \u2013 Calculus/Analytic Geom II",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 125,
+            "CRN": 94751,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wang, C",
+            "Course Title": "MATH 252 \u2013 Calcu/Analytic Geometry II",
+            "Class Days": "M, T, W, Th",
+            "Class": 126,
+            "CRN": 96383,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Wang, C",
+            "Course Title": "",
+            "Class Days": "F",
+            "Class": 127,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Tsuchiyose, K",
+            "Course Title": "MATH 252 \u2013 Calculus/Analytic Geom II",
+            "Class Days": "T, Th",
+            "Class": 128,
+            "CRN": 82678,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hoffman, M",
+            "Course Title": "MATH 252 \u2013 Analytical Geometry/Calc II",
+            "Class Days": "T, Th",
+            "Class": 129,
+            "CRN": 93640,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Hoffman, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 130,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Zemskova, O",
+            "Course Title": "MATH 252 \u2013 Calculus/Analytic Geom II",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 131,
+            "CRN": 82677,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Nguyen, V",
+            "Course Title": "MATH 252 \u2013 Analytical Geometry/Calc II",
+            "Class Days": "M, T, W, Th",
+            "Class": 132,
+            "CRN": 90052,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Church, G",
+            "Course Title": "MATH 252 \u2013 Calculus/Analytic Geom II",
+            "Class Days": "",
+            "Class": 133,
+            "CRN": 97490,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Leach, E",
+            "Course Title": "MATH 253 \u2013 Calculus/Analytic Geometry III",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 134,
+            "CRN": 96667,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Nishanian, H",
+            "Course Title": "MATH 253 \u2013 Calculus/Analytic Geom III",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 135,
+            "CRN": 95613,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lapuz, R",
+            "Course Title": "MATH 253 \u2013 Calculus/Analytic Geometry III",
+            "Class Days": "M, T, W, Th",
+            "Class": 136,
+            "CRN": 98110,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lapuz, R",
+            "Course Title": "MATH 253 \u2013 Calc/Analytic Geom III -Honors",
+            "Class Days": "M, T, W, Th",
+            "Class": 137,
+            "CRN": 98113,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Freedman, J",
+            "Course Title": "MATH 253 \u2013 Calculus/Analytic Geometry III",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 138,
+            "CRN": 96984,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hasson, R",
+            "Course Title": "MATH 253 \u2013 Calculus/Analytic Geom III",
+            "Class Days": "M, W",
+            "Class": 139,
+            "CRN": 82680,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lapuz, R",
+            "Course Title": "MATH 253 \u2013 Calculus/Analytic Geometry III",
+            "Class Days": "M, T, W, Th",
+            "Class": 140,
+            "CRN": 98112,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lapuz, R",
+            "Course Title": "MATH 253 \u2013 Calculus/Analytic Geometry III",
+            "Class Days": "",
+            "Class": 141,
+            "CRN": 98111,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hasson, R",
+            "Course Title": "MATH 268 \u2013 Discrete Mathematics",
+            "Class Days": "T, Th",
+            "Class": 142,
+            "CRN": 95612,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Alkeswani, A",
+            "Course Title": "MATH 270 \u2013 Linear Algebra",
+            "Class Days": "M, W",
+            "Class": 143,
+            "CRN": 92583,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Church, G",
+            "Course Title": "MATH 270 \u2013 Linear Algebra",
+            "Class Days": "T, Th",
+            "Class": 144,
+            "CRN": 95611,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hasson, R",
+            "Course Title": "MATH 270 \u2013 Linear Algebra",
+            "Class Days": "T, Th",
+            "Class": 145,
+            "CRN": 82681,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Williams, P",
+            "Course Title": "MATH 270 \u2013 Linear Algebra",
+            "Class Days": "",
+            "Class": 146,
+            "CRN": 80580,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Feinman, Y",
+            "Course Title": "MATH 275 \u2013 Ordinary Differential Equation",
+            "Class Days": "T, Th",
+            "Class": 147,
+            "CRN": 83373,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lund, L",
+            "Course Title": "MATH 275 \u2013 Ordinary Diff. Equations",
+            "Class Days": "T, Th",
+            "Class": 148,
+            "CRN": 95034,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hasson, D",
+            "Course Title": "MATH 275 \u2013 Ordinary Differential Equation",
+            "Class Days": "",
+            "Class": 149,
+            "CRN": 90572,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wang, C",
+            "Course Title": "MATH 650 \u2013 Math Supplement-TRIO",
+            "Class Days": "",
+            "Class": 150,
+            "CRN": 89637,
+            "Units": 0.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wang, C",
+            "Course Title": "MATH 650 \u2013 Math Supplement-TRIO",
+            "Class Days": "",
+            "Class": 151,
+            "CRN": 91160,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wang, C",
+            "Course Title": "MATH 650 \u2013 Math Supplement-TRIO",
+            "Class Days": "",
+            "Class": 152,
+            "CRN": 86596,
+            "Units": 0.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wang, C",
+            "Course Title": "MATH 650 \u2013 Math Supplement-TRIO",
+            "Class Days": "",
+            "Class": 153,
+            "CRN": 89934,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wang, C",
+            "Course Title": "MATH 800 \u2013 Just-in-Time Sup ElemProb&Stat",
+            "Class Days": "M, F",
+            "Class": 154,
+            "CRN": 96297,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Monarres, D",
+            "Course Title": "MATH 800 \u2013 Just-in-Time Sup ElemProb&Stat",
+            "Class Days": "M, W",
+            "Class": 155,
+            "CRN": 96511,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Weathersby, K",
+            "Course Title": "MATH 800 \u2013 Just-in-Time Sup ElemProb&Stat",
+            "Class Days": "M, F",
+            "Class": 156,
+            "CRN": 97641,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Weathersby, K",
+            "Course Title": "MATH 800 \u2013 JustinTime SupElemProbStat PSP",
+            "Class Days": "M, F",
+            "Class": 157,
+            "CRN": 98000,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Alkeswani, A",
+            "Course Title": "MATH 800 \u2013 Just-in-Time Sup ElemProb&Stat",
+            "Class Days": "T, Th",
+            "Class": 158,
+            "CRN": 96513,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wang, C",
+            "Course Title": "MATH 800 \u2013 Just-in-Time Sup ElemProb&Stat",
+            "Class Days": "T, Th",
+            "Class": 159,
+            "CRN": 96276,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Kalantar, M",
+            "Course Title": "MATH 800 \u2013 Just-in-Time Sup ElemProb&Stat",
+            "Class Days": "T, Th",
+            "Class": 160,
+            "CRN": 96556,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Tsuchiyose, K",
+            "Course Title": "MATH 800 \u2013 Just-in-Time Sup ElemProb&Stat",
+            "Class Days": "T, Th",
+            "Class": 161,
+            "CRN": 96507,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Choi, Y",
+            "Course Title": "MATH 800 \u2013 Just-in-Time Sup ElemProb&Stat",
+            "Class Days": "T, Th",
+            "Class": 162,
+            "CRN": 98055,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Choi, Y",
+            "Course Title": "MATH 800 \u2013 JustinTime SupElemProb&StatFYE",
+            "Class Days": "T, Th",
+            "Class": 163,
+            "CRN": 98057,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Gavryshova, N",
+            "Course Title": "MATH 800 \u2013 Just-in-Time Sup ElemProb&Stat",
+            "Class Days": "F",
+            "Class": 164,
+            "CRN": 96493,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Callahan, P",
+            "Course Title": "MATH 800 \u2013 Just-in-Time Sup ElemProb&Stat",
+            "Class Days": "F",
+            "Class": 165,
+            "CRN": 96516,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Feinman, Y",
+            "Course Title": "MATH 800 \u2013 Just-in-Time Sup ElemProb&Stat",
+            "Class Days": "F",
+            "Class": 166,
+            "CRN": 96504,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Beatty, M",
+            "Course Title": "MATH 800 \u2013 Just-in-Time Sup ElemProb&Stat",
+            "Class Days": "F",
+            "Class": 167,
+            "CRN": 96554,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Pilar Moreno, A",
+            "Course Title": "MATH 800 \u2013 Just-in-Time Sup ElemProb&Stat",
+            "Class Days": "F",
+            "Class": 168,
+            "CRN": 96565,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Klimkovsky, V",
+            "Course Title": "MATH 800 \u2013 Just-in-Time Sup ElemProb&Stat",
+            "Class Days": "M, W",
+            "Class": 169,
+            "CRN": 96505,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Kuan, H",
+            "Course Title": "MATH 800 \u2013 Just-in-Time Sup ElemProb&Stat",
+            "Class Days": "T, Th",
+            "Class": 170,
+            "CRN": 96668,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Kuan, H",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 171,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Choi, Y",
+            "Course Title": "MATH 825 \u2013 Path to Calculus in Time",
+            "Class Days": "M, W",
+            "Class": 172,
+            "CRN": 96753,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Choi, Y",
+            "Course Title": "MATH 825 \u2013 Just-in-Time Path to Calc-FYE",
+            "Class Days": "M, W",
+            "Class": 173,
+            "CRN": 97653,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Choi, Y",
+            "Course Title": "MATH 825 \u2013 JustinTime SupPath Calc PSP",
+            "Class Days": "M, W",
+            "Class": 174,
+            "CRN": 97655,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Monarres, D",
+            "Course Title": "MATH 825 \u2013 Just-in-Time Sup Path to Calc",
+            "Class Days": "T, Th",
+            "Class": 175,
+            "CRN": 96509,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Rhodes, J",
+            "Course Title": "MATH 825 \u2013 Just-in-Time Sup Path to Calc",
+            "Class Days": "Th",
+            "Class": 176,
+            "CRN": 96571,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Yu, J",
+            "Course Title": "MATH 825 \u2013 Just-in-Time Sup Path to Calc",
+            "Class Days": "",
+            "Class": 177,
+            "CRN": 97238,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Leach, E",
+            "Course Title": "MATH 830 \u2013 Just-in-Time Sup Analytic Trig",
+            "Class Days": "M",
+            "Class": 178,
+            "CRN": 97993,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Locke, D",
+            "Course Title": "MATH 830 \u2013 Just-in-Time Sup Analytic Trig",
+            "Class Days": "F",
+            "Class": 179,
+            "CRN": 96569,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Beatty, M",
+            "Course Title": "MATH 841 \u2013 Just-in-Time Sup Appl Calc I",
+            "Class Days": "F",
+            "Class": 180,
+            "CRN": 96575,
+            "Units": 1
+        }
+    ],
+    "Oceanography": [
+        {
+            "Status": "Closed",
+            "Professor": "Patel, N",
+            "Course Title": "OCEN 100 \u2013 Oceanography",
+            "Class Days": "T, Th",
+            "Class": 1,
+            "CRN": 93179,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wiese, K",
+            "Course Title": "OCEN 100 \u2013 Oceanography",
+            "Class Days": "T, Th",
+            "Class": 2,
+            "CRN": 82772,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Redman, M",
+            "Course Title": "OCEN 100 \u2013 Oceanography",
+            "Class Days": "M, W",
+            "Class": 3,
+            "CRN": 86763,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "James, B",
+            "Course Title": "OCEN 100 \u2013 Oceanography",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 92153,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "James, B",
+            "Course Title": "OCEN 100 \u2013 Oceanography",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 94360,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "James, B",
+            "Course Title": "OCEN 100 \u2013 Oceanography",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 95964,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Redman, M",
+            "Course Title": "OCEN 101 \u2013 Oceanography Lab/Field Study",
+            "Class Days": "F",
+            "Class": 7,
+            "CRN": 86185,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Redman, M",
+            "Course Title": "OCEN 101 \u2013 Oceanography Lab",
+            "Class Days": "W",
+            "Class": 8,
+            "CRN": 90303,
+            "Units": 1
+        }
+    ],
+    "Medical Assisting": [
+        {
+            "Status": "Closed",
+            "Professor": "Malhotra, R",
+            "Course Title": "MEDA 100 \u2013 Intro to Medical Assisting",
+            "Class Days": "W",
+            "Class": 1,
+            "CRN": 89789,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Malhotra, R",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Malhotra, R",
+            "Course Title": "MEDA 110 \u2013 Medical Terminology",
+            "Class Days": "M",
+            "Class": 3,
+            "CRN": 89790,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Malhotra, R",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Murcia-Cordoba, E",
+            "Course Title": "MEDA 110 \u2013 Medical Terminology",
+            "Class Days": "Sa",
+            "Class": 5,
+            "CRN": 93374,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Murcia-Cordoba, E",
+            "Course Title": "MEDA 115 \u2013 Intro Electronic Health Record",
+            "Class Days": "T, Th",
+            "Class": 6,
+            "CRN": 89794,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Malhotra, R",
+            "Course Title": "MEDA 120 \u2013 Clinical Procedures I",
+            "Class Days": "M, W",
+            "Class": 7,
+            "CRN": 89797,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Malhotra, R",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Malhotra, R",
+            "Course Title": "MEDA 121 \u2013 Clinical Procedures II",
+            "Class Days": "M, W",
+            "Class": 9,
+            "CRN": 89798,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Malhotra, R",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 10,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Murcia-Cordoba, E",
+            "Course Title": "MEDA 140 \u2013 Implemt. Electr. Health Record",
+            "Class Days": "T, Th",
+            "Class": 11,
+            "CRN": 89795,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Murcia-Cordoba, E",
+            "Course Title": "MEDA 150 \u2013 Medical Office Procedures",
+            "Class Days": "T, Th",
+            "Class": 12,
+            "CRN": 89796,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Murcia-Cordoba, E",
+            "Course Title": "MEDA 160 \u2013 Medical Insurance Procedures",
+            "Class Days": "T, Th",
+            "Class": 13,
+            "CRN": 89793,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Allen, D",
+            "Course Title": "MEDA 164 \u2013 CPT Beginning Coding",
+            "Class Days": "Sa",
+            "Class": 14,
+            "CRN": 89801,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Allen, D",
+            "Course Title": "MEDA 165 \u2013 CPT Intermediate Coding",
+            "Class Days": "Sa",
+            "Class": 15,
+            "CRN": 89802,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Allen, D",
+            "Course Title": "MEDA 166 \u2013 CPT Advanced Coding",
+            "Class Days": "Sa",
+            "Class": 16,
+            "CRN": 89803,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Stringer, J",
+            "Course Title": "MEDA 190 \u2013 Introduction To Pharmacology",
+            "Class Days": "T",
+            "Class": 17,
+            "CRN": 95998,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Stringer, J",
+            "Course Title": "MEDA 190 \u2013 Introduction To Pharmacology",
+            "Class Days": "T",
+            "Class": 18,
+            "CRN": 89800,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Malhotra, R",
+            "Course Title": "MEDA 672 \u2013 Cooperative Educ: Internship",
+            "Class Days": "",
+            "Class": 19,
+            "CRN": 89946,
+            "Units": 3
+        }
+    ],
+    "Network Engineering Technology": [
+        {
+            "Status": "Closed",
+            "Professor": "Lohmann, R",
+            "Course Title": "NETX 400 \u2013 Intro to Local Area Network",
+            "Class Days": "",
+            "Class": 1,
+            "CRN": 96784,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Lohmann, R",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Pirehabdollahkandi, R",
+            "Course Title": "NETX 400 \u2013 Intro to Local Area Network",
+            "Class Days": "T, W, Th",
+            "Class": 3,
+            "CRN": 97832,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Pirehabdollahkandi, R",
+            "Course Title": "",
+            "Class Days": "T, W, Th",
+            "Class": 4,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Cortes, Q",
+            "Course Title": "NETX 400 \u2013 Intro to Local Area Network",
+            "Class Days": "Th",
+            "Class": 5,
+            "CRN": 94955,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Cortes, Q",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Del Prado, N",
+            "Course Title": "NETX 402 \u2013 Cybersecurity Infrastructure",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 98076,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hicks, R",
+            "Course Title": "NETX 405 \u2013 Data Center Infrastructure",
+            "Class Days": "T",
+            "Class": 8,
+            "CRN": 98077,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lohmann, R",
+            "Course Title": "NETX 420 \u2013 PC Configuration and Repair",
+            "Class Days": "M, W",
+            "Class": 9,
+            "CRN": 97553,
+            "Units": 6
+        },
+        {
+            "Status": "",
+            "Professor": "Lohmann, R",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 10,
+            "CRN": 0,
+            "Units": 6
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Del Prado, N",
+            "Course Title": "NETX 430 \u2013 Introduction to Routers",
+            "Class Days": "M",
+            "Class": 11,
+            "CRN": 94957,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Del Prado, N",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 12,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Del Prado, N",
+            "Course Title": "NETX 432 \u2013 Routing Concepts/Applications",
+            "Class Days": "",
+            "Class": 13,
+            "CRN": 94961,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Del Prado, N",
+            "Course Title": "NETX 439 \u2013 TroubleshootingtheInternetwork",
+            "Class Days": "",
+            "Class": 14,
+            "CRN": 97558,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Pirehabdollahkandi, R",
+            "Course Title": "NETX 443 \u2013 Intro to Linux Administration",
+            "Class Days": "",
+            "Class": 15,
+            "CRN": 98075,
+            "Units": 3.5
+        },
+        {
+            "Status": "",
+            "Professor": "Pirehabdollahkandi, R",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 16,
+            "CRN": 0,
+            "Units": 3.5
+        }
+    ],
+    "Philosophy": [
+        {
+            "Status": "Closed",
+            "Professor": "Ball, J",
+            "Course Title": "PHIL 100 \u2013 Introduction to Philosophy",
+            "Class Days": "M, W",
+            "Class": 1,
+            "CRN": 98121,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Stapleton, R",
+            "Course Title": "PHIL 100 \u2013 Introduction to Philosophy",
+            "Class Days": "M, W",
+            "Class": 2,
+            "CRN": 95504,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Stapleton, R",
+            "Course Title": "PHIL 100 \u2013 Introduction to Philosophy",
+            "Class Days": "M, W",
+            "Class": 3,
+            "CRN": 82785,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Colombetti, C",
+            "Course Title": "PHIL 100 \u2013 Introduction to Philosophy",
+            "Class Days": "T, Th",
+            "Class": 4,
+            "CRN": 97371,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Eck, D",
+            "Course Title": "PHIL 100 \u2013 Introduction to Philosophy",
+            "Class Days": "T, Th",
+            "Class": 5,
+            "CRN": 81491,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Chang, J",
+            "Course Title": "PHIL 100 \u2013 Introduction to Philosophy",
+            "Class Days": "Th",
+            "Class": 6,
+            "CRN": 95417,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Chang, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Chang, J",
+            "Course Title": "PHIL 100 \u2013 Introduction to Philosophy",
+            "Class Days": "Th",
+            "Class": 8,
+            "CRN": 95672,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Chang, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 9,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Colombetti, C",
+            "Course Title": "PHIL 100 \u2013 Introduction to Philosophy",
+            "Class Days": "",
+            "Class": 10,
+            "CRN": 85340,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Colombetti, C",
+            "Course Title": "PHIL 100 \u2013 Introduction to Philosophy",
+            "Class Days": "",
+            "Class": 11,
+            "CRN": 92453,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ball, J",
+            "Course Title": "PHIL 100 \u2013 Introduction to Philosophy",
+            "Class Days": "",
+            "Class": 12,
+            "CRN": 93257,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Chang, J",
+            "Course Title": "PHIL 100 \u2013 Introduction to Philosophy",
+            "Class Days": "",
+            "Class": 13,
+            "CRN": 93678,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Chang, J",
+            "Course Title": "PHIL 100 \u2013 Introduction to Philosophy",
+            "Class Days": "",
+            "Class": 14,
+            "CRN": 96397,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Colombetti, C",
+            "Course Title": "PHIL 100 \u2013 Introduction to Philosophy",
+            "Class Days": "",
+            "Class": 15,
+            "CRN": 98180,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Colombetti, C",
+            "Course Title": "PHIL 103 \u2013 Critical Thinking",
+            "Class Days": "T, Th",
+            "Class": 16,
+            "CRN": 80695,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Zoughbie, A",
+            "Course Title": "PHIL 103 \u2013 Critical Thinking",
+            "Class Days": "",
+            "Class": 17,
+            "CRN": 80693,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Eck, D",
+            "Course Title": "PHIL 200 \u2013 Introduction to Logic",
+            "Class Days": "",
+            "Class": 18,
+            "CRN": 95684,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Eck, D",
+            "Course Title": "PHIL 240 \u2013 Introduction to Ethics",
+            "Class Days": "W",
+            "Class": 19,
+            "CRN": 90025,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Eck, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 20,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Zoughbie, A",
+            "Course Title": "PHIL 240 \u2013 Introduction to Ethics",
+            "Class Days": "",
+            "Class": 21,
+            "CRN": 84841,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Stapleton, R",
+            "Course Title": "PHIL 244 \u2013 Intro Ethics:Soci/Moral Issues",
+            "Class Days": "M, W",
+            "Class": 22,
+            "CRN": 98103,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ball, J",
+            "Course Title": "PHIL 244 \u2013 Intro Ethics:Soci/Moral Issues",
+            "Class Days": "T, Th",
+            "Class": 23,
+            "CRN": 98123,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Zoughbie, A",
+            "Course Title": "PHIL 244 \u2013 Intro Ethics:Soci/Moral Issues",
+            "Class Days": "",
+            "Class": 24,
+            "CRN": 98104,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Colombetti, C",
+            "Course Title": "PHIL 312 \u2013 Intro Philosophy of Religion",
+            "Class Days": "",
+            "Class": 25,
+            "CRN": 93564,
+            "Units": 3
+        }
+    ],
+    "Paleontology": [{
+        "Status": "Closed",
+        "Professor": "Wiese, K",
+        "Course Title": "PALN 110 \u2013 General Paleontology",
+        "Class Days": "M, W",
+        "Class": 1,
+        "CRN": 88722,
+        "Units": 3
+    }]
+}

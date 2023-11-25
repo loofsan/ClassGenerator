@@ -1,3 +1,8 @@
+/*
+This scraper used Selenium, however, since Selenium isn't up-to-date with the latest
+Chrome update, it can't create a session, thus, I can't scrape from it.
+ */
+
 package org.example;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -10,16 +15,8 @@ import java.time.Duration;
 import java.util.*;
 
 
-public class WebScraper {
-    private String status;
-    private String courseTitle;
-    private String professor;
-    private int ratings;
-    private int numOfRatings;
-    private String CRN;
-    private String classDays;
-
-    private static void getWebScheduleData(String deptName) {
+public class WebScraper_Selenium {
+    public static void getWebScheduleData(String deptName) {
 
         // In the second parameter, I put my chromedriver location in my computer
         // because I was using Selenium chromedriver

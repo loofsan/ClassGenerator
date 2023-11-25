@@ -1,0 +1,3370 @@
+{
+    "Comp. Bus. Office Technology": [
+        {
+            "Status": "Closed",
+            "Professor": "Weeks, J",
+            "Course Title": "CBOT 415 \u2013 Beginning Computer Keyboarding",
+            "Class Days": "W",
+            "Class": 1,
+            "CRN": 90266,
+            "Units": 1.5
+        },
+        {
+            "Status": "",
+            "Professor": "Weeks, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 1.5
+        },
+        {
+            "Status": "",
+            "Professor": "Weeks, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 3,
+            "CRN": 0,
+            "Units": 1.5
+        },
+        {
+            "Status": "",
+            "Professor": "Weeks, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 4,
+            "CRN": 0,
+            "Units": 1.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Weeks, J",
+            "Course Title": "CBOT 417 \u2013 Skill Building",
+            "Class Days": "W",
+            "Class": 5,
+            "CRN": 90267,
+            "Units": 1.5
+        },
+        {
+            "Status": "",
+            "Professor": "Weeks, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 0,
+            "Units": 1.5
+        },
+        {
+            "Status": "",
+            "Professor": "Weeks, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 7,
+            "CRN": 0,
+            "Units": 1.5
+        },
+        {
+            "Status": "",
+            "Professor": "Weeks, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 8,
+            "CRN": 0,
+            "Units": 1.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Corzonkoff, B",
+            "Course Title": "CBOT 432 \u2013 Intro. to Comp. Applications",
+            "Class Days": "T",
+            "Class": 9,
+            "CRN": 98042,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Corzonkoff, B",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 10,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Corzonkoff, B",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 11,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Weeks, J",
+            "Course Title": "CBOT 432 \u2013 Intro. to Comp. Applications",
+            "Class Days": "",
+            "Class": 12,
+            "CRN": 96070,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Noel, M",
+            "Course Title": "CBOT 435 \u2013 Spreadsheets",
+            "Class Days": "",
+            "Class": 13,
+            "CRN": 90235,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Corzonkoff, B",
+            "Course Title": "CBOT 448 \u2013 Using Microsoft Windows",
+            "Class Days": "T",
+            "Class": 14,
+            "CRN": 98043,
+            "Units": 1.5
+        },
+        {
+            "Status": "",
+            "Professor": "Corzonkoff, B",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 15,
+            "CRN": 0,
+            "Units": 1.5
+        },
+        {
+            "Status": "",
+            "Professor": "Corzonkoff, B",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 16,
+            "CRN": 0,
+            "Units": 1.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Upadhyay, M",
+            "Course Title": "CBOT 448 \u2013 Using Microsoft Windows",
+            "Class Days": "",
+            "Class": 17,
+            "CRN": 85220,
+            "Units": 1.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Corzonkoff, B",
+            "Course Title": "CBOT 475 \u2013 Using Outlook",
+            "Class Days": "T",
+            "Class": 18,
+            "CRN": 98049,
+            "Units": 1.5
+        },
+        {
+            "Status": "",
+            "Professor": "Corzonkoff, B",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 19,
+            "CRN": 0,
+            "Units": 1.5
+        },
+        {
+            "Status": "",
+            "Professor": "Corzonkoff, B",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 20,
+            "CRN": 0,
+            "Units": 1.5
+        }
+    ],
+    "Chemistry": [
+        {
+            "Status": "Closed",
+            "Professor": "Ghanma, M",
+            "Course Title": "CHEM 114 \u2013 Survey of Chemistry/Physics",
+            "Class Days": "F",
+            "Class": 1,
+            "CRN": 94997,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Ghanma, M",
+            "Course Title": "",
+            "Class Days": "F",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Wamba, K",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 3,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Wamba, K",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 4,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ghanma, M",
+            "Course Title": "CHEM 114 \u2013 Survey of Chem/Phys/UmojaASTEP",
+            "Class Days": "F",
+            "Class": 5,
+            "CRN": 98102,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Ghanma, M",
+            "Course Title": "",
+            "Class Days": "F",
+            "Class": 6,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Wamba, K",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 7,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Wamba, K",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 8,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "LeBlanc, J",
+            "Course Title": "CHEM 192 \u2013 Elementary Chemistry",
+            "Class Days": "M, W",
+            "Class": 9,
+            "CRN": 80195,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "LeBlanc, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 10,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Mclintock, J",
+            "Course Title": "CHEM 192 \u2013 Elementary Chemistry",
+            "Class Days": "W",
+            "Class": 11,
+            "CRN": 80975,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Mclintock, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 12,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Mclintock, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 13,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Schubert, S",
+            "Course Title": "CHEM 210 \u2013 General Chemistry I",
+            "Class Days": "M, W",
+            "Class": 14,
+            "CRN": 97589,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Schubert, S",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 15,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Bates, A",
+            "Course Title": "CHEM 210 \u2013 General Chemistry I",
+            "Class Days": "M, W",
+            "Class": 16,
+            "CRN": 95751,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Bates, A",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 17,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Bates, A",
+            "Course Title": "CHEM 210 \u2013 General Chemistry I",
+            "Class Days": "M, W",
+            "Class": 18,
+            "CRN": 95752,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Bates, A",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 19,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Dao, J",
+            "Course Title": "CHEM 210 \u2013 General Chemistry I",
+            "Class Days": "M, W",
+            "Class": 20,
+            "CRN": 82014,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Salari, A",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 21,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Salari, A",
+            "Course Title": "CHEM 210 \u2013 General Chemistry I",
+            "Class Days": "M, W",
+            "Class": 22,
+            "CRN": 83349,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Salari, A",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 23,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Sibucao, K",
+            "Course Title": "CHEM 210 \u2013 General Chemistry I",
+            "Class Days": "M, W",
+            "Class": 24,
+            "CRN": 83354,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Sibucao, K",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 25,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Flowers, J",
+            "Course Title": "CHEM 210 \u2013 General Chemistry I",
+            "Class Days": "M, W",
+            "Class": 26,
+            "CRN": 90381,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Sibucao, K",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 27,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Biglari, N",
+            "Course Title": "CHEM 210 \u2013 General Chemistry I",
+            "Class Days": "M, W",
+            "Class": 28,
+            "CRN": 92633,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Biglari, N",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 29,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Kaslan, C",
+            "Course Title": "CHEM 210 \u2013 General Chemistry I",
+            "Class Days": "T, Th",
+            "Class": 30,
+            "CRN": 92010,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Kaslan, C",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 31,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Kaslan, C",
+            "Course Title": "CHEM 210 \u2013 General Chemistry I",
+            "Class Days": "T, Th",
+            "Class": 32,
+            "CRN": 97666,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Kaslan, C",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 33,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Dao, J",
+            "Course Title": "CHEM 210 \u2013 General Chemistry I",
+            "Class Days": "T, Th",
+            "Class": 34,
+            "CRN": 82015,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Dao, J",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 35,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Schubert, S",
+            "Course Title": "CHEM 210 \u2013 General Chemistry I",
+            "Class Days": "T, Th",
+            "Class": 36,
+            "CRN": 97590,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Schubert, S",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 37,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Flowers, J",
+            "Course Title": "CHEM 210 \u2013 General Chemistry I",
+            "Class Days": "M, W",
+            "Class": 38,
+            "CRN": 82016,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Flowers, J",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 39,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Cantin, L",
+            "Course Title": "CHEM 210 \u2013 General Chemistry I",
+            "Class Days": "Sa",
+            "Class": 40,
+            "CRN": 83314,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Cantin, L",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 41,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "DeMello, N",
+            "Course Title": "CHEM 210 \u2013 General Chemistry I",
+            "Class Days": "",
+            "Class": 42,
+            "CRN": 96498,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "DeMello, N",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 43,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wilcox, A",
+            "Course Title": "CHEM 220 \u2013 General Chemistry II",
+            "Class Days": "M, W",
+            "Class": 44,
+            "CRN": 93032,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Wilcox, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 45,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Rivera Contreras, J",
+            "Course Title": "CHEM 220 \u2013 General Chemistry II",
+            "Class Days": "M, W, F",
+            "Class": 46,
+            "CRN": 97591,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Rivera Contreras, J",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 47,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Dao, J",
+            "Course Title": "CHEM 220 \u2013 General Chemistry II",
+            "Class Days": "T, Th",
+            "Class": 48,
+            "CRN": 82017,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Li, J",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 49,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Li, J",
+            "Course Title": "CHEM 220 \u2013 General Chemistry II",
+            "Class Days": "T, Th",
+            "Class": 50,
+            "CRN": 90655,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Li, J",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 51,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ciesla, C",
+            "Course Title": "CHEM 231 \u2013 Organic Chemistry I",
+            "Class Days": "M, W",
+            "Class": 52,
+            "CRN": 83357,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Ciesla, C",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 53,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ciesla, C",
+            "Course Title": "CHEM 231 \u2013 Organic Chemistry I",
+            "Class Days": "M, W",
+            "Class": 54,
+            "CRN": 82019,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Ciesla, C",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 55,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ciesla, C",
+            "Course Title": "CHEM 231 \u2013 Organic Chemistry I",
+            "Class Days": "T, Th",
+            "Class": 56,
+            "CRN": 86182,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Sibucao, K",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 57,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Parajon Puenzo, S",
+            "Course Title": "CHEM 231 \u2013 Organic Chemistry I",
+            "Class Days": "T, Th",
+            "Class": 58,
+            "CRN": 93324,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Parajon Puenzo, S",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 59,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ciesla, C",
+            "Course Title": "CHEM 232 \u2013 Organic Chemistry II",
+            "Class Days": "T, Th",
+            "Class": 60,
+            "CRN": 91062,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Sibucao, K",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 61,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Rivera Contreras, J",
+            "Course Title": "CHEM 234 \u2013 Organic Chemistry I",
+            "Class Days": "M, W, F",
+            "Class": 62,
+            "CRN": 97594,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Bates, A",
+            "Course Title": "CHEM 235 \u2013 Organic Chemistry II",
+            "Class Days": "",
+            "Class": 63,
+            "CRN": 98008,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Bates, A",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 64,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Rivera Contreras, J",
+            "Course Title": "CHEM 237 \u2013 Organic Chemistry Lab I",
+            "Class Days": "M",
+            "Class": 65,
+            "CRN": 80203,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Liu, K",
+            "Course Title": "CHEM 238 \u2013 Organic Chemistry Lab II",
+            "Class Days": "Th",
+            "Class": 66,
+            "CRN": 91703,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Flowers, J",
+            "Course Title": "CHEM 410 \u2013 Health Science Chemistry I",
+            "Class Days": "M, W",
+            "Class": 67,
+            "CRN": 82020,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Flowers, J",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 68,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Flowers, J",
+            "Course Title": "CHEM 410 \u2013 Health Science Chemistry I",
+            "Class Days": "M, W",
+            "Class": 69,
+            "CRN": 89520,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Flowers, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 70,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Liu, K",
+            "Course Title": "CHEM 410 \u2013 Chem For Health Sciences",
+            "Class Days": "T, Th",
+            "Class": 71,
+            "CRN": 91704,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Liu, K",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 72,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Parajon Puenzo, S",
+            "Course Title": "CHEM 410 \u2013 Chem For Health Sciences",
+            "Class Days": "",
+            "Class": 73,
+            "CRN": 89926,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Sharma, A",
+            "Course Title": "",
+            "Class Days": "F",
+            "Class": 74,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Parajon Puenzo, S",
+            "Course Title": "CHEM 410 \u2013 Chem For Health Sciences",
+            "Class Days": "T",
+            "Class": 75,
+            "CRN": 93634,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Parajon Puenzo, S",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 76,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Li, J",
+            "Course Title": "CHEM 410 \u2013 Health Science Chemistry I",
+            "Class Days": "T, Th",
+            "Class": 77,
+            "CRN": 97960,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Li, J",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 78,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Mckay, P",
+            "Course Title": "CHEM 410 \u2013 Chem For Health Sciences",
+            "Class Days": "T",
+            "Class": 79,
+            "CRN": 92866,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Mckay, P",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 80,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Mckay, P",
+            "Course Title": "CHEM 410 \u2013 Chem For Health Sciences",
+            "Class Days": "T",
+            "Class": 81,
+            "CRN": 97597,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Mckay, P",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 82,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Dao, J",
+            "Course Title": "CHEM 410 \u2013 Health Science Chemistry I",
+            "Class Days": "",
+            "Class": 83,
+            "CRN": 90131,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Salari, A",
+            "Course Title": "",
+            "Class Days": "Su",
+            "Class": 84,
+            "CRN": 0,
+            "Units": 4
+        }
+    ],
+    "Communication Studies": [
+        {
+            "Status": "Closed",
+            "Professor": "Perez, J",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "M",
+            "Class": 1,
+            "CRN": 81557,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Perez, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Perez, J",
+            "Course Title": "COMM 110 \u2013 Public Speaking- Honors",
+            "Class Days": "M",
+            "Class": 3,
+            "CRN": 93266,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Perez, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lescure, R",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "M, W, F",
+            "Class": 5,
+            "CRN": 85004,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Avila, B",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "M, W, F",
+            "Class": 6,
+            "CRN": 89965,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Avila, B",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "M, W, F",
+            "Class": 7,
+            "CRN": 90013,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Avila, B",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "M, W, F",
+            "Class": 8,
+            "CRN": 82986,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Li, Y",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "M, W, F",
+            "Class": 9,
+            "CRN": 82987,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hurless, J",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "M, W, F",
+            "Class": 10,
+            "CRN": 93959,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hurless, J",
+            "Course Title": "COMM 110 \u2013 Public Speaking - PSP",
+            "Class Days": "M, W, F",
+            "Class": 11,
+            "CRN": 96578,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Avila, B",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "M, W, F",
+            "Class": 12,
+            "CRN": 93658,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lescure, R",
+            "Course Title": "COMM 110 \u2013 Public Speaking Middle College",
+            "Class Days": "M, W, F",
+            "Class": 13,
+            "CRN": 97740,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Gildea, R",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "M, W",
+            "Class": 14,
+            "CRN": 82988,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lescure, R",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "T, Th",
+            "Class": 15,
+            "CRN": 90452,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Irigoyen II, F",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "T, Th",
+            "Class": 16,
+            "CRN": 95625,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Irigoyen II, F",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "T, Th",
+            "Class": 17,
+            "CRN": 93333,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Babin, J",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "T, Th",
+            "Class": 18,
+            "CRN": 94486,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Howard, S",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "T, Th",
+            "Class": 19,
+            "CRN": 82983,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Koppel, S",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "Th",
+            "Class": 20,
+            "CRN": 97451,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Koppel, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 21,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "McDonnell, P",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "M",
+            "Class": 22,
+            "CRN": 90080,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wangsvick, P",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "W",
+            "Class": 23,
+            "CRN": 82984,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Perez, J",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "M",
+            "Class": 24,
+            "CRN": 97452,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Perez, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 25,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Perez, J",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "",
+            "Class": 26,
+            "CRN": 83333,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lescure, R",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "",
+            "Class": 27,
+            "CRN": 96312,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Berry, F",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "",
+            "Class": 28,
+            "CRN": 97040,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Gildea, R",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "",
+            "Class": 29,
+            "CRN": 97041,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "McDonnell, P",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "",
+            "Class": 30,
+            "CRN": 97264,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Babin, J",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "",
+            "Class": 31,
+            "CRN": 97265,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Mohammadi, O",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "",
+            "Class": 32,
+            "CRN": 97266,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Perez, J",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "",
+            "Class": 33,
+            "CRN": 97450,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Mohammadi, O",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "",
+            "Class": 34,
+            "CRN": 97804,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Irigoyen II, F",
+            "Course Title": "COMM 115 \u2013 Survey of Human Communication",
+            "Class Days": "T, Th",
+            "Class": 35,
+            "CRN": 96450,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Perez, J",
+            "Course Title": "COMM 127 \u2013 Argumentation and Debate",
+            "Class Days": "M",
+            "Class": 36,
+            "CRN": 93662,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Perez, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 37,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lescure, R",
+            "Course Title": "COMM 127 \u2013 Argumentation and Debate",
+            "Class Days": "M, W, F",
+            "Class": 38,
+            "CRN": 94502,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Perez, J",
+            "Course Title": "COMM 127 \u2013 Argumentation and Debate",
+            "Class Days": "M",
+            "Class": 39,
+            "CRN": 97453,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Perez, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 40,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Harkness-Lee, S",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "M, W, F",
+            "Class": 41,
+            "CRN": 89185,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Rogers, L",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "M, W, F",
+            "Class": 42,
+            "CRN": 90334,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Rogers, L",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "M, W, F",
+            "Class": 43,
+            "CRN": 83002,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Elabed, A",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "M, W, F",
+            "Class": 44,
+            "CRN": 83009,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Li, Y",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "M, W, F",
+            "Class": 45,
+            "CRN": 83010,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Li, Y",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "M, W, F",
+            "Class": 46,
+            "CRN": 90337,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Harkness-Lee, S",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "M, W",
+            "Class": 47,
+            "CRN": 93063,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Koppel, S",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "T, Th",
+            "Class": 48,
+            "CRN": 81560,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Cunningham, C",
+            "Course Title": "COMM 130 \u2013 Interpersonal Comm",
+            "Class Days": "T, Th",
+            "Class": 49,
+            "CRN": 89186,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Cunningham, C",
+            "Course Title": "COMM 130 \u2013 Interpersonal Comm - PSP",
+            "Class Days": "T, Th",
+            "Class": 50,
+            "CRN": 96579,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Avila, B",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "T, Th",
+            "Class": 51,
+            "CRN": 96847,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Pippins, E",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "T",
+            "Class": 52,
+            "CRN": 81561,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Pippins, E",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 53,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Avila, B",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "T, Th",
+            "Class": 54,
+            "CRN": 83005,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ayotte, L",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "T, Th",
+            "Class": 55,
+            "CRN": 90447,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Elabed, A",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "",
+            "Class": 56,
+            "CRN": 94524,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Love, B",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "T",
+            "Class": 57,
+            "CRN": 97408,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Love, B",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 58,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "McDonnell, P",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "W",
+            "Class": 59,
+            "CRN": 94988,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "McDonnell, P",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 60,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Rope, C",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "M, W",
+            "Class": 61,
+            "CRN": 84466,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Rope, C",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 62,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Rope, C",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "M, W",
+            "Class": 63,
+            "CRN": 96922,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Rope, C",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 64,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Braddock, J",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "T",
+            "Class": 65,
+            "CRN": 96435,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Braddock, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 66,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Irigoyen II, F",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "",
+            "Class": 67,
+            "CRN": 82998,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Berry, F",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "",
+            "Class": 68,
+            "CRN": 83000,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Irigoyen II, F",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "",
+            "Class": 69,
+            "CRN": 93147,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Gamble, M",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "",
+            "Class": 70,
+            "CRN": 96834,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ayotte, L",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "",
+            "Class": 71,
+            "CRN": 96896,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Thaning, M",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "",
+            "Class": 72,
+            "CRN": 97193,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ramirez, P",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "",
+            "Class": 73,
+            "CRN": 97271,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ramirez, P",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "",
+            "Class": 74,
+            "CRN": 97272,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Russo, S",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "",
+            "Class": 75,
+            "CRN": 97820,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Russo, S",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "",
+            "Class": 76,
+            "CRN": 98140,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Rogers, L",
+            "Course Title": "COMM 140 \u2013 Small Group Communication",
+            "Class Days": "M, W, F",
+            "Class": 77,
+            "CRN": 97884,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Koppel, S",
+            "Course Title": "COMM 140 \u2013 Small Group Communication",
+            "Class Days": "T, Th",
+            "Class": 78,
+            "CRN": 93355,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Cunningham, C",
+            "Course Title": "COMM 140 \u2013 Small Group Communication",
+            "Class Days": "T, Th",
+            "Class": 79,
+            "CRN": 95397,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Rope, C",
+            "Course Title": "COMM 140 \u2013 Small Group Communication",
+            "Class Days": "M, W",
+            "Class": 80,
+            "CRN": 93334,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Rope, C",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 81,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Cunningham, C",
+            "Course Title": "COMM 140 \u2013 Small Group Communication",
+            "Class Days": "",
+            "Class": 82,
+            "CRN": 96292,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Harkness-Lee, S",
+            "Course Title": "COMM 150 \u2013 Intercultural Communication",
+            "Class Days": "M, W, F",
+            "Class": 83,
+            "CRN": 93069,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Gildea, R",
+            "Course Title": "COMM 150 \u2013 Intercultural Communication",
+            "Class Days": "M, W, F",
+            "Class": 84,
+            "CRN": 96846,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Gamble, M",
+            "Course Title": "COMM 150 \u2013 Intercultural Communication",
+            "Class Days": "",
+            "Class": 85,
+            "CRN": 93072,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Mohammadi, O",
+            "Course Title": "COMM 150 \u2013 Intercultural Communication",
+            "Class Days": "",
+            "Class": 86,
+            "CRN": 93963,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ayotte, L",
+            "Course Title": "COMM 172 \u2013 Forensics",
+            "Class Days": "T",
+            "Class": 87,
+            "CRN": 97714,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Ayotte, L",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 88,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Ayotte, L",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 89,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Erike, B",
+            "Course Title": "COMM B10 \u2013 Health Communication",
+            "Class Days": "",
+            "Class": 90,
+            "CRN": 96293,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Erike, B",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 91,
+            "CRN": 0,
+            "Units": 3
+        }
+    ],
+    "Counseling": [
+        {
+            "Status": "Closed",
+            "Professor": "Johnston, A",
+            "Course Title": "COUN 100 \u2013 College Success",
+            "Class Days": "M, W",
+            "Class": 1,
+            "CRN": 91386,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Johnston, A",
+            "Course Title": "COUN 100 \u2013 College Success - PSP",
+            "Class Days": "M, W",
+            "Class": 2,
+            "CRN": 97031,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Davalos, K",
+            "Course Title": "COUN 100 \u2013 College Success-SSP",
+            "Class Days": "M",
+            "Class": 3,
+            "CRN": 92029,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Davalos, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Davalos, K",
+            "Course Title": "COUN 100 \u2013 College Success-PSP",
+            "Class Days": "M",
+            "Class": 5,
+            "CRN": 98062,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Davalos, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Victoria, S",
+            "Course Title": "COUN 100 \u2013 College Success",
+            "Class Days": "M, W",
+            "Class": 7,
+            "CRN": 97750,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Justo, J",
+            "Course Title": "COUN 100 \u2013 College Success-Kaba PSP",
+            "Class Days": "M, W",
+            "Class": 8,
+            "CRN": 97375,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Justo, J",
+            "Course Title": "COUN 100 \u2013 College Success-Kababayan",
+            "Class Days": "M, W",
+            "Class": 9,
+            "CRN": 97376,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Honeywell, C",
+            "Course Title": "COUN 100 \u2013 College Success - FYE",
+            "Class Days": "T, Th",
+            "Class": 10,
+            "CRN": 90578,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hernandez, A",
+            "Course Title": "COUN 100 \u2013 College Success - Puente",
+            "Class Days": "T, Th",
+            "Class": 11,
+            "CRN": 90602,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hernandez, A",
+            "Course Title": "COUN 100 \u2013 College Success-Puente PSP",
+            "Class Days": "T, Th",
+            "Class": 12,
+            "CRN": 94330,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Honeywell, C",
+            "Course Title": "COUN 100 \u2013 College Success-FYE PSP",
+            "Class Days": "T, Th",
+            "Class": 13,
+            "CRN": 96326,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Urbina, A",
+            "Course Title": "COUN 100 \u2013 College Success-CIPHER",
+            "Class Days": "T, Th",
+            "Class": 14,
+            "CRN": 94607,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Urbina, A",
+            "Course Title": "COUN 100 \u2013 College Success- CIPHER PSP",
+            "Class Days": "T, Th",
+            "Class": 15,
+            "CRN": 96324,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Garcia, D",
+            "Course Title": "COUN 100 \u2013 College Success- PSP",
+            "Class Days": "T, Th",
+            "Class": 16,
+            "CRN": 98056,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Garcia, D",
+            "Course Title": "COUN 100 \u2013 College Success",
+            "Class Days": "T, Th",
+            "Class": 17,
+            "CRN": 98096,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "DeMello, L",
+            "Course Title": "COUN 100 \u2013 College Success",
+            "Class Days": "",
+            "Class": 18,
+            "CRN": 94616,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Thomas, K",
+            "Course Title": "COUN 100 \u2013 College Success",
+            "Class Days": "",
+            "Class": 19,
+            "CRN": 95821,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Tariq, K",
+            "Course Title": "COUN 101 \u2013 Prep for College-MCOL",
+            "Class Days": "M, W",
+            "Class": 20,
+            "CRN": 96827,
+            "Units": 0.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Romero, C",
+            "Course Title": "COUN 101 \u2013 Prep for College-International",
+            "Class Days": "Sa",
+            "Class": 21,
+            "CRN": 96317,
+            "Units": 0.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Romero, C",
+            "Course Title": "COUN 101 \u2013 Prep for College-International",
+            "Class Days": "Sa",
+            "Class": 22,
+            "CRN": 97806,
+            "Units": 0.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Tariq, K",
+            "Course Title": "COUN 102 \u2013 Student Success Strategies-MC",
+            "Class Days": "M, W",
+            "Class": 23,
+            "CRN": 94127,
+            "Units": 0.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Chen, L",
+            "Course Title": "COUN 111 \u2013 College Planning",
+            "Class Days": "T",
+            "Class": 24,
+            "CRN": 96098,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Reed, P",
+            "Course Title": "COUN 111 \u2013 College Planning",
+            "Class Days": "Sa",
+            "Class": 25,
+            "CRN": 95392,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Sinarle, K",
+            "Course Title": "COUN 111 \u2013 College Planning",
+            "Class Days": "",
+            "Class": 26,
+            "CRN": 96099,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Sinarle, K",
+            "Course Title": "COUN 111 \u2013 College Planning",
+            "Class Days": "",
+            "Class": 27,
+            "CRN": 96197,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Martin, S",
+            "Course Title": "COUN 120 \u2013 College and Career Success",
+            "Class Days": "T, Th",
+            "Class": 28,
+            "CRN": 88374,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Delgado-Salazar, M",
+            "Course Title": "COUN 120 \u2013 College and Career Success",
+            "Class Days": "",
+            "Class": 29,
+            "CRN": 90960,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ameen, U",
+            "Course Title": "COUN 120 \u2013 College and Career Success",
+            "Class Days": "",
+            "Class": 30,
+            "CRN": 96808,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "De La Cruz, J",
+            "Course Title": "COUN 128 \u2013 Puente: Foundation Coll Sucess",
+            "Class Days": "T, Th",
+            "Class": 31,
+            "CRN": 95384,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Garcia, D",
+            "Course Title": "COUN 240 \u2013 College and Academic Success",
+            "Class Days": "T, Th",
+            "Class": 32,
+            "CRN": 96391,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Nieve, J",
+            "Course Title": "COUN 240 \u2013 College and Academic Success",
+            "Class Days": "T",
+            "Class": 33,
+            "CRN": 97792,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Fong, J",
+            "Course Title": "COUN 240 \u2013 College and Academic Success",
+            "Class Days": "T",
+            "Class": 34,
+            "CRN": 98177,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Justo, J",
+            "Course Title": "COUN 650.1 \u2013 Kaptiran Seminar- College Succ",
+            "Class Days": "",
+            "Class": 35,
+            "CRN": 97148,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lee, J",
+            "Course Title": "COUN 652 \u2013 Honors Seminar",
+            "Class Days": "",
+            "Class": 36,
+            "CRN": 94231,
+            "Units": 0.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hernandez, A",
+            "Course Title": "COUN 655.1 \u2013 Hermanos/Hermas-College Succes",
+            "Class Days": "",
+            "Class": 37,
+            "CRN": 97135,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "DeMello, L",
+            "Course Title": "COUN B10 \u2013 Multicultural Human Relations",
+            "Class Days": "",
+            "Class": 38,
+            "CRN": 96990,
+            "Units": 3
+        }
+    ],
+    "Computer Science": [
+        {
+            "Status": "Closed",
+            "Professor": "Weeks, J",
+            "Course Title": "BUSW 418 \u2013 Spreadsheets",
+            "Class Days": "",
+            "Class": 1,
+            "CRN": 96526,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Abboud, S",
+            "Course Title": "CIS 110 \u2013 Introduction to CIS",
+            "Class Days": "M, W",
+            "Class": 2,
+            "CRN": 84236,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Abboud, S",
+            "Course Title": "CIS 110 \u2013 Introduction to CIS",
+            "Class Days": "T, Th",
+            "Class": 3,
+            "CRN": 90384,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Martens, B",
+            "Course Title": "CIS 110 \u2013 Introduction to CIS",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 86225,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Martens, B",
+            "Course Title": "CIS 110 \u2013 Introduction to CIS",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 93121,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ferreira Da Silva, C",
+            "Course Title": "CIS 114 \u2013 JavaScript/Ajax Programming",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 92961,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Ferreira Da Silva, C",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Pacheco, H",
+            "Course Title": "CIS 117 \u2013 Python Programming",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 95943,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Pacheco, H",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 9,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lamble, G",
+            "Course Title": "CIS 117 \u2013 Python Programming",
+            "Class Days": "",
+            "Class": 10,
+            "CRN": 96876,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Lamble, G",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 11,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Abolghasemi, M",
+            "Course Title": "CIS 117 \u2013 Python Programming",
+            "Class Days": "",
+            "Class": 12,
+            "CRN": 98152,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Abolghasemi, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 13,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Schwarz, B",
+            "Course Title": "CIS 118 \u2013 Intro. to Computer Science",
+            "Class Days": "",
+            "Class": 14,
+            "CRN": 93626,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Schwarz, B",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 15,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Isaacs, S",
+            "Course Title": "CIS 121 \u2013 UNIX/Linux",
+            "Class Days": "",
+            "Class": 16,
+            "CRN": 92962,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ferguson, N",
+            "Course Title": "CIS 122 \u2013 Intro. to Programming: Python",
+            "Class Days": "",
+            "Class": 17,
+            "CRN": 96500,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Pacheco, H",
+            "Course Title": "CIS 124 \u2013 Foundations of Data Science",
+            "Class Days": "",
+            "Class": 18,
+            "CRN": 97889,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Pacheco, H",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 19,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Tramblee, K",
+            "Course Title": "CIS 127 \u2013 HTML5 and CSS",
+            "Class Days": "",
+            "Class": 20,
+            "CRN": 93431,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Moussalem, M",
+            "Course Title": "CIS 132 \u2013 Introduction to Databases",
+            "Class Days": "",
+            "Class": 21,
+            "CRN": 95229,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Pacheco, H",
+            "Course Title": "CIS 137 \u2013 iOS/Swift Programming",
+            "Class Days": "",
+            "Class": 22,
+            "CRN": 95231,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Pacheco, H",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 23,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Moussalem, M",
+            "Course Title": "CIS 140 \u2013 Big Data Analytics",
+            "Class Days": "",
+            "Class": 24,
+            "CRN": 95440,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Moussalem, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 25,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Mortezaie, F",
+            "Course Title": "CIS 151 \u2013 Computer Networking",
+            "Class Days": "",
+            "Class": 26,
+            "CRN": 90956,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Schwarz, B",
+            "Course Title": "CIS 242 \u2013 Comp. Arch. & Assembly Lang.",
+            "Class Days": "T, Th",
+            "Class": 27,
+            "CRN": 94413,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Schwarz, B",
+            "Course Title": "CIS 250 \u2013 Intro to Obj Ori Program.: C++",
+            "Class Days": "Th",
+            "Class": 28,
+            "CRN": 94836,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Schwarz, B",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 29,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Schwarz, B",
+            "Course Title": "CIS 250 \u2013 Intro to Obj Ori Program.: C++",
+            "Class Days": "",
+            "Class": 30,
+            "CRN": 94325,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Schwarz, B",
+            "Course Title": "CIS 252 \u2013 Intro to Data Struct.: C++",
+            "Class Days": "T, Th",
+            "Class": 31,
+            "CRN": 93679,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Pacheco, H",
+            "Course Title": "CIS 254 \u2013 Intro Object-Oriented Pgm Dsgn",
+            "Class Days": "T, Th",
+            "Class": 32,
+            "CRN": 88615,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Pacheco, H",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 33,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Pacheco, H",
+            "Course Title": "CIS 254 \u2013 Intro Object-Oriented Pgm Dsgn",
+            "Class Days": "T, Th",
+            "Class": 34,
+            "CRN": 97178,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Pacheco, H",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 35,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Eftekhari, K",
+            "Course Title": "CIS 254 \u2013 Intro Object-Oriented Pgm Dsgn",
+            "Class Days": "",
+            "Class": 36,
+            "CRN": 92198,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Eftekhari, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 37,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Calle, A",
+            "Course Title": "CIS 254 \u2013 Intro Object-Oriented Pgm Dsgn",
+            "Class Days": "",
+            "Class": 38,
+            "CRN": 96039,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Calle, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 39,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Harden, D",
+            "Course Title": "CIS 254 \u2013 Intro Object-Oriented Pgm Dsgn",
+            "Class Days": "",
+            "Class": 40,
+            "CRN": 97177,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Harden, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 41,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Eftekhari, K",
+            "Course Title": "CIS 255 \u2013 (CS1) Programming Methods:Java",
+            "Class Days": "",
+            "Class": 42,
+            "CRN": 88669,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Eftekhari, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 43,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Masters, J",
+            "Course Title": "CIS 255 \u2013 (CS1) Prgm Methods: Java",
+            "Class Days": "",
+            "Class": 44,
+            "CRN": 97179,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Masters, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 45,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Eftekhari, K",
+            "Course Title": "CIS 256 \u2013 (CS2) Data Structures: Java",
+            "Class Days": "",
+            "Class": 46,
+            "CRN": 96040,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Eftekhari, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 47,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Calle, A",
+            "Course Title": "CIS 256 \u2013 (CS2) Data Structures: Java",
+            "Class Days": "",
+            "Class": 48,
+            "CRN": 97180,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Calle, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 49,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Eftekhari, K",
+            "Course Title": "CIS 262 \u2013 Discrete Math. for Comp Scienc",
+            "Class Days": "",
+            "Class": 50,
+            "CRN": 96877,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Eftekhari, K",
+            "Course Title": "CIS 264 \u2013 Comp Org & Systems Programming",
+            "Class Days": "F",
+            "Class": 51,
+            "CRN": 97568,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Eftekhari, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 52,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Calle, A",
+            "Course Title": "CIS 278 \u2013 (CS1) Programming Methods: C++",
+            "Class Days": "M, W",
+            "Class": 53,
+            "CRN": 86470,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Calle, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 54,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Schwarz, B",
+            "Course Title": "CIS 284 \u2013 Intro to Obj Orien Prog - Java",
+            "Class Days": "",
+            "Class": 55,
+            "CRN": 90717,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hoffman, J",
+            "Course Title": "CIS 286 \u2013 Intro Data Structures - Java",
+            "Class Days": "",
+            "Class": 56,
+            "CRN": 95678,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Naveed, M",
+            "Course Title": "CIS 380 \u2013 PHP Programming",
+            "Class Days": "",
+            "Class": 57,
+            "CRN": 89830,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Momeni, K",
+            "Course Title": "COMP 122 \u2013 Intro to Programming: Python",
+            "Class Days": "T, Th",
+            "Class": 58,
+            "CRN": 97582,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Katz, A",
+            "Course Title": "COMP 250 \u2013 Object-Oriented Prog:C++ - ETS",
+            "Class Days": "M, W, F",
+            "Class": 59,
+            "CRN": 95776,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Katz, A",
+            "Course Title": "COMP 250 \u2013 Intro Object-Oriented Prog:C++",
+            "Class Days": "M, W, F",
+            "Class": 60,
+            "CRN": 97583,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Katz, A",
+            "Course Title": "COMP 250 \u2013 Intro Object-Oriented Prog:C++",
+            "Class Days": "M",
+            "Class": 61,
+            "CRN": 89291,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Katz, A",
+            "Course Title": "COMP 252 \u2013 Data Structures: C++",
+            "Class Days": "T",
+            "Class": 62,
+            "CRN": 97585,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Katz, A",
+            "Course Title": "COMP 256 \u2013 Computer Arch/AssemblyLang-ETS",
+            "Class Days": "T, Th",
+            "Class": 63,
+            "CRN": 96621,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Katz, A",
+            "Course Title": "COMP 256 \u2013 Computer Arch. & Assembly Lang",
+            "Class Days": "T, Th",
+            "Class": 64,
+            "CRN": 97586,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Williams, P",
+            "Course Title": "COMP 262 \u2013 Discrete Mathematics for COMP",
+            "Class Days": "",
+            "Class": 65,
+            "CRN": 97001,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hoffman, J",
+            "Course Title": "COMP 284 \u2013 Object-Oriented Pgm:JAVA-ETS",
+            "Class Days": "M, W",
+            "Class": 66,
+            "CRN": 97100,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Hoffman, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 67,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hoffman, J",
+            "Course Title": "COMP 284 \u2013 Intro-Object-Oriented Pgm:JAVA",
+            "Class Days": "M, W",
+            "Class": 68,
+            "CRN": 97587,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Hoffman, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 69,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Katz, A",
+            "Course Title": "COMP 286 \u2013 Data Structures II: Java",
+            "Class Days": "T, Th",
+            "Class": 70,
+            "CRN": 98071,
+            "Units": 3
+        }
+    ],
+    "Cosmetology": [
+        {
+            "Status": "Closed",
+            "Professor": "Hemstreet, L",
+            "Course Title": "COSM 701 \u2013 Cosmetology Core Concepts",
+            "Class Days": "Th, F",
+            "Class": 1,
+            "CRN": 96262,
+            "Units": 6
+        },
+        {
+            "Status": "",
+            "Professor": "Hemstreet, L",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 6
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Levesque, D",
+            "Course Title": "COSM 702 \u2013 COSM Hair Design Concepts",
+            "Class Days": "M, T",
+            "Class": 3,
+            "CRN": 96259,
+            "Units": 6
+        },
+        {
+            "Status": "",
+            "Professor": "Levesque, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 0,
+            "Units": 6
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Robles, C",
+            "Course Title": "COSM 703 \u2013 Cosmetology Chemical Concepts",
+            "Class Days": "W",
+            "Class": 5,
+            "CRN": 96269,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "White, C",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Medrano, A",
+            "Course Title": "COSM 712 \u2013 Cosmetology I",
+            "Class Days": "M, W, F",
+            "Class": 7,
+            "CRN": 97872,
+            "Units": 9.5
+        },
+        {
+            "Status": "",
+            "Professor": "Medrano, A",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 8,
+            "CRN": 0,
+            "Units": 9.5
+        },
+        {
+            "Status": "",
+            "Professor": "Medrano, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 9,
+            "CRN": 0,
+            "Units": 9.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Baker, D",
+            "Course Title": "COSM 722 \u2013 Cosmetology II",
+            "Class Days": "T, Th",
+            "Class": 10,
+            "CRN": 97873,
+            "Units": 9.5
+        },
+        {
+            "Status": "",
+            "Professor": "Baker, D",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 11,
+            "CRN": 0,
+            "Units": 9.5
+        },
+        {
+            "Status": "",
+            "Professor": "Baker, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 12,
+            "CRN": 0,
+            "Units": 9.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Salido, K",
+            "Course Title": "COSM 732 \u2013 Cosmetology III",
+            "Class Days": "T, Th",
+            "Class": 13,
+            "CRN": 97882,
+            "Units": 9.5
+        },
+        {
+            "Status": "",
+            "Professor": "Salido, K",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 14,
+            "CRN": 0,
+            "Units": 9.5
+        },
+        {
+            "Status": "",
+            "Professor": "Salido, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 15,
+            "CRN": 0,
+            "Units": 9.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Salido, K",
+            "Course Title": "COSM 742 \u2013 Cosmetology IV",
+            "Class Days": "M, W, F",
+            "Class": 16,
+            "CRN": 97883,
+            "Units": 9.5
+        },
+        {
+            "Status": "",
+            "Professor": "Salido, K",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 17,
+            "CRN": 0,
+            "Units": 9.5
+        },
+        {
+            "Status": "",
+            "Professor": "Salido, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 18,
+            "CRN": 0,
+            "Units": 9.5
+        }
+    ],
+    "Business Computer Sys/Mgmt": [
+        {
+            "Status": "Closed",
+            "Professor": "Beltran, H",
+            "Course Title": "BCM. 101 \u2013 Computer Keyboard Skill Build",
+            "Class Days": "",
+            "Class": 1,
+            "CRN": 88247,
+            "Units": 1.5
+        },
+        {
+            "Status": "",
+            "Professor": "Beltran, H",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 1.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Beltran, H",
+            "Course Title": "BCM. 200 \u2013 Intro to Computer Applications",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 90487,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Motipara, S",
+            "Course Title": "BCM. 225 \u2013 Spreadsheet I: Excel",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 88295,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Motipara, S",
+            "Course Title": "BCM. 226 \u2013 Spreadsheet II: Excel",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 89199,
+            "Units": 2
+        }
+    ],
+    "Chinese": [
+        {
+            "Status": "Closed",
+            "Professor": "Wu, J",
+            "Course Title": "CHIN 111 \u2013 Elem Chinese I",
+            "Class Days": "M",
+            "Class": 1,
+            "CRN": 82022,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Wu, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wu, J",
+            "Course Title": "CHIN 111 \u2013 Elem Chinese I",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 82023,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wu, J",
+            "Course Title": "CHIN 112 \u2013 Elem Chinese II",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 91147,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wu, J",
+            "Course Title": "CHIN 121 \u2013 Adv Elem Chinese I",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 93492,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wu, J",
+            "Course Title": "CHIN 122 \u2013 Adv Elem Chinese II",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 93493,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wu, J",
+            "Course Title": "CHIN 131 \u2013 Intermediate Chinese I",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 85824,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wu, J",
+            "Course Title": "CHIN 132 \u2013 Intermediate Chinese II",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 94565,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wu, J",
+            "Course Title": "CHIN 211 \u2013 Colloquial Chinese I, Elem",
+            "Class Days": "M",
+            "Class": 9,
+            "CRN": 90327,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Wu, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 10,
+            "CRN": 0,
+            "Units": 3
+        }
+    ],
+    "Cooperative Education": [
+        {
+            "Status": "Closed",
+            "Professor": "McCarthy, S",
+            "Course Title": "COOP 670 \u2013 Vocational Cooperative Ed",
+            "Class Days": "",
+            "Class": 1,
+            "CRN": 80218,
+            "Units": 14
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Jones, A",
+            "Course Title": "COOP 670 \u2013 Cooperative Ed/Work Experience",
+            "Class Days": "W",
+            "Class": 2,
+            "CRN": 80994,
+            "Units": 14
+        },
+        {
+            "Status": "",
+            "Professor": "Jones, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 0,
+            "Units": 14
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Kennedy, L",
+            "Course Title": "COOP 670 \u2013 Cooperative Ed/Work Experience",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 97202,
+            "Units": 14
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Laux, L",
+            "Course Title": "COOP 670 \u2013 Vocational Cooperative Ed",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 98181,
+            "Units": 1.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Shek, S",
+            "Course Title": "COOP 671 \u2013 General Cooperative Education",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 94815,
+            "Units": 13
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Moore, A",
+            "Course Title": "COOP 671 \u2013 General Cooperative Education",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 97392,
+            "Units": 13
+        }
+    ],
+    "Career and Personal Develop": [
+        {
+            "Status": "Closed",
+            "Professor": "Cardenas, C",
+            "Course Title": "CRER 100 \u2013 Career Planning & Life Explor.",
+            "Class Days": "T, Th",
+            "Class": 1,
+            "CRN": 97115,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Cardenas, C",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Cardenas, C",
+            "Course Title": "CRER 100 \u2013 Career Planning & Life Explor.",
+            "Class Days": "T, Th",
+            "Class": 3,
+            "CRN": 97116,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Cardenas, C",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 4,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Cardenas, C",
+            "Course Title": "CRER 100 \u2013 Career Planning & Life Explor.",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 97114,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Perez, P",
+            "Course Title": "CRER 100 \u2013 Career Planning & Life Explor.",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 97772,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Linares, J",
+            "Course Title": "CRER 110 \u2013 Honors Colloq. CRER: Trans Ess",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 93387,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Perez, P",
+            "Course Title": "CRER 126 \u2013 Career I: Assessment & Explor.",
+            "Class Days": "T",
+            "Class": 8,
+            "CRN": 91293,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Negrete, R",
+            "Course Title": "CRER 126 \u2013 Career I: Assessment & Explor.",
+            "Class Days": "",
+            "Class": 9,
+            "CRN": 96906,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Quach, S",
+            "Course Title": "CRER 127 \u2013 Career Choices II: Job Search",
+            "Class Days": "",
+            "Class": 10,
+            "CRN": 90642,
+            "Units": 0.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Gonzalez, K",
+            "Course Title": "CRER 137 \u2013 Life and Career Planning",
+            "Class Days": "M, W",
+            "Class": 11,
+            "CRN": 83159,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Gonzalez, K",
+            "Course Title": "",
+            "Class Days": "F",
+            "Class": 12,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Chan, R",
+            "Course Title": "CRER 137 \u2013 Life and Career Planning",
+            "Class Days": "M, W",
+            "Class": 13,
+            "CRN": 97815,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Chan, R",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 14,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Chan, R",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 15,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lynch, D",
+            "Course Title": "CRER 137 \u2013 Life and Career Planning",
+            "Class Days": "T, Th",
+            "Class": 16,
+            "CRN": 96476,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Teclemariam, Y",
+            "Course Title": "CRER 137 \u2013 Life and Career Planning",
+            "Class Days": "T, Th",
+            "Class": 17,
+            "CRN": 90682,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Gonzalez, K",
+            "Course Title": "CRER 137 \u2013 Life and Career Planning",
+            "Class Days": "M, W",
+            "Class": 18,
+            "CRN": 80236,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Chan, R",
+            "Course Title": "CRER 137 \u2013 Life And Career Planning",
+            "Class Days": "W",
+            "Class": 19,
+            "CRN": 81007,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Chan, R",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 20,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Mendez, S",
+            "Course Title": "CRER 137 \u2013 Life And Career Planning",
+            "Class Days": "",
+            "Class": 21,
+            "CRN": 81006,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lucas, M",
+            "Course Title": "CRER 137 \u2013 Life and Career Planning-PSP",
+            "Class Days": "",
+            "Class": 22,
+            "CRN": 87423,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Mendez, S",
+            "Course Title": "CRER 137 \u2013 Life and Career Planning",
+            "Class Days": "",
+            "Class": 23,
+            "CRN": 94883,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Gomez, J",
+            "Course Title": "CRER 401 \u2013 College Success",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 24,
+            "CRN": 90684,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lynch, D",
+            "Course Title": "CRER 401 \u2013 College Success",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 25,
+            "CRN": 97977,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Rao, M",
+            "Course Title": "CRER 401 \u2013 College Success",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 26,
+            "CRN": 97979,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Macias, M",
+            "Course Title": "CRER 401 \u2013 College Success",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 27,
+            "CRN": 97978,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Alexander, K",
+            "Course Title": "CRER 401 \u2013 College Success",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 28,
+            "CRN": 90683,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Haick II, R",
+            "Course Title": "CRER 401 \u2013 College Success",
+            "Class Days": "",
+            "Class": 29,
+            "CRN": 81009,
+            "Units": 1
+        }
+    ]
+}

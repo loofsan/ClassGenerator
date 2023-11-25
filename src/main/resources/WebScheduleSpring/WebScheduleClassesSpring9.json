@@ -1,0 +1,2666 @@
+{
+    "Public & Nonprofit Administra": [
+        {
+            "Status": "Open",
+            "Professor": "VonBleichert, P",
+            "Course Title": "PNPA 100 \u2013 Foundations of Public Administ",
+            "Class Days": "",
+            "Class": 1,
+            "CRN": 48358,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Espinoza, A",
+            "Course Title": "PNPA 102 \u2013 Ethics in Public Admin",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 48360,
+            "Units": 3
+        }
+    ],
+    "Social Justice Studies": [
+        {
+            "Status": "Open",
+            "Professor": "Amunrud, M",
+            "Course Title": "SJS 110 \u2013 Intro to Social Justice Studie",
+            "Class Days": "",
+            "Class": 1,
+            "CRN": 48130,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Amunrud, M",
+            "Course Title": "SJS 130 \u2013 Intro to LGBTQ Studies",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 47785,
+            "Units": 3
+        }
+    ],
+    "Real Estate": [
+        {
+            "Status": "Open",
+            "Professor": "Nuttall, A",
+            "Course Title": "R.E. 100 \u2013 Real Estate Principles",
+            "Class Days": "Th",
+            "Class": 1,
+            "CRN": 47750,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Gottlieb, M",
+            "Course Title": "R.E. 100 \u2013 Real Estate Principles",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 46842,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Nuttall, A",
+            "Course Title": "R.E. 110 \u2013 Real Estate Practice",
+            "Class Days": "Sa",
+            "Class": 3,
+            "CRN": 46599,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Gottlieb, M",
+            "Course Title": "R.E. 110 \u2013 Real Estate Practice",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 46803,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Gottlieb, M",
+            "Course Title": "R.E. 121 \u2013 Legal Aspects of Real Estate",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 47143,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Nuttall, A",
+            "Course Title": "R.E. 130 \u2013 CA Mortgage Loan Broker & Lend",
+            "Class Days": "T",
+            "Class": 6,
+            "CRN": 46217,
+            "Units": 3
+        }
+    ],
+    "Psychology": [
+        {
+            "Status": "Open",
+            "Professor": "Merrill-Sinarle, J",
+            "Course Title": "PSYC 100 \u2013 General Psychology - PROM",
+            "Class Days": "M, W, F",
+            "Class": 1,
+            "CRN": 30709,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Clifford Jr, J",
+            "Course Title": "PSYC 100 \u2013 General Psychology",
+            "Class Days": "M",
+            "Class": 2,
+            "CRN": 35695,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Clifford Jr, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Merrill-Sinarle, J",
+            "Course Title": "PSYC 100 \u2013 General Psychology",
+            "Class Days": "M, W, F",
+            "Class": 4,
+            "CRN": 41446,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, A",
+            "Course Title": "PSYC 100 \u2013 General Psychology",
+            "Class Days": "M, W",
+            "Class": 5,
+            "CRN": 31481,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Clifford Jr, J",
+            "Course Title": "PSYC 100 \u2013 General Psychology",
+            "Class Days": "M",
+            "Class": 6,
+            "CRN": 43437,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Clifford Jr, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Clifford Jr, J",
+            "Course Title": "PSYC 100 \u2013 General Psychology",
+            "Class Days": "M",
+            "Class": 8,
+            "CRN": 35700,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Clifford Jr, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 9,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Branco, C",
+            "Course Title": "PSYC 100 \u2013 General Psychology",
+            "Class Days": "M, W, F",
+            "Class": 10,
+            "CRN": 47287,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "PSYC 100 \u2013 General Psychology",
+            "Class Days": "T, Th",
+            "Class": 11,
+            "CRN": 31482,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Branco, C",
+            "Course Title": "PSYC 100 \u2013 General Psychology",
+            "Class Days": "T, Th",
+            "Class": 12,
+            "CRN": 30712,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Yoon, E",
+            "Course Title": "PSYC 100 \u2013 General Psychology",
+            "Class Days": "T",
+            "Class": 13,
+            "CRN": 32685,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Yoon, E",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 14,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "PSYC 100 \u2013 General Psychology",
+            "Class Days": "T, Th",
+            "Class": 15,
+            "CRN": 46302,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Staff,",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 16,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Perisho, S",
+            "Course Title": "PSYC 100 \u2013 General Psychology",
+            "Class Days": "T, Th",
+            "Class": 17,
+            "CRN": 47292,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Avera, J",
+            "Course Title": "PSYC 100 \u2013 General Psychology",
+            "Class Days": "T, Th",
+            "Class": 18,
+            "CRN": 35699,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Avera, J",
+            "Course Title": "PSYC 100 \u2013 General Psychology",
+            "Class Days": "T, Th",
+            "Class": 19,
+            "CRN": 43458,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Avera, J",
+            "Course Title": "PSYC 100 \u2013 General Psychology",
+            "Class Days": "T",
+            "Class": 20,
+            "CRN": 32692,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Favilla, V",
+            "Course Title": "PSYC 100 \u2013 General Psychology",
+            "Class Days": "Th",
+            "Class": 21,
+            "CRN": 30703,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Favilla, V",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 22,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "PSYC 100 \u2013 General Psychology",
+            "Class Days": "",
+            "Class": 23,
+            "CRN": 34826,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "PSYC 100 \u2013 General Psychology",
+            "Class Days": "",
+            "Class": 24,
+            "CRN": 34841,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mullane, M",
+            "Course Title": "PSYC 100 \u2013 General Psychology",
+            "Class Days": "",
+            "Class": 25,
+            "CRN": 35434,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "PSYC 100 \u2013 General Psychology",
+            "Class Days": "",
+            "Class": 26,
+            "CRN": 41401,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, A",
+            "Course Title": "PSYC 100 \u2013 General Psychology",
+            "Class Days": "",
+            "Class": 27,
+            "CRN": 44308,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Shih, C",
+            "Course Title": "PSYC 100 \u2013 General Psychology",
+            "Class Days": "",
+            "Class": 28,
+            "CRN": 46089,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, A",
+            "Course Title": "PSYC 100 \u2013 General Psychology",
+            "Class Days": "",
+            "Class": 29,
+            "CRN": 46741,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, A",
+            "Course Title": "PSYC 100 \u2013 General Psychology",
+            "Class Days": "",
+            "Class": 30,
+            "CRN": 46742,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Eljarrari, T",
+            "Course Title": "PSYC 100 \u2013 General Psychology",
+            "Class Days": "",
+            "Class": 31,
+            "CRN": 47289,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "PSYC 100 \u2013 General Psychology",
+            "Class Days": "",
+            "Class": 32,
+            "CRN": 47294,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Perisho, S",
+            "Course Title": "PSYC 100 \u2013 General Psychology",
+            "Class Days": "",
+            "Class": 33,
+            "CRN": 47296,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Yoon, E",
+            "Course Title": "PSYC 100 \u2013 General Psychology",
+            "Class Days": "",
+            "Class": 34,
+            "CRN": 48069,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Perisho, S",
+            "Course Title": "PSYC 105 \u2013 Experimental Psychology",
+            "Class Days": "M, W",
+            "Class": 35,
+            "CRN": 37132,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Clifford Jr, J",
+            "Course Title": "PSYC 105 \u2013 Experimental Psychology",
+            "Class Days": "",
+            "Class": 36,
+            "CRN": 33982,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Perisho, S",
+            "Course Title": "PSYC 105 \u2013 Experimental Psychology",
+            "Class Days": "",
+            "Class": 37,
+            "CRN": 47297,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Shih, C",
+            "Course Title": "PSYC 105 \u2013 Experimental Psychology",
+            "Class Days": "",
+            "Class": 38,
+            "CRN": 47299,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Firpo, C",
+            "Course Title": "PSYC 110 \u2013 Courtship/Marriage/Family",
+            "Class Days": "",
+            "Class": 39,
+            "CRN": 32700,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Lynn, W",
+            "Course Title": "PSYC 110 \u2013 Courtship, Marriage & Family",
+            "Class Days": "",
+            "Class": 40,
+            "CRN": 42545,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Clifford Jr, J",
+            "Course Title": "PSYC 120 \u2013 Intro to Research Methods",
+            "Class Days": "T",
+            "Class": 41,
+            "CRN": 43737,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Clifford Jr, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 42,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Clifford Jr, J",
+            "Course Title": "PSYC 120 \u2013 Intro to Research Methods",
+            "Class Days": "",
+            "Class": 43,
+            "CRN": 47569,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Rose, M",
+            "Course Title": "PSYC 121 \u2013 Basic Statistical Concepts",
+            "Class Days": "",
+            "Class": 44,
+            "CRN": 32703,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Shih, C",
+            "Course Title": "PSYC 171 \u2013 Quantitative Reasoning in Psyc",
+            "Class Days": "T, Th",
+            "Class": 45,
+            "CRN": 30716,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Favilla, V",
+            "Course Title": "PSYC 171 \u2013 Quantitative Reasoning in Psyc",
+            "Class Days": "",
+            "Class": 46,
+            "CRN": 43617,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Clifford Jr, J",
+            "Course Title": "PSYC 200 \u2013 Developmental Psychology",
+            "Class Days": "T",
+            "Class": 47,
+            "CRN": 46375,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Clifford Jr, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 48,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Shih, C",
+            "Course Title": "PSYC 200 \u2013 Developmental Psychology",
+            "Class Days": "T, Th",
+            "Class": 49,
+            "CRN": 40660,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Clemente Jr, R",
+            "Course Title": "PSYC 200 \u2013 Developmental Psychology",
+            "Class Days": "W",
+            "Class": 50,
+            "CRN": 39715,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Clemente Jr, R",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 51,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Favilla, V",
+            "Course Title": "PSYC 200 \u2013 Developmental Psychology",
+            "Class Days": "T",
+            "Class": 52,
+            "CRN": 38084,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Tuttle, N",
+            "Course Title": "PSYC 200 \u2013 Developmental Psychology",
+            "Class Days": "",
+            "Class": 53,
+            "CRN": 41307,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Eljarrari, T",
+            "Course Title": "PSYC 200 \u2013 Developmental Psychology",
+            "Class Days": "",
+            "Class": 54,
+            "CRN": 46251,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Mullane, M",
+            "Course Title": "PSYC 200 \u2013 Developmental Psychology",
+            "Class Days": "",
+            "Class": 55,
+            "CRN": 46857,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Lynn, W",
+            "Course Title": "PSYC 200 \u2013 Developmental Psychology",
+            "Class Days": "",
+            "Class": 56,
+            "CRN": 47303,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Venkataraman, S",
+            "Course Title": "PSYC 201 \u2013 Child Development",
+            "Class Days": "T, Th",
+            "Class": 57,
+            "CRN": 41894,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Watts, J",
+            "Course Title": "PSYC 201 \u2013 Child Development",
+            "Class Days": "",
+            "Class": 58,
+            "CRN": 47081,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Watts, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 59,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Watts, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 60,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Watts, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 61,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "PSYC 201 \u2013 Child Development",
+            "Class Days": "",
+            "Class": 62,
+            "CRN": 42668,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Watts, J",
+            "Course Title": "PSYC 201 \u2013 Child Development",
+            "Class Days": "",
+            "Class": 63,
+            "CRN": 44843,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lee, R",
+            "Course Title": "PSYC 205 \u2013 Soc. Science Research Methods",
+            "Class Days": "M, W",
+            "Class": 64,
+            "CRN": 42628,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, A",
+            "Course Title": "PSYC 205 \u2013 Soc. Science Research Methods",
+            "Class Days": "Th",
+            "Class": 65,
+            "CRN": 42753,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Smith, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 66,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Merrill-Sinarle, J",
+            "Course Title": "PSYC 220 \u2013 Introduction to Psychobiology",
+            "Class Days": "M, W, F",
+            "Class": 67,
+            "CRN": 47304,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Clifford Jr, J",
+            "Course Title": "PSYC 220 \u2013 Introduction to Psychobiology",
+            "Class Days": "T",
+            "Class": 68,
+            "CRN": 48374,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Clifford Jr, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 69,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "McClain, K",
+            "Course Title": "PSYC 220 \u2013 Introduction to Psychobiology",
+            "Class Days": "",
+            "Class": 70,
+            "CRN": 47305,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mullane, M",
+            "Course Title": "PSYC 225 \u2013 Theories of Personality",
+            "Class Days": "M",
+            "Class": 71,
+            "CRN": 48377,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Mullane, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 72,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Yoon, E",
+            "Course Title": "PSYC 225 \u2013 Theories of Personality",
+            "Class Days": "",
+            "Class": 73,
+            "CRN": 46858,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Yoon, E",
+            "Course Title": "PSYC 230 \u2013 Intro to Cross-Cultural Psych",
+            "Class Days": "T, Th",
+            "Class": 74,
+            "CRN": 48504,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Yoon, E",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 75,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Yoon, E",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 76,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Yoon, E",
+            "Course Title": "PSYC 230 \u2013 Intro to Cross-Cultural Psych",
+            "Class Days": "T, Th",
+            "Class": 77,
+            "CRN": 48505,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Yoon, E",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 78,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Yoon, E",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 79,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Branco, C",
+            "Course Title": "PSYC 230 \u2013 Intro to Cross-Cultural Psych",
+            "Class Days": "",
+            "Class": 80,
+            "CRN": 47306,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Merrill-Sinarle, J",
+            "Course Title": "PSYC 300 \u2013 Social Psychology",
+            "Class Days": "T, Th",
+            "Class": 81,
+            "CRN": 38083,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, A",
+            "Course Title": "PSYC 300 \u2013 Social Psychology",
+            "Class Days": "",
+            "Class": 82,
+            "CRN": 40204,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Firpo, C",
+            "Course Title": "PSYC 300 \u2013 Social Psychology",
+            "Class Days": "",
+            "Class": 83,
+            "CRN": 46658,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "McClain, K",
+            "Course Title": "PSYC 300 \u2013 Social Psychology",
+            "Class Days": "",
+            "Class": 84,
+            "CRN": 46981,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "McClain, K",
+            "Course Title": "PSYC 310 \u2013 Positive Psychology",
+            "Class Days": "",
+            "Class": 85,
+            "CRN": 45656,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Robins, S",
+            "Course Title": "PSYC 310 \u2013 Positive Psychology",
+            "Class Days": "",
+            "Class": 86,
+            "CRN": 47182,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Robins, S",
+            "Course Title": "PSYC 320 \u2013 Psyc Wellness:Mind-Body Connec",
+            "Class Days": "",
+            "Class": 87,
+            "CRN": 47183,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Warner, M",
+            "Course Title": "PSYC 330 \u2013 Sports Psychology",
+            "Class Days": "M, W, F",
+            "Class": 88,
+            "CRN": 46354,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Perisho, S",
+            "Course Title": "PSYC 330 \u2013 Intro to Sports Psychology",
+            "Class Days": "M, W",
+            "Class": 89,
+            "CRN": 48159,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Warner, M",
+            "Course Title": "PSYC 330 \u2013 Sports Psychology",
+            "Class Days": "T, Th",
+            "Class": 90,
+            "CRN": 47184,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Warner, M",
+            "Course Title": "PSYC 330 \u2013 Sports Psychology",
+            "Class Days": "",
+            "Class": 91,
+            "CRN": 48068,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "PSYC 340 \u2013 Intro. to Human Sexuality",
+            "Class Days": "W",
+            "Class": 92,
+            "CRN": 41386,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Staff,",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 93,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mullane, M",
+            "Course Title": "PSYC 410 \u2013 Abnormal Psychology",
+            "Class Days": "M",
+            "Class": 94,
+            "CRN": 32707,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Mullane, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 95,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Merrill-Sinarle, J",
+            "Course Title": "PSYC 410 \u2013 Abnormal Psychology",
+            "Class Days": "T, Th",
+            "Class": 96,
+            "CRN": 35866,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "PSYC 410 \u2013 Abnormal Psychology",
+            "Class Days": "T, Th",
+            "Class": 97,
+            "CRN": 44725,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Shih, C",
+            "Course Title": "PSYC 410 \u2013 Abnormal Psychology",
+            "Class Days": "",
+            "Class": 98,
+            "CRN": 42547,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mullane, M",
+            "Course Title": "PSYC 410 \u2013 Abnormal Psychology",
+            "Class Days": "",
+            "Class": 99,
+            "CRN": 43768,
+            "Units": 3
+        }
+    ],
+    "Radiologic Technology": [
+        {
+            "Status": "Open",
+            "Professor": "Rivera, R",
+            "Course Title": "RADT 415 \u2013 Radiation Protection & Biology",
+            "Class Days": "M, W, F",
+            "Class": 1,
+            "CRN": 31493,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Inman, L",
+            "Course Title": "RADT 420 \u2013 Radiographic Positioning II",
+            "Class Days": "M, W, F",
+            "Class": 2,
+            "CRN": 42740,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Inman, L",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 3,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Inman, L",
+            "Course Title": "RADT 420 \u2013 Radiographic Positioning II",
+            "Class Days": "M, W, F",
+            "Class": 4,
+            "CRN": 42741,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Inman, L",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 5,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Inman, L",
+            "Course Title": "RADT 428 \u2013 Clinical Education II",
+            "Class Days": "T, Th",
+            "Class": 6,
+            "CRN": 47590,
+            "Units": 6.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Rivera, R",
+            "Course Title": "RADT 430 \u2013 Princ/Rad Film Production",
+            "Class Days": "M, W",
+            "Class": 7,
+            "CRN": 31496,
+            "Units": 3.5
+        },
+        {
+            "Status": "",
+            "Professor": "Rivera, R",
+            "Course Title": "",
+            "Class Days": "F",
+            "Class": 8,
+            "CRN": 0,
+            "Units": 3.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Olaughlin, J",
+            "Course Title": "RADT 442 \u2013 Radiographic Pathology",
+            "Class Days": "",
+            "Class": 9,
+            "CRN": 33419,
+            "Units": 1.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Inman, L",
+            "Course Title": "RADT 448 \u2013 Clinical Education IV",
+            "Class Days": "M, W, F",
+            "Class": 10,
+            "CRN": 47591,
+            "Units": 9.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Rivera, R",
+            "Course Title": "RADT 450 \u2013 Registry Review",
+            "Class Days": "T",
+            "Class": 11,
+            "CRN": 38684,
+            "Units": 1.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Inman, L",
+            "Course Title": "RADT 470 \u2013 Specialized Tech: Mammography",
+            "Class Days": "T",
+            "Class": 12,
+            "CRN": 47511,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Inman, L",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 13,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Rivera, R",
+            "Course Title": "RADT 471 \u2013 Spec Techniques: Fluoroscopy",
+            "Class Days": "Th",
+            "Class": 14,
+            "CRN": 43563,
+            "Units": 2.5
+        },
+        {
+            "Status": "",
+            "Professor": "Rivera, R",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 15,
+            "CRN": 0,
+            "Units": 2.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Frojelin, S",
+            "Course Title": "RADT 474 \u2013 Venipuncture for C. M. Admin.",
+            "Class Days": "T",
+            "Class": 16,
+            "CRN": 43732,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Frojelin, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 17,
+            "CRN": 0,
+            "Units": 1
+        }
+    ],
+    "Social Science": [
+        {
+            "Status": "Open",
+            "Professor": "Schulze, W",
+            "Course Title": "SOSC 301 \u2013 Intro to Addiction Studies",
+            "Class Days": "T, Th",
+            "Class": 1,
+            "CRN": 38975,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Schulze, W",
+            "Course Title": "SOSC 301 \u2013 Intro to Addiction Studies",
+            "Class Days": "T",
+            "Class": 2,
+            "CRN": 44946,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Eiland, B",
+            "Course Title": "SOSC 302 \u2013 Pharm & Phys Effects of Alcoh",
+            "Class Days": "W",
+            "Class": 3,
+            "CRN": 43431,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Eiland, B",
+            "Course Title": "SOSC 308 \u2013 Group AOD Counseling Process",
+            "Class Days": "Th",
+            "Class": 4,
+            "CRN": 39423,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Devera, M",
+            "Course Title": "SOSC 316 \u2013 Field Studies/Seminar II",
+            "Class Days": "W",
+            "Class": 5,
+            "CRN": 33980,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Devera, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "SOSC 319 \u2013 Co-Occurring Disorders I:Recog",
+            "Class Days": "Th",
+            "Class": 7,
+            "CRN": 37349,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Staff,",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Devera, M",
+            "Course Title": "SOSC 333 \u2013 Laws&Ethics Addiction Studies",
+            "Class Days": "M",
+            "Class": 9,
+            "CRN": 46869,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Devera, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 10,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Marshall, J",
+            "Course Title": "SOSC 650 \u2013 Study Abroad Life & Culture, S",
+            "Class Days": "T, Th",
+            "Class": 11,
+            "CRN": 48305,
+            "Units": 3
+        }
+    ],
+    "Physics": [
+        {
+            "Status": "Open",
+            "Professor": "Polomski, E",
+            "Course Title": "PHYS 100 \u2013 Conceptual Physics",
+            "Class Days": "",
+            "Class": 1,
+            "CRN": 44790,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Kaur, G",
+            "Course Title": "PHYS 100 \u2013 Conceptual Physics",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 48391,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kaur, G",
+            "Course Title": "PHYS 100 \u2013 Conceptual Physics/PSP",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 48392,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Nath, K",
+            "Course Title": "PHYS 210 \u2013 General Physics I",
+            "Class Days": "T, Th",
+            "Class": 4,
+            "CRN": 40804,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Nath, K",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 5,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Nath, K",
+            "Course Title": "PHYS 210 \u2013 General Physics I",
+            "Class Days": "T, Th",
+            "Class": 6,
+            "CRN": 43410,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Nath, K",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 7,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Pevyhouse, A",
+            "Course Title": "PHYS 210 \u2013 General Physics I BCS",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 46081,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Wamba, K",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 9,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Pevyhouse, A",
+            "Course Title": "PHYS 210 \u2013 General Physics I",
+            "Class Days": "",
+            "Class": 10,
+            "CRN": 48096,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Wamba, K",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 11,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Pevyhouse, A",
+            "Course Title": "PHYS 210 \u2013 General Physics I/Umoja ASTEP",
+            "Class Days": "",
+            "Class": 12,
+            "CRN": 48514,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Wamba, K",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 13,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Yadak, P",
+            "Course Title": "PHYS 210 \u2013 General Physics I",
+            "Class Days": "",
+            "Class": 14,
+            "CRN": 42311,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Yadak, P",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 15,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Yadak, P",
+            "Course Title": "PHYS 210 \u2013 General Physics I BCS",
+            "Class Days": "",
+            "Class": 16,
+            "CRN": 48393,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Yadak, P",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 17,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Pevyhouse, A",
+            "Course Title": "PHYS 211 \u2013 General Physics I-Calculus Sup",
+            "Class Days": "",
+            "Class": 18,
+            "CRN": 41392,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Nath, K",
+            "Course Title": "PHYS 211 \u2013 General Physics I-Calculus Sup",
+            "Class Days": "",
+            "Class": 19,
+            "CRN": 44788,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Pevyhouse, A",
+            "Course Title": "PHYS 211 \u2013 Gen. Physics I - Calc. Sup/BCS",
+            "Class Days": "",
+            "Class": 20,
+            "CRN": 47322,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Jazaeri, A",
+            "Course Title": "PHYS 220 \u2013 General Physics II - BCS",
+            "Class Days": "",
+            "Class": 21,
+            "CRN": 40825,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Wamba, K",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 22,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Jazaeri, A",
+            "Course Title": "PHYS 220 \u2013 General Physics II",
+            "Class Days": "",
+            "Class": 23,
+            "CRN": 48107,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Wamba, K",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 24,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Moran, R",
+            "Course Title": "PHYS 220 \u2013 General Physics II",
+            "Class Days": "T, Th",
+            "Class": 25,
+            "CRN": 46018,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Moran, R",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 26,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Partlan, M",
+            "Course Title": "PHYS 220 \u2013 General Physics II",
+            "Class Days": "",
+            "Class": 27,
+            "CRN": 40932,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Partlan, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 28,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Partlan, M",
+            "Course Title": "PHYS 220 \u2013 General Physics II",
+            "Class Days": "",
+            "Class": 29,
+            "CRN": 43253,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Partlan, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 30,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Moran, R",
+            "Course Title": "PHYS 221 \u2013 Gen Physics II Calculus Sup",
+            "Class Days": "",
+            "Class": 31,
+            "CRN": 45258,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Locke, D",
+            "Course Title": "PHYS 250 \u2013 Physics with Calculus I",
+            "Class Days": "M, W",
+            "Class": 32,
+            "CRN": 32656,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Locke, D",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 33,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Locke, D",
+            "Course Title": "PHYS 250 \u2013 Physics with Calculus I",
+            "Class Days": "M, W",
+            "Class": 34,
+            "CRN": 37512,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Locke, D",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 35,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Elteto, A",
+            "Course Title": "PHYS 250 \u2013 Physics with Calculus I",
+            "Class Days": "T, Th",
+            "Class": 36,
+            "CRN": 44613,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Elteto, A",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 37,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Kaur, G",
+            "Course Title": "PHYS 250 \u2013 Physics with Calculus I ETS",
+            "Class Days": "",
+            "Class": 38,
+            "CRN": 46479,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Yadak, P",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 39,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Kaur, G",
+            "Course Title": "PHYS 250 \u2013 Physics with Calculus I",
+            "Class Days": "",
+            "Class": 40,
+            "CRN": 48109,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Yadak, P",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 41,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Kaur, G",
+            "Course Title": "PHYS 250 \u2013 Physics with Calculus I",
+            "Class Days": "",
+            "Class": 42,
+            "CRN": 36909,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Lopez-Thibodeaux, M",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 43,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kaur, G",
+            "Course Title": "PHYS 250 \u2013 Physics with Calculus I ETS",
+            "Class Days": "",
+            "Class": 44,
+            "CRN": 47668,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Lopez-Thibodeaux, M",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 45,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Wong, A",
+            "Course Title": "PHYS 250 \u2013 Physics with Calculus I",
+            "Class Days": "M, W",
+            "Class": 46,
+            "CRN": 43771,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Wong, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 47,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Wong, A",
+            "Course Title": "PHYS 250 \u2013 Physics with Calculus I",
+            "Class Days": "M, W",
+            "Class": 48,
+            "CRN": 45866,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Wong, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 49,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Elteto, A",
+            "Course Title": "PHYS 250 \u2013 Physics with Calculus I",
+            "Class Days": "T, Th",
+            "Class": 50,
+            "CRN": 47705,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Elteto, A",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 51,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Wamba, K",
+            "Course Title": "PHYS 260 \u2013 Physics with Calculus II/ETS",
+            "Class Days": "M, W, F",
+            "Class": 52,
+            "CRN": 46482,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Wamba, K",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 53,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Wamba, K",
+            "Course Title": "PHYS 260 \u2013 Physics with Calculus II",
+            "Class Days": "M, W, F",
+            "Class": 54,
+            "CRN": 48116,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Wamba, K",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 55,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Wong, A",
+            "Course Title": "PHYS 260 \u2013 Physics with Calculus II",
+            "Class Days": "T, Th",
+            "Class": 56,
+            "CRN": 32657,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Wong, A",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 57,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Wong, A",
+            "Course Title": "PHYS 260 \u2013 Physics with Calculus II",
+            "Class Days": "T, Th",
+            "Class": 58,
+            "CRN": 44554,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Wong, A",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 59,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Wamba, K",
+            "Course Title": "PHYS 260 \u2013 Physics with Calculus II/ETS",
+            "Class Days": "M, W, F",
+            "Class": 60,
+            "CRN": 42237,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Wamba, K",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 61,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Wamba, K",
+            "Course Title": "PHYS 260 \u2013 Physics with Calculus II",
+            "Class Days": "M, W, F",
+            "Class": 62,
+            "CRN": 48118,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Wamba, K",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 63,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Partlan, M",
+            "Course Title": "PHYS 260 \u2013 Physics with Calculus II",
+            "Class Days": "",
+            "Class": 64,
+            "CRN": 41477,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Partlan, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 65,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hein, E",
+            "Course Title": "PHYS 270 \u2013 Physics with Calculus III/ETS",
+            "Class Days": "",
+            "Class": 66,
+            "CRN": 47331,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Wehrfritz, M",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 67,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Wehrfritz, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 68,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Locke, D",
+            "Course Title": "PHYS 270 \u2013 Physics with Calculus III",
+            "Class Days": "M, W",
+            "Class": 69,
+            "CRN": 34041,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Locke, D",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 70,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hein, E",
+            "Course Title": "PHYS 270 \u2013 Physics with Calculus III",
+            "Class Days": "",
+            "Class": 71,
+            "CRN": 47330,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Wehrfritz, M",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 72,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Wehrfritz, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 73,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hein, E",
+            "Course Title": "PHYS 270 \u2013 Physics with Calculus III/ETS",
+            "Class Days": "",
+            "Class": 74,
+            "CRN": 47716,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Wehrfritz, M",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 75,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Wehrfritz, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 76,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Locke, D",
+            "Course Title": "PHYS 270 \u2013 Physics with Calculus III",
+            "Class Days": "M, W",
+            "Class": 77,
+            "CRN": 46019,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Locke, D",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 78,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hein, E",
+            "Course Title": "PHYS 270 \u2013 Physics with Calculus III",
+            "Class Days": "",
+            "Class": 79,
+            "CRN": 47329,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Wehrfritz, M",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 80,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Wehrfritz, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 81,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hein, E",
+            "Course Title": "PHYS 270 \u2013 Physics with Calculus III/PSP",
+            "Class Days": "",
+            "Class": 82,
+            "CRN": 48418,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Wehrfritz, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 83,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Wehrfritz, M",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 84,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Partlan, M",
+            "Course Title": "PHYS 270 \u2013 Physics with Calculus III",
+            "Class Days": "",
+            "Class": 85,
+            "CRN": 47707,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Partlan, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 86,
+            "CRN": 0,
+            "Units": 4
+        }
+    ],
+    "Respiratory Therapy": [
+        {
+            "Status": "Open",
+            "Professor": "Daniel, B",
+            "Course Title": "RPTH 430 \u2013 Respiratory Therapeutics",
+            "Class Days": "M, W",
+            "Class": 1,
+            "CRN": 30736,
+            "Units": 6
+        },
+        {
+            "Status": "",
+            "Professor": "Daniel, B",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 6
+        },
+        {
+            "Status": "Open",
+            "Professor": "Daniel, B",
+            "Course Title": "RPTH 438 \u2013 Clinical Clerkship I",
+            "Class Days": "F",
+            "Class": 3,
+            "CRN": 30738,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "RPTH 445 \u2013 Respiratory Diseases I",
+            "Class Days": "T",
+            "Class": 4,
+            "CRN": 30739,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Daniel, B",
+            "Course Title": "RPTH 475 \u2013 Hemodynamic Monitoring",
+            "Class Days": "Th",
+            "Class": 5,
+            "CRN": 30740,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Alamillo, D",
+            "Course Title": "RPTH 480 \u2013 Diagnostic Testing/Outpatient",
+            "Class Days": "F",
+            "Class": 6,
+            "CRN": 40733,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mak, G",
+            "Course Title": "RPTH 485 \u2013 Clinical Medicine Seminar",
+            "Class Days": "F",
+            "Class": 7,
+            "CRN": 30741,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Daniel, B",
+            "Course Title": "RPTH 488 \u2013 Clinical Clerkship IV",
+            "Class Days": "M, T",
+            "Class": 8,
+            "CRN": 30742,
+            "Units": 7.5
+        },
+        {
+            "Status": "",
+            "Professor": "Daniel, B",
+            "Course Title": "",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 9,
+            "CRN": 0,
+            "Units": 7.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "RPTH 495 \u2013 Resp Care Brd Exam Prep & Revw",
+            "Class Days": "Th",
+            "Class": 10,
+            "CRN": 36845,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Trotter, K",
+            "Course Title": "RPTH B15 \u2013 Sleep Medicine & Resp Care",
+            "Class Days": "",
+            "Class": 11,
+            "CRN": 47743,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Sabato, M",
+            "Course Title": "RPTH B50 \u2013 RPTH Care Leadership/Mgmt I",
+            "Class Days": "",
+            "Class": 12,
+            "CRN": 46430,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "RPTH B52 \u2013 RPTH Leadership/Management II",
+            "Class Days": "",
+            "Class": 13,
+            "CRN": 46432,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "RPTH B90 \u2013 Respiratory Care Capstone Proj",
+            "Class Days": "Th",
+            "Class": 14,
+            "CRN": 46817,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Staff,",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 15,
+            "CRN": 0,
+            "Units": 4
+        }
+    ],
+    "Political Science": [
+        {
+            "Status": "Open",
+            "Professor": "Armitage, L",
+            "Course Title": "PLSC 100 \u2013 Intro Political Science",
+            "Class Days": "",
+            "Class": 1,
+            "CRN": 42859,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Armitage, L",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Noonan, R",
+            "Course Title": "PLSC 103 \u2013 Critical Think/World Politics",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 45944,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Noonan, R",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Noori, A",
+            "Course Title": "PLSC 110 \u2013 Intro Comp Gov and Politics",
+            "Class Days": "W",
+            "Class": 5,
+            "CRN": 48115,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Noori, A",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 6,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Noori, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Noori, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Armitage, L",
+            "Course Title": "PLSC 130 \u2013 Intro International Relations",
+            "Class Days": "Th",
+            "Class": 9,
+            "CRN": 34259,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Armitage, L",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 10,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Armitage, L",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 11,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Armitage, L",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 12,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Noonan, R",
+            "Course Title": "PLSC 130 \u2013 Intro International Relations",
+            "Class Days": "",
+            "Class": 13,
+            "CRN": 46761,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Noonan, R",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 14,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Miller, L",
+            "Course Title": "PLSC 150 \u2013 Intro:Political Theory&Thought",
+            "Class Days": "",
+            "Class": 15,
+            "CRN": 46365,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Miller, L",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 16,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Miller, L",
+            "Course Title": "PLSC 200 \u2013 National, State & Local Govt",
+            "Class Days": "M",
+            "Class": 17,
+            "CRN": 46368,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Miller, L",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 18,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Miller, L",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 19,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Miller, L",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 20,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Raskin, J",
+            "Course Title": "PLSC 200 \u2013 National, State & Local Govt",
+            "Class Days": "T, Th",
+            "Class": 21,
+            "CRN": 37636,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Raskin, J",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 22,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Nelson, K",
+            "Course Title": "PLSC 200 \u2013 National, State & Local Govt",
+            "Class Days": "",
+            "Class": 23,
+            "CRN": 44385,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Nelson, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 24,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Miller, L",
+            "Course Title": "PLSC 200 \u2013 National, State & Local Govt",
+            "Class Days": "",
+            "Class": 25,
+            "CRN": 45952,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Miller, L",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 26,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Miller, L",
+            "Course Title": "PLSC 200 \u2013 National, State & Local Govt",
+            "Class Days": "",
+            "Class": 27,
+            "CRN": 47608,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Miller, L",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 28,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Diamond, J",
+            "Course Title": "PLSC 210 \u2013 American Politics",
+            "Class Days": "M, W",
+            "Class": 29,
+            "CRN": 40953,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Diamond, J",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 30,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "PLSC 210 \u2013 American Politics",
+            "Class Days": "M, W",
+            "Class": 31,
+            "CRN": 39626,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Staff,",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 32,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Armitage, L",
+            "Course Title": "PLSC 210 \u2013 American Politics",
+            "Class Days": "T",
+            "Class": 33,
+            "CRN": 32661,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Armitage, L",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 34,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Armitage, L",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 35,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Armitage, L",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 36,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Noori, A",
+            "Course Title": "PLSC 210 \u2013 American Politics",
+            "Class Days": "W",
+            "Class": 37,
+            "CRN": 48375,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Noori, A",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 38,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Noori, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 39,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Noori, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 40,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Noonan, R",
+            "Course Title": "PLSC 210 \u2013 American Politics",
+            "Class Days": "",
+            "Class": 41,
+            "CRN": 34627,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Noonan, R",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 42,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Miller, L",
+            "Course Title": "PLSC 210 \u2013 American Politics",
+            "Class Days": "",
+            "Class": 43,
+            "CRN": 37815,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Miller, L",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 44,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Noonan, R",
+            "Course Title": "PLSC 210 \u2013 American Politics",
+            "Class Days": "",
+            "Class": 45,
+            "CRN": 46422,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Noonan, R",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 46,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mojtahedi, Z",
+            "Course Title": "PLSC 210 \u2013 American Politics",
+            "Class Days": "",
+            "Class": 47,
+            "CRN": 47804,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Mojtahedi, Z",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 48,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Raskin, J",
+            "Course Title": "PLSC 280 \u2013 Intro to Political Philosophy",
+            "Class Days": "",
+            "Class": 49,
+            "CRN": 47745,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Raskin, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 50,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "PLSC 310 \u2013 Calif State & Local Govt",
+            "Class Days": "M, W",
+            "Class": 51,
+            "CRN": 48323,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Staff,",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 52,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Ware, L",
+            "Course Title": "PLSC 310 \u2013 Calif State & Local Govt",
+            "Class Days": "T, Th",
+            "Class": 53,
+            "CRN": 39316,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Ware, L",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 54,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Ware, L",
+            "Course Title": "PLSC 310 \u2013 Calif State & Local Govt",
+            "Class Days": "T, Th",
+            "Class": 55,
+            "CRN": 47800,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Ware, L",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 56,
+            "CRN": 0,
+            "Units": 3
+        }
+    ]
+}

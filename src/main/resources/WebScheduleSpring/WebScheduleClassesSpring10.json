@@ -1,0 +1,937 @@
+{
+    "Wellness": [
+        {
+            "Status": "Open",
+            "Professor": "Wimmer, R",
+            "Course Title": "WELL 709 \u2013 Aromatherapy: Principles & App",
+            "Class Days": "",
+            "Class": 1,
+            "CRN": 48113,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Wimmer, R",
+            "Course Title": "WELL 711 \u2013 Sports Med & Manual Therapy",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 46475,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Egan, C",
+            "Course Title": "WELL 718 \u2013 Stress Management Techniques",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 46521,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Wimmer, R",
+            "Course Title": "WELL 720 \u2013 Energy Medicine: Foundation &",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 48114,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Wimmer, R",
+            "Course Title": "WELL 722 \u2013 Integrative Therapy-Sports Med",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 48119,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Wimmer, R",
+            "Course Title": "WELL 730 \u2013 Glbl Perspectives - Meditation",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 45301,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Wimmer, R",
+            "Course Title": "WELL 740 \u2013 Conscious Eating",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 45300,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Egan, C",
+            "Course Title": "WELL 760 \u2013 Intro to Holistice Health/Med",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 43480,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Egan, C",
+            "Course Title": "WELL 765 \u2013 Everyday Uses of Herbs",
+            "Class Days": "",
+            "Class": 9,
+            "CRN": 46873,
+            "Units": 3
+        }
+    ],
+    "Surgical Technology": [
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "SURG 442 \u2013 Surgical Specialties",
+            "Class Days": "F",
+            "Class": 1,
+            "CRN": 38786,
+            "Units": 6
+        },
+        {
+            "Status": "Open",
+            "Professor": "Deal, F",
+            "Course Title": "SURG 443 \u2013 Clinical Practice for SURG",
+            "Class Days": "M, T, W",
+            "Class": 2,
+            "CRN": 38787,
+            "Units": 10
+        },
+        {
+            "Status": "",
+            "Professor": "Deal, F",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 3,
+            "CRN": 0,
+            "Units": 10
+        },
+        {
+            "Status": "Open",
+            "Professor": "Shea, B",
+            "Course Title": "SURG 445 \u2013 Intro to Central Service Tech",
+            "Class Days": "M",
+            "Class": 4,
+            "CRN": 41397,
+            "Units": 6.5
+        },
+        {
+            "Status": "",
+            "Professor": "Shea, B",
+            "Course Title": "",
+            "Class Days": "T, W",
+            "Class": 5,
+            "CRN": 0,
+            "Units": 6.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Deal, F",
+            "Course Title": "SURG 455 \u2013 CST Exam Preparation",
+            "Class Days": "F",
+            "Class": 6,
+            "CRN": 46061,
+            "Units": 0.5
+        }
+    ],
+    "Spanish": [
+        {
+            "Status": "Open",
+            "Professor": "Nixon, C",
+            "Course Title": "SPAN 110 \u2013 Elementary Spanish",
+            "Class Days": "M, W",
+            "Class": 1,
+            "CRN": 32793,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Nixon, C",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Nixon, C",
+            "Course Title": "SPAN 110 \u2013 Elementary Spanish",
+            "Class Days": "T, Th",
+            "Class": 3,
+            "CRN": 45233,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Nixon, C",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 4,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Abedrabbo, A",
+            "Course Title": "SPAN 110 \u2013 Elementary Spanish",
+            "Class Days": "F",
+            "Class": 5,
+            "CRN": 46241,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Abedrabbo, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Gazulla Garanto, J",
+            "Course Title": "SPAN 110 \u2013 Elementary Spanish",
+            "Class Days": "M, W",
+            "Class": 7,
+            "CRN": 47675,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mpandenyama, A",
+            "Course Title": "SPAN 110 \u2013 Elementary Spanish",
+            "Class Days": "Th",
+            "Class": 8,
+            "CRN": 47627,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Mpandenyama, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 9,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Guerrero-Betteo, G",
+            "Course Title": "SPAN 110 \u2013 Elementary Spanish",
+            "Class Days": "Th",
+            "Class": 10,
+            "CRN": 46242,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Guerrero-Betteo, G",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 11,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Castro, L",
+            "Course Title": "SPAN 110 \u2013 Elementary Spanish",
+            "Class Days": "",
+            "Class": 12,
+            "CRN": 48071,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Guerrero-Betteo, G",
+            "Course Title": "SPAN 111 \u2013 Elementary Spanish I",
+            "Class Days": "Th",
+            "Class": 13,
+            "CRN": 41319,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Guerrero-Betteo, G",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 14,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Abedrabbo, A",
+            "Course Title": "SPAN 112 \u2013 Elementary Spanish II",
+            "Class Days": "F",
+            "Class": 15,
+            "CRN": 40350,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Abedrabbo, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 16,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Nixon, C",
+            "Course Title": "SPAN 120 \u2013 Advanced Elementary Spanish",
+            "Class Days": "M, W",
+            "Class": 17,
+            "CRN": 41473,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Nixon, C",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 18,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Castro, L",
+            "Course Title": "SPAN 120 \u2013 Advanced Elementary Spanish",
+            "Class Days": "M, W, F",
+            "Class": 19,
+            "CRN": 47676,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Castro, L",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 20,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Guerrero-Betteo, G",
+            "Course Title": "SPAN 120 \u2013 Advanced Elementary Spanish",
+            "Class Days": "W",
+            "Class": 21,
+            "CRN": 38929,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Guerrero-Betteo, G",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 22,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Castro, L",
+            "Course Title": "SPAN 120 \u2013 Advanced Elementary Spanish",
+            "Class Days": "",
+            "Class": 23,
+            "CRN": 48444,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Castro, L",
+            "Course Title": "SPAN 120 \u2013 Advanced Elementary Spanish",
+            "Class Days": "M, W, F",
+            "Class": 24,
+            "CRN": 48187,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Castro, L",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 25,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mpandenyama, A",
+            "Course Title": "SPAN 120 \u2013 Advanced Elementary Spanish",
+            "Class Days": "T",
+            "Class": 26,
+            "CRN": 32801,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Mpandenyama, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 27,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Guerrero-Betteo, G",
+            "Course Title": "SPAN 122 \u2013 Advanced Elementary Spanish II",
+            "Class Days": "W",
+            "Class": 28,
+            "CRN": 41312,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Guerrero-Betteo, G",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 29,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Castro, L",
+            "Course Title": "SPAN 130 \u2013 Intermediate Spanish",
+            "Class Days": "W",
+            "Class": 30,
+            "CRN": 47678,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Castro, L",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 31,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Harmon, S",
+            "Course Title": "SPAN 131 \u2013 Intermediate Spanish I",
+            "Class Days": "T",
+            "Class": 32,
+            "CRN": 42652,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Harmon, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 33,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Harmon, S",
+            "Course Title": "SPAN 131 \u2013 Intermediate Spanish I",
+            "Class Days": "T",
+            "Class": 34,
+            "CRN": 47862,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Harmon, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 35,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Harmon, S",
+            "Course Title": "SPAN 132 \u2013 Intermediate Spanish II",
+            "Class Days": "T",
+            "Class": 36,
+            "CRN": 42653,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Harmon, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 37,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Harmon, S",
+            "Course Title": "SPAN 132 \u2013 Intermediate Spanish II",
+            "Class Days": "T",
+            "Class": 38,
+            "CRN": 47863,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Harmon, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 39,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Harmon, S",
+            "Course Title": "SPAN 140 \u2013 Advanced Intermediate Spanish",
+            "Class Days": "T",
+            "Class": 40,
+            "CRN": 42654,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Harmon, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 41,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Harmon, S",
+            "Course Title": "SPAN 140 \u2013 Advanced Intermediate Spanish",
+            "Class Days": "T",
+            "Class": 42,
+            "CRN": 47864,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Harmon, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 43,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Castro, L",
+            "Course Title": "SPAN 140 \u2013 Advanced Intermediate Spanish",
+            "Class Days": "",
+            "Class": 44,
+            "CRN": 47364,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Abedrabbo, A",
+            "Course Title": "SPAN 150 \u2013 Spanish fr Heritage Speakers I",
+            "Class Days": "W",
+            "Class": 45,
+            "CRN": 40686,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Abedrabbo, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 46,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Abedrabbo, A",
+            "Course Title": "SPAN 152 \u2013 Spanish fr Heritage Speaker II",
+            "Class Days": "W",
+            "Class": 47,
+            "CRN": 41314,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Abedrabbo, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 48,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Aguirre, A",
+            "Course Title": "SPAN 162 \u2013 Latino Literature II",
+            "Class Days": "T, Th",
+            "Class": 49,
+            "CRN": 45951,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Aguirre, A",
+            "Course Title": "SPAN 162 \u2013 Latino Literature II-Honors",
+            "Class Days": "T, Th",
+            "Class": 50,
+            "CRN": 47882,
+            "Units": 3
+        }
+    ],
+    "Sociology": [
+        {
+            "Status": "Open",
+            "Professor": "Mathur, M",
+            "Course Title": "SOCI 100 \u2013 Introduction to Sociology",
+            "Class Days": "M",
+            "Class": 1,
+            "CRN": 32769,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Mathur, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mathur, M",
+            "Course Title": "SOCI 100 \u2013 Introduction to Sociology",
+            "Class Days": "M",
+            "Class": 3,
+            "CRN": 32766,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Mathur, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lee, R",
+            "Course Title": "SOCI 100 \u2013 Introduction to Sociology",
+            "Class Days": "M, W",
+            "Class": 5,
+            "CRN": 44726,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lee, R",
+            "Course Title": "SOCI 100 \u2013 Intro to Sociology-Honors",
+            "Class Days": "M, W",
+            "Class": 6,
+            "CRN": 45130,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mathur, M",
+            "Course Title": "SOCI 100 \u2013 Introduction to Sociology",
+            "Class Days": "T",
+            "Class": 7,
+            "CRN": 32767,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Mathur, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lee, R",
+            "Course Title": "SOCI 100 \u2013 Introduction to Sociology",
+            "Class Days": "T, Th",
+            "Class": 9,
+            "CRN": 46774,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Fabian, R",
+            "Course Title": "SOCI 100 \u2013 Introduction to Sociology",
+            "Class Days": "T, Th",
+            "Class": 10,
+            "CRN": 45651,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mathur, M",
+            "Course Title": "SOCI 100 \u2013 Introduction to Sociology",
+            "Class Days": "",
+            "Class": 11,
+            "CRN": 32768,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "DeHaan, T",
+            "Course Title": "SOCI 100 \u2013 Introduction to Sociology",
+            "Class Days": "",
+            "Class": 12,
+            "CRN": 38896,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mathur, M",
+            "Course Title": "SOCI 100 \u2013 Introduction to Sociology",
+            "Class Days": "",
+            "Class": 13,
+            "CRN": 40230,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "SOCI 100 \u2013 Introduction to Sociology",
+            "Class Days": "",
+            "Class": 14,
+            "CRN": 43155,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mathur, M",
+            "Course Title": "SOCI 100 \u2013 Introduction to Sociology",
+            "Class Days": "",
+            "Class": 15,
+            "CRN": 45454,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Murajda, T",
+            "Course Title": "SOCI 100 \u2013 Introduction to Sociology",
+            "Class Days": "",
+            "Class": 16,
+            "CRN": 45661,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Alvarado-Strasser, E",
+            "Course Title": "SOCI 100 \u2013 Introduction to Sociology",
+            "Class Days": "",
+            "Class": 17,
+            "CRN": 45775,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "DeHaan, J",
+            "Course Title": "SOCI 100 \u2013 Introduction to Sociology",
+            "Class Days": "",
+            "Class": 18,
+            "CRN": 46726,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "DeHaan, J",
+            "Course Title": "SOCI 100 \u2013 Introduction to Sociology",
+            "Class Days": "",
+            "Class": 19,
+            "CRN": 47307,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lee, R",
+            "Course Title": "SOCI 105 \u2013 Social Problems",
+            "Class Days": "T, Th",
+            "Class": 20,
+            "CRN": 39737,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Womack, M",
+            "Course Title": "SOCI 105 \u2013 Social Problems",
+            "Class Days": "",
+            "Class": 21,
+            "CRN": 45776,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "DeHaan, T",
+            "Course Title": "SOCI 105 \u2013 Social Problems",
+            "Class Days": "",
+            "Class": 22,
+            "CRN": 46744,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "DeHaan, T",
+            "Course Title": "SOCI 105 \u2013 Social Problems",
+            "Class Days": "",
+            "Class": 23,
+            "CRN": 46745,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Lynn, W",
+            "Course Title": "SOCI 110 \u2013 Courtship/Marriage/Family",
+            "Class Days": "",
+            "Class": 24,
+            "CRN": 42546,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mathur, M",
+            "Course Title": "SOCI 121 \u2013 Intro to Research Methods",
+            "Class Days": "T",
+            "Class": 25,
+            "CRN": 43460,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Mathur, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 26,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "DeHaan, J",
+            "Course Title": "SOCI 129 \u2013 Intro to Research Methods",
+            "Class Days": "",
+            "Class": 27,
+            "CRN": 48131,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lee, R",
+            "Course Title": "SOCI 141 \u2013 Ethnicity/Race in Society",
+            "Class Days": "M, W",
+            "Class": 28,
+            "CRN": 31514,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Fabian, R",
+            "Course Title": "SOCI 141 \u2013 Race and Ethnicity",
+            "Class Days": "M, W",
+            "Class": 29,
+            "CRN": 47787,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mathur, M",
+            "Course Title": "SOCI 141 \u2013 Race and Ethnic Relations",
+            "Class Days": "",
+            "Class": 30,
+            "CRN": 45774,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Murajda, T",
+            "Course Title": "SOCI 141 \u2013 Race and Ethnicity",
+            "Class Days": "",
+            "Class": 31,
+            "CRN": 48100,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Fabian, R",
+            "Course Title": "SOCI 160 \u2013 Sociology of Sex and Gender",
+            "Class Days": "T, Th",
+            "Class": 32,
+            "CRN": 46496,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lee, R",
+            "Course Title": "SOCI 205 \u2013 Soc. Science Research Methods",
+            "Class Days": "M, W",
+            "Class": 33,
+            "CRN": 42572,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Smith, A",
+            "Course Title": "SOCI 205 \u2013 Soc. Science Research Methods",
+            "Class Days": "Th",
+            "Class": 34,
+            "CRN": 42571,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Smith, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 35,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Murajda, T",
+            "Course Title": "SOCI B10 \u2013 Intersectionality&Citizenship",
+            "Class Days": "",
+            "Class": 36,
+            "CRN": 47400,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Murajda, T",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 37,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Murajda, T",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 38,
+            "CRN": 0,
+            "Units": 3
+        }
+    ]
+}

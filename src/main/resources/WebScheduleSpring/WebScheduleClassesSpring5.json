@@ -1,0 +1,1845 @@
+{
+    "English Second Language": [
+        {
+            "Status": "Open",
+            "Professor": "Westfold, E",
+            "Course Title": "ESL 400 \u2013 Adv Engl Multilingual Students",
+            "Class Days": "M, W",
+            "Class": 1,
+            "CRN": 42441,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Westfold, E",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kaiser, E",
+            "Course Title": "ESL 400 \u2013 Adv Engl Multilingual Students",
+            "Class Days": "M, W",
+            "Class": 3,
+            "CRN": 42341,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Sidman-Taveau, R",
+            "Course Title": "ESL 400 \u2013 Comp.for Multilingual Students",
+            "Class Days": "T, Th",
+            "Class": 4,
+            "CRN": 47414,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Schuler, E",
+            "Course Title": "ESL 400 \u2013 Adv Engl Multilingual Students",
+            "Class Days": "T, Th",
+            "Class": 5,
+            "CRN": 41075,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Pelletier, D",
+            "Course Title": "ESL 400 \u2013 Comp.for Multilingual Students",
+            "Class Days": "W",
+            "Class": 6,
+            "CRN": 46766,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Pelletier, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "ESL 400 \u2013 Comp. For Non-Native Speakers",
+            "Class Days": "M, W",
+            "Class": 8,
+            "CRN": 44962,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "ESL 400 \u2013 Comp.for Multilingual Students",
+            "Class Days": "M, W",
+            "Class": 9,
+            "CRN": 46765,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Abbas, M",
+            "Course Title": "ESL 400 \u2013 Adv Engl Multilingual Students",
+            "Class Days": "M, W",
+            "Class": 10,
+            "CRN": 32197,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Bunse, G",
+            "Course Title": "ESL 800 \u2013 ESL Preparatory Course",
+            "Class Days": "M, W",
+            "Class": 11,
+            "CRN": 43623,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "ESL 800 \u2013 ESL Preparatory Course",
+            "Class Days": "T, Th",
+            "Class": 12,
+            "CRN": 42254,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hwang, S",
+            "Course Title": "ESL 826 \u2013 Writing for Multilingual II",
+            "Class Days": "M, W, F",
+            "Class": 13,
+            "CRN": 43730,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Murphy, T",
+            "Course Title": "ESL 826 \u2013 Writing for Multilingual II",
+            "Class Days": "M, W, F",
+            "Class": 14,
+            "CRN": 42442,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Ridgway, K",
+            "Course Title": "ESL 827 \u2013 Writing Multilingual Stud III",
+            "Class Days": "M, W, F",
+            "Class": 15,
+            "CRN": 32238,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Ridgway, K",
+            "Course Title": "ESL 827 \u2013 Writing Multilingual Stud III",
+            "Class Days": "M, W, F",
+            "Class": 16,
+            "CRN": 32239,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Walsh, M",
+            "Course Title": "ESL 827 \u2013 Writing Multilingual Stud III",
+            "Class Days": "M, W",
+            "Class": 17,
+            "CRN": 32242,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Murphy, T",
+            "Course Title": "ESL 828 \u2013 Writing for Multilingual IV",
+            "Class Days": "M, W, F",
+            "Class": 18,
+            "CRN": 45573,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lim, S",
+            "Course Title": "ESL 828 \u2013 Writing for Multilingual IV",
+            "Class Days": "M, W",
+            "Class": 19,
+            "CRN": 42445,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kurland, E",
+            "Course Title": "ESL 828 \u2013 Writing for Multilingual IV",
+            "Class Days": "T, Th",
+            "Class": 20,
+            "CRN": 32245,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Kurland, E",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 21,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "ESL 828 \u2013 Writing for Multilingual IV",
+            "Class Days": "M, W",
+            "Class": 22,
+            "CRN": 32243,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "ESL 828 \u2013 Writing for Multilingual IV",
+            "Class Days": "M, W, F",
+            "Class": 23,
+            "CRN": 43507,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Pacheco Matus, G",
+            "Course Title": "ESL 837 \u2013 Intmdt. Vocabulary Development",
+            "Class Days": "T, Th",
+            "Class": 24,
+            "CRN": 41996,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Pacheco Matus, G",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 25,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Westfold, E",
+            "Course Title": "ESL 846 \u2013 Listening and Speaking II",
+            "Class Days": "M, W, F",
+            "Class": 26,
+            "CRN": 41301,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kaiser, E",
+            "Course Title": "ESL 847 \u2013 Listening and Speaking III",
+            "Class Days": "T, Th",
+            "Class": 27,
+            "CRN": 42447,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Gable, E",
+            "Course Title": "ESL 847 \u2013 Listening and Speaking III",
+            "Class Days": "T",
+            "Class": 28,
+            "CRN": 32835,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hwang, S",
+            "Course Title": "ESL 848 \u2013 Listening and Speaking IV",
+            "Class Days": "M, W, F",
+            "Class": 29,
+            "CRN": 38184,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Schuler, E",
+            "Course Title": "ESL 848 \u2013 Listening and Speaking IV",
+            "Class Days": "T, Th",
+            "Class": 30,
+            "CRN": 44768,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Walsh, M",
+            "Course Title": "ESL 848 \u2013 Listening and Speaking IV",
+            "Class Days": "T",
+            "Class": 31,
+            "CRN": 42893,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Westfold, E",
+            "Course Title": "ESL 849 \u2013 Listening & Speaking Workshop",
+            "Class Days": "",
+            "Class": 32,
+            "CRN": 47833,
+            "Units": 0.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lim, S",
+            "Course Title": "ESL 856 \u2013 Reading for Multilingual II",
+            "Class Days": "T, Th",
+            "Class": 33,
+            "CRN": 32756,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Gable, E",
+            "Course Title": "ESL 856 \u2013 Reading for Multilingual II",
+            "Class Days": "Th",
+            "Class": 34,
+            "CRN": 32758,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kurland, E",
+            "Course Title": "ESL 857 \u2013 Reading Multilingual StudtsIII",
+            "Class Days": "T, Th",
+            "Class": 35,
+            "CRN": 32760,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hwang, S",
+            "Course Title": "ESL 858 \u2013 Reading for Multilingual IV",
+            "Class Days": "M, W",
+            "Class": 36,
+            "CRN": 47000,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kaiser, E",
+            "Course Title": "ESL 887 \u2013 Pronunc Engl Consonants/Vowels",
+            "Class Days": "T, Th",
+            "Class": 37,
+            "CRN": 46789,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Bianchi-Mcelwee, S",
+            "Course Title": "ESL 888 \u2013 Pronunc Engl Stress/Rhythm/Int",
+            "Class Days": "T",
+            "Class": 38,
+            "CRN": 46261,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Westfold, E",
+            "Course Title": "ESL 895 \u2013 Reading Improvmnt-Multilingual",
+            "Class Days": "",
+            "Class": 39,
+            "CRN": 47834,
+            "Units": 0.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Westfold, E",
+            "Course Title": "ESL 897 \u2013 Int Vocabulary - Multilingual",
+            "Class Days": "",
+            "Class": 40,
+            "CRN": 47835,
+            "Units": 51
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kurland, E",
+            "Course Title": "ESL 898 \u2013 Comp Grammar Rev-Multilingual",
+            "Class Days": "",
+            "Class": 41,
+            "CRN": 48357,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Westfold, E",
+            "Course Title": "ESL 907 \u2013 Independent Writng Study-Inter",
+            "Class Days": "",
+            "Class": 42,
+            "CRN": 47836,
+            "Units": 51
+        },
+        {
+            "Status": "Open",
+            "Professor": "Westfold, E",
+            "Course Title": "ESL 908 \u2013 Independent Writing Study-Advn",
+            "Class Days": "",
+            "Class": 43,
+            "CRN": 47837,
+            "Units": 51
+        },
+        {
+            "Status": "Open",
+            "Professor": "Castello, A",
+            "Course Title": "ESL 911 \u2013 Reading & Listening/Speaking I",
+            "Class Days": "M, W",
+            "Class": 44,
+            "CRN": 43301,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Pacheco Matus, G",
+            "Course Title": "ESL 912 \u2013 Reading & Listening-Speakng II",
+            "Class Days": "M, W",
+            "Class": 45,
+            "CRN": 48400,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Carey, J",
+            "Course Title": "ESL 912 \u2013 Reading & Listening-Speakng II",
+            "Class Days": "T, Th",
+            "Class": 46,
+            "CRN": 42830,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Pelletier, D",
+            "Course Title": "ESL 912 \u2013 Reading & Listening-Speakng II",
+            "Class Days": "T",
+            "Class": 47,
+            "CRN": 42831,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Pelletier, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 48,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Schertle, K",
+            "Course Title": "ESL 913 \u2013 Reading & Listening-Speakg III",
+            "Class Days": "Th",
+            "Class": 49,
+            "CRN": 42832,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Schertle, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 50,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Pacheco Matus, G",
+            "Course Title": "ESL 913 \u2013 Reading & Listening-Speakg III",
+            "Class Days": "T, Th",
+            "Class": 51,
+            "CRN": 42833,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Aguirre, A",
+            "Course Title": "ESL 914 \u2013 Reading & Listening-Speakin IV",
+            "Class Days": "T, Th",
+            "Class": 52,
+            "CRN": 42834,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Sidman-Taveau, R",
+            "Course Title": "ESL 914 \u2013 Reading & Listening-Speakin IV",
+            "Class Days": "T, Th",
+            "Class": 53,
+            "CRN": 42836,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Haven, K",
+            "Course Title": "ESL 921 \u2013 Grammar and Writing I",
+            "Class Days": "M, W, F",
+            "Class": 54,
+            "CRN": 42838,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Scarabelli, S",
+            "Course Title": "ESL 921 \u2013 Grammar and Writing I",
+            "Class Days": "T, Th",
+            "Class": 55,
+            "CRN": 42837,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Castello, A",
+            "Course Title": "ESL 922 \u2013 Grammar and Writing II",
+            "Class Days": "T, Th",
+            "Class": 56,
+            "CRN": 45023,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Schertle, K",
+            "Course Title": "ESL 922 \u2013 Grammar and Writing II",
+            "Class Days": "W",
+            "Class": 57,
+            "CRN": 42839,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Schertle, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 58,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Schertle, K",
+            "Course Title": "ESL 922 \u2013 Grammar and Writing II",
+            "Class Days": "W",
+            "Class": 59,
+            "CRN": 42840,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Schertle, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 60,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Pacheco Matus, G",
+            "Course Title": "ESL 923 \u2013 Grammar and Writing III",
+            "Class Days": "M, W",
+            "Class": 61,
+            "CRN": 42841,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Tufail, S",
+            "Course Title": "ESL 923 \u2013 Grammar and Writing III",
+            "Class Days": "T, Th",
+            "Class": 62,
+            "CRN": 45451,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Pelletier, D",
+            "Course Title": "ESL 923 \u2013 Grammar and Writing III",
+            "Class Days": "W",
+            "Class": 63,
+            "CRN": 42842,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Pelletier, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 64,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Carey, J",
+            "Course Title": "ESL 924 \u2013 Grammar and Writing IV",
+            "Class Days": "W",
+            "Class": 65,
+            "CRN": 42843,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Carey, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 66,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Carey, J",
+            "Course Title": "ESL 924 \u2013 Grammar and Writing IV",
+            "Class Days": "W",
+            "Class": 67,
+            "CRN": 42844,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Carey, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 68,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Struss, E",
+            "Course Title": "ESOL 400 \u2013 English Comp-Nonnative Spkrs",
+            "Class Days": "M, W",
+            "Class": 69,
+            "CRN": 39972,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Shaw, L",
+            "Course Title": "ESOL 400 \u2013 English Comp-Nonnative Spkrs",
+            "Class Days": "T, Th",
+            "Class": 70,
+            "CRN": 39906,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Struss, E",
+            "Course Title": "ESOL 400 \u2013 English Comp-Nonnative Spkrs",
+            "Class Days": "T, Th",
+            "Class": 71,
+            "CRN": 41631,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Shaw, L",
+            "Course Title": "ESOL 830 \u2013 ENGL Spkrs Other Languages III",
+            "Class Days": "M, W",
+            "Class": 72,
+            "CRN": 35165,
+            "Units": 6
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mazzi, F",
+            "Course Title": "ESOL 840 \u2013 ENGL Spkrs Other Languages IV",
+            "Class Days": "M, W, F",
+            "Class": 73,
+            "CRN": 40386,
+            "Units": 6
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "ESOL 840 \u2013 ENGL Spkrs Other Languages IV",
+            "Class Days": "M, W",
+            "Class": 74,
+            "CRN": 48414,
+            "Units": 6
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mazzi, F",
+            "Course Title": "ESOL 840 \u2013 ENGL Spkrs Other Languages IV",
+            "Class Days": "T, Th",
+            "Class": 75,
+            "CRN": 38466,
+            "Units": 6
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kocak, M",
+            "Course Title": "ESOL 840 \u2013 ENGL Spkrs Other Languages IV",
+            "Class Days": "T, Th",
+            "Class": 76,
+            "CRN": 48415,
+            "Units": 6
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mazzi, F",
+            "Course Title": "ESOL 853 \u2013 Int. ESL Listening & Speaking",
+            "Class Days": "M, W",
+            "Class": 77,
+            "CRN": 45675,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Struss, E",
+            "Course Title": "ESOL 854 \u2013 High-Int. ESL Listen & Speak",
+            "Class Days": "T, Th",
+            "Class": 78,
+            "CRN": 46423,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kocak, M",
+            "Course Title": "ESOL 874 \u2013 High-Intermediate ESL Grammar",
+            "Class Days": "Sa",
+            "Class": 79,
+            "CRN": 41730,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Shaw, L",
+            "Course Title": "ESOL 875 \u2013 Advanced ESL Grammar & Editing",
+            "Class Days": "T, Th",
+            "Class": 80,
+            "CRN": 45441,
+            "Units": 3
+        }
+    ],
+    "Esthetics": [
+        {
+            "Status": "Open",
+            "Professor": "White, C",
+            "Course Title": "ESTI 725 \u2013 State Board Written Exam Prep",
+            "Class Days": "",
+            "Class": 1,
+            "CRN": 48176,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "White, C",
+            "Course Title": "ESTI 725 \u2013 State Board Written Exam Prep",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 48463,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Calderon, T",
+            "Course Title": "ESTI 775 \u2013 Esthetics I",
+            "Class Days": "M, T, W, Th",
+            "Class": 3,
+            "CRN": 48167,
+            "Units": 12
+        },
+        {
+            "Status": "",
+            "Professor": "Calderon, T",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 0,
+            "Units": 12
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Hemstreet, L",
+            "Course Title": "ESTI 775 \u2013 Esthetics I",
+            "Class Days": "M, T, W, Th",
+            "Class": 5,
+            "CRN": 47252,
+            "Units": 12
+        },
+        {
+            "Status": "",
+            "Professor": "Hemstreet, L",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 0,
+            "Units": 12
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mitchell, R",
+            "Course Title": "ESTI 776 \u2013 Esthetics II",
+            "Class Days": "M, T, W, Th",
+            "Class": 7,
+            "CRN": 47251,
+            "Units": 12
+        },
+        {
+            "Status": "",
+            "Professor": "Mitchell, R",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 0,
+            "Units": 12
+        },
+        {
+            "Status": "Open",
+            "Professor": "Rizzo, J",
+            "Course Title": "ESTI 776 \u2013 Esthetics II",
+            "Class Days": "M, T, W, Th",
+            "Class": 9,
+            "CRN": 47250,
+            "Units": 12
+        },
+        {
+            "Status": "",
+            "Professor": "Rizzo, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 10,
+            "CRN": 0,
+            "Units": 12
+        }
+    ],
+    "Filipino": [{
+        "Status": "Open",
+        "Professor": "Desai, M",
+        "Course Title": "FILI 120 \u2013 Advanced Elementary Filipino",
+        "Class Days": "T, Th",
+        "Class": 1,
+        "CRN": 47957,
+        "Units": 5
+    }],
+    "Funeral Service Education": [
+        {
+            "Status": "Open",
+            "Professor": "Mirassou, C",
+            "Course Title": "FSE. 200 \u2013 Intro. to Funeral Service",
+            "Class Days": "",
+            "Class": 1,
+            "CRN": 48210,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mirassou, C",
+            "Course Title": "FSE. 210 \u2013 Funeral Directing I",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 48475,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Mirassou, C",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mirassou, C",
+            "Course Title": "FSE. 225 \u2013 Psychology of Death and Dying",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 48476,
+            "Units": 3
+        }
+    ],
+    "Film": [
+        {
+            "Status": "Open",
+            "Professor": "Perkins, T",
+            "Course Title": "FILM 100 \u2013 Introduction to Film",
+            "Class Days": "T",
+            "Class": 1,
+            "CRN": 47117,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Schulz, I",
+            "Course Title": "FILM 100 \u2013 Introduction to Film",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 32904,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Van Sijll, J",
+            "Course Title": "FILM 100 \u2013 Introduction to Film",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 35119,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Schulz, I",
+            "Course Title": "FILM 100 \u2013 Introduction to Film",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 35121,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Laderman, D",
+            "Course Title": "FILM 100 \u2013 Introduction to Film",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 40387,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Van Sijll, J",
+            "Course Title": "FILM 100 \u2013 Introduction to Film",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 44763,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Uyehara, S",
+            "Course Title": "FILM 100 \u2013 Introduction to Film",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 47801,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Uyehara, S",
+            "Course Title": "FILM 100 \u2013 Introduction to Film",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 47802,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Perkins, T",
+            "Course Title": "FILM 100 \u2013 Introduction to Film",
+            "Class Days": "",
+            "Class": 9,
+            "CRN": 48449,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Laderman, D",
+            "Course Title": "FILM 121 \u2013 Film History II",
+            "Class Days": "M",
+            "Class": 10,
+            "CRN": 41784,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Laderman, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 11,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Laderman, D",
+            "Course Title": "FILM 122 \u2013 Film History Focus",
+            "Class Days": "M",
+            "Class": 12,
+            "CRN": 46058,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Laderman, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 13,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Schulz, I",
+            "Course Title": "FILM 130 \u2013 Film Directors",
+            "Class Days": "",
+            "Class": 14,
+            "CRN": 46059,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Persley, E",
+            "Course Title": "FILM 140 \u2013 Contemporary World Cinema",
+            "Class Days": "W",
+            "Class": 15,
+            "CRN": 44760,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Perkins, T",
+            "Course Title": "FILM 154 \u2013 Expanded Scriptwriting Skills",
+            "Class Days": "T",
+            "Class": 16,
+            "CRN": 48355,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Perkins, T",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 17,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Persley, E",
+            "Course Title": "FILM 215 \u2013 Film and New Digital Media",
+            "Class Days": "W",
+            "Class": 18,
+            "CRN": 43343,
+            "Units": 4
+        }
+    ],
+    "Fashion Design": [
+        {
+            "Status": "Open",
+            "Professor": "McCarney, K",
+            "Course Title": "FASH 100 \u2013 Principles of Design",
+            "Class Days": "Th",
+            "Class": 1,
+            "CRN": 43213,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Matsuo, H",
+            "Course Title": "FASH 110 \u2013 Beg. Clothing Construction",
+            "Class Days": "M",
+            "Class": 2,
+            "CRN": 39272,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Matsuo, H",
+            "Course Title": "FASH 110 \u2013 Beg. Clothing Construction",
+            "Class Days": "T",
+            "Class": 3,
+            "CRN": 35481,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Chaney, R",
+            "Course Title": "FASH 114 \u2013 Intro. to Italian Fashion",
+            "Class Days": "T",
+            "Class": 4,
+            "CRN": 47770,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Chaney, R",
+            "Course Title": "FASH 115 \u2013 Int Clothing Construction",
+            "Class Days": "W",
+            "Class": 5,
+            "CRN": 47606,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Chaney, R",
+            "Course Title": "FASH 118 \u2013 Flat Pattern Design",
+            "Class Days": "W",
+            "Class": 6,
+            "CRN": 47793,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Schneider, E",
+            "Course Title": "FASH 123 \u2013 Intro to the Fashion Industry",
+            "Class Days": "F",
+            "Class": 7,
+            "CRN": 34132,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Schneider, E",
+            "Course Title": "",
+            "Class Days": "F",
+            "Class": 8,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lorist, K",
+            "Course Title": "FASH 140 \u2013 Basic Serging",
+            "Class Days": "F, Sa",
+            "Class": 9,
+            "CRN": 39874,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Schneider, E",
+            "Course Title": "FASH 151 \u2013 Fashion Merchandising",
+            "Class Days": "",
+            "Class": 10,
+            "CRN": 40507,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Chaney, R",
+            "Course Title": "FASH 162 \u2013 Advanced Flat Pattern",
+            "Class Days": "Th",
+            "Class": 11,
+            "CRN": 47794,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "McCarney, K",
+            "Course Title": "FASH 164 \u2013 Fashion Illustration",
+            "Class Days": "Th",
+            "Class": 12,
+            "CRN": 39535,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Jackson, J",
+            "Course Title": "FASH 168 \u2013 Fashion Draping",
+            "Class Days": "M",
+            "Class": 13,
+            "CRN": 45935,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Maynard, L",
+            "Course Title": "FASH 169 \u2013 Evening Gown Construction",
+            "Class Days": "T",
+            "Class": 14,
+            "CRN": 47813,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Maynard, L",
+            "Course Title": "FASH 170 \u2013 French Pattern Drafting",
+            "Class Days": "T",
+            "Class": 15,
+            "CRN": 47814,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Maynard, L",
+            "Course Title": "FASH 173 \u2013 Lingerie Design & Construction",
+            "Class Days": "T",
+            "Class": 16,
+            "CRN": 47817,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Jackson, J",
+            "Course Title": "FASH 180 \u2013 Computerized Pattern Design",
+            "Class Days": "W",
+            "Class": 17,
+            "CRN": 41109,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Jackson, J",
+            "Course Title": "FASH 197 \u2013 Pattern Design/Hist. Costume",
+            "Class Days": "M",
+            "Class": 18,
+            "CRN": 39872,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Jones, A",
+            "Course Title": "FASH 672 \u2013 Cooperative Ed.: Internship",
+            "Class Days": "",
+            "Class": 19,
+            "CRN": 41718,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Jones, A",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 20,
+            "CRN": 0,
+            "Units": 3
+        }
+    ],
+    "Environmental Science": [
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Danfoura, M",
+            "Course Title": "ENVS 100 \u2013 Intro to Environmental Science",
+            "Class Days": "M, W",
+            "Class": 1,
+            "CRN": 42938,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Anttila, C",
+            "Course Title": "ENVS 100 \u2013 Intro to Environm. Scie/ECAP",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 46463,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Anttila, C",
+            "Course Title": "ENVS 100 \u2013 Intro to Environmental Science",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 46464,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Anttila, C",
+            "Course Title": "ENVS 100 \u2013 Intro to Environmental Science",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 48525,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Danfoura, M",
+            "Course Title": "ENVS 101 \u2013 Environmental Science Lab",
+            "Class Days": "M",
+            "Class": 5,
+            "CRN": 48478,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mahoney, S",
+            "Course Title": "ENVS 101 \u2013 Environmental Science Lab",
+            "Class Days": "W",
+            "Class": 6,
+            "CRN": 47673,
+            "Units": 1
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Anttila, C",
+            "Course Title": "ENVS 101 \u2013 Environmental Science Lab",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 48255,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Anttila, C",
+            "Course Title": "ENVS 101 \u2013 Environmental Science Lab/ECAP",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 48439,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mahoney, S",
+            "Course Title": "ENVS 115 \u2013 Environmental Science",
+            "Class Days": "M, W",
+            "Class": 9,
+            "CRN": 44698,
+            "Units": 3
+        },
+        {
+            "Status": "Waitlist Closed",
+            "Professor": "Mahoney, S",
+            "Course Title": "ENVS 115 \u2013 Environmental Science - Honors",
+            "Class Days": "M, W",
+            "Class": 10,
+            "CRN": 46923,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Redman, M",
+            "Course Title": "ENVS 115 \u2013 Environmental Science",
+            "Class Days": "",
+            "Class": 11,
+            "CRN": 43559,
+            "Units": 3
+        }
+    ],
+    "Fire Science Technology": [
+        {
+            "Status": "Open",
+            "Professor": "Baird, C",
+            "Course Title": "FIRE 714 \u2013 Wildland Fire Control",
+            "Class Days": "W",
+            "Class": 1,
+            "CRN": 39878,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Ghiorso, D",
+            "Course Title": "FIRE 715 \u2013 Principles of Emergency Svcs.",
+            "Class Days": "M",
+            "Class": 2,
+            "CRN": 41846,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Roderick, K",
+            "Course Title": "FIRE 717 \u2013 Emergency Medical Tech Prep",
+            "Class Days": "Th",
+            "Class": 3,
+            "CRN": 48378,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Cavallero, S",
+            "Course Title": "FIRE 721 \u2013 Fire Academy Preparation",
+            "Class Days": "W",
+            "Class": 4,
+            "CRN": 48044,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Cavallero, S",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 5,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Baird, C",
+            "Course Title": "FIRE 722 \u2013 Firefighter Academy",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 6,
+            "CRN": 48045,
+            "Units": 17
+        },
+        {
+            "Status": "",
+            "Professor": "Baird, C",
+            "Course Title": "",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 7,
+            "CRN": 0,
+            "Units": 17
+        },
+        {
+            "Status": "Open",
+            "Professor": "Baird, C",
+            "Course Title": "FIRE 725 \u2013 Fire Apparatus & Equipment",
+            "Class Days": "W",
+            "Class": 8,
+            "CRN": 40486,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Ghiorso, D",
+            "Course Title": "FIRE 730 \u2013 Fire Behavior and Combustion",
+            "Class Days": "M",
+            "Class": 9,
+            "CRN": 32300,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "FIRE 745 \u2013 Fire Protection Systems",
+            "Class Days": "T",
+            "Class": 10,
+            "CRN": 32301,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Roderick, K",
+            "Course Title": "FIRE 797 \u2013 Emergency Medical Techn: Basic",
+            "Class Days": "T, F",
+            "Class": 11,
+            "CRN": 46344,
+            "Units": 11
+        },
+        {
+            "Status": "",
+            "Professor": "Roderick, K",
+            "Course Title": "",
+            "Class Days": "T, F",
+            "Class": 12,
+            "CRN": 0,
+            "Units": 11
+        },
+        {
+            "Status": "Open",
+            "Professor": "Fisher, R",
+            "Course Title": "FIRE 810 \u2013 Firefighter Cadet I",
+            "Class Days": "M, W, F",
+            "Class": 13,
+            "CRN": 45078,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Fisher, R",
+            "Course Title": "FIRE 811 \u2013 Firefighter Cadet II",
+            "Class Days": "M, W, F",
+            "Class": 14,
+            "CRN": 45079,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Fisher, R",
+            "Course Title": "FIRE 812 \u2013 Firefighter Cadet III",
+            "Class Days": "M, W, F",
+            "Class": 15,
+            "CRN": 45080,
+            "Units": 3
+        }
+    ],
+    "Ethnic Studies": [
+        {
+            "Status": "Waitlist Closed",
+            "Professor": "Ramirez, R",
+            "Course Title": "ETHN 101 \u2013 Latin Amer History and Cult.",
+            "Class Days": "T, Th",
+            "Class": 1,
+            "CRN": 48368,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Ramirez, R",
+            "Course Title": "ETHN 101 \u2013 Latin Amer History and Cult.",
+            "Class Days": "T, Th",
+            "Class": 2,
+            "CRN": 48369,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Mojica Villegas, E",
+            "Course Title": "ETHN 101 \u2013 Latin Amer History and Cult.",
+            "Class Days": "W",
+            "Class": 3,
+            "CRN": 40227,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Mojica Villegas, E",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Ramirez, R",
+            "Course Title": "ETHN 101 \u2013 Latin Amer History and Cult.",
+            "Class Days": "W",
+            "Class": 5,
+            "CRN": 46850,
+            "Units": 3
+        },
+        {
+            "Status": "Waitlist Closed",
+            "Professor": "Mojica Villegas, E",
+            "Course Title": "ETHN 101 \u2013 Latin Amer History and Cult.",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 32266,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Santizo, J",
+            "Course Title": "ETHN 101 \u2013 Latin Amer History and Cult.",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 32267,
+            "Units": 3
+        },
+        {
+            "Status": "Waitlist Closed",
+            "Professor": "Mojica Villegas, E",
+            "Course Title": "ETHN 101 \u2013 Latin Amer History and Cult.",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 42713,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Santizo, J",
+            "Course Title": "ETHN 101 \u2013 Latin Amer History and Cult.",
+            "Class Days": "",
+            "Class": 9,
+            "CRN": 48373,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Daus - Magbual, R",
+            "Course Title": "ETHN 103 \u2013 Asian American US Institutions",
+            "Class Days": "M, W",
+            "Class": 10,
+            "CRN": 48122,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Moon, S",
+            "Course Title": "ETHN 103 \u2013 Asian American US Institutions",
+            "Class Days": "W",
+            "Class": 11,
+            "CRN": 44791,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Moon, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 12,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Moon, S",
+            "Course Title": "ETHN 103 \u2013 Asian American US Institutions",
+            "Class Days": "W",
+            "Class": 13,
+            "CRN": 44792,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Moon, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 14,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Daus - Magbual, R",
+            "Course Title": "ETHN 103 \u2013 Asian American US Institutions",
+            "Class Days": "",
+            "Class": 15,
+            "CRN": 47753,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Bolick, P",
+            "Course Title": "ETHN 103 \u2013 Asian American US Institutions",
+            "Class Days": "",
+            "Class": 16,
+            "CRN": 48123,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Bolick, P",
+            "Course Title": "ETHN 103 \u2013 Asian American US Institutions",
+            "Class Days": "",
+            "Class": 17,
+            "CRN": 48426,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Gaines, F",
+            "Course Title": "ETHN 105 \u2013 African American Hist/Culture",
+            "Class Days": "T, Th",
+            "Class": 18,
+            "CRN": 44794,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Mojica Villegas, E",
+            "Course Title": "ETHN 107 \u2013 Intro Native American Studies",
+            "Class Days": "M",
+            "Class": 19,
+            "CRN": 46851,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Mojica Villegas, E",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 20,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Villela-Smith, A",
+            "Course Title": "ETHN 108 \u2013 Race, Gender, Power in America",
+            "Class Days": "T, Th",
+            "Class": 21,
+            "CRN": 48132,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Villela-Smith, A",
+            "Course Title": "ETHN 108 \u2013 Race/Gender/Pwr-America-UMOJA",
+            "Class Days": "T, Th",
+            "Class": 22,
+            "CRN": 48437,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Elkan, D",
+            "Course Title": "ETHN 108 \u2013 Rethinking Race,Gender, Nation",
+            "Class Days": "T",
+            "Class": 23,
+            "CRN": 48041,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Elkan, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 24,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Villela-Smith, A",
+            "Course Title": "ETHN 108 \u2013 Race, Gender, Power in America",
+            "Class Days": "",
+            "Class": 25,
+            "CRN": 47756,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Villela-Smith, A",
+            "Course Title": "ETHN 108 \u2013 Race, Gender, Power in America",
+            "Class Days": "",
+            "Class": 26,
+            "CRN": 47831,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Elkan, D",
+            "Course Title": "ETHN 108 \u2013 Rethinking Race,Gender, Nation",
+            "Class Days": "",
+            "Class": 27,
+            "CRN": 48038,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Villela-Smith, A",
+            "Course Title": "ETHN 108 \u2013 Race, Gender, Power in America",
+            "Class Days": "",
+            "Class": 28,
+            "CRN": 48281,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hernandez, J",
+            "Course Title": "ETHN 109 \u2013 Borders and Crossings",
+            "Class Days": "M, W",
+            "Class": 29,
+            "CRN": 48039,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Lorenzana, K",
+            "Course Title": "ETHN 109 \u2013 Borders and Crossings",
+            "Class Days": "",
+            "Class": 30,
+            "CRN": 48040,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Bolick, P",
+            "Course Title": "ETHN 109 \u2013 Borders and Crossings",
+            "Class Days": "",
+            "Class": 31,
+            "CRN": 48427,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Gaines, F",
+            "Course Title": "ETHN 122 \u2013 Black Leadership Theory",
+            "Class Days": "M, W, F",
+            "Class": 32,
+            "CRN": 47634,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Daus - Magbual, R",
+            "Course Title": "ETHN 142 \u2013 Filipina/o/x Comm Issues KABA",
+            "Class Days": "T, Th",
+            "Class": 33,
+            "CRN": 47758,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Daus - Magbual, R",
+            "Course Title": "ETHN 142 \u2013 Filipina/o/x Community Issues",
+            "Class Days": "T, Th",
+            "Class": 34,
+            "CRN": 47759,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Daus - Magbual, R",
+            "Course Title": "ETHN 142 \u2013 Filipina/o/x Comm Issues PSP",
+            "Class Days": "T, Th",
+            "Class": 35,
+            "CRN": 48194,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Daus - Magbual, R",
+            "Course Title": "ETHN 142 \u2013 Filipina/o/x Community Issues",
+            "Class Days": "",
+            "Class": 36,
+            "CRN": 48124,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Villela-Smith, A",
+            "Course Title": "ETHN 265 \u2013 Evolution of Hip Hop Culture",
+            "Class Days": "T, Th",
+            "Class": 37,
+            "CRN": 48434,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Villela-Smith, A",
+            "Course Title": "ETHN 265 \u2013 Evolution-HipHopCulture-CIPHER",
+            "Class Days": "T, Th",
+            "Class": 38,
+            "CRN": 48435,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Villela-Smith, A",
+            "Course Title": "ETHN 265 \u2013 Evolution-HipHopCulture-UMOJA",
+            "Class Days": "T, Th",
+            "Class": 39,
+            "CRN": 48484,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Gaines, F",
+            "Course Title": "ETHN 265 \u2013 Evolution of Hip Hop Culture",
+            "Class Days": "T, Th",
+            "Class": 40,
+            "CRN": 45830,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Gaines, F",
+            "Course Title": "ETHN 265 \u2013 Evolution of Hip Hop Culture",
+            "Class Days": "T",
+            "Class": 41,
+            "CRN": 42847,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Gaines, F",
+            "Course Title": "ETHN 288 \u2013 African-American Cinema",
+            "Class Days": "M, W",
+            "Class": 42,
+            "CRN": 40229,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mojica Villegas, E",
+            "Course Title": "ETHN 300 \u2013 Introduction to LaRaza Studies",
+            "Class Days": "T",
+            "Class": 43,
+            "CRN": 35024,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Mojica Villegas, E",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 44,
+            "CRN": 0,
+            "Units": 3
+        }
+    ]
+}

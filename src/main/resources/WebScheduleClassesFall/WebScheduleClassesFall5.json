@@ -1,0 +1,1505 @@
+{
+    "Geography": [
+        {
+            "Status": "Closed",
+            "Professor": "Mahoney, S",
+            "Course Title": "GEOG 100 \u2013 Physical Geography",
+            "Class Days": "M",
+            "Class": 1,
+            "CRN": 94415,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Mahoney, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Cunningham, R",
+            "Course Title": "GEOG 100 \u2013 Physical Geography",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 94146,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Kaluzny, M",
+            "Course Title": "GEOG 100 \u2013 Physical Geography",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 96590,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Cunningham, R",
+            "Course Title": "GEOG 100 \u2013 Physical Geography",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 96900,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Gutierrez, A",
+            "Course Title": "GEOG 101 \u2013 Physical Geography Lab",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 96544,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Cunningham, R",
+            "Course Title": "GEOG 110 \u2013 Cultural Geography",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 96233,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Kaluzny, M",
+            "Course Title": "GEOG 110 \u2013 Cultural Geography",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 96914,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Kaluzny, M",
+            "Course Title": "GEOG 150 \u2013 World Regional Geography",
+            "Class Days": "",
+            "Class": 9,
+            "CRN": 95874,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Cunningham, R",
+            "Course Title": "GEOG 150 \u2013 World Regional Geography",
+            "Class Days": "",
+            "Class": 10,
+            "CRN": 96901,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Cunningham, R",
+            "Course Title": "GEOG 300 \u2013 Geographic Information Science",
+            "Class Days": "",
+            "Class": 11,
+            "CRN": 96902,
+            "Units": 3
+        }
+    ],
+    "Health Science": [
+        {
+            "Status": "Closed",
+            "Professor": "Smith, C",
+            "Course Title": "HSCI 100 \u2013 General Health Science",
+            "Class Days": "",
+            "Class": 1,
+            "CRN": 93226,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Evans, M",
+            "Course Title": "HSCI 100 \u2013 General Health Science",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 94946,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Gerrish, H",
+            "Course Title": "HSCI 180 \u2013 Gateway to Health Careers",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 96783,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Kiesselbach, L",
+            "Course Title": "HSCI 314 \u2013 Health/Safety/Nutrition-Child",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 94043,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Kiesselbach, L",
+            "Course Title": "",
+            "Class Days": "Sa",
+            "Class": 5,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Kiesselbach, L",
+            "Course Title": "",
+            "Class Days": "Sa",
+            "Class": 6,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hernandez, C",
+            "Course Title": "HSCI 484 \u2013 Medical Terminology",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 92573,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Holland, C",
+            "Course Title": "HSCI 484 \u2013 Medical Terminology",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 96209,
+            "Units": 3
+        }
+    ],
+    "Geology": [
+        {
+            "Status": "Closed",
+            "Professor": "Wiese, K",
+            "Course Title": "GEOL 100 \u2013 Survey of Geology",
+            "Class Days": "M, W",
+            "Class": 1,
+            "CRN": 82468,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wiese, K",
+            "Course Title": "GEOL 100 \u2013 Survey of Geology",
+            "Class Days": "T, Th",
+            "Class": 2,
+            "CRN": 97910,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wiese, K",
+            "Course Title": "GEOL 100 \u2013 Introduction to Geology",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 93434,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Wiese, K",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 4,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wiese, K",
+            "Course Title": "GEOL 101 \u2013 Geology Laboratory",
+            "Class Days": "W",
+            "Class": 5,
+            "CRN": 82470,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Patel, N",
+            "Course Title": "GEOL 106 \u2013 Weather and Climate",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 95777,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Patel, N",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Danfoura, M",
+            "Course Title": "GEOL 210 \u2013 General Geology",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 98063,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Danfoura, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 9,
+            "CRN": 0,
+            "Units": 4
+        }
+    ],
+    "Funeral Service Education": [{
+        "Status": "Closed",
+        "Professor": "Mirassou, C",
+        "Course Title": "FSE. 200 \u2013 Intro. to Funeral Service",
+        "Class Days": "",
+        "Class": 1,
+        "CRN": 97540,
+        "Units": 2
+    }],
+    "Film": [
+        {
+            "Status": "Closed",
+            "Professor": "Persley, E",
+            "Course Title": "FILM 100 \u2013 Introduction to Film",
+            "Class Days": "W",
+            "Class": 1,
+            "CRN": 85331,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Van Sijll, J",
+            "Course Title": "FILM 100 \u2013 Introduction to Film",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 90558,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Van Sijll, J",
+            "Course Title": "FILM 100 \u2013 Introduction to Film",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 93343,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Van Sijll, J",
+            "Course Title": "FILM 100 \u2013 Introduction to Film",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 95380,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Schulz, I",
+            "Course Title": "FILM 100 \u2013 Introduction to Film",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 96933,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Schulz, I",
+            "Course Title": "FILM 100 \u2013 Introduction to Film",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 97205,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Perkins, T",
+            "Course Title": "FILM 100 \u2013 Introduction to Film",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 97305,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Uyehara, S",
+            "Course Title": "FILM 100 \u2013 Introduction to Film",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 97307,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Laderman, D",
+            "Course Title": "FILM 120 \u2013 Film History I",
+            "Class Days": "M",
+            "Class": 9,
+            "CRN": 92607,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Laderman, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 10,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Persley, E",
+            "Course Title": "FILM 123 \u2013 Doc. Film: Studies & Practice",
+            "Class Days": "W",
+            "Class": 11,
+            "CRN": 97886,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Laderman, D",
+            "Course Title": "FILM 145 \u2013 Watching Quality Television",
+            "Class Days": "M",
+            "Class": 12,
+            "CRN": 95379,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Laderman, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 13,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Perkins, T",
+            "Course Title": "FILM 153 \u2013 Screenwriting",
+            "Class Days": "Th",
+            "Class": 14,
+            "CRN": 97885,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Perkins, T",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 15,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Schulz, I",
+            "Course Title": "FILM 200 \u2013 Film in Focus: Women in Film",
+            "Class Days": "",
+            "Class": 16,
+            "CRN": 92611,
+            "Units": 4
+        }
+    ],
+    "Hospitality/Tourism Management": [
+        {
+            "Status": "Closed",
+            "Professor": "Krone, L",
+            "Course Title": "HTM. 101 \u2013 Intro-Hospitality/Tourism Mgmt",
+            "Class Days": "",
+            "Class": 1,
+            "CRN": 94617,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Tuttle, J",
+            "Course Title": "HTM. 120 \u2013 Sanitation Practices",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 97119,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Tuttle, J",
+            "Course Title": "HTM. 120 \u2013 Sanitation Practices",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 97120,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Tuttle, J",
+            "Course Title": "HTM. 120 \u2013 Sanitation Practices",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 97121,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Tuttle, J",
+            "Course Title": "HTM. 120 \u2013 Sanitation Practices",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 97122,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Casale, M",
+            "Course Title": "HTM. 120 \u2013 Sanitation Practices",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 97150,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Casale, M",
+            "Course Title": "HTM. 120 \u2013 Sanitation Practices",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 97153,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Casale, M",
+            "Course Title": "HTM. 120 \u2013 Sanitation Practices",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 97154,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Casale, M",
+            "Course Title": "HTM. 120 \u2013 Sanitation Practices",
+            "Class Days": "",
+            "Class": 9,
+            "CRN": 97155,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ringseis, M",
+            "Course Title": "HTM. 120 \u2013 Sanitation Practices",
+            "Class Days": "",
+            "Class": 10,
+            "CRN": 97432,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ringseis, M",
+            "Course Title": "HTM. 120 \u2013 Sanitation Practices",
+            "Class Days": "",
+            "Class": 11,
+            "CRN": 97433,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Meyer, J",
+            "Course Title": "HTM. 120 \u2013 Sanitation Practices",
+            "Class Days": "",
+            "Class": 12,
+            "CRN": 97786,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ledford, G",
+            "Course Title": "HTM. 120 \u2013 Sanitation Practices",
+            "Class Days": "",
+            "Class": 13,
+            "CRN": 97802,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Meyer, J",
+            "Course Title": "HTM. 120 \u2013 Sanitation Practices",
+            "Class Days": "",
+            "Class": 14,
+            "CRN": 97869,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Meyer, J",
+            "Course Title": "HTM. 120 \u2013 Sanitation Practices",
+            "Class Days": "",
+            "Class": 15,
+            "CRN": 97870,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Meyer, J",
+            "Course Title": "HTM. 120 \u2013 Sanitation Practices",
+            "Class Days": "",
+            "Class": 16,
+            "CRN": 97871,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hughes, L",
+            "Course Title": "HTM. 120 \u2013 Sanitation Practices",
+            "Class Days": "",
+            "Class": 17,
+            "CRN": 98162,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hagen, D",
+            "Course Title": "HTM. 120 \u2013 Foods and Nutrition",
+            "Class Days": "",
+            "Class": 18,
+            "CRN": 98163,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hagen, D",
+            "Course Title": "HTM. 120 \u2013 Foods and Nutrition",
+            "Class Days": "",
+            "Class": 19,
+            "CRN": 98165,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ringseis, M",
+            "Course Title": "HTM. 125 \u2013 Restaurant/Banquet Operations",
+            "Class Days": "",
+            "Class": 20,
+            "CRN": 97131,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ringseis, M",
+            "Course Title": "HTM. 125 \u2013 Restaurant/Banquet Operations",
+            "Class Days": "",
+            "Class": 21,
+            "CRN": 97133,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ringseis, M",
+            "Course Title": "HTM. 125 \u2013 Restaurant/Banquet Operations",
+            "Class Days": "",
+            "Class": 22,
+            "CRN": 97431,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ledford, G",
+            "Course Title": "HTM. 125 \u2013 Restaurant/Banquet Operations",
+            "Class Days": "",
+            "Class": 23,
+            "CRN": 97434,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ledford, G",
+            "Course Title": "HTM. 125 \u2013 Restaurant/Banquet Operations",
+            "Class Days": "",
+            "Class": 24,
+            "CRN": 97436,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Casale, M",
+            "Course Title": "HTM. 125 \u2013 Restaurant/Banquet Operations",
+            "Class Days": "",
+            "Class": 25,
+            "CRN": 97442,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Tuttle, J",
+            "Course Title": "HTM. 125 \u2013 Restaurant/Banquet Operations",
+            "Class Days": "",
+            "Class": 26,
+            "CRN": 97444,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Meyer, J",
+            "Course Title": "HTM. 125 \u2013 Restaurant/Banquet Operations",
+            "Class Days": "",
+            "Class": 27,
+            "CRN": 97790,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ledford, G",
+            "Course Title": "HTM. 125 \u2013 Restaurant/Banquet Operations",
+            "Class Days": "",
+            "Class": 28,
+            "CRN": 97801,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ringseis, M",
+            "Course Title": "HTM. 125 \u2013 Restaurant/Banquet Operations",
+            "Class Days": "",
+            "Class": 29,
+            "CRN": 98164,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ledford, G",
+            "Course Title": "HTM. 125 \u2013 Sanitation Practices in Hospit",
+            "Class Days": "",
+            "Class": 30,
+            "CRN": 98166,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Salceda, L",
+            "Course Title": "HTM. 230 \u2013 Hotel and Resort Management",
+            "Class Days": "",
+            "Class": 31,
+            "CRN": 94619,
+            "Units": 3
+        }
+    ],
+    "Global Studies": [
+        {
+            "Status": "Closed",
+            "Professor": "Ball, J",
+            "Course Title": "GBST 101 \u2013 Introduction to Global Studies",
+            "Class Days": "M, W",
+            "Class": 1,
+            "CRN": 98122,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ball, J",
+            "Course Title": "GBST 650 \u2013 Study Abroad Life and Culture",
+            "Class Days": "T, Th",
+            "Class": 2,
+            "CRN": 98124,
+            "Units": 3
+        }
+    ],
+    "Human Services": [
+        {
+            "Status": "Closed",
+            "Professor": "Musawwir, A",
+            "Course Title": "HMSV 100 \u2013 Intro. to Soc. Work/Hum. Serv.",
+            "Class Days": "",
+            "Class": 1,
+            "CRN": 86676,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Musawwir, A",
+            "Course Title": "HMSV 695 \u2013 Independent Study",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 90645,
+            "Units": 1
+        }
+    ],
+    "History": [
+        {
+            "Status": "Closed",
+            "Professor": "Stanford, M",
+            "Course Title": "HIST 100 \u2013 History of Western Civ I",
+            "Class Days": "M, W",
+            "Class": 1,
+            "CRN": 88843,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Greedy, M",
+            "Course Title": "HIST 100 \u2013 History Western Civ I",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 90477,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Bell, R",
+            "Course Title": "HIST 101 \u2013 History Western Civ II",
+            "Class Days": "M, W, F",
+            "Class": 3,
+            "CRN": 98115,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Stanford, M",
+            "Course Title": "HIST 101 \u2013 History Western Civ II",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 96836,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Greedy, M",
+            "Course Title": "HIST 101 \u2013 History Western Civ II",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 98060,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Swanson, A",
+            "Course Title": "HIST 104 \u2013 World History I",
+            "Class Days": "T, Th",
+            "Class": 6,
+            "CRN": 92135,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Manbachi, K",
+            "Course Title": "HIST 104 \u2013 World Civilizations I",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 96908,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Swanson, A",
+            "Course Title": "HIST 106 \u2013 World History II",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 92136,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Manbachi, K",
+            "Course Title": "HIST 106 \u2013 World Civilizations II",
+            "Class Days": "",
+            "Class": 9,
+            "CRN": 97407,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Rasmussen, L",
+            "Course Title": "HIST 201 \u2013 United States History I - MCHS",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 10,
+            "CRN": 97826,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Manbachi, K",
+            "Course Title": "HIST 201 \u2013 United States History I",
+            "Class Days": "M, W, F",
+            "Class": 11,
+            "CRN": 97638,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Rasmussen, L",
+            "Course Title": "HIST 201 \u2013 United States History I - MCHS",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 12,
+            "CRN": 97835,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Bell, R",
+            "Course Title": "HIST 201 \u2013 United States History I",
+            "Class Days": "M, W, F",
+            "Class": 13,
+            "CRN": 98064,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Stanford, M",
+            "Course Title": "HIST 201 \u2013 U.S History through 1877",
+            "Class Days": "M, W",
+            "Class": 14,
+            "CRN": 92144,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Bell, R",
+            "Course Title": "HIST 201 \u2013 United States History I",
+            "Class Days": "T, Th",
+            "Class": 15,
+            "CRN": 97615,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Irwin, T",
+            "Course Title": "HIST 201 \u2013 United States History I",
+            "Class Days": "W",
+            "Class": 16,
+            "CRN": 82486,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Irwin, T",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 17,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hunt, J",
+            "Course Title": "HIST 201 \u2013 United States History I",
+            "Class Days": "W",
+            "Class": 18,
+            "CRN": 82487,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Hunt, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 19,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hunt, J",
+            "Course Title": "HIST 201 \u2013 United States History I",
+            "Class Days": "W",
+            "Class": 20,
+            "CRN": 95158,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Hunt, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 21,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hunt, J",
+            "Course Title": "HIST 201 \u2013 United States History I",
+            "Class Days": "W",
+            "Class": 22,
+            "CRN": 95157,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Hunt, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 23,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Coburn, J",
+            "Course Title": "HIST 201 \u2013 U.S. History through 1877",
+            "Class Days": "W",
+            "Class": 24,
+            "CRN": 92727,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Coburn, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 25,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Coburn, J",
+            "Course Title": "HIST 201 \u2013 U.S. History through 1877",
+            "Class Days": "W",
+            "Class": 26,
+            "CRN": 95669,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Coburn, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 27,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Irwin, T",
+            "Course Title": "HIST 201 \u2013 United States History I",
+            "Class Days": "",
+            "Class": 28,
+            "CRN": 82489,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Stanford, M",
+            "Course Title": "HIST 201 \u2013 U.S. History through 1877",
+            "Class Days": "",
+            "Class": 29,
+            "CRN": 86646,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Conaway, T",
+            "Course Title": "HIST 201 \u2013 United States History I",
+            "Class Days": "",
+            "Class": 30,
+            "CRN": 92294,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Irwin, T",
+            "Course Title": "HIST 201 \u2013 United States History I",
+            "Class Days": "",
+            "Class": 31,
+            "CRN": 92303,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Phipps, M",
+            "Course Title": "HIST 201 \u2013 United States History I",
+            "Class Days": "",
+            "Class": 32,
+            "CRN": 92421,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Phipps, M",
+            "Course Title": "HIST 201 \u2013 United States History I",
+            "Class Days": "",
+            "Class": 33,
+            "CRN": 93618,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wong, J",
+            "Course Title": "HIST 201 \u2013 United States History I",
+            "Class Days": "",
+            "Class": 34,
+            "CRN": 96669,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Helton, J",
+            "Course Title": "HIST 201 \u2013 United States History I",
+            "Class Days": "",
+            "Class": 35,
+            "CRN": 97913,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Greedy, M",
+            "Course Title": "HIST 201 \u2013 United States History I",
+            "Class Days": "",
+            "Class": 36,
+            "CRN": 98065,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Phipps, M",
+            "Course Title": "HIST 201 \u2013 United States History I - ECAP",
+            "Class Days": "",
+            "Class": 37,
+            "CRN": 98099,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Swanson, A",
+            "Course Title": "HIST 202 \u2013 U.S. Hist. fm 1877 to Present",
+            "Class Days": "T, Th",
+            "Class": 38,
+            "CRN": 81256,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hunt, J",
+            "Course Title": "HIST 202 \u2013 United States History II",
+            "Class Days": "Th",
+            "Class": 39,
+            "CRN": 82492,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Hunt, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 40,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hunt, J",
+            "Course Title": "HIST 202 \u2013 United States History II",
+            "Class Days": "Th",
+            "Class": 41,
+            "CRN": 92298,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Hunt, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 42,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Phipps, M",
+            "Course Title": "HIST 202 \u2013 United States History II",
+            "Class Days": "",
+            "Class": 43,
+            "CRN": 86551,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Stanford, M",
+            "Course Title": "HIST 202 \u2013 U.S. Hist. fm 1877 to Present",
+            "Class Days": "",
+            "Class": 44,
+            "CRN": 93066,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Stanford, M",
+            "Course Title": "HIST 202 \u2013 U.S. Hist. fm 1877 to Present",
+            "Class Days": "",
+            "Class": 45,
+            "CRN": 93668,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Popal, M",
+            "Course Title": "HIST 202 \u2013 United States History II",
+            "Class Days": "",
+            "Class": 46,
+            "CRN": 96239,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Popal, M",
+            "Course Title": "HIST 235 \u2013 History of Ethnic Groups in US",
+            "Class Days": "M, W, F",
+            "Class": 47,
+            "CRN": 95063,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Popal, M",
+            "Course Title": "HIST 235 \u2013 Hist.of Ethnic Groups US-PSP",
+            "Class Days": "M, W, F",
+            "Class": 48,
+            "CRN": 95530,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Popal, M",
+            "Course Title": "HIST 235 \u2013 History of Ethnic Groups in US",
+            "Class Days": "T",
+            "Class": 49,
+            "CRN": 97369,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Popal, M",
+            "Course Title": "HIST 235 \u2013 History of Ethnic Groups in US",
+            "Class Days": "",
+            "Class": 50,
+            "CRN": 94890,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Bolick, P",
+            "Course Title": "HIST 235 \u2013 History of Ethnic Groups in US",
+            "Class Days": "",
+            "Class": 51,
+            "CRN": 96671,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wong, J",
+            "Course Title": "HIST 235 \u2013 History of Ethnic Groups in US",
+            "Class Days": "",
+            "Class": 52,
+            "CRN": 96935,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wong, J",
+            "Course Title": "HIST 240 \u2013 History of Ethnic Groups in CA",
+            "Class Days": "T, Th",
+            "Class": 53,
+            "CRN": 97633,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Popal, M",
+            "Course Title": "HIST 240 \u2013 History of Ethnic Groups in CA",
+            "Class Days": "",
+            "Class": 54,
+            "CRN": 94569,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wong, J",
+            "Course Title": "HIST 240 \u2013 History of Ethnic Groups in CA",
+            "Class Days": "",
+            "Class": 55,
+            "CRN": 96200,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wong, J",
+            "Course Title": "HIST 240 \u2013 History of Ethnic Groups in CA",
+            "Class Days": "",
+            "Class": 56,
+            "CRN": 97091,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Collins, C",
+            "Course Title": "HIST 244 \u2013 African American History",
+            "Class Days": "",
+            "Class": 57,
+            "CRN": 96938,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Coburn, J",
+            "Course Title": "HIST 245 \u2013 Race, Ethnicity & Immigration",
+            "Class Days": "M, W",
+            "Class": 58,
+            "CRN": 88845,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Coburn, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 59,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Coburn, J",
+            "Course Title": "HIST 245 \u2013 Race,Ethnicity and Immigration",
+            "Class Days": "",
+            "Class": 60,
+            "CRN": 96043,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Irish, M",
+            "Course Title": "HIST 248 \u2013 Women& The American Experience",
+            "Class Days": "",
+            "Class": 61,
+            "CRN": 96580,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Irwin, T",
+            "Course Title": "HIST 261 \u2013 Women in American History I",
+            "Class Days": "W",
+            "Class": 62,
+            "CRN": 97726,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Irwin, T",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 63,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Manbachi, K",
+            "Course Title": "HIST 310 \u2013 California History",
+            "Class Days": "M, W, F",
+            "Class": 64,
+            "CRN": 93583,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Manbachi, K",
+            "Course Title": "HIST 310 \u2013 California History",
+            "Class Days": "M, W",
+            "Class": 65,
+            "CRN": 98069,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Elia, J",
+            "Course Title": "HIST 310 \u2013 California History",
+            "Class Days": "",
+            "Class": 66,
+            "CRN": 80456,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Elia, J",
+            "Course Title": "HIST 310 \u2013 California History",
+            "Class Days": "",
+            "Class": 67,
+            "CRN": 85348,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ulloa, J",
+            "Course Title": "HIST 310 \u2013 California History",
+            "Class Days": "",
+            "Class": 68,
+            "CRN": 96300,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ulloa, J",
+            "Course Title": "HIST 420 \u2013 Survey of Latin American Hist.",
+            "Class Days": "",
+            "Class": 69,
+            "CRN": 98070,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Daus - Magbual, R",
+            "Course Title": "HIST 435 \u2013 Hist.of Philippines - KABA",
+            "Class Days": "T, Th",
+            "Class": 70,
+            "CRN": 89212,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Daus - Magbual, R",
+            "Course Title": "HIST 435 \u2013 Hist. of the Philippines - PSP",
+            "Class Days": "T, Th",
+            "Class": 71,
+            "CRN": 95060,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Daus - Magbual, R",
+            "Course Title": "HIST 435 \u2013 Hist of Philippines-KABA/PSP",
+            "Class Days": "T, Th",
+            "Class": 72,
+            "CRN": 95591,
+            "Units": 3
+        }
+    ],
+    "Fire Science Technology": [
+        {
+            "Status": "Closed",
+            "Professor": "Baird, C",
+            "Course Title": "FIRE 715 \u2013 Principles of Emergency Svcs",
+            "Class Days": "W",
+            "Class": 1,
+            "CRN": 82409,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Roderick, K",
+            "Course Title": "FIRE 717 \u2013 Emergency Medical Tech Prep",
+            "Class Days": "Th",
+            "Class": 2,
+            "CRN": 97908,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Constantino, P",
+            "Course Title": "FIRE 720 \u2013 Fire Prevention",
+            "Class Days": "T",
+            "Class": 3,
+            "CRN": 85777,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Baird, C",
+            "Course Title": "FIRE 722 \u2013 Firefighter Academy",
+            "Class Days": "M, W, Th, F",
+            "Class": 4,
+            "CRN": 97561,
+            "Units": 17
+        },
+        {
+            "Status": "",
+            "Professor": "Baird, C",
+            "Course Title": "",
+            "Class Days": "M, W, Th, F",
+            "Class": 5,
+            "CRN": 0,
+            "Units": 17
+        },
+        {
+            "Status": "",
+            "Professor": "Baird, C",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 6,
+            "CRN": 0,
+            "Units": 17
+        },
+        {
+            "Status": "",
+            "Professor": "Baird, C",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 7,
+            "CRN": 0,
+            "Units": 17
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ghiorso, D",
+            "Course Title": "FIRE 740 \u2013 Bldg Construction-Fire Protect",
+            "Class Days": "M",
+            "Class": 8,
+            "CRN": 86374,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ghiorso, D",
+            "Course Title": "FIRE 748 \u2013 Firefighter Safety & Survival",
+            "Class Days": "M",
+            "Class": 9,
+            "CRN": 92760,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Baird, C",
+            "Course Title": "FIRE 770 \u2013 Fire Service Career Prep",
+            "Class Days": "W",
+            "Class": 10,
+            "CRN": 94830,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Roderick, K",
+            "Course Title": "FIRE 797 \u2013 Emergency Medical Techn: Basic",
+            "Class Days": "T, F",
+            "Class": 11,
+            "CRN": 96050,
+            "Units": 11
+        },
+        {
+            "Status": "",
+            "Professor": "Roderick, K",
+            "Course Title": "",
+            "Class Days": "T, F",
+            "Class": 12,
+            "CRN": 0,
+            "Units": 11
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Fisher, R",
+            "Course Title": "FIRE 812 \u2013 Firefighter Cadet III",
+            "Class Days": "M, W, F",
+            "Class": 13,
+            "CRN": 94568,
+            "Units": 3
+        }
+    ]
+}

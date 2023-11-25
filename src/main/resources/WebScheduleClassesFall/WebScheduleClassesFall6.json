@@ -1,0 +1,5289 @@
+{
+    "Literature": [
+        {
+            "Status": "Closed",
+            "Professor": "Baden, R",
+            "Course Title": "LIT. 113 \u2013 The Novel",
+            "Class Days": "T, Th",
+            "Class": 1,
+            "CRN": 92228,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Palmer, L",
+            "Course Title": "LIT. 200 \u2013 American Literature",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 93067,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Erwert, A",
+            "Course Title": "LIT. 201 \u2013 American Literature I",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 95450,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Murphy, M",
+            "Course Title": "LIT. 231 \u2013 Survey of English Literature I",
+            "Class Days": "T, Th",
+            "Class": 4,
+            "CRN": 93674,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lachmayr, L",
+            "Course Title": "LIT. 370 \u2013 Lit Readings of Latino in U.S.",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 90079,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lachmayr, L",
+            "Course Title": "LIT. 370 \u2013 LIT of Latino in U.S.-Puente",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 98097,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Budd, A",
+            "Course Title": "LIT. 442 \u2013 Film Study and Appreciation",
+            "Class Days": "Th",
+            "Class": 7,
+            "CRN": 81347,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Budd, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Budd, A",
+            "Course Title": "LIT. 442 \u2013 Film Study and Appreciation",
+            "Class Days": "Th",
+            "Class": 9,
+            "CRN": 86781,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Budd, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 10,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Baden, R",
+            "Course Title": "LIT. 813 \u2013 The Novel",
+            "Class Days": "T, Th",
+            "Class": 11,
+            "CRN": 92253,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Murphy, M",
+            "Course Title": "LIT. 837 \u2013 Survey of English Literature I",
+            "Class Days": "T, Th",
+            "Class": 12,
+            "CRN": 88648,
+            "Units": 3
+        }
+    ],
+    "Interdisciplinary Studies": [
+        {
+            "Status": "Closed",
+            "Professor": "Hunt, J",
+            "Course Title": "IDST 101 \u2013 Humanities Honors Seminar I",
+            "Class Days": "Th",
+            "Class": 1,
+            "CRN": 96812,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Rhodes, J",
+            "Course Title": "IDST 102 \u2013 Sciences Honors Seminar I",
+            "Class Days": "F",
+            "Class": 2,
+            "CRN": 96769,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Rhodes, J",
+            "Course Title": "IDST 102 \u2013 Sciences Honors Seminar I",
+            "Class Days": "F",
+            "Class": 3,
+            "CRN": 94702,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hunt, J",
+            "Course Title": "IDST 103 \u2013 Humanities Honors Seminar II",
+            "Class Days": "Th",
+            "Class": 4,
+            "CRN": 96813,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Rhodes, J",
+            "Course Title": "IDST 104 \u2013 Sciences Honors Seminar II",
+            "Class Days": "F",
+            "Class": 5,
+            "CRN": 96772,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Rhodes, J",
+            "Course Title": "IDST 104 \u2013 Sciences Honors Seminar II",
+            "Class Days": "F",
+            "Class": 6,
+            "CRN": 94701,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Sapigao, J",
+            "Course Title": "IDST 105 \u2013 Honors Research Seminar",
+            "Class Days": "W",
+            "Class": 7,
+            "CRN": 98033,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Schubert, S",
+            "Course Title": "IDST 105 \u2013 Honors Research Seminar",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 97251,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Molteni, V",
+            "Course Title": "IDST 110 \u2013 College 1",
+            "Class Days": "T",
+            "Class": 9,
+            "CRN": 96212,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Molteni, V",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 10,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Woltag, L",
+            "Course Title": "IDST 110 \u2013 College 1",
+            "Class Days": "T, Th",
+            "Class": 11,
+            "CRN": 95813,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Woltag, L",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 12,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Tovo, F",
+            "Course Title": "IDST 110 \u2013 College 1",
+            "Class Days": "T, Th",
+            "Class": 13,
+            "CRN": 95866,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Anderson, R",
+            "Course Title": "IDST 110 \u2013 College 1",
+            "Class Days": "T",
+            "Class": 14,
+            "CRN": 95867,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Anderson, R",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 15,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Perez, G",
+            "Course Title": "IDST 110 \u2013 College 1",
+            "Class Days": "W",
+            "Class": 16,
+            "CRN": 95812,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Perez, G",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 17,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Wong, H",
+            "Course Title": "IDST 110 \u2013 College 1",
+            "Class Days": "W",
+            "Class": 18,
+            "CRN": 95865,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Wong, H",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 19,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Sidman-Taveau, R",
+            "Course Title": "IDST 150 \u2013 Honors Research Seminar",
+            "Class Days": "W",
+            "Class": 20,
+            "CRN": 97293,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Sidman-Taveau, R",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 21,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Sidman-Taveau, R",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 22,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Sidman-Taveau, R",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 23,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Sidman-Taveau, R",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 24,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Sidman-Taveau, R",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 25,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Sidman-Taveau, R",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 26,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Sidman-Taveau, R",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 27,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Sidman-Taveau, R",
+            "Course Title": "IDST 150 \u2013 Honors Research Seminar",
+            "Class Days": "",
+            "Class": 28,
+            "CRN": 97911,
+            "Units": 1
+        }
+    ],
+    "Hospitality/Tourism Management": [
+        {
+            "Status": "Closed",
+            "Professor": "Krone, L",
+            "Course Title": "HTM. 101 \u2013 Intro-Hospitality/Tourism Mgmt",
+            "Class Days": "",
+            "Class": 1,
+            "CRN": 94617,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Tuttle, J",
+            "Course Title": "HTM. 120 \u2013 Sanitation Practices",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 97119,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Tuttle, J",
+            "Course Title": "HTM. 120 \u2013 Sanitation Practices",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 97120,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Tuttle, J",
+            "Course Title": "HTM. 120 \u2013 Sanitation Practices",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 97121,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Tuttle, J",
+            "Course Title": "HTM. 120 \u2013 Sanitation Practices",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 97122,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Casale, M",
+            "Course Title": "HTM. 120 \u2013 Sanitation Practices",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 97150,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Casale, M",
+            "Course Title": "HTM. 120 \u2013 Sanitation Practices",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 97153,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Casale, M",
+            "Course Title": "HTM. 120 \u2013 Sanitation Practices",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 97154,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Casale, M",
+            "Course Title": "HTM. 120 \u2013 Sanitation Practices",
+            "Class Days": "",
+            "Class": 9,
+            "CRN": 97155,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ringseis, M",
+            "Course Title": "HTM. 120 \u2013 Sanitation Practices",
+            "Class Days": "",
+            "Class": 10,
+            "CRN": 97432,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ringseis, M",
+            "Course Title": "HTM. 120 \u2013 Sanitation Practices",
+            "Class Days": "",
+            "Class": 11,
+            "CRN": 97433,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Meyer, J",
+            "Course Title": "HTM. 120 \u2013 Sanitation Practices",
+            "Class Days": "",
+            "Class": 12,
+            "CRN": 97786,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ledford, G",
+            "Course Title": "HTM. 120 \u2013 Sanitation Practices",
+            "Class Days": "",
+            "Class": 13,
+            "CRN": 97802,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Meyer, J",
+            "Course Title": "HTM. 120 \u2013 Sanitation Practices",
+            "Class Days": "",
+            "Class": 14,
+            "CRN": 97869,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Meyer, J",
+            "Course Title": "HTM. 120 \u2013 Sanitation Practices",
+            "Class Days": "",
+            "Class": 15,
+            "CRN": 97870,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Meyer, J",
+            "Course Title": "HTM. 120 \u2013 Sanitation Practices",
+            "Class Days": "",
+            "Class": 16,
+            "CRN": 97871,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hughes, L",
+            "Course Title": "HTM. 120 \u2013 Sanitation Practices",
+            "Class Days": "",
+            "Class": 17,
+            "CRN": 98162,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hagen, D",
+            "Course Title": "HTM. 120 \u2013 Foods and Nutrition",
+            "Class Days": "",
+            "Class": 18,
+            "CRN": 98163,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hagen, D",
+            "Course Title": "HTM. 120 \u2013 Foods and Nutrition",
+            "Class Days": "",
+            "Class": 19,
+            "CRN": 98165,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ringseis, M",
+            "Course Title": "HTM. 125 \u2013 Restaurant/Banquet Operations",
+            "Class Days": "",
+            "Class": 20,
+            "CRN": 97131,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ringseis, M",
+            "Course Title": "HTM. 125 \u2013 Restaurant/Banquet Operations",
+            "Class Days": "",
+            "Class": 21,
+            "CRN": 97133,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ringseis, M",
+            "Course Title": "HTM. 125 \u2013 Restaurant/Banquet Operations",
+            "Class Days": "",
+            "Class": 22,
+            "CRN": 97431,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ledford, G",
+            "Course Title": "HTM. 125 \u2013 Restaurant/Banquet Operations",
+            "Class Days": "",
+            "Class": 23,
+            "CRN": 97434,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ledford, G",
+            "Course Title": "HTM. 125 \u2013 Restaurant/Banquet Operations",
+            "Class Days": "",
+            "Class": 24,
+            "CRN": 97436,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Casale, M",
+            "Course Title": "HTM. 125 \u2013 Restaurant/Banquet Operations",
+            "Class Days": "",
+            "Class": 25,
+            "CRN": 97442,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Tuttle, J",
+            "Course Title": "HTM. 125 \u2013 Restaurant/Banquet Operations",
+            "Class Days": "",
+            "Class": 26,
+            "CRN": 97444,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Meyer, J",
+            "Course Title": "HTM. 125 \u2013 Restaurant/Banquet Operations",
+            "Class Days": "",
+            "Class": 27,
+            "CRN": 97790,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ledford, G",
+            "Course Title": "HTM. 125 \u2013 Restaurant/Banquet Operations",
+            "Class Days": "",
+            "Class": 28,
+            "CRN": 97801,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ringseis, M",
+            "Course Title": "HTM. 125 \u2013 Restaurant/Banquet Operations",
+            "Class Days": "",
+            "Class": 29,
+            "CRN": 98164,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ledford, G",
+            "Course Title": "HTM. 125 \u2013 Sanitation Practices in Hospit",
+            "Class Days": "",
+            "Class": 30,
+            "CRN": 98166,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Salceda, L",
+            "Course Title": "HTM. 230 \u2013 Hotel and Resort Management",
+            "Class Days": "",
+            "Class": 31,
+            "CRN": 94619,
+            "Units": 3
+        }
+    ],
+    "Linguistics": [
+        {
+            "Status": "Closed",
+            "Professor": "Harmon, S",
+            "Course Title": "LING 200 \u2013 Intro. to Linguistics: Survey",
+            "Class Days": "W",
+            "Class": 1,
+            "CRN": 96465,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Harmon, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Harmon, S",
+            "Course Title": "LING 200 \u2013 Intro. to Linguistics: Survey",
+            "Class Days": "W",
+            "Class": 3,
+            "CRN": 93379,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Harmon, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 0,
+            "Units": 3
+        }
+    ],
+    "Journalism": [
+        {
+            "Status": "Closed",
+            "Professor": "Kaplan-Biegel, N",
+            "Course Title": "JOUR 110 \u2013 Mass Media & Society",
+            "Class Days": "M, W, F",
+            "Class": 1,
+            "CRN": 98044,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Kaplan-Biegel, N",
+            "Course Title": "JOUR 110 \u2013 Mass Media & Society",
+            "Class Days": "M, W, F",
+            "Class": 2,
+            "CRN": 98045,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Kaplan-Biegel, N",
+            "Course Title": "JOUR 110 \u2013 Mass Media & Society",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 96487,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Kaplan-Biegel, N",
+            "Course Title": "JOUR 120 \u2013 Wtring& Reporting forthe Media",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 97707,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Kaplan-Biegel, N",
+            "Course Title": "JOUR 121 \u2013 AdvWriting&Reporting for Media",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 97817,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Kaplan-Biegel, N",
+            "Course Title": "JOUR 320 \u2013 Beginning Newspaper Staff",
+            "Class Days": "M, W, F",
+            "Class": 6,
+            "CRN": 97512,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Kaplan-Biegel, N",
+            "Course Title": "JOUR 330 \u2013 Intermediate Newspaper Staff",
+            "Class Days": "M, W, F",
+            "Class": 7,
+            "CRN": 97630,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Kaplan-Biegel, N",
+            "Course Title": "JOUR 340 \u2013 Intermed. Adv. Newspaper Staff",
+            "Class Days": "M, W, F",
+            "Class": 8,
+            "CRN": 97634,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Kaplan-Biegel, N",
+            "Course Title": "JOUR 695 \u2013 Independent Study - Journalism",
+            "Class Days": "",
+            "Class": 9,
+            "CRN": 97834,
+            "Units": 53
+        }
+    ],
+    "Library Science": [
+        {
+            "Status": "Closed",
+            "Professor": "Montgomery, M",
+            "Course Title": "LIBR 100 \u2013 Intro. to Library Research",
+            "Class Days": "",
+            "Class": 1,
+            "CRN": 92864,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Thomas, L",
+            "Course Title": "LIBR 100 \u2013 Intro. to Library Research",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 93864,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lugo, A",
+            "Course Title": "LIBR 100 \u2013 Intro. to Information Research",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 95094,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Tedone-Goldstone, D",
+            "Course Title": "LIBR 100 \u2013 Intro. to Information Research",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 95315,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Tedone-Goldstone, D",
+            "Course Title": "LIBR 100 \u2013 Intro. to Info Research-Honors",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 96725,
+            "Units": 1
+        }
+    ],
+    "Management": [
+        {
+            "Status": "Closed",
+            "Professor": "Duhe, R",
+            "Course Title": "MGMT 100 \u2013 Intro to Management",
+            "Class Days": "",
+            "Class": 1,
+            "CRN": 95085,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Stokke, P",
+            "Course Title": "MGMT 100 \u2013 Intro to Management",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 95240,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "VonBleichert, P",
+            "Course Title": "MGMT 100 \u2013 Intro to Management",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 96036,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Shankar, G",
+            "Course Title": "MGMT 100 \u2013 Intro to Business Management",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 96059,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "McCarthy, S",
+            "Course Title": "MGMT 101 \u2013 Intro to Human Resources Mgmt",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 96592,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Duhe, R",
+            "Course Title": "MGMT 104 \u2013 Leadership Theory",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 97875,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Stokke, P",
+            "Course Title": "MGMT 151 \u2013 HR Compensation & Benefits",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 97474,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Beltran, H",
+            "Course Title": "MGMT 152 \u2013 HR Talent Acquisition/Perform",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 96880,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Erickson, C",
+            "Course Title": "MGMT 215 \u2013 Human Resources Management",
+            "Class Days": "",
+            "Class": 9,
+            "CRN": 95089,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Duhe, R",
+            "Course Title": "MGMT 220 \u2013 Organizational Behavior",
+            "Class Days": "",
+            "Class": 10,
+            "CRN": 92323,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Comerford, E",
+            "Course Title": "MGMT 265 \u2013 Project Management",
+            "Class Days": "",
+            "Class": 11,
+            "CRN": 97559,
+            "Units": 3
+        }
+    ],
+    "Learning Skills": [
+        {
+            "Status": "Closed",
+            "Professor": "Lindo, J",
+            "Course Title": "LSKL 110 \u2013 Effective Tutoring & Practicum",
+            "Class Days": "T, Th",
+            "Class": 1,
+            "CRN": 96629,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Lindo, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "De Barra, C",
+            "Course Title": "LSKL 800 \u2013 Supplemental Learn Assis (1)",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 89422,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "De Barra, C",
+            "Course Title": "LSKL 800 \u2013 Supplemental Learn Assis (.5)",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 91661,
+            "Units": 0.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "De Barra, C",
+            "Course Title": "LSKL 800 \u2013 Supp. Lrn. Asst. - PSP (.5)",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 91662,
+            "Units": 0.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "De Barra, C",
+            "Course Title": "LSKL 800 \u2013 Supp. Lrn. Asst. - PSP (1)",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 91663,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "De Barra, C",
+            "Course Title": "LSKL 800 \u2013 Supp.Lrn Asst.-TRIO (.5)",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 91989,
+            "Units": 0.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "De Barra, C",
+            "Course Title": "LSKL 800 \u2013 Supp.Lrn Asst.-TRIO (1)",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 92018,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "De Barra, C",
+            "Course Title": "LSKL 800 \u2013 Supplemental Learn. Assis. (1)",
+            "Class Days": "",
+            "Class": 9,
+            "CRN": 85925,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "De Barra, C",
+            "Course Title": "LSKL 800 \u2013 Supp.Lrn Asst.-TRIO (.5)",
+            "Class Days": "",
+            "Class": 10,
+            "CRN": 90709,
+            "Units": 0.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "De Barra, C",
+            "Course Title": "LSKL 800 \u2013 Supp.Lrn Asst.-TRIO (1)",
+            "Class Days": "",
+            "Class": 11,
+            "CRN": 91283,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "De Barra, C",
+            "Course Title": "LSKL 800 \u2013 Supp. Lrn. Asst. - PSP (.5)",
+            "Class Days": "",
+            "Class": 12,
+            "CRN": 91660,
+            "Units": 0.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "De Barra, C",
+            "Course Title": "LSKL 800 \u2013 Supplemental Learn. Assis.(.5)",
+            "Class Days": "",
+            "Class": 13,
+            "CRN": 91923,
+            "Units": 0.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "De Barra, C",
+            "Course Title": "LSKL 800 \u2013 Supp. Lrn. Asst. - PSP (1)",
+            "Class Days": "",
+            "Class": 14,
+            "CRN": 96971,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "De Barra, C",
+            "Course Title": "LSKL 803 \u2013 Supv. Peer Tutoring",
+            "Class Days": "",
+            "Class": 15,
+            "CRN": 95205,
+            "Units": 0
+        },
+        {
+            "Status": "Closed",
+            "Professor": "De Barra, C",
+            "Course Title": "LSKL 803 \u2013 Supv. Peer Tutoring - TRIO",
+            "Class Days": "",
+            "Class": 16,
+            "CRN": 95221,
+            "Units": 0
+        },
+        {
+            "Status": "Closed",
+            "Professor": "De Barra, C",
+            "Course Title": "LSKL 803 \u2013 Supv. Peer Tutoring - PSP",
+            "Class Days": "",
+            "Class": 17,
+            "CRN": 97596,
+            "Units": 0
+        },
+        {
+            "Status": "Closed",
+            "Professor": "De Barra, C",
+            "Course Title": "LSKL 803 \u2013 Supv. Peer Tutoring - Umoja",
+            "Class Days": "",
+            "Class": 18,
+            "CRN": 98131,
+            "Units": 0
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Hein, E",
+            "Course Title": "LSKL 803 \u2013 Supv. Peer Tutoring - MESA",
+            "Class Days": "",
+            "Class": 19,
+            "CRN": 91150,
+            "Units": 0
+        },
+        {
+            "Status": "Closed",
+            "Professor": "De Barra, C",
+            "Course Title": "LSKL 803 \u2013 Supervised Peer Tutoring",
+            "Class Days": "",
+            "Class": 20,
+            "CRN": 91796,
+            "Units": 0
+        },
+        {
+            "Status": "Closed",
+            "Professor": "De Barra, C",
+            "Course Title": "LSKL 803 \u2013 Supv. Peer Tutoring - TRIO",
+            "Class Days": "",
+            "Class": 21,
+            "CRN": 94732,
+            "Units": 0
+        },
+        {
+            "Status": "Closed",
+            "Professor": "De Barra, C",
+            "Course Title": "LSKL 803 \u2013 Supv. Peer Tutoring - PSP",
+            "Class Days": "",
+            "Class": 22,
+            "CRN": 96395,
+            "Units": 0
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Weathersby, K",
+            "Course Title": "LSKL 890 \u2013 Math Jam",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 23,
+            "CRN": 95781,
+            "Units": 0
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Schubert, S",
+            "Course Title": "LSKL 892 \u2013 Chemistry Jam",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 24,
+            "CRN": 97579,
+            "Units": 0
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Schubert, S",
+            "Course Title": "LSKL 892 \u2013 Chemistry Jam",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 25,
+            "CRN": 97005,
+            "Units": 0
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lopez-Thibodeaux, M",
+            "Course Title": "LSKL 894 \u2013 Physics Jam",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 26,
+            "CRN": 97580,
+            "Units": 0
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lopez-Thibodeaux, M",
+            "Course Title": "LSKL 894 \u2013 Physics Jam",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 27,
+            "CRN": 97018,
+            "Units": 0
+        }
+    ],
+    "Interior Design": [
+        {
+            "Status": "Closed",
+            "Professor": "Torres, E",
+            "Course Title": "INTD 115 \u2013 Intro to Interior Design",
+            "Class Days": "M",
+            "Class": 1,
+            "CRN": 81286,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Joshi, A",
+            "Course Title": "INTD 128 \u2013 Presentation Techniques",
+            "Class Days": "T",
+            "Class": 2,
+            "CRN": 89445,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Mueller, B",
+            "Course Title": "INTD 148 \u2013 Color and Design",
+            "Class Days": "M",
+            "Class": 3,
+            "CRN": 89963,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Kasser, S",
+            "Course Title": "INTD 150 \u2013 History of Interiors I",
+            "Class Days": "Th",
+            "Class": 4,
+            "CRN": 97459,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Torres, E",
+            "Course Title": "INTD 175 \u2013 Space Planning and Design",
+            "Class Days": "T",
+            "Class": 5,
+            "CRN": 93082,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Tawakoli, S",
+            "Course Title": "INTD 260 \u2013 Overview of Lighting Design",
+            "Class Days": "F",
+            "Class": 6,
+            "CRN": 83072,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Cravy, S",
+            "Course Title": "INTD 272 \u2013 Kitchen and Bath Design",
+            "Class Days": "W",
+            "Class": 7,
+            "CRN": 97461,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Montano-Rock, A",
+            "Course Title": "INTD 300 \u2013 Studio I: Home Staging",
+            "Class Days": "W",
+            "Class": 8,
+            "CRN": 96499,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Torres, E",
+            "Course Title": "INTD 301 \u2013 Portfolio Development",
+            "Class Days": "W",
+            "Class": 9,
+            "CRN": 97741,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Cravy, S",
+            "Course Title": "INTD 357 \u2013 Kitchen and Bath Systems",
+            "Class Days": "Th",
+            "Class": 10,
+            "CRN": 97464,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Torres, E",
+            "Course Title": "INTD 361 \u2013 Chief Architect fr Interior De",
+            "Class Days": "M",
+            "Class": 11,
+            "CRN": 96458,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Torres, E",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 12,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Torres, E",
+            "Course Title": "INTD 400 \u2013 Principles of Sustainable Des.",
+            "Class Days": "T",
+            "Class": 13,
+            "CRN": 94869,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Joshi, A",
+            "Course Title": "INTD 450 \u2013 Materials and Finishes",
+            "Class Days": "Th",
+            "Class": 14,
+            "CRN": 97466,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Torres, E",
+            "Course Title": "INTD 672 \u2013 Cooperative Educ: Internship",
+            "Class Days": "",
+            "Class": 15,
+            "CRN": 81311,
+            "Units": 13
+        },
+        {
+            "Status": "",
+            "Professor": "Torres, E",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 16,
+            "CRN": 0,
+            "Units": 13
+        }
+    ],
+    "Learning Center": [
+        {
+            "Status": "Closed",
+            "Professor": "Martinez Luna, D",
+            "Course Title": "LCTR 100 \u2013 Effective Tutoring",
+            "Class Days": "F",
+            "Class": 1,
+            "CRN": 93484,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Martinez Luna, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Taylor, J",
+            "Course Title": "LCTR 100 \u2013 Effective Tutoring & Practicum",
+            "Class Days": "F",
+            "Class": 3,
+            "CRN": 92738,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Taylor, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Taylor, J",
+            "Course Title": "LCTR 139 \u2013 The Research Paper from A to Z",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 84041,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Taylor, J",
+            "Course Title": "LCTR 140 \u2013 Professional Writing",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 85095,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Martinez Luna, D",
+            "Course Title": "LCTR 698 \u2013 Supvsd Tutoring/Acad. Assistnc",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 93480,
+            "Units": 0
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Taylor, J",
+            "Course Title": "LCTR 698 \u2013 Supvsd Tutoring/Acad. Assistnc",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 96473,
+            "Units": 0
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Taylor, J",
+            "Course Title": "LCTR 810 \u2013 Study Skills",
+            "Class Days": "",
+            "Class": 9,
+            "CRN": 84043,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Taylor, J",
+            "Course Title": "LCTR 822 \u2013 Grammar Trouble Spots I",
+            "Class Days": "",
+            "Class": 10,
+            "CRN": 84046,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Taylor, J",
+            "Course Title": "LCTR 840 \u2013 Vocabulary Improvement I",
+            "Class Days": "",
+            "Class": 11,
+            "CRN": 85105,
+            "Units": 1
+        }
+    ],
+    "Kinesiology": [
+        {
+            "Status": "Closed",
+            "Professor": "Schmidt, M",
+            "Course Title": "ADAP 100 \u2013 Adapted Aquatics",
+            "Class Days": "T, Th",
+            "Class": 1,
+            "CRN": 81642,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Young, S",
+            "Course Title": "ADAP 110 \u2013 Adapted General Conditioning",
+            "Class Days": "M, W, F",
+            "Class": 2,
+            "CRN": 81644,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Young, S",
+            "Course Title": "ADAP 110 \u2013 Adapted General Conditioning",
+            "Class Days": "M, W, F",
+            "Class": 3,
+            "CRN": 97051,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Young, S",
+            "Course Title": "ADAP 110 \u2013 Adapted General Conditioning",
+            "Class Days": "T",
+            "Class": 4,
+            "CRN": 97052,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Young, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Young, S",
+            "Course Title": "ADAP 140 \u2013 Adapted Weight Training",
+            "Class Days": "M, W, F",
+            "Class": 6,
+            "CRN": 81648,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Young, S",
+            "Course Title": "ADAP 155 \u2013 Adapted Back Care",
+            "Class Days": "M, W",
+            "Class": 7,
+            "CRN": 86513,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Young, S",
+            "Course Title": "ADAP 155 \u2013 Adapted Back Care",
+            "Class Days": "T",
+            "Class": 8,
+            "CRN": 86516,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Young, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 9,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Marquez, R",
+            "Course Title": "ADAP 358 \u2013 Adapted Strength Development",
+            "Class Days": "T, Th",
+            "Class": 10,
+            "CRN": 91871,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Marquez, R",
+            "Course Title": "ADAP 359 \u2013 Balance/Functional Movement...",
+            "Class Days": "",
+            "Class": 11,
+            "CRN": 91876,
+            "Units": 51
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.1 \u2013 Swim Stroke Development I",
+            "Class Days": "M, W, F",
+            "Class": 12,
+            "CRN": 97543,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.1 \u2013 Swim Stroke Development I",
+            "Class Days": "M, W, F",
+            "Class": 13,
+            "CRN": 97545,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 127.1 \u2013 Swim Stroke Development I",
+            "Class Days": "M, W",
+            "Class": 14,
+            "CRN": 93869,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.1 \u2013 Swim Stroke Development I",
+            "Class Days": "M, W, F",
+            "Class": 15,
+            "CRN": 97546,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.1 \u2013 Swim Stroke Development I",
+            "Class Days": "M, W, F",
+            "Class": 16,
+            "CRN": 97547,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 127.1 \u2013 Swim Stroke Development I",
+            "Class Days": "T, Th",
+            "Class": 17,
+            "CRN": 93877,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.2 \u2013 Swim Stroke Development II",
+            "Class Days": "M, W, F",
+            "Class": 18,
+            "CRN": 97616,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.2 \u2013 Swim Stroke Development II",
+            "Class Days": "M, W, F",
+            "Class": 19,
+            "CRN": 97619,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 127.2 \u2013 Swim Stroke Development II",
+            "Class Days": "M, W",
+            "Class": 20,
+            "CRN": 93870,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.2 \u2013 Swim Stroke Development II",
+            "Class Days": "M, W, F",
+            "Class": 21,
+            "CRN": 97622,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.2 \u2013 Swim Stroke Development II",
+            "Class Days": "M, W, F",
+            "Class": 22,
+            "CRN": 97625,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 127.2 \u2013 Swim Stroke Development II",
+            "Class Days": "T, Th",
+            "Class": 23,
+            "CRN": 93886,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.3 \u2013 Swim Stroke Development III",
+            "Class Days": "M, W, F",
+            "Class": 24,
+            "CRN": 97617,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.3 \u2013 Swim Stroke Development III",
+            "Class Days": "M, W, F",
+            "Class": 25,
+            "CRN": 97620,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 127.3 \u2013 Swim Stroke Development III",
+            "Class Days": "M, W",
+            "Class": 26,
+            "CRN": 93871,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.3 \u2013 Swim Stroke Development III",
+            "Class Days": "M, W, F",
+            "Class": 27,
+            "CRN": 97623,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.3 \u2013 Swim Stroke Development III",
+            "Class Days": "M, W, F",
+            "Class": 28,
+            "CRN": 97626,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 127.3 \u2013 Swim Stroke Development III",
+            "Class Days": "T, Th",
+            "Class": 29,
+            "CRN": 93887,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.4 \u2013 Swim Stroke Development IV",
+            "Class Days": "M, W, F",
+            "Class": 30,
+            "CRN": 97618,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.4 \u2013 Swim Stroke Development IV",
+            "Class Days": "M, W, F",
+            "Class": 31,
+            "CRN": 97621,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 127.4 \u2013 Swim Stroke Development IV",
+            "Class Days": "M, W",
+            "Class": 32,
+            "CRN": 93872,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.4 \u2013 Swim Stroke Development IV",
+            "Class Days": "M, W, F",
+            "Class": 33,
+            "CRN": 97624,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Smith, J",
+            "Course Title": "AQUA 127.4 \u2013 Swim Stroke Development IV",
+            "Class Days": "M, W, F",
+            "Class": 34,
+            "CRN": 97627,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 127.4 \u2013 Swim Stroke Development IV",
+            "Class Days": "T, Th",
+            "Class": 35,
+            "CRN": 93888,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 133.1 \u2013 Individual Swim Conditioning I",
+            "Class Days": "M, W",
+            "Class": 36,
+            "CRN": 93873,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 133.1 \u2013 Individual Swim Conditioning I",
+            "Class Days": "T, Th",
+            "Class": 37,
+            "CRN": 93889,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 133.2 \u2013 Indiv Swim Conditioning II",
+            "Class Days": "M, W",
+            "Class": 38,
+            "CRN": 93874,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 133.2 \u2013 Indiv Swim Conditioning II",
+            "Class Days": "T, Th",
+            "Class": 39,
+            "CRN": 93890,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 133.3 \u2013 Indiv Swim Conditioning III",
+            "Class Days": "M, W",
+            "Class": 40,
+            "CRN": 93875,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 133.3 \u2013 Indiv Swim Conditioning III",
+            "Class Days": "T, Th",
+            "Class": 41,
+            "CRN": 93891,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 133.4 \u2013 Indiv Swim Conditioning IV",
+            "Class Days": "M, W",
+            "Class": 42,
+            "CRN": 93876,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Silva, A",
+            "Course Title": "AQUA 133.4 \u2013 Indiv Swim Conditioning IV",
+            "Class Days": "T, Th",
+            "Class": 43,
+            "CRN": 93892,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Barrilleaux, E",
+            "Course Title": "AQUA 135.1 \u2013 Aqua Exercise I",
+            "Class Days": "T, Th",
+            "Class": 44,
+            "CRN": 93922,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Barrilleaux, E",
+            "Course Title": "AQUA 135.2 \u2013 Aqua Exercise II",
+            "Class Days": "T, Th",
+            "Class": 45,
+            "CRN": 93923,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Barrilleaux, E",
+            "Course Title": "AQUA 135.3 \u2013 Aqua Exercise III",
+            "Class Days": "T, Th",
+            "Class": 46,
+            "CRN": 93924,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Barrilleaux, E",
+            "Course Title": "AQUA 135.4 \u2013 Aqua Exercise IV",
+            "Class Days": "T, Th",
+            "Class": 47,
+            "CRN": 93925,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Haddon, J",
+            "Course Title": "COMB 401.1 \u2013 Self Defense I",
+            "Class Days": "",
+            "Class": 48,
+            "CRN": 93992,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Haddon, J",
+            "Course Title": "COMB 401.2 \u2013 Self Defense II",
+            "Class Days": "",
+            "Class": 49,
+            "CRN": 93993,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Haddon, J",
+            "Course Title": "COMB 401.3 \u2013 Self Defense III",
+            "Class Days": "",
+            "Class": 50,
+            "CRN": 97335,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Walton, J",
+            "Course Title": "DANC 100 \u2013 Dance Appreciation",
+            "Class Days": "T, Th",
+            "Class": 51,
+            "CRN": 97050,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Miladinova, A",
+            "Course Title": "DANC 100 \u2013 Dance Appreciation",
+            "Class Days": "",
+            "Class": 52,
+            "CRN": 96455,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Keyes, A",
+            "Course Title": "DANC 100 \u2013 Dance Appreciation",
+            "Class Days": "",
+            "Class": 53,
+            "CRN": 97047,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Steele, A",
+            "Course Title": "DANC 102 \u2013 Hip Hop Dance Roots",
+            "Class Days": "",
+            "Class": 54,
+            "CRN": 96893,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Montano, L",
+            "Course Title": "DANC 115.1 \u2013 Mexican Folkloric Dance I",
+            "Class Days": "Sa",
+            "Class": 55,
+            "CRN": 97922,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Walton, J",
+            "Course Title": "DANC 117.1 \u2013 Tap Dance I",
+            "Class Days": "M",
+            "Class": 56,
+            "CRN": 94467,
+            "Units": 0.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Walton, J",
+            "Course Title": "DANC 117.2 \u2013 Tap Dance II",
+            "Class Days": "M",
+            "Class": 57,
+            "CRN": 94468,
+            "Units": 0.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Walton, J",
+            "Course Title": "DANC 117.3 \u2013 Tap Dance III",
+            "Class Days": "M",
+            "Class": 58,
+            "CRN": 94469,
+            "Units": 0.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Walton, J",
+            "Course Title": "DANC 117.4 \u2013 Tap Dance IV",
+            "Class Days": "M",
+            "Class": 59,
+            "CRN": 94470,
+            "Units": 0.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lorenz, C",
+            "Course Title": "DANC 121.1 \u2013 Contemporary Modern Dance I",
+            "Class Days": "M",
+            "Class": 60,
+            "CRN": 96451,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Chertudi, L",
+            "Course Title": "DANC 121.1 \u2013 Modern Dance I",
+            "Class Days": "T, Th",
+            "Class": 61,
+            "CRN": 93834,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lorenz, C",
+            "Course Title": "DANC 121.2 \u2013 Contemporary Modern Dance II",
+            "Class Days": "M",
+            "Class": 62,
+            "CRN": 96452,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Chertudi, L",
+            "Course Title": "DANC 121.2 \u2013 Modern Dance II",
+            "Class Days": "T, Th",
+            "Class": 63,
+            "CRN": 93835,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lorenz, C",
+            "Course Title": "DANC 121.3 \u2013 Contemporary Modern Dance III",
+            "Class Days": "M",
+            "Class": 64,
+            "CRN": 96453,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Chertudi, L",
+            "Course Title": "DANC 121.3 \u2013 Modern Dance III",
+            "Class Days": "T, Th",
+            "Class": 65,
+            "CRN": 93836,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lorenz, C",
+            "Course Title": "DANC 121.4 \u2013 Contemporary Modern Dance IV",
+            "Class Days": "M",
+            "Class": 66,
+            "CRN": 96454,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Chertudi, L",
+            "Course Title": "DANC 121.4 \u2013 Modern Dance IV",
+            "Class Days": "T, Th",
+            "Class": 67,
+            "CRN": 93837,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Quijano, V",
+            "Course Title": "DANC 125.1 \u2013 Salsa I",
+            "Class Days": "T, Th",
+            "Class": 68,
+            "CRN": 93710,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Quijano, V",
+            "Course Title": "DANC 125.1 \u2013 Salsa I",
+            "Class Days": "T, Th",
+            "Class": 69,
+            "CRN": 98168,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Quijano, V",
+            "Course Title": "DANC 125.2 \u2013 Salsa II",
+            "Class Days": "T, Th",
+            "Class": 70,
+            "CRN": 93712,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Quijano, V",
+            "Course Title": "DANC 125.2 \u2013 Salsa II",
+            "Class Days": "T, Th",
+            "Class": 71,
+            "CRN": 98169,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Quijano, V",
+            "Course Title": "DANC 125.3 \u2013 Salsa III",
+            "Class Days": "T, Th",
+            "Class": 72,
+            "CRN": 93714,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Quijano, V",
+            "Course Title": "DANC 125.3 \u2013 Salsa III",
+            "Class Days": "T, Th",
+            "Class": 73,
+            "CRN": 98170,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Quijano, V",
+            "Course Title": "DANC 125.4 \u2013 Salsa IV",
+            "Class Days": "T, Th",
+            "Class": 74,
+            "CRN": 94499,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Quijano, V",
+            "Course Title": "DANC 125.4 \u2013 Salsa IV",
+            "Class Days": "T, Th",
+            "Class": 75,
+            "CRN": 98171,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Steele, A",
+            "Course Title": "DANC 130.1 \u2013 Jazz Dance I",
+            "Class Days": "T, Th",
+            "Class": 76,
+            "CRN": 94871,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Begley, C",
+            "Course Title": "DANC 130.1 \u2013 Jazz Dance I",
+            "Class Days": "T, Th",
+            "Class": 77,
+            "CRN": 97926,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Steele, A",
+            "Course Title": "DANC 130.2 \u2013 Jazz Dance II",
+            "Class Days": "T, Th",
+            "Class": 78,
+            "CRN": 94872,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Begley, C",
+            "Course Title": "DANC 130.2 \u2013 Jazz Dance II",
+            "Class Days": "T, Th",
+            "Class": 79,
+            "CRN": 97927,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Steele, A",
+            "Course Title": "DANC 130.3 \u2013 Jazz Dance III",
+            "Class Days": "T, Th",
+            "Class": 80,
+            "CRN": 94873,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Begley, C",
+            "Course Title": "DANC 130.3 \u2013 Jazz Dance III",
+            "Class Days": "T, Th",
+            "Class": 81,
+            "CRN": 97962,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Begley, C",
+            "Course Title": "DANC 130.4 \u2013 Jazz Dance IV",
+            "Class Days": "T, Th",
+            "Class": 82,
+            "CRN": 97929,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Dailey, D",
+            "Course Title": "DANC 140.1 \u2013 Ballet I",
+            "Class Days": "M, W, F",
+            "Class": 83,
+            "CRN": 93939,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Steele, A",
+            "Course Title": "DANC 140.1 \u2013 Ballet I",
+            "Class Days": "M, W",
+            "Class": 84,
+            "CRN": 94015,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Simmers, K",
+            "Course Title": "DANC 140.1 \u2013 Ballet I",
+            "Class Days": "M, W",
+            "Class": 85,
+            "CRN": 98090,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Dailey, D",
+            "Course Title": "DANC 140.2 \u2013 Ballet II",
+            "Class Days": "M, W, F",
+            "Class": 86,
+            "CRN": 93940,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Simmers, K",
+            "Course Title": "DANC 140.2 \u2013 Ballet II",
+            "Class Days": "M, W",
+            "Class": 87,
+            "CRN": 98091,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Dailey, D",
+            "Course Title": "DANC 140.3 \u2013 Ballet III",
+            "Class Days": "M, W, F",
+            "Class": 88,
+            "CRN": 93941,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Steele, A",
+            "Course Title": "DANC 140.3 \u2013 Ballet III",
+            "Class Days": "M, W",
+            "Class": 89,
+            "CRN": 94017,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Simmers, K",
+            "Course Title": "DANC 140.3 \u2013 Ballet III",
+            "Class Days": "M, W",
+            "Class": 90,
+            "CRN": 98092,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Dailey, D",
+            "Course Title": "DANC 140.4 \u2013 Ballet IV",
+            "Class Days": "M, W, F",
+            "Class": 91,
+            "CRN": 93942,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Simmers, K",
+            "Course Title": "DANC 140.4 \u2013 Ballet IV",
+            "Class Days": "M, W",
+            "Class": 92,
+            "CRN": 98093,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Begley, C",
+            "Course Title": "DANC 150.1 \u2013 Hip Hop I",
+            "Class Days": "T, Th",
+            "Class": 93,
+            "CRN": 93447,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ulloa, M",
+            "Course Title": "DANC 150.1 \u2013 Hip Hop I",
+            "Class Days": "M, W",
+            "Class": 94,
+            "CRN": 94856,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Begley, C",
+            "Course Title": "DANC 150.2 \u2013 Hip Hop II",
+            "Class Days": "T, Th",
+            "Class": 95,
+            "CRN": 95294,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Begley, C",
+            "Course Title": "DANC 150.3 \u2013 Hip Hop III",
+            "Class Days": "T, Th",
+            "Class": 96,
+            "CRN": 95295,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Begley, C",
+            "Course Title": "DANC 150.4 \u2013 Hip Hop IV",
+            "Class Days": "T, Th",
+            "Class": 97,
+            "CRN": 95296,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Walton, J",
+            "Course Title": "DANC 151.1 \u2013 Social Dance I",
+            "Class Days": "M",
+            "Class": 98,
+            "CRN": 93947,
+            "Units": 0.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Walton, J",
+            "Course Title": "DANC 151.2 \u2013 Social Dance II",
+            "Class Days": "M",
+            "Class": 99,
+            "CRN": 93948,
+            "Units": 0.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Walton, J",
+            "Course Title": "DANC 151.3 \u2013 Social Dance III",
+            "Class Days": "M",
+            "Class": 100,
+            "CRN": 93949,
+            "Units": 0.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Walton, J",
+            "Course Title": "DANC 151.4 \u2013 Social Dance IV",
+            "Class Days": "M",
+            "Class": 101,
+            "CRN": 93950,
+            "Units": 0.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Delmar, K",
+            "Course Title": "DANC 152.1 \u2013 Cuban Salsa I",
+            "Class Days": "M",
+            "Class": 102,
+            "CRN": 94022,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Delmar, K",
+            "Course Title": "DANC 152.2 \u2013 Cuban Salsa II",
+            "Class Days": "M",
+            "Class": 103,
+            "CRN": 94023,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Delmar, K",
+            "Course Title": "DANC 152.3 \u2013 Cuban Salsa III",
+            "Class Days": "M",
+            "Class": 104,
+            "CRN": 94024,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Delmar, K",
+            "Course Title": "DANC 157.1 \u2013 Afro Cuban Dance I",
+            "Class Days": "W",
+            "Class": 105,
+            "CRN": 97674,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Delmar, K",
+            "Course Title": "DANC 157.2 \u2013 Afro Cuban Dance II",
+            "Class Days": "W",
+            "Class": 106,
+            "CRN": 97675,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Delmar, K",
+            "Course Title": "DANC 157.3 \u2013 Afro Cuban Dance III",
+            "Class Days": "W",
+            "Class": 107,
+            "CRN": 97676,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Delmar, K",
+            "Course Title": "DANC 161.1 \u2013 Tango Argentino I",
+            "Class Days": "F",
+            "Class": 108,
+            "CRN": 97519,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Delmar, K",
+            "Course Title": "DANC 161.2 \u2013 Tango Argentino II",
+            "Class Days": "F",
+            "Class": 109,
+            "CRN": 97520,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Delmar, K",
+            "Course Title": "DANC 161.3 \u2013 Tango Argentino III",
+            "Class Days": "F",
+            "Class": 110,
+            "CRN": 97521,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Delmar, K",
+            "Course Title": "DANC 161.4 \u2013 Tango Argentino IV",
+            "Class Days": "F",
+            "Class": 111,
+            "CRN": 97522,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Steele, A",
+            "Course Title": "DANC 350.1 \u2013 Cardio Dance I",
+            "Class Days": "",
+            "Class": 112,
+            "CRN": 94027,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Steele, A",
+            "Course Title": "DANC 350.2 \u2013 Cardio Dance II",
+            "Class Days": "",
+            "Class": 113,
+            "CRN": 94028,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Steele, A",
+            "Course Title": "DANC 350.3 \u2013 Cardio Dance III",
+            "Class Days": "",
+            "Class": 114,
+            "CRN": 94029,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Dailey, D",
+            "Course Title": "DANC 390 \u2013 Dance Composition/Theory/Chore",
+            "Class Days": "M, W, F",
+            "Class": 115,
+            "CRN": 94723,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Dailey, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 116,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Dailey, D",
+            "Course Title": "DANC 400.1 \u2013 Dance Performance & Prod I",
+            "Class Days": "M, W, F",
+            "Class": 117,
+            "CRN": 94442,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Begley, C",
+            "Course Title": "DANC 400.1 \u2013 Dance Performance & Prod I",
+            "Class Days": "T, Th",
+            "Class": 118,
+            "CRN": 97195,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Steele, A",
+            "Course Title": "DANC 400.1 \u2013 Dance Performance & Prod I",
+            "Class Days": "",
+            "Class": 119,
+            "CRN": 95306,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Mansel, H",
+            "Course Title": "DANC 400.1 \u2013 Dance Performance & Prod I",
+            "Class Days": "",
+            "Class": 120,
+            "CRN": 97397,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Dailey, D",
+            "Course Title": "DANC 400.2 \u2013 Dance Performance & Prod II",
+            "Class Days": "M, W, F",
+            "Class": 121,
+            "CRN": 94881,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Begley, C",
+            "Course Title": "DANC 400.2 \u2013 Dance Performance & Prod II",
+            "Class Days": "T, Th",
+            "Class": 122,
+            "CRN": 97196,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Mansel, H",
+            "Course Title": "DANC 400.2 \u2013 Dance Performance & Prod II",
+            "Class Days": "",
+            "Class": 123,
+            "CRN": 97424,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Dailey, D",
+            "Course Title": "DANC 400.3 \u2013 Dance Performance & Prod III",
+            "Class Days": "M, W, F",
+            "Class": 124,
+            "CRN": 95130,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Begley, C",
+            "Course Title": "DANC 400.3 \u2013 Dance Performance & Prod III",
+            "Class Days": "T, Th",
+            "Class": 125,
+            "CRN": 97197,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Dailey, D",
+            "Course Title": "DANC 400.4 \u2013 Dance Performance & Prod. IV",
+            "Class Days": "M, W, F",
+            "Class": 126,
+            "CRN": 95383,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Begley, C",
+            "Course Title": "DANC 400.4 \u2013 Dance Performance & Prod. IV",
+            "Class Days": "T, Th",
+            "Class": 127,
+            "CRN": 97198,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ferguson, G",
+            "Course Title": "DANC 410.1 \u2013 Dance - Musical Theater Prod I",
+            "Class Days": "T, Th",
+            "Class": 128,
+            "CRN": 98156,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ferguson, G",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 129,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ferguson, G",
+            "Course Title": "DANC 410.2 \u2013 Dance-Musical Theater Prod II",
+            "Class Days": "T, Th",
+            "Class": 130,
+            "CRN": 98158,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ferguson, G",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 131,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ferguson, G",
+            "Course Title": "DANC 410.3 \u2013 Dance-Musical Theater Prod III",
+            "Class Days": "T, Th",
+            "Class": 132,
+            "CRN": 98159,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ferguson, G",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 133,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Ferguson, G",
+            "Course Title": "DANC 410.4 \u2013 Dance-Musical Theater Prod IV",
+            "Class Days": "T, Th",
+            "Class": 134,
+            "CRN": 98160,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Ferguson, G",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 135,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Haddon, J",
+            "Course Title": "FITN 107 \u2013 Intercollegiate Fitness",
+            "Class Days": "",
+            "Class": 136,
+            "CRN": 93189,
+            "Units": 0.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Brunicardi, A",
+            "Course Title": "FITN 112.1 \u2013 Cross Training I",
+            "Class Days": "M, W, F",
+            "Class": 137,
+            "CRN": 94046,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Brunicardi, A",
+            "Course Title": "FITN 112.2 \u2013 Cross Training II",
+            "Class Days": "M, W, F",
+            "Class": 138,
+            "CRN": 94047,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Brunicardi, A",
+            "Course Title": "FITN 112.3 \u2013 Cross Training III",
+            "Class Days": "M, W, F",
+            "Class": 139,
+            "CRN": 94048,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Burns, K",
+            "Course Title": "FITN 116.1 \u2013 Body Conditioning I",
+            "Class Days": "M, W, F",
+            "Class": 140,
+            "CRN": 93768,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Goldhahn, K",
+            "Course Title": "FITN 116.1 \u2013 Body Conditioning I",
+            "Class Days": "T",
+            "Class": 141,
+            "CRN": 93747,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Goldhahn, K",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 142,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Schmidt, M",
+            "Course Title": "FITN 116.1 \u2013 Body Conditioning I",
+            "Class Days": "",
+            "Class": 143,
+            "CRN": 93823,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Saucedo, G",
+            "Course Title": "FITN 116.1 \u2013 Body Conditioning I",
+            "Class Days": "",
+            "Class": 144,
+            "CRN": 94055,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Burns, K",
+            "Course Title": "FITN 116.2 \u2013 Body Conditioning II",
+            "Class Days": "M, W, F",
+            "Class": 145,
+            "CRN": 93769,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Goldhahn, K",
+            "Course Title": "FITN 116.2 \u2013 Body Conditioning II",
+            "Class Days": "T",
+            "Class": 146,
+            "CRN": 93748,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Goldhahn, K",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 147,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Burns, K",
+            "Course Title": "FITN 116.3 \u2013 Body Conditioning III",
+            "Class Days": "M, W, F",
+            "Class": 148,
+            "CRN": 93770,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Goldhahn, K",
+            "Course Title": "FITN 116.3 \u2013 Body Conditioning III",
+            "Class Days": "T",
+            "Class": 149,
+            "CRN": 93749,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Goldhahn, K",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 150,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Burns, K",
+            "Course Title": "FITN 116.4 \u2013 Body Conditioning IV",
+            "Class Days": "M, W, F",
+            "Class": 151,
+            "CRN": 93771,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Goldhahn, K",
+            "Course Title": "FITN 116.4 \u2013 Body Conditioning IV",
+            "Class Days": "T",
+            "Class": 152,
+            "CRN": 93750,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Goldhahn, K",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 153,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Perkins, K",
+            "Course Title": "FITN 117 \u2013 Fitn. Assess./Strength Cond.",
+            "Class Days": "M, W",
+            "Class": 154,
+            "CRN": 90884,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Perkins, K",
+            "Course Title": "FITN 117 \u2013 Fitn. Assess./Strength Cond.",
+            "Class Days": "T, Th",
+            "Class": 155,
+            "CRN": 95934,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Carr, N",
+            "Course Title": "FITN 117 \u2013 Fitn. Assess./Strength Cond.",
+            "Class Days": "T, Th",
+            "Class": 156,
+            "CRN": 90883,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Perkins, K",
+            "Course Title": "FITN 118 \u2013 Beginning Fitness Center",
+            "Class Days": "M, W",
+            "Class": 157,
+            "CRN": 90894,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Perkins, K",
+            "Course Title": "FITN 118 \u2013 Beginning Fitness Center",
+            "Class Days": "T, Th",
+            "Class": 158,
+            "CRN": 95935,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Carr, N",
+            "Course Title": "FITN 118 \u2013 Beginning Fitness Center",
+            "Class Days": "T, Th",
+            "Class": 159,
+            "CRN": 90893,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Perkins, K",
+            "Course Title": "FITN 119 \u2013 Intermediate Fitness Center",
+            "Class Days": "M, W",
+            "Class": 160,
+            "CRN": 90902,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Perkins, K",
+            "Course Title": "FITN 119 \u2013 Intermediate Fitness Center",
+            "Class Days": "T, Th",
+            "Class": 161,
+            "CRN": 95936,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Carr, N",
+            "Course Title": "FITN 119 \u2013 Intermediate Fitness Center",
+            "Class Days": "T, Th",
+            "Class": 162,
+            "CRN": 90901,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Jimenez, C",
+            "Course Title": "FITN 122 \u2013 Total Body Burn",
+            "Class Days": "M, W",
+            "Class": 163,
+            "CRN": 92717,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Carr, N",
+            "Course Title": "FITN 128.1 \u2013 Core Strength Func Training I",
+            "Class Days": "M, W",
+            "Class": 164,
+            "CRN": 97930,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Carr, N",
+            "Course Title": "FITN 128.2 \u2013 Core Strength Func Training II",
+            "Class Days": "M, W",
+            "Class": 165,
+            "CRN": 97932,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Schmidt, M",
+            "Course Title": "FITN 134 \u2013 Track and Trail Aerobics",
+            "Class Days": "",
+            "Class": 166,
+            "CRN": 93338,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Harris, E",
+            "Course Title": "FITN 152 \u2013 Basketball Conditioning",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 167,
+            "CRN": 93878,
+            "Units": 1.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Corsiglia, K",
+            "Course Title": "FITN 199.1 \u2013 Interactive Cardio Fitness I",
+            "Class Days": "T",
+            "Class": 168,
+            "CRN": 94069,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Corsiglia, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 169,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Corsiglia, K",
+            "Course Title": "FITN 199.1 \u2013 Interactive Cardio Fitness I",
+            "Class Days": "",
+            "Class": 170,
+            "CRN": 96962,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Corsiglia, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 171,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Corsiglia, K",
+            "Course Title": "FITN 199.2 \u2013 Interactive Cardio Fitness II",
+            "Class Days": "",
+            "Class": 172,
+            "CRN": 94070,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Corsiglia, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 173,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Sharabi, M",
+            "Course Title": "FITN 201.1 \u2013 Weight Training I",
+            "Class Days": "M, W, F",
+            "Class": 174,
+            "CRN": 94075,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Quigley-Borg, N",
+            "Course Title": "FITN 201.1 \u2013 Weight Training I",
+            "Class Days": "M, W",
+            "Class": 175,
+            "CRN": 96109,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Quigley-Borg, N",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 176,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Sharabi, M",
+            "Course Title": "FITN 201.1 \u2013 Weight Training I",
+            "Class Days": "T, Th",
+            "Class": 177,
+            "CRN": 94072,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Schmidt, M",
+            "Course Title": "FITN 201.1 \u2013 Weight Training I",
+            "Class Days": "T, Th",
+            "Class": 178,
+            "CRN": 94748,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Diaz, S",
+            "Course Title": "FITN 201.1 \u2013 Weight Training I",
+            "Class Days": "T, Th",
+            "Class": 179,
+            "CRN": 97344,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Barrilleaux, E",
+            "Course Title": "FITN 201.1 \u2013 Weight Training I",
+            "Class Days": "T, Th",
+            "Class": 180,
+            "CRN": 94708,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Sharabi, M",
+            "Course Title": "FITN 201.2 \u2013 Weight Training II",
+            "Class Days": "M, W, F",
+            "Class": 181,
+            "CRN": 94078,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Quigley-Borg, N",
+            "Course Title": "FITN 201.2 \u2013 Weight Training II",
+            "Class Days": "M, W",
+            "Class": 182,
+            "CRN": 96111,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Quigley-Borg, N",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 183,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Sharabi, M",
+            "Course Title": "FITN 201.2 \u2013 Weight Training II",
+            "Class Days": "T, Th",
+            "Class": 184,
+            "CRN": 94076,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Schmidt, M",
+            "Course Title": "FITN 201.2 \u2013 Weight Training II",
+            "Class Days": "T, Th",
+            "Class": 185,
+            "CRN": 94749,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Diaz, S",
+            "Course Title": "FITN 201.2 \u2013 Weight Training II",
+            "Class Days": "T, Th",
+            "Class": 186,
+            "CRN": 97345,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Barrilleaux, E",
+            "Course Title": "FITN 201.2 \u2013 Weight Training II",
+            "Class Days": "T, Th",
+            "Class": 187,
+            "CRN": 94709,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Sharabi, M",
+            "Course Title": "FITN 201.3 \u2013 Weight Training III",
+            "Class Days": "M, W, F",
+            "Class": 188,
+            "CRN": 94082,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Quigley-Borg, N",
+            "Course Title": "FITN 201.3 \u2013 Weight Training III",
+            "Class Days": "M, W",
+            "Class": 189,
+            "CRN": 96115,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Quigley-Borg, N",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 190,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Sharabi, M",
+            "Course Title": "FITN 201.3 \u2013 Weight Training III",
+            "Class Days": "T, Th",
+            "Class": 191,
+            "CRN": 94084,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Schmidt, M",
+            "Course Title": "FITN 201.3 \u2013 Weight Training III",
+            "Class Days": "T, Th",
+            "Class": 192,
+            "CRN": 94831,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Barrilleaux, E",
+            "Course Title": "FITN 201.3 \u2013 Weight Training III",
+            "Class Days": "T, Th",
+            "Class": 193,
+            "CRN": 94833,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Quigley-Borg, N",
+            "Course Title": "FITN 201.4 \u2013 Weight Training IV",
+            "Class Days": "M, W",
+            "Class": 194,
+            "CRN": 96116,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Quigley-Borg, N",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 195,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Schmidt, M",
+            "Course Title": "FITN 201.4 \u2013 Weight Training IV",
+            "Class Days": "T, Th",
+            "Class": 196,
+            "CRN": 94832,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Diaz, S",
+            "Course Title": "FITN 201.4 \u2013 Weight Training IV",
+            "Class Days": "T, Th",
+            "Class": 197,
+            "CRN": 97347,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Barrilleaux, E",
+            "Course Title": "FITN 201.4 \u2013 Weight Training IV",
+            "Class Days": "T, Th",
+            "Class": 198,
+            "CRN": 94834,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lucca, A",
+            "Course Title": "FITN 210 \u2013 Varsity Weight Conditioning",
+            "Class Days": "T, Th",
+            "Class": 199,
+            "CRN": 84082,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Silva, A",
+            "Course Title": "FITN 225 \u2013 Athletic Conditioning",
+            "Class Days": "T, Th",
+            "Class": 200,
+            "CRN": 97551,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Williams, D",
+            "Course Title": "FITN 225 \u2013 Athletic Conditioning",
+            "Class Days": "Th",
+            "Class": 201,
+            "CRN": 91003,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Williams, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 202,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Marcial, M",
+            "Course Title": "FITN 225 \u2013 Athletic Conditioning",
+            "Class Days": "",
+            "Class": 203,
+            "CRN": 91459,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Goldhahn, K",
+            "Course Title": "FITN 225 \u2013 Athletic Conditioning",
+            "Class Days": "",
+            "Class": 204,
+            "CRN": 94376,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Marcial, M",
+            "Course Title": "FITN 225 \u2013 Athletic Conditioning",
+            "Class Days": "",
+            "Class": 205,
+            "CRN": 94421,
+            "Units": 0.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Williams, D",
+            "Course Title": "FITN 225 \u2013 Athletic Conditioning",
+            "Class Days": "",
+            "Class": 206,
+            "CRN": 96853,
+            "Units": 0.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Burns, K",
+            "Course Title": "FITN 225 \u2013 Athletic Conditioning",
+            "Class Days": "",
+            "Class": 207,
+            "CRN": 97600,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Quigley-Borg, N",
+            "Course Title": "FITN 226 \u2013 Plyometric Conditioning",
+            "Class Days": "M, W, F",
+            "Class": 208,
+            "CRN": 93697,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Silva, A",
+            "Course Title": "FITN 226 \u2013 Plyometric Conditioning",
+            "Class Days": "T, Th",
+            "Class": 209,
+            "CRN": 97552,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Marcial, M",
+            "Course Title": "FITN 226 \u2013 Plyometric Conditioning",
+            "Class Days": "",
+            "Class": 210,
+            "CRN": 93127,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Goldhahn, K",
+            "Course Title": "FITN 226 \u2013 Plyometric Conditioning",
+            "Class Days": "",
+            "Class": 211,
+            "CRN": 93353,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Williams, D",
+            "Course Title": "FITN 226 \u2013 Plyometric Conditioning",
+            "Class Days": "",
+            "Class": 212,
+            "CRN": 96372,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Burns, K",
+            "Course Title": "FITN 226 \u2013 Plyometric Conditioning",
+            "Class Days": "",
+            "Class": 213,
+            "CRN": 97601,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Harris, E",
+            "Course Title": "FITN 227.1 \u2013 TRX® Suspension Training I",
+            "Class Days": "T, Th",
+            "Class": 214,
+            "CRN": 97949,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Harris, E",
+            "Course Title": "FITN 227.2 \u2013 TRX® Suspension Training II",
+            "Class Days": "T, Th",
+            "Class": 215,
+            "CRN": 97951,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Harris, E",
+            "Course Title": "FITN 227.3 \u2013 TRX® Suspension Training III",
+            "Class Days": "T, Th",
+            "Class": 216,
+            "CRN": 97952,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Harris, E",
+            "Course Title": "FITN 227.4 \u2013 TRX® Suspension Training IV",
+            "Class Days": "T, Th",
+            "Class": 217,
+            "CRN": 97953,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Jimenez, C",
+            "Course Title": "FITN 235 \u2013 Boot Camp",
+            "Class Days": "M, W",
+            "Class": 218,
+            "CRN": 92399,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Sharabi, M",
+            "Course Title": "FITN 301.1 \u2013 Spinning I",
+            "Class Days": "M, W",
+            "Class": 219,
+            "CRN": 94090,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Harris, E",
+            "Course Title": "FITN 301.1 \u2013 Spinning I",
+            "Class Days": "T, Th",
+            "Class": 220,
+            "CRN": 97946,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Sharabi, M",
+            "Course Title": "FITN 301.2 \u2013 Spinning II",
+            "Class Days": "M, W",
+            "Class": 221,
+            "CRN": 94094,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Harris, E",
+            "Course Title": "FITN 301.2 \u2013 Spinning II",
+            "Class Days": "T, Th",
+            "Class": 222,
+            "CRN": 97947,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Harris, E",
+            "Course Title": "FITN 301.3 \u2013 Spinning III",
+            "Class Days": "T, Th",
+            "Class": 223,
+            "CRN": 97948,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Miladinova, A",
+            "Course Title": "FITN 304.1 \u2013 Walking Fitness I",
+            "Class Days": "",
+            "Class": 224,
+            "CRN": 93881,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Miladinova, A",
+            "Course Title": "FITN 304.1 \u2013 Walking Fitness I",
+            "Class Days": "",
+            "Class": 225,
+            "CRN": 94487,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Miladinova, A",
+            "Course Title": "FITN 304.1 \u2013 Walking Fitness I",
+            "Class Days": "",
+            "Class": 226,
+            "CRN": 94493,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Miladinova, A",
+            "Course Title": "FITN 304.1 \u2013 Walking Fitness I",
+            "Class Days": "",
+            "Class": 227,
+            "CRN": 95097,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Watters, C",
+            "Course Title": "FITN 304.1 \u2013 Walking Fitness I",
+            "Class Days": "",
+            "Class": 228,
+            "CRN": 97045,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Miladinova, A",
+            "Course Title": "FITN 304.2 \u2013 Walking Fitness II",
+            "Class Days": "",
+            "Class": 229,
+            "CRN": 93882,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Miladinova, A",
+            "Course Title": "FITN 304.2 \u2013 Walking Fitness II",
+            "Class Days": "",
+            "Class": 230,
+            "CRN": 94491,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Miladinova, A",
+            "Course Title": "FITN 304.2 \u2013 Walking Fitness II",
+            "Class Days": "",
+            "Class": 231,
+            "CRN": 95098,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Watters, C",
+            "Course Title": "FITN 304.2 \u2013 Walking Fitness II",
+            "Class Days": "",
+            "Class": 232,
+            "CRN": 97046,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Miladinova, A",
+            "Course Title": "FITN 304.2 \u2013 Walking Fitness II",
+            "Class Days": "",
+            "Class": 233,
+            "CRN": 97187,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Schmidt, M",
+            "Course Title": "FITN 332.1 \u2013 Stretching and Flexibility I",
+            "Class Days": "",
+            "Class": 234,
+            "CRN": 95378,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Watters, C",
+            "Course Title": "FITN 332.1 \u2013 Stretching and Flexibility I",
+            "Class Days": "",
+            "Class": 235,
+            "CRN": 97065,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Watters, C",
+            "Course Title": "FITN 332.2 \u2013 Stretching and Flexibility II",
+            "Class Days": "",
+            "Class": 236,
+            "CRN": 97066,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Watters, C",
+            "Course Title": "FITN 332.3 \u2013 Stretching and Flexibility III",
+            "Class Days": "",
+            "Class": 237,
+            "CRN": 97241,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Dailey, D",
+            "Course Title": "FITN 334.1 \u2013 Yoga I",
+            "Class Days": "M, W, F",
+            "Class": 238,
+            "CRN": 95250,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Steele, A",
+            "Course Title": "FITN 334.1 \u2013 Yoga I",
+            "Class Days": "M, W",
+            "Class": 239,
+            "CRN": 94154,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Steele, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 240,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Simmers, K",
+            "Course Title": "FITN 334.1 \u2013 Yoga I",
+            "Class Days": "T, Th",
+            "Class": 241,
+            "CRN": 94117,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Quijano, V",
+            "Course Title": "FITN 334.1 \u2013 Yoga I",
+            "Class Days": "T, Th",
+            "Class": 242,
+            "CRN": 97057,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Cho, D",
+            "Course Title": "FITN 334.1 \u2013 Yoga I",
+            "Class Days": "T, Th",
+            "Class": 243,
+            "CRN": 94475,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Miladinova, A",
+            "Course Title": "FITN 334.1 \u2013 Yoga I",
+            "Class Days": "W",
+            "Class": 244,
+            "CRN": 93722,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Miladinova, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 245,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Quijano, V",
+            "Course Title": "FITN 334.1 \u2013 Yoga I",
+            "Class Days": "T, Th",
+            "Class": 246,
+            "CRN": 97104,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Cho, D",
+            "Course Title": "FITN 334.1 \u2013 Yoga I",
+            "Class Days": "T, Th",
+            "Class": 247,
+            "CRN": 94119,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Miladinova, A",
+            "Course Title": "FITN 334.1 \u2013 Yoga I",
+            "Class Days": "",
+            "Class": 248,
+            "CRN": 93725,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Dailey, D",
+            "Course Title": "FITN 334.1 \u2013 Yoga I",
+            "Class Days": "",
+            "Class": 249,
+            "CRN": 93783,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Dailey, D",
+            "Course Title": "FITN 334.2 \u2013 Yoga II",
+            "Class Days": "M, W, F",
+            "Class": 250,
+            "CRN": 95251,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Steele, A",
+            "Course Title": "FITN 334.2 \u2013 Yoga II",
+            "Class Days": "M, W",
+            "Class": 251,
+            "CRN": 94156,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Steele, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 252,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Simmers, K",
+            "Course Title": "FITN 334.2 \u2013 Yoga II",
+            "Class Days": "T, Th",
+            "Class": 253,
+            "CRN": 94128,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Quijano, V",
+            "Course Title": "FITN 334.2 \u2013 Yoga II",
+            "Class Days": "T, Th",
+            "Class": 254,
+            "CRN": 97058,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Cho, D",
+            "Course Title": "FITN 334.2 \u2013 Yoga II",
+            "Class Days": "T, Th",
+            "Class": 255,
+            "CRN": 94476,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Miladinova, A",
+            "Course Title": "FITN 334.2 \u2013 Yoga II",
+            "Class Days": "W",
+            "Class": 256,
+            "CRN": 93723,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Miladinova, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 257,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Quijano, V",
+            "Course Title": "FITN 334.2 \u2013 Yoga II",
+            "Class Days": "T, Th",
+            "Class": 258,
+            "CRN": 97105,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Miladinova, A",
+            "Course Title": "FITN 334.2 \u2013 Yoga II",
+            "Class Days": "",
+            "Class": 259,
+            "CRN": 93726,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Dailey, D",
+            "Course Title": "FITN 334.2 \u2013 Yoga II",
+            "Class Days": "",
+            "Class": 260,
+            "CRN": 93784,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Dailey, D",
+            "Course Title": "FITN 334.3 \u2013 Yoga III",
+            "Class Days": "M, W, F",
+            "Class": 261,
+            "CRN": 95252,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Steele, A",
+            "Course Title": "FITN 334.3 \u2013 Yoga III",
+            "Class Days": "M, W",
+            "Class": 262,
+            "CRN": 94157,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Steele, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 263,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Simmers, K",
+            "Course Title": "FITN 334.3 \u2013 Yoga III",
+            "Class Days": "T, Th",
+            "Class": 264,
+            "CRN": 94132,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Quijano, V",
+            "Course Title": "FITN 334.3 \u2013 Yoga III",
+            "Class Days": "T, Th",
+            "Class": 265,
+            "CRN": 97059,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Cho, D",
+            "Course Title": "FITN 334.3 \u2013 Yoga III",
+            "Class Days": "T, Th",
+            "Class": 266,
+            "CRN": 94477,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Miladinova, A",
+            "Course Title": "FITN 334.3 \u2013 Yoga III",
+            "Class Days": "W",
+            "Class": 267,
+            "CRN": 93724,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Miladinova, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 268,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Quijano, V",
+            "Course Title": "FITN 334.3 \u2013 Yoga III",
+            "Class Days": "T, Th",
+            "Class": 269,
+            "CRN": 97106,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Cho, D",
+            "Course Title": "FITN 334.3 \u2013 Yoga III",
+            "Class Days": "T, Th",
+            "Class": 270,
+            "CRN": 94133,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Miladinova, A",
+            "Course Title": "FITN 334.3 \u2013 Yoga III",
+            "Class Days": "",
+            "Class": 271,
+            "CRN": 93727,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Dailey, D",
+            "Course Title": "FITN 334.3 \u2013 Yoga III",
+            "Class Days": "",
+            "Class": 272,
+            "CRN": 93785,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Dailey, D",
+            "Course Title": "FITN 334.4 \u2013 Yoga IV",
+            "Class Days": "M, W, F",
+            "Class": 273,
+            "CRN": 95253,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Quijano, V",
+            "Course Title": "FITN 334.4 \u2013 Yoga IV",
+            "Class Days": "T, Th",
+            "Class": 274,
+            "CRN": 97060,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Miladinova, A",
+            "Course Title": "FITN 334.4 \u2013 Yoga IV",
+            "Class Days": "W",
+            "Class": 275,
+            "CRN": 93740,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Miladinova, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 276,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Quijano, V",
+            "Course Title": "FITN 334.4 \u2013 Yoga IV",
+            "Class Days": "T, Th",
+            "Class": 277,
+            "CRN": 97107,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Cho, D",
+            "Course Title": "FITN 334.4 \u2013 Yoga IV",
+            "Class Days": "T, Th",
+            "Class": 278,
+            "CRN": 97372,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Miladinova, A",
+            "Course Title": "FITN 334.4 \u2013 Yoga IV",
+            "Class Days": "",
+            "Class": 279,
+            "CRN": 93741,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Dailey, D",
+            "Course Title": "FITN 334.4 \u2013 Yoga IV",
+            "Class Days": "",
+            "Class": 280,
+            "CRN": 93786,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Artha Negara, S",
+            "Course Title": "FITN 335.1 \u2013 Pilates I",
+            "Class Days": "T, Th",
+            "Class": 281,
+            "CRN": 93799,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Chertudi, L",
+            "Course Title": "FITN 335.1 \u2013 Pilates I",
+            "Class Days": "T, Th",
+            "Class": 282,
+            "CRN": 94427,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Steele, A",
+            "Course Title": "FITN 335.1 \u2013 Pilates I",
+            "Class Days": "M, W",
+            "Class": 283,
+            "CRN": 97780,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Steele, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 284,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Steele, A",
+            "Course Title": "FITN 335.2 \u2013 Pilates II",
+            "Class Days": "M, W",
+            "Class": 285,
+            "CRN": 97782,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Steele, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 286,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Artha Negara, S",
+            "Course Title": "FITN 335.2 \u2013 Pilates II",
+            "Class Days": "T, Th",
+            "Class": 287,
+            "CRN": 93800,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Chertudi, L",
+            "Course Title": "FITN 335.2 \u2013 Pilates II",
+            "Class Days": "T, Th",
+            "Class": 288,
+            "CRN": 94428,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Artha Negara, S",
+            "Course Title": "FITN 335.3 \u2013 Pilates III",
+            "Class Days": "T, Th",
+            "Class": 289,
+            "CRN": 93801,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Chertudi, L",
+            "Course Title": "FITN 335.3 \u2013 Pilates III",
+            "Class Days": "T, Th",
+            "Class": 290,
+            "CRN": 94429,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Artha Negara, S",
+            "Course Title": "FITN 335.4 \u2013 Pilates IV",
+            "Class Days": "T, Th",
+            "Class": 291,
+            "CRN": 93802,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Chertudi, L",
+            "Course Title": "FITN 335.4 \u2013 Pilates IV",
+            "Class Days": "T, Th",
+            "Class": 292,
+            "CRN": 94430,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Artha Negara, S",
+            "Course Title": "FITN 339 \u2013 Pilates Circuit Training",
+            "Class Days": "T, Th",
+            "Class": 293,
+            "CRN": 94443,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Watters, C",
+            "Course Title": "FITN 400.1 \u2013 Fitness Academy I",
+            "Class Days": "",
+            "Class": 294,
+            "CRN": 94171,
+            "Units": 13
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Watters, C",
+            "Course Title": "FITN 400.2 \u2013 Fitness Academy II",
+            "Class Days": "T",
+            "Class": 295,
+            "CRN": 94172,
+            "Units": 13
+        },
+        {
+            "Status": "",
+            "Professor": "Watters, C",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 296,
+            "CRN": 0,
+            "Units": 13
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Watters, C",
+            "Course Title": "FITN 400.3 \u2013 Fitness Academy III",
+            "Class Days": "T",
+            "Class": 297,
+            "CRN": 94173,
+            "Units": 13
+        },
+        {
+            "Status": "",
+            "Professor": "Watters, C",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 298,
+            "CRN": 0,
+            "Units": 13
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Watters, C",
+            "Course Title": "FITN 400.4 \u2013 Fitness Academy IV",
+            "Class Days": "T",
+            "Class": 299,
+            "CRN": 97336,
+            "Units": 13
+        },
+        {
+            "Status": "",
+            "Professor": "Watters, C",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 300,
+            "CRN": 0,
+            "Units": 13
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Fitzgerald, M",
+            "Course Title": "INDV 101.1 \u2013 Archery I",
+            "Class Days": "T, Th",
+            "Class": 301,
+            "CRN": 95694,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Fitzgerald, M",
+            "Course Title": "INDV 101.1 \u2013 Archery I",
+            "Class Days": "T, Th",
+            "Class": 302,
+            "CRN": 94185,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Fitzgerald, M",
+            "Course Title": "INDV 101.2 \u2013 Archery II",
+            "Class Days": "T, Th",
+            "Class": 303,
+            "CRN": 95695,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Fitzgerald, M",
+            "Course Title": "INDV 101.2 \u2013 Archery II",
+            "Class Days": "T, Th",
+            "Class": 304,
+            "CRN": 94186,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Fitzgerald, M",
+            "Course Title": "INDV 101.3 \u2013 Archery III",
+            "Class Days": "T, Th",
+            "Class": 305,
+            "CRN": 95696,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Fitzgerald, M",
+            "Course Title": "INDV 101.3 \u2013 Archery III",
+            "Class Days": "T, Th",
+            "Class": 306,
+            "CRN": 94187,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Fitzgerald, M",
+            "Course Title": "INDV 101.4 \u2013 Archery IV",
+            "Class Days": "T, Th",
+            "Class": 307,
+            "CRN": 95697,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Fitzgerald, M",
+            "Course Title": "INDV 101.4 \u2013 Archery IV",
+            "Class Days": "T, Th",
+            "Class": 308,
+            "CRN": 94188,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Marcial, M",
+            "Course Title": "INDV 121.1 \u2013 Badminton I",
+            "Class Days": "M, W, F",
+            "Class": 309,
+            "CRN": 95355,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Watters, C",
+            "Course Title": "INDV 121.1 \u2013 Badminton I",
+            "Class Days": "M, W, F",
+            "Class": 310,
+            "CRN": 94189,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Marcial, M",
+            "Course Title": "INDV 121.2 \u2013 Badminton II",
+            "Class Days": "M, W, F",
+            "Class": 311,
+            "CRN": 95357,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Watters, C",
+            "Course Title": "INDV 121.2 \u2013 Badminton II",
+            "Class Days": "M, W, F",
+            "Class": 312,
+            "CRN": 94190,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Marcial, M",
+            "Course Title": "INDV 121.3 \u2013 Badminton III",
+            "Class Days": "M, W, F",
+            "Class": 313,
+            "CRN": 95358,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Watters, C",
+            "Course Title": "INDV 121.3 \u2013 Badminton III",
+            "Class Days": "M, W, F",
+            "Class": 314,
+            "CRN": 94191,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Marcial, M",
+            "Course Title": "INDV 121.4 \u2013 Badminton IV",
+            "Class Days": "M, W, F",
+            "Class": 315,
+            "CRN": 95360,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Watters, C",
+            "Course Title": "INDV 251.1 \u2013 Tennis I",
+            "Class Days": "T, Th",
+            "Class": 316,
+            "CRN": 94197,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Watters, C",
+            "Course Title": "INDV 251.2 \u2013 Tennis II",
+            "Class Days": "T, Th",
+            "Class": 317,
+            "CRN": 94198,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Watters, C",
+            "Course Title": "INDV 251.3 \u2013 Tennis III",
+            "Class Days": "T, Th",
+            "Class": 318,
+            "CRN": 94199,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Corsiglia, K",
+            "Course Title": "KINE 100 \u2013 Introduction to Kinesiology",
+            "Class Days": "T, Th",
+            "Class": 319,
+            "CRN": 97339,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Corsiglia, K",
+            "Course Title": "KINE 100 \u2013 Introduction to Kinesiology",
+            "Class Days": "",
+            "Class": 320,
+            "CRN": 94003,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Gaspar, E",
+            "Course Title": "KINE 101 \u2013 Introduction to Kinesiology",
+            "Class Days": "W",
+            "Class": 321,
+            "CRN": 93446,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Gaspar, E",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 322,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Silva, A",
+            "Course Title": "KINE 101 \u2013 Introduction to Kinesiology",
+            "Class Days": "",
+            "Class": 323,
+            "CRN": 97061,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Goldhahn, K",
+            "Course Title": "KINE 101 \u2013 Introduction to Kinesiology",
+            "Class Days": "",
+            "Class": 324,
+            "CRN": 94344,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Burns, K",
+            "Course Title": "KINE 101 \u2013 Introduction to Kinesiology",
+            "Class Days": "",
+            "Class": 325,
+            "CRN": 97928,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Warner, M",
+            "Course Title": "KINE 103 \u2013 Social Issues in Sport",
+            "Class Days": "",
+            "Class": 326,
+            "CRN": 96087,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Williams, D",
+            "Course Title": "KINE 106 \u2013 Introduction to Sports Mgmt",
+            "Class Days": "",
+            "Class": 327,
+            "CRN": 96851,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Quigley-Borg, N",
+            "Course Title": "KINE 107 \u2013 Women in Sports",
+            "Class Days": "",
+            "Class": 328,
+            "CRN": 96542,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Perkins, K",
+            "Course Title": "KINE 109 \u2013 Lifetime Fitness and Nutrition",
+            "Class Days": "",
+            "Class": 329,
+            "CRN": 96033,
+            "Units": 3
+        },
+        {
+            "Status": "In Progress",
+            "Professor": "Schmidt, M",
+            "Course Title": "KINE 119 \u2013 First Aid/Adult & Pedi CPR",
+            "Class Days": "",
+            "Class": 330,
+            "CRN": 94458,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Schmidt, M",
+            "Course Title": "",
+            "Class Days": "Sa",
+            "Class": 331,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "In Progress",
+            "Professor": "Schmidt, M",
+            "Course Title": "KINE 119 \u2013 First Aid/Adult & Pedi CPR",
+            "Class Days": "",
+            "Class": 332,
+            "CRN": 95365,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Schmidt, M",
+            "Course Title": "",
+            "Class Days": "Sa",
+            "Class": 333,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Artha Negara, S",
+            "Course Title": "KINE 126 \u2013 Pilates Reformer Instructor Tr",
+            "Class Days": "T, Th",
+            "Class": 334,
+            "CRN": 93703,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Artha Negara, S",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 335,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Goldhahn, K",
+            "Course Title": "KINE 135 \u2013 Acad Skill Dev-Intercol Athl I",
+            "Class Days": "M",
+            "Class": 336,
+            "CRN": 94854,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Marcial, M",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 337,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Pollack, B",
+            "Course Title": "KINE 135 \u2013 Acad Skill Dev-Intercol Athl I",
+            "Class Days": "M, W",
+            "Class": 338,
+            "CRN": 94853,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Quigley-Borg, N",
+            "Course Title": "KINE 135 \u2013 Acad Skill Dev-Intercol Athl I",
+            "Class Days": "W",
+            "Class": 339,
+            "CRN": 94852,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Warner, M",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 340,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Williams, D",
+            "Course Title": "KINE 135 \u2013 Acad Skill Dev-Intercol Athl I",
+            "Class Days": "T, Th",
+            "Class": 341,
+            "CRN": 95254,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Sekona, H",
+            "Course Title": "KINE 136 \u2013 Acd Skill Dev-Intercol Athl II",
+            "Class Days": "M, W",
+            "Class": 342,
+            "CRN": 95108,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Quigley-Borg, N",
+            "Course Title": "KINE 136 \u2013 Acd Skill Dev-Intercol Athl II",
+            "Class Days": "M",
+            "Class": 343,
+            "CRN": 96520,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Warner, M",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 344,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Williams, D",
+            "Course Title": "KINE 136 \u2013 Acd Skill Dev-Intercol Athl II",
+            "Class Days": "M, W",
+            "Class": 345,
+            "CRN": 95270,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Goldhahn, K",
+            "Course Title": "KINE 136 \u2013 Acd Skill Dev-Intercol Athl II",
+            "Class Days": "W",
+            "Class": 346,
+            "CRN": 95646,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Marcial, M",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 347,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Perkins, K",
+            "Course Title": "KINE 137 \u2013 Athlete Skill Success 1st Year",
+            "Class Days": "M, W",
+            "Class": 348,
+            "CRN": 95317,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Perkins, K",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 349,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Gaspar, E",
+            "Course Title": "KINE 137 \u2013 Athlete Skill Success 1st Year",
+            "Class Days": "M",
+            "Class": 350,
+            "CRN": 95316,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Gaspar, E",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 351,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Harris, E",
+            "Course Title": "KINE 137 \u2013 Athlete Skill Success 1st Year",
+            "Class Days": "F",
+            "Class": 352,
+            "CRN": 96736,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Harris, E",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 353,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Perkins, K",
+            "Course Title": "KINE 138 \u2013 Athlete Skill Success 2nd Year",
+            "Class Days": "M, W",
+            "Class": 354,
+            "CRN": 95981,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Perkins, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 355,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Gaspar, E",
+            "Course Title": "KINE 138 \u2013 Athlete Skill Success 2nd Year",
+            "Class Days": "M",
+            "Class": 356,
+            "CRN": 98155,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Gaspar, E",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 357,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Harris, E",
+            "Course Title": "KINE 138 \u2013 Athlete Skill Success 2nd Year",
+            "Class Days": "F",
+            "Class": 358,
+            "CRN": 96737,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Harris, E",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 359,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Schmidt, M",
+            "Course Title": "KINE 301 \u2013 Intro to Personal Training",
+            "Class Days": "",
+            "Class": 360,
+            "CRN": 96852,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Corsiglia, K",
+            "Course Title": "KINE 305 \u2013 Health-Related Fitn/Wellness",
+            "Class Days": "",
+            "Class": 361,
+            "CRN": 94936,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Corsiglia, K",
+            "Course Title": "KINE 330 \u2013 Intro to Sports Psychology",
+            "Class Days": "",
+            "Class": 362,
+            "CRN": 97998,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Pollack, B",
+            "Course Title": "P.E. 102 \u2013 Theory of Offensive Football",
+            "Class Days": "M, W, F",
+            "Class": 363,
+            "CRN": 91350,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Sekona, H",
+            "Course Title": "P.E. 103 \u2013 Theory of Defensive Football",
+            "Class Days": "M, W, F",
+            "Class": 364,
+            "CRN": 91349,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Piergrossi, J",
+            "Course Title": "P.E. 152 \u2013 Theory of Sport & Fitness Mgmt",
+            "Class Days": "",
+            "Class": 365,
+            "CRN": 94868,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lucca, A",
+            "Course Title": "TEAM 105 \u2013 Advanced Baseball",
+            "Class Days": "T, W, F",
+            "Class": 366,
+            "CRN": 81564,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Goulding, R",
+            "Course Title": "TEAM 105 \u2013 Advanced Baseball",
+            "Class Days": "",
+            "Class": 367,
+            "CRN": 95271,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Williams, D",
+            "Course Title": "TEAM 105 \u2013 Advanced Baseball",
+            "Class Days": "",
+            "Class": 368,
+            "CRN": 95272,
+            "Units": 1.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Williams, D",
+            "Course Title": "TEAM 105 \u2013 Advanced Baseball",
+            "Class Days": "",
+            "Class": 369,
+            "CRN": 95273,
+            "Units": 0.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Williams, D",
+            "Course Title": "TEAM 105 \u2013 Advanced Baseball",
+            "Class Days": "",
+            "Class": 370,
+            "CRN": 95274,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Williams, D",
+            "Course Title": "TEAM 105 \u2013 Advanced Baseball",
+            "Class Days": "",
+            "Class": 371,
+            "CRN": 95275,
+            "Units": 1.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Piergrossi, J",
+            "Course Title": "TEAM 111.1 \u2013 Basketball I",
+            "Class Days": "M, W, F",
+            "Class": 372,
+            "CRN": 94201,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Piergrossi, J",
+            "Course Title": "TEAM 111.1 \u2013 Basketball I",
+            "Class Days": "M, W, F",
+            "Class": 373,
+            "CRN": 94202,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Harris, E",
+            "Course Title": "TEAM 111.1 \u2013 Basketball I",
+            "Class Days": "M, W",
+            "Class": 374,
+            "CRN": 93731,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Carr, N",
+            "Course Title": "TEAM 111.1 \u2013 Basketball I",
+            "Class Days": "Sa",
+            "Class": 375,
+            "CRN": 97934,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Piergrossi, J",
+            "Course Title": "TEAM 111.2 \u2013 Basketball II",
+            "Class Days": "M, W, F",
+            "Class": 376,
+            "CRN": 94204,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Piergrossi, J",
+            "Course Title": "TEAM 111.2 \u2013 Basketball II",
+            "Class Days": "M, W, F",
+            "Class": 377,
+            "CRN": 94205,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Harris, E",
+            "Course Title": "TEAM 111.2 \u2013 Basketball II",
+            "Class Days": "M, W",
+            "Class": 378,
+            "CRN": 93732,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Carr, N",
+            "Course Title": "TEAM 111.2 \u2013 Basketball II",
+            "Class Days": "Sa",
+            "Class": 379,
+            "CRN": 97936,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Piergrossi, J",
+            "Course Title": "TEAM 111.3 \u2013 Basketball III",
+            "Class Days": "M, W, F",
+            "Class": 380,
+            "CRN": 94207,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Piergrossi, J",
+            "Course Title": "TEAM 111.3 \u2013 Basketball III",
+            "Class Days": "M, W, F",
+            "Class": 381,
+            "CRN": 94208,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Harris, E",
+            "Course Title": "TEAM 111.3 \u2013 Basketball III",
+            "Class Days": "M, W",
+            "Class": 382,
+            "CRN": 93733,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Carr, N",
+            "Course Title": "TEAM 111.3 \u2013 Basketball III",
+            "Class Days": "Sa",
+            "Class": 383,
+            "CRN": 97937,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Piergrossi, J",
+            "Course Title": "TEAM 111.4 \u2013 Basketball IV",
+            "Class Days": "M, W, F",
+            "Class": 384,
+            "CRN": 95322,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Harris, E",
+            "Course Title": "TEAM 111.4 \u2013 Basketball IV",
+            "Class Days": "M, W",
+            "Class": 385,
+            "CRN": 93734,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Carr, N",
+            "Course Title": "TEAM 111.4 \u2013 Basketball IV",
+            "Class Days": "Sa",
+            "Class": 386,
+            "CRN": 97938,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Warner, M",
+            "Course Title": "TEAM 118 \u2013 Advanced Basketball",
+            "Class Days": "",
+            "Class": 387,
+            "CRN": 83045,
+            "Units": 2.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Marcial, M",
+            "Course Title": "TEAM 118 \u2013 Advanced Basketball",
+            "Class Days": "",
+            "Class": 388,
+            "CRN": 90777,
+            "Units": 2.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Warner, M",
+            "Course Title": "TEAM 118 \u2013 Advanced Basketball",
+            "Class Days": "",
+            "Class": 389,
+            "CRN": 94373,
+            "Units": 0.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Saucedo, G",
+            "Course Title": "TEAM 132.1 \u2013 Flag Football I",
+            "Class Days": "T, Th",
+            "Class": 390,
+            "CRN": 94210,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Saucedo, G",
+            "Course Title": "TEAM 132.2 \u2013 Flag Football II",
+            "Class Days": "T, Th",
+            "Class": 391,
+            "CRN": 94211,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Saucedo, G",
+            "Course Title": "TEAM 132.4 \u2013 Flag Football IV",
+            "Class Days": "T, Th",
+            "Class": 392,
+            "CRN": 97338,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Quigley-Borg, N",
+            "Course Title": "TEAM 158 \u2013 Advanced Softball: Women",
+            "Class Days": "M, W, F",
+            "Class": 393,
+            "CRN": 83049,
+            "Units": 1
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Lewis, M",
+            "Course Title": "TEAM 165 \u2013 Advanced Track & Field",
+            "Class Days": "",
+            "Class": 394,
+            "CRN": 83050,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Nerenberg, D",
+            "Course Title": "TEAM 187 \u2013 Tennis: Skill dev & Condition.",
+            "Class Days": "M, W, F",
+            "Class": 395,
+            "CRN": 95136,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Mauricio, E",
+            "Course Title": "TEAM 188 \u2013 Volleyball Theory. Defense",
+            "Class Days": "",
+            "Class": 396,
+            "CRN": 95366,
+            "Units": 1.5
+        },
+        {
+            "Status": "",
+            "Professor": "Mauricio, E",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 397,
+            "CRN": 0,
+            "Units": 1.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Brunicardi, A",
+            "Course Title": "TEAM 190 \u2013 Baseball Theory: Defense",
+            "Class Days": "T, Th",
+            "Class": 398,
+            "CRN": 95722,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Brunicardi, A",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 399,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Brunicardi, A",
+            "Course Title": "",
+            "Class Days": "F",
+            "Class": 400,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Brunicardi, A",
+            "Course Title": "TEAM 191 \u2013 Baseball Theory, Offense",
+            "Class Days": "M, W",
+            "Class": 401,
+            "CRN": 96449,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Brunicardi, A",
+            "Course Title": "",
+            "Class Days": "F",
+            "Class": 402,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Piergrossi, J",
+            "Course Title": "TEAM 192 \u2013 Men's Basketball Theory, Defen",
+            "Class Days": "",
+            "Class": 403,
+            "CRN": 91962,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Piergrossi, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 404,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Warner, M",
+            "Course Title": "TEAM 194 \u2013 Women's Basketball Theory, Def",
+            "Class Days": "M, W, F",
+            "Class": 405,
+            "CRN": 97942,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Warner, M",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 406,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Watters, C",
+            "Course Title": "TEAM 194 \u2013 Women's Basketball Theory, Def",
+            "Class Days": "",
+            "Class": 407,
+            "CRN": 94795,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Watters, C",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 408,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Saucedo, G",
+            "Course Title": "TEAM 196 \u2013 Men's Soccer Theory. Defense",
+            "Class Days": "",
+            "Class": 409,
+            "CRN": 96379,
+            "Units": 1.5
+        },
+        {
+            "Status": "",
+            "Professor": "Saucedo, G",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 410,
+            "CRN": 0,
+            "Units": 1.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Sharabi, M",
+            "Course Title": "TEAM 198 \u2013 Women's Soccer Theory. Defense",
+            "Class Days": "",
+            "Class": 411,
+            "CRN": 96378,
+            "Units": 1.5
+        },
+        {
+            "Status": "",
+            "Professor": "Sharabi, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 412,
+            "CRN": 0,
+            "Units": 1.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Piergrossi, J",
+            "Course Title": "VARS 110 \u2013 Men's Varsity Basketball",
+            "Class Days": "",
+            "Class": 413,
+            "CRN": 95368,
+            "Units": 1.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Marcial, M",
+            "Course Title": "VARS 110 \u2013 Varsity Men's Basketball",
+            "Class Days": "",
+            "Class": 414,
+            "CRN": 96141,
+            "Units": 1.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Harris, E",
+            "Course Title": "VARS 114 \u2013 Varsity Basketball",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 415,
+            "CRN": 90358,
+            "Units": 1.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Sekona, H",
+            "Course Title": "VARS 130 \u2013 Varsity Football",
+            "Class Days": "",
+            "Class": 416,
+            "CRN": 83058,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Tulloch, T",
+            "Course Title": "VARS 130 \u2013 Varsity Football",
+            "Class Days": "",
+            "Class": 417,
+            "CRN": 91362,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Pollack, B",
+            "Course Title": "VARS 130 \u2013 Varsity Football",
+            "Class Days": "",
+            "Class": 418,
+            "CRN": 92148,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Pollack, B",
+            "Course Title": "VARS 133 \u2013 Offensive Varsity Football Lab",
+            "Class Days": "",
+            "Class": 419,
+            "CRN": 91356,
+            "Units": 1.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Sekona, H",
+            "Course Title": "VARS 134 \u2013 Defensive Varsity Football Lab",
+            "Class Days": "",
+            "Class": 420,
+            "CRN": 91357,
+            "Units": 1.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Saucedo, G",
+            "Course Title": "VARS 150 \u2013 Varsity Soccer",
+            "Class Days": "",
+            "Class": 421,
+            "CRN": 91155,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Gaspar, E",
+            "Course Title": "VARS 154 \u2013 Varsity Soccer",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 422,
+            "CRN": 84166,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Perkins, K",
+            "Course Title": "VARS 154 \u2013 Varsity Soccer",
+            "Class Days": "M, T, W, Th, F",
+            "Class": 423,
+            "CRN": 84192,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Burns, K",
+            "Course Title": "VARS 172 \u2013 Vars Cross Cntry: Men & Women",
+            "Class Days": "",
+            "Class": 424,
+            "CRN": 93122,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Haddon, J",
+            "Course Title": "VARS 200 \u2013 Varsity Wrestling",
+            "Class Days": "",
+            "Class": 425,
+            "CRN": 91156,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Warner, M",
+            "Course Title": "VARS 300 \u2013 Varsity Basketball: Women",
+            "Class Days": "",
+            "Class": 426,
+            "CRN": 83059,
+            "Units": 1.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Watters, C",
+            "Course Title": "VARS 300 \u2013 Vars. Women's Basketball",
+            "Class Days": "",
+            "Class": 427,
+            "CRN": 95370,
+            "Units": 1.5
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Goldhahn, K",
+            "Course Title": "VARS 340 \u2013 Varsity Volleyball: Women",
+            "Class Days": "",
+            "Class": 428,
+            "CRN": 95255,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Mauricio, E",
+            "Course Title": "VARS 340 \u2013 Vars. Women's Volleyball",
+            "Class Days": "",
+            "Class": 429,
+            "CRN": 91158,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Sharabi, M",
+            "Course Title": "VARS 360 \u2013 Varsity Women's Soccer",
+            "Class Days": "",
+            "Class": 430,
+            "CRN": 91159,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Silva, A",
+            "Course Title": "VARS 400 \u2013 Varsity Water Polo:Men & Women",
+            "Class Days": "",
+            "Class": 431,
+            "CRN": 91355,
+            "Units": 3
+        }
+    ]
+}

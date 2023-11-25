@@ -1,0 +1,4270 @@
+{
+    "Comp. Bus. Office Technology": [
+        {
+            "Status": "Open",
+            "Professor": "Weeks, J",
+            "Course Title": "CBOT 415 \u2013 Beginning Computer Keyboarding",
+            "Class Days": "W",
+            "Class": 1,
+            "CRN": 43845,
+            "Units": 1.5
+        },
+        {
+            "Status": "",
+            "Professor": "Weeks, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 1.5
+        },
+        {
+            "Status": "",
+            "Professor": "Weeks, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 3,
+            "CRN": 0,
+            "Units": 1.5
+        },
+        {
+            "Status": "",
+            "Professor": "Weeks, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 4,
+            "CRN": 0,
+            "Units": 1.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Weeks, J",
+            "Course Title": "CBOT 417 \u2013 Skill Building",
+            "Class Days": "W",
+            "Class": 5,
+            "CRN": 43846,
+            "Units": 1.5
+        },
+        {
+            "Status": "",
+            "Professor": "Weeks, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 0,
+            "Units": 1.5
+        },
+        {
+            "Status": "",
+            "Professor": "Weeks, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 7,
+            "CRN": 0,
+            "Units": 1.5
+        },
+        {
+            "Status": "",
+            "Professor": "Weeks, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 8,
+            "CRN": 0,
+            "Units": 1.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Weeks, J",
+            "Course Title": "CBOT 432 \u2013 Intro. to Comp. Applications",
+            "Class Days": "T",
+            "Class": 9,
+            "CRN": 46373,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Weeks, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 10,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Weeks, J",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 11,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Weeks, J",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 12,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Weeks, J",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 13,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Noel, M",
+            "Course Title": "CBOT 435 \u2013 Spreadsheets",
+            "Class Days": "",
+            "Class": 14,
+            "CRN": 39949,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Dykes, S",
+            "Course Title": "CBOT 472 \u2013 Beginning Word Processing",
+            "Class Days": "T",
+            "Class": 15,
+            "CRN": 44320,
+            "Units": 1.5
+        },
+        {
+            "Status": "",
+            "Professor": "Dykes, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 16,
+            "CRN": 0,
+            "Units": 1.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Noel, M",
+            "Course Title": "CBOT 472 \u2013 Beginning Word Processing",
+            "Class Days": "",
+            "Class": 17,
+            "CRN": 44620,
+            "Units": 1.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Dykes, S",
+            "Course Title": "CBOT 474 \u2013 Intermediate Word Processing",
+            "Class Days": "T",
+            "Class": 18,
+            "CRN": 44321,
+            "Units": 1.5
+        },
+        {
+            "Status": "",
+            "Professor": "Dykes, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 19,
+            "CRN": 0,
+            "Units": 1.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Noel, M",
+            "Course Title": "CBOT 474 \u2013 Intermediate Word Processing",
+            "Class Days": "",
+            "Class": 20,
+            "CRN": 40059,
+            "Units": 1.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Haick II, R",
+            "Course Title": "CBOT 475 \u2013 Using Outlook",
+            "Class Days": "",
+            "Class": 21,
+            "CRN": 39947,
+            "Units": 1.5
+        }
+    ],
+    "Chemistry": [
+        {
+            "Status": "Open",
+            "Professor": "Ghanma, M",
+            "Course Title": "CHEM 112 \u2013 Chemistry in Action",
+            "Class Days": "W",
+            "Class": 1,
+            "CRN": 37270,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Ghanma, M",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "LeBlanc, J",
+            "Course Title": "CHEM 192 \u2013 Elementary Chemistry",
+            "Class Days": "M, W",
+            "Class": 3,
+            "CRN": 39227,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "LeBlanc, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 4,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mclintock, J",
+            "Course Title": "CHEM 192 \u2013 Elementary Chemistry",
+            "Class Days": "T",
+            "Class": 5,
+            "CRN": 42025,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Mclintock, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Mclintock, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Wilcox, A",
+            "Course Title": "CHEM 210 \u2013 General Chemistry I",
+            "Class Days": "M, W",
+            "Class": 8,
+            "CRN": 30957,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Wilcox, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 9,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Liu, K",
+            "Course Title": "CHEM 210 \u2013 General Chemistry I",
+            "Class Days": "M, W",
+            "Class": 10,
+            "CRN": 43697,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Sharma, A",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 11,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Schubert, S",
+            "Course Title": "CHEM 210 \u2013 General Chemistry I",
+            "Class Days": "M, W",
+            "Class": 12,
+            "CRN": 38754,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Schubert, S",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 13,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Schubert, S",
+            "Course Title": "CHEM 210 \u2013 General Chemistry I",
+            "Class Days": "M, W",
+            "Class": 14,
+            "CRN": 42009,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Schubert, S",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 15,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Biglari, N",
+            "Course Title": "CHEM 210 \u2013 General Chemistry I",
+            "Class Days": "M, W",
+            "Class": 16,
+            "CRN": 42881,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Biglari, N",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 17,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Dao, J",
+            "Course Title": "CHEM 210 \u2013 General Chemistry I",
+            "Class Days": "M, W",
+            "Class": 18,
+            "CRN": 31952,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Flowers, J",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 19,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Flowers, J",
+            "Course Title": "CHEM 210 \u2013 General Chemistry I",
+            "Class Days": "M, W",
+            "Class": 20,
+            "CRN": 33112,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Flowers, J",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 21,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Sharma, A",
+            "Course Title": "CHEM 210 \u2013 General Chemistry I",
+            "Class Days": "T, Th",
+            "Class": 22,
+            "CRN": 48134,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Sharma, A",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 23,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Dao, J",
+            "Course Title": "CHEM 210 \u2013 General Chemistry I",
+            "Class Days": "T, Th",
+            "Class": 24,
+            "CRN": 48325,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Dao, J",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 25,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Dao, J",
+            "Course Title": "CHEM 210 \u2013 General Chemistry I",
+            "Class Days": "T, Th",
+            "Class": 26,
+            "CRN": 48326,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Dao, J",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 27,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "DeMello, N",
+            "Course Title": "CHEM 210 \u2013 General Chemistry I",
+            "Class Days": "T, Th",
+            "Class": 28,
+            "CRN": 45491,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "DeMello, N",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 29,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Bates, A",
+            "Course Title": "CHEM 220 \u2013 General Chemistry II",
+            "Class Days": "M, W",
+            "Class": 30,
+            "CRN": 30185,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Bates, A",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 31,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Bates, A",
+            "Course Title": "CHEM 220 \u2013 General Chemistry II",
+            "Class Days": "M, W",
+            "Class": 32,
+            "CRN": 35051,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Bates, A",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 33,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Bates, A",
+            "Course Title": "CHEM 220 \u2013 General Chemistry II - BCS",
+            "Class Days": "M, W",
+            "Class": 34,
+            "CRN": 40030,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Bates, A",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 35,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Dao, J",
+            "Course Title": "CHEM 220 \u2013 General Chemistry II",
+            "Class Days": "M, W",
+            "Class": 36,
+            "CRN": 48232,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Sibucao, K",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 37,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Kaslan, C",
+            "Course Title": "CHEM 220 \u2013 General Chemistry II",
+            "Class Days": "T, Th",
+            "Class": 38,
+            "CRN": 42525,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Kaslan, C",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 39,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Kaslan, C",
+            "Course Title": "CHEM 220 \u2013 General Chemistry II",
+            "Class Days": "T, Th",
+            "Class": 40,
+            "CRN": 30958,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Kaslan, C",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 41,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Sibucao, K",
+            "Course Title": "CHEM 220 \u2013 General Chemistry II",
+            "Class Days": "T, Th",
+            "Class": 42,
+            "CRN": 31953,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Sibucao, K",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 43,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Sibucao, K",
+            "Course Title": "CHEM 220 \u2013 General Chemistry II",
+            "Class Days": "T, Th",
+            "Class": 44,
+            "CRN": 33113,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Sibucao, K",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 45,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Li, J",
+            "Course Title": "CHEM 220 \u2013 General Chemistry II",
+            "Class Days": "T, Th",
+            "Class": 46,
+            "CRN": 48233,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Li, J",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 47,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "CHEM 220 \u2013 General Chemistry II",
+            "Class Days": "T, Th",
+            "Class": 48,
+            "CRN": 47029,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Staff,",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 49,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Cantin, L",
+            "Course Title": "CHEM 220 \u2013 General Chemistry II",
+            "Class Days": "Sa",
+            "Class": 50,
+            "CRN": 48231,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Cantin, L",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 51,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Ciesla, C",
+            "Course Title": "CHEM 231 \u2013 Organic Chemistry I",
+            "Class Days": "M, W",
+            "Class": 52,
+            "CRN": 40803,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Ciesla, C",
+            "Course Title": "",
+            "Class Days": "M, W",
+            "Class": 53,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Ciesla, C",
+            "Course Title": "CHEM 232 \u2013 Organic Chemistry II",
+            "Class Days": "T, Th",
+            "Class": 54,
+            "CRN": 33540,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Ciesla, C",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 55,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Ciesla, C",
+            "Course Title": "CHEM 232 \u2013 Organic Chemistry II",
+            "Class Days": "T, Th",
+            "Class": 56,
+            "CRN": 40363,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Salari, A",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 57,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Parajon Puenzo, S",
+            "Course Title": "CHEM 232 \u2013 Organic Chemistry II",
+            "Class Days": "T, Th",
+            "Class": 58,
+            "CRN": 48262,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Parajon Puenzo, S",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 59,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Bates, A",
+            "Course Title": "CHEM 234 \u2013 Organic Chemistry I",
+            "Class Days": "W",
+            "Class": 60,
+            "CRN": 47955,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Bates, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 61,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Rivera Contreras, J",
+            "Course Title": "CHEM 235 \u2013 Organic Chemistry II",
+            "Class Days": "M, W, F",
+            "Class": 62,
+            "CRN": 30187,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Liu, K",
+            "Course Title": "CHEM 237 \u2013 Organic Chemistry Lab I",
+            "Class Days": "W",
+            "Class": 63,
+            "CRN": 41378,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Rivera Contreras, J",
+            "Course Title": "CHEM 238 \u2013 Organic Chemistry Lab II",
+            "Class Days": "M",
+            "Class": 64,
+            "CRN": 30188,
+            "Units": 2
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Flowers, J",
+            "Course Title": "CHEM 410 \u2013 Health Science Chemistry I",
+            "Class Days": "T",
+            "Class": 65,
+            "CRN": 31960,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Flowers, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 66,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Staff,",
+            "Course Title": "CHEM 410 \u2013 Chem For Health Sciences",
+            "Class Days": "T, Th",
+            "Class": 67,
+            "CRN": 41381,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Staff,",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 68,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Flowers, J",
+            "Course Title": "CHEM 410 \u2013 Health Science Chemistry I",
+            "Class Days": "",
+            "Class": 69,
+            "CRN": 39027,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Salari, A",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 70,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Parajon Puenzo, S",
+            "Course Title": "CHEM 410 \u2013 Chemistry for Health Science",
+            "Class Days": "",
+            "Class": 71,
+            "CRN": 43588,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Sharma, A",
+            "Course Title": "",
+            "Class Days": "F",
+            "Class": 72,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Parajon Puenzo, S",
+            "Course Title": "CHEM 410 \u2013 Chemistry for Health Sciences",
+            "Class Days": "F",
+            "Class": 73,
+            "CRN": 39612,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Parajon Puenzo, S",
+            "Course Title": "",
+            "Class Days": "F",
+            "Class": 74,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Parajon Puenzo, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 75,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Coleman, N",
+            "Course Title": "CHEM 410 \u2013 Chemistry for Health Sciences",
+            "Class Days": "M",
+            "Class": 76,
+            "CRN": 39615,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Coleman, N",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 77,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Flowers, J",
+            "Course Title": "CHEM 410 \u2013 Health Science Chemistry I",
+            "Class Days": "M",
+            "Class": 78,
+            "CRN": 48274,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Flowers, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 79,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Mckay, P",
+            "Course Title": "CHEM 410 \u2013 Chem For Health Sciences",
+            "Class Days": "T",
+            "Class": 80,
+            "CRN": 39743,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Mckay, P",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 81,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mckay, P",
+            "Course Title": "CHEM 410 \u2013 Chem For Health Sciences",
+            "Class Days": "T",
+            "Class": 82,
+            "CRN": 46441,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Mckay, P",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 83,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Flowers, J",
+            "Course Title": "CHEM 420 \u2013 Health Science Chemistry II",
+            "Class Days": "T, Th",
+            "Class": 84,
+            "CRN": 31961,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Flowers, J",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 85,
+            "CRN": 0,
+            "Units": 4
+        }
+    ],
+    "Communication Studies": [
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Perez, J",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "M",
+            "Class": 1,
+            "CRN": 43294,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Perez, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Perez, J",
+            "Course Title": "COMM 110 \u2013 Public Speaking - Honors",
+            "Class Days": "M",
+            "Class": 3,
+            "CRN": 43440,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Perez, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lescure, R",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "M, W, F",
+            "Class": 5,
+            "CRN": 38604,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Avila, B",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "M, W, F",
+            "Class": 6,
+            "CRN": 43313,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Avila, B",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "M, W, F",
+            "Class": 7,
+            "CRN": 47781,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Avila, B",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "M, W, F",
+            "Class": 8,
+            "CRN": 43312,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Gildea, R",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "M, W, F",
+            "Class": 9,
+            "CRN": 47510,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lescure, R",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "M, W, F",
+            "Class": 10,
+            "CRN": 47826,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Hurless, J",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "M, W, F",
+            "Class": 11,
+            "CRN": 44968,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Gildea, R",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "M, W, F",
+            "Class": 12,
+            "CRN": 45193,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hurless, J",
+            "Course Title": "COMM 110 \u2013 Public Speaking PSP",
+            "Class Days": "M, W, F",
+            "Class": 13,
+            "CRN": 46574,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Li, Y",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "M, W, F",
+            "Class": 14,
+            "CRN": 47231,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Irigoyen II, F",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "T",
+            "Class": 15,
+            "CRN": 43315,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Irigoyen II, F",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 16,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lescure, R",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "T, Th",
+            "Class": 17,
+            "CRN": 30768,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Irigoyen II, F",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "T",
+            "Class": 18,
+            "CRN": 43822,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Irigoyen II, F",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 19,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Howard, S",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "T, Th",
+            "Class": 20,
+            "CRN": 43308,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Babin, J",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "T, Th",
+            "Class": 21,
+            "CRN": 45614,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Babin, J",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "T, Th",
+            "Class": 22,
+            "CRN": 45615,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Howard, S",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "T, Th",
+            "Class": 23,
+            "CRN": 43309,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Elabed, A",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "",
+            "Class": 24,
+            "CRN": 48519,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "McDonnell, P",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "M",
+            "Class": 25,
+            "CRN": 46036,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Christianson, E",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "M",
+            "Class": 26,
+            "CRN": 43316,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Christianson, E",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 27,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Perez, J",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "M",
+            "Class": 28,
+            "CRN": 48006,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Perez, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 29,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Gamble, M",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "",
+            "Class": 30,
+            "CRN": 43292,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Berry, F",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "",
+            "Class": 31,
+            "CRN": 43310,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Mohammadi, O",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "",
+            "Class": 32,
+            "CRN": 43314,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Koppel, S",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "",
+            "Class": 33,
+            "CRN": 43488,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Perez, J",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "",
+            "Class": 34,
+            "CRN": 46287,
+            "Units": 3
+        },
+        {
+            "Status": "Waitlist Closed",
+            "Professor": "Koppel, S",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "",
+            "Class": 35,
+            "CRN": 47076,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Ramirez, P",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "",
+            "Class": 36,
+            "CRN": 47337,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Erike, B",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "",
+            "Class": 37,
+            "CRN": 47346,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Ramirez, P",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "",
+            "Class": 38,
+            "CRN": 47347,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "McDonnell, P",
+            "Course Title": "COMM 110 \u2013 Public Speaking",
+            "Class Days": "",
+            "Class": 39,
+            "CRN": 47958,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lescure, R",
+            "Course Title": "COMM 127 \u2013 Argumentation and Debate",
+            "Class Days": "T, Th",
+            "Class": 40,
+            "CRN": 39223,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Irigoyen II, F",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "M, W",
+            "Class": 41,
+            "CRN": 43329,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Irigoyen II, F",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 42,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Irigoyen II, F",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "M, W",
+            "Class": 43,
+            "CRN": 43320,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Irigoyen II, F",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 44,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Li, Y",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "M, W, F",
+            "Class": 45,
+            "CRN": 43326,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Hurless, J",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "M, W, F",
+            "Class": 46,
+            "CRN": 43610,
+            "Units": 3
+        },
+        {
+            "Status": "Waitlist Closed",
+            "Professor": "Hurless, J",
+            "Course Title": "COMM 130 \u2013 Interpersonal Comm PSP",
+            "Class Days": "M, W, F",
+            "Class": 47,
+            "CRN": 46575,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Li, Y",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "M, W, F",
+            "Class": 48,
+            "CRN": 47191,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lescure, R",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "M, W, F",
+            "Class": 49,
+            "CRN": 33318,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Rogers, L",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "M, W, F",
+            "Class": 50,
+            "CRN": 43327,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Russo, S",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "M, W",
+            "Class": 51,
+            "CRN": 48399,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Harkness-Lee, S",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "T, Th",
+            "Class": 52,
+            "CRN": 44826,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Harkness-Lee, S",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "T, Th",
+            "Class": 53,
+            "CRN": 38202,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Avila, B",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "T, Th",
+            "Class": 54,
+            "CRN": 43325,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Pippins, E",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "T, Th",
+            "Class": 55,
+            "CRN": 43297,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Avila, B",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "T, Th",
+            "Class": 56,
+            "CRN": 47230,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Love, B",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "T",
+            "Class": 57,
+            "CRN": 43323,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Love, B",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 58,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hurless, J",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "Th",
+            "Class": 59,
+            "CRN": 48424,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Hurless, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 60,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hurless, J",
+            "Course Title": "COMM 130 \u2013 Interpersonal Comm- ECAP",
+            "Class Days": "Th",
+            "Class": 61,
+            "CRN": 48425,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Hurless, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 62,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Love, B",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "Th",
+            "Class": 63,
+            "CRN": 45494,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Love, B",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 64,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Rope, C",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "M, W",
+            "Class": 65,
+            "CRN": 43605,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Rope, C",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 66,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Rope, C",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "M, W",
+            "Class": 67,
+            "CRN": 47195,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Rope, C",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 68,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Braddock, J",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "",
+            "Class": 69,
+            "CRN": 43299,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Irigoyen II, F",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "",
+            "Class": 70,
+            "CRN": 43321,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Thaning, M",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "",
+            "Class": 71,
+            "CRN": 43322,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Berry, F",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "",
+            "Class": 72,
+            "CRN": 43324,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Koppel, S",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "",
+            "Class": 73,
+            "CRN": 44089,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Russo, S",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "",
+            "Class": 74,
+            "CRN": 44964,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Russo, S",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "",
+            "Class": 75,
+            "CRN": 47358,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Mohammadi, O",
+            "Course Title": "COMM 130 \u2013 Interpersonal Communication",
+            "Class Days": "",
+            "Class": 76,
+            "CRN": 47961,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Rogers, L",
+            "Course Title": "COMM 140 \u2013 Small Group Communication",
+            "Class Days": "M, W, F",
+            "Class": 77,
+            "CRN": 45208,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Cunningham, C",
+            "Course Title": "COMM 140 \u2013 Small Group Communication",
+            "Class Days": "T, Th",
+            "Class": 78,
+            "CRN": 45093,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Rope, C",
+            "Course Title": "COMM 140 \u2013 Small Group Communication",
+            "Class Days": "M, W",
+            "Class": 79,
+            "CRN": 47647,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Rope, C",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 80,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Koppel, S",
+            "Course Title": "COMM 140 \u2013 Small Group Communication",
+            "Class Days": "",
+            "Class": 81,
+            "CRN": 45108,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Cunningham, C",
+            "Course Title": "COMM 140 \u2013 Small Group Communication",
+            "Class Days": "",
+            "Class": 82,
+            "CRN": 46434,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Gildea, R",
+            "Course Title": "COMM 150 \u2013 Intercultural Communication",
+            "Class Days": "M, W",
+            "Class": 83,
+            "CRN": 43630,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Pippins, E",
+            "Course Title": "COMM 150 \u2013 Intercultural Communication",
+            "Class Days": "T, Th",
+            "Class": 84,
+            "CRN": 44708,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Gamble, M",
+            "Course Title": "COMM 150 \u2013 Intercultural Communication",
+            "Class Days": "",
+            "Class": 85,
+            "CRN": 43573,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mohammadi, O",
+            "Course Title": "COMM 150 \u2013 Intercultural Communication",
+            "Class Days": "",
+            "Class": 86,
+            "CRN": 47361,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lescure, R",
+            "Course Title": "COMM 160 \u2013 Gender and Communication",
+            "Class Days": "M, W",
+            "Class": 87,
+            "CRN": 45304,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Avila, B",
+            "Course Title": "COMM 170 \u2013 Oral Interpretation I",
+            "Class Days": "M, W, F",
+            "Class": 88,
+            "CRN": 43317,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Avila, B",
+            "Course Title": "COMM 171 \u2013 Oral Interpretation II",
+            "Class Days": "M, W, F",
+            "Class": 89,
+            "CRN": 48097,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Ayotte, L",
+            "Course Title": "COMM 172 \u2013 Forensics",
+            "Class Days": "T",
+            "Class": 90,
+            "CRN": 46979,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Ayotte, L",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 91,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Ayotte, L",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 92,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Perez, J",
+            "Course Title": "COMM 180 \u2013 Intro. to Communic. Studies",
+            "Class Days": "M",
+            "Class": 93,
+            "CRN": 43575,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Perez, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 94,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Perez, J",
+            "Course Title": "COMM 180 \u2013 Intro. to Communic. Studies",
+            "Class Days": "M",
+            "Class": 95,
+            "CRN": 48007,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Perez, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 96,
+            "CRN": 0,
+            "Units": 3
+        }
+    ],
+    "Building Inspection": [
+        {
+            "Status": "Open",
+            "Professor": "Hipsher, B",
+            "Course Title": "BLDG 725 \u2013 Electrical Inspection II",
+            "Class Days": "T",
+            "Class": 1,
+            "CRN": 35031,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mitchell, M",
+            "Course Title": "BLDG 730 \u2013 Plumbing Inspection",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 43545,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Cooper, M",
+            "Course Title": "BLDG 735 \u2013 ADA Building Requirements",
+            "Class Days": "Th",
+            "Class": 3,
+            "CRN": 47422,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hipsher, B",
+            "Course Title": "BLDG 790 \u2013 Blueprint Reading for Constr",
+            "Class Days": "W",
+            "Class": 4,
+            "CRN": 47488,
+            "Units": 3
+        }
+    ],
+    "Computer Science": [
+        {
+            "Status": "Open",
+            "Professor": "Weeks, J",
+            "Course Title": "BUSW 418 \u2013 Spreadsheets",
+            "Class Days": "",
+            "Class": 1,
+            "CRN": 46810,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Abboud, S",
+            "Course Title": "CIS 110 \u2013 Introduction to CIS",
+            "Class Days": "M, W",
+            "Class": 2,
+            "CRN": 41880,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Abboud, S",
+            "Course Title": "CIS 110 \u2013 Introduction to CIS",
+            "Class Days": "T, Th",
+            "Class": 3,
+            "CRN": 40314,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Martens, B",
+            "Course Title": "CIS 110 \u2013 Introduction to CIS",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 31969,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Martens, B",
+            "Course Title": "CIS 110 \u2013 Introduction to CIS",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 34791,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Pacheco, H",
+            "Course Title": "CIS 117 \u2013 Python Programming",
+            "Class Days": "T",
+            "Class": 6,
+            "CRN": 47666,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Pacheco, H",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Pacheco, H",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Waitlist Closed",
+            "Professor": "Eftekhari, K",
+            "Course Title": "CIS 117 \u2013 Python Programming",
+            "Class Days": "",
+            "Class": 9,
+            "CRN": 45593,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Eftekhari, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 10,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lamble, G",
+            "Course Title": "CIS 117 \u2013 Python Programming",
+            "Class Days": "",
+            "Class": 11,
+            "CRN": 47056,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Lamble, G",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 12,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Ferguson, N",
+            "Course Title": "CIS 118 \u2013 Intro. to Computer Science",
+            "Class Days": "M, W",
+            "Class": 13,
+            "CRN": 48241,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Ferguson, N",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 14,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Schwarz, B",
+            "Course Title": "CIS 118 \u2013 Intro. to Computer Science",
+            "Class Days": "",
+            "Class": 15,
+            "CRN": 44009,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Schwarz, B",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 16,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Isaacs, S",
+            "Course Title": "CIS 121 \u2013 UNIX/Linux",
+            "Class Days": "",
+            "Class": 17,
+            "CRN": 43011,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Ferguson, N",
+            "Course Title": "CIS 122 \u2013 Intro. to Programming: Python",
+            "Class Days": "",
+            "Class": 18,
+            "CRN": 47046,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Pacheco, H",
+            "Course Title": "CIS 124 \u2013 Foundations of Data Science",
+            "Class Days": "T",
+            "Class": 19,
+            "CRN": 48380,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Pacheco, H",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 20,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Pacheco, H",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 21,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Ferreira Da Silva, C",
+            "Course Title": "CIS 128 \u2013 Mobile Web App Development",
+            "Class Days": "",
+            "Class": 22,
+            "CRN": 43884,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Ferreira Da Silva, C",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 23,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Moussalem, M",
+            "Course Title": "CIS 132 \u2013 Introduction to Databases",
+            "Class Days": "",
+            "Class": 24,
+            "CRN": 43547,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Naveed, M",
+            "Course Title": "CIS 133 \u2013 NoSQL Databases",
+            "Class Days": "",
+            "Class": 25,
+            "CRN": 46586,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Tramblee, K",
+            "Course Title": "CIS 138 \u2013 Internet of Things",
+            "Class Days": "",
+            "Class": 26,
+            "CRN": 46319,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mortezaie, F",
+            "Course Title": "CIS 151 \u2013 Computer Networking",
+            "Class Days": "",
+            "Class": 27,
+            "CRN": 41081,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Schwarz, B",
+            "Course Title": "CIS 250 \u2013 Intro to Obj Ori Program.: C++",
+            "Class Days": "T, Th",
+            "Class": 28,
+            "CRN": 37790,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Schwarz, B",
+            "Course Title": "CIS 250 \u2013 Intro to Obj Ori Program.: C++",
+            "Class Days": "",
+            "Class": 29,
+            "CRN": 45502,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Schwarz, B",
+            "Course Title": "CIS 252 \u2013 Intro to Data Structures - C++",
+            "Class Days": "T, Th",
+            "Class": 30,
+            "CRN": 41479,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Pacheco, H",
+            "Course Title": "CIS 254 \u2013 Intro Object-Oriented Pgm Dsgn",
+            "Class Days": "M, W",
+            "Class": 31,
+            "CRN": 45453,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Pacheco, H",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 32,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Pacheco, H",
+            "Course Title": "CIS 254 \u2013 Intro Object-Oriented Pgm Dsgn",
+            "Class Days": "M, W",
+            "Class": 33,
+            "CRN": 47173,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Pacheco, H",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 34,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Waitlist Closed",
+            "Professor": "Masters, J",
+            "Course Title": "CIS 254 \u2013 Intro Object-Oriented Pgm Dsgn",
+            "Class Days": "",
+            "Class": 35,
+            "CRN": 37965,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Masters, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 36,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Calle, A",
+            "Course Title": "CIS 254 \u2013 Intro Object-Oriented Pgm Dsgn",
+            "Class Days": "",
+            "Class": 37,
+            "CRN": 44734,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Calle, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 38,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Calle, A",
+            "Course Title": "CIS 255 \u2013 (CS1)Programming Methods: Java",
+            "Class Days": "M, W",
+            "Class": 39,
+            "CRN": 42555,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Calle, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 40,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Harden, D",
+            "Course Title": "CIS 255 \u2013 (CS1)Programming Methods: Java",
+            "Class Days": "",
+            "Class": 41,
+            "CRN": 38642,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Harden, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 42,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Calle, A",
+            "Course Title": "CIS 256 \u2013 (CS2) Data Structures: Java",
+            "Class Days": "M, W",
+            "Class": 43,
+            "CRN": 37971,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Calle, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 44,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Waitlist Closed",
+            "Professor": "Eftekhari, K",
+            "Course Title": "CIS 256 \u2013 (CS2) Data Structures: Java",
+            "Class Days": "",
+            "Class": 45,
+            "CRN": 39987,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Eftekhari, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 46,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Schwarz, B",
+            "Course Title": "CIS 262 \u2013 Discrete Math. for Comp Scienc",
+            "Class Days": "T, Th",
+            "Class": 47,
+            "CRN": 44084,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Mortezaie, F",
+            "Course Title": "CIS 262 \u2013 Discrete Math for Comp Science",
+            "Class Days": "",
+            "Class": 48,
+            "CRN": 47620,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Eftekhari, K",
+            "Course Title": "CIS 264 \u2013 Comp Org & Systems Programming",
+            "Class Days": "F",
+            "Class": 49,
+            "CRN": 47667,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Eftekhari, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 50,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Eftekhari, K",
+            "Course Title": "CIS 278 \u2013 (CS1) Prgm Methods: C++",
+            "Class Days": "F",
+            "Class": 51,
+            "CRN": 40355,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Eftekhari, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 52,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Eftekhari, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 53,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Waitlist Closed",
+            "Professor": "Eftekhari, K",
+            "Course Title": "CIS 279 \u2013 (CS2) Data Structures: C++",
+            "Class Days": "",
+            "Class": 54,
+            "CRN": 47413,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Eftekhari, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 55,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Schwarz, B",
+            "Course Title": "CIS 284 \u2013 Intro to Obj Orien Prog - Java",
+            "Class Days": "",
+            "Class": 56,
+            "CRN": 46993,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hoffman, J",
+            "Course Title": "CIS 286 \u2013 Intro. to Data Structures-Java",
+            "Class Days": "T, Th",
+            "Class": 57,
+            "CRN": 41483,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Moussalem, M",
+            "Course Title": "CIS 363 \u2013 Enterprise Database Management",
+            "Class Days": "",
+            "Class": 58,
+            "CRN": 42508,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Moussalem, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 59,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Jones, S",
+            "Course Title": "CIS 482 \u2013 Ethical Hacking",
+            "Class Days": "",
+            "Class": 60,
+            "CRN": 48354,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Abolghasemi, M",
+            "Course Title": "CIS 502 \u2013 Applied Python Programming",
+            "Class Days": "",
+            "Class": 61,
+            "CRN": 47621,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Momeni, K",
+            "Course Title": "COMP 122 \u2013 Intro to Programming: Python",
+            "Class Days": "T, Th",
+            "Class": 62,
+            "CRN": 47819,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Katz, A",
+            "Course Title": "COMP 132 \u2013 Introduction to Databases",
+            "Class Days": "M, W",
+            "Class": 63,
+            "CRN": 48423,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Katz, A",
+            "Course Title": "COMP 250 \u2013 Intro Objt-Orieted Prog:C++ETS",
+            "Class Days": "M, W, F",
+            "Class": 64,
+            "CRN": 45673,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Katz, A",
+            "Course Title": "COMP 250 \u2013 Intro Object-Oriented Prog:C++",
+            "Class Days": "M, W, F",
+            "Class": 65,
+            "CRN": 48154,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "COMP 250 \u2013 Intro Object-Oriented Prog:C++",
+            "Class Days": "Th",
+            "Class": 66,
+            "CRN": 38759,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "COMP 251 \u2013 Microcontrollers with C/C++",
+            "Class Days": "W",
+            "Class": 67,
+            "CRN": 48195,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Katz, A",
+            "Course Title": "COMP 252 \u2013 Data Structures: C++ - ETS",
+            "Class Days": "M, W",
+            "Class": 68,
+            "CRN": 47026,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Katz, A",
+            "Course Title": "COMP 252 \u2013 Data Structures: C++",
+            "Class Days": "M, W",
+            "Class": 69,
+            "CRN": 48155,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Katz, A",
+            "Course Title": "COMP 256 \u2013 Computer Arch. & Assembly Lang",
+            "Class Days": "T, Th",
+            "Class": 70,
+            "CRN": 45832,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Williams, P",
+            "Course Title": "COMP 262 \u2013 Discrete Mathematics for COMP",
+            "Class Days": "",
+            "Class": 71,
+            "CRN": 48249,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Katz, A",
+            "Course Title": "COMP 284 \u2013 Intro-Object-Orien Pgm:JAVAETS",
+            "Class Days": "T, Th",
+            "Class": 72,
+            "CRN": 46936,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Katz, A",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 73,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Katz, A",
+            "Course Title": "COMP 284 \u2013 Intro-Object-Oriented Pgm:JAVA",
+            "Class Days": "T, Th",
+            "Class": 74,
+            "CRN": 47740,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Katz, A",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 75,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hoffman, J",
+            "Course Title": "COMP 286 \u2013 Data Structures II: Java",
+            "Class Days": "M, W",
+            "Class": 76,
+            "CRN": 46528,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hoffman, J",
+            "Course Title": "COMP 286 \u2013 Data Structures II: Java ETS",
+            "Class Days": "M, W",
+            "Class": 77,
+            "CRN": 46529,
+            "Units": 3
+        }
+    ],
+    "Business Computer Sys/Mgmt": [
+        {
+            "Status": "Open",
+            "Professor": "Corzonkoff, B",
+            "Course Title": "BCM. 101 \u2013 Computer Keyboard Skill Build",
+            "Class Days": "",
+            "Class": 1,
+            "CRN": 41873,
+            "Units": 1.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Beltran, H",
+            "Course Title": "BCM. 200 \u2013 Intro - Microsoft Office Suite",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 35200,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Motipara, S",
+            "Course Title": "BCM. 225 \u2013 Spreadsheets I: Excel",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 34743,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Motipara, S",
+            "Course Title": "BCM. 226 \u2013 Spreadsheets II: Excel",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 38222,
+            "Units": 2
+        }
+    ],
+    "Chinese": [
+        {
+            "Status": "Open",
+            "Professor": "Wu, J",
+            "Course Title": "CHIN 111 \u2013 Elementary Chinese I",
+            "Class Days": "M",
+            "Class": 1,
+            "CRN": 43505,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Wu, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Wu, J",
+            "Course Title": "CHIN 111 \u2013 Elementary Chinese I",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 43598,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Wu, J",
+            "Course Title": "CHIN 112 \u2013 Elementary Chinese II",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 41224,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Wu, J",
+            "Course Title": "CHIN 121 \u2013 Adv. Elem. Chinese I",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 43600,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Wu, J",
+            "Course Title": "CHIN 122 \u2013 Adv. Elem Chinese II",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 43601,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Wu, J",
+            "Course Title": "CHIN 131 \u2013 Intermediate Chinese I",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 42426,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Wu, J",
+            "Course Title": "CHIN 132 \u2013 Intermediate Chinese Il",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 35056,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Wu, J",
+            "Course Title": "CHIN 211 \u2013 Colloquial Chinese I, Elem.",
+            "Class Days": "M",
+            "Class": 9,
+            "CRN": 43599,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Wu, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 10,
+            "CRN": 0,
+            "Units": 3
+        }
+    ],
+    "Cooperative Education": [
+        {
+            "Status": "Open",
+            "Professor": "Kennedy, L",
+            "Course Title": "COOP 620 \u2013 Community Engagement/Wrk Exp.",
+            "Class Days": "",
+            "Class": 1,
+            "CRN": 48078,
+            "Units": 13
+        },
+        {
+            "Status": "Open",
+            "Professor": "McCarthy, S",
+            "Course Title": "COOP 670 \u2013 Vocational Cooperative Ed",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 33886,
+            "Units": 14
+        },
+        {
+            "Status": "Open",
+            "Professor": "Jones, A",
+            "Course Title": "COOP 670 \u2013 Cooperative Educ./Work Exp.",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 30979,
+            "Units": 14
+        },
+        {
+            "Status": "",
+            "Professor": "Jones, A",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 4,
+            "CRN": 0,
+            "Units": 14
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kennedy, L",
+            "Course Title": "COOP 670 \u2013 Cooperative Ed/Work Experience",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 47176,
+            "Units": 14
+        },
+        {
+            "Status": "Open",
+            "Professor": "Shek, S",
+            "Course Title": "COOP 671 \u2013 General Coop Ed -Global Intern",
+            "Class Days": "Th",
+            "Class": 6,
+            "CRN": 37163,
+            "Units": 13
+        },
+        {
+            "Status": "",
+            "Professor": "Shek, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 0,
+            "Units": 13
+        },
+        {
+            "Status": "Open",
+            "Professor": "Moore, A",
+            "Course Title": "COOP 671 \u2013 General Cooperative Education",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 47771,
+            "Units": 13
+        }
+    ],
+    "Career and Personal Develop": [
+        {
+            "Status": "Open",
+            "Professor": "Nieve, J",
+            "Course Title": "CRER 100 \u2013 Career Planing & Life Explor.",
+            "Class Days": "T",
+            "Class": 1,
+            "CRN": 47582,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Fong, J",
+            "Course Title": "CRER 100 \u2013 Career Planing & Life Explor.",
+            "Class Days": "T",
+            "Class": 2,
+            "CRN": 47876,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mendez, S",
+            "Course Title": "CRER 110 \u2013 Honors Colloq. CRER: Trans Ess",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 45102,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "CRER 110 \u2013 Honors Colloq. CRER: Trans Ess",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 47797,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Quach, S",
+            "Course Title": "CRER 126 \u2013 Career I: Assessment & Explor.",
+            "Class Days": "M, W",
+            "Class": 5,
+            "CRN": 48390,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Negrete, R",
+            "Course Title": "CRER 126 \u2013 Career I: Assessment & Explor.",
+            "Class Days": "",
+            "Class": 6,
+            "CRN": 40889,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Quach, S",
+            "Course Title": "CRER 127 \u2013 Career Choices II: Job Search",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 40890,
+            "Units": 0.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Martin, N",
+            "Course Title": "CRER 137 \u2013 Life and Career Planning",
+            "Class Days": "M, W",
+            "Class": 8,
+            "CRN": 43008,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Gonzalez, K",
+            "Course Title": "CRER 137 \u2013 Life and Career Planning",
+            "Class Days": "M, W",
+            "Class": 9,
+            "CRN": 45831,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Gonzalez, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 10,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Hernandez, A",
+            "Course Title": "CRER 137 \u2013 Life & Career Plan PUENTE",
+            "Class Days": "T, Th",
+            "Class": 11,
+            "CRN": 33312,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hernandez, A",
+            "Course Title": "CRER 137 \u2013 Life & Career Plan Puente PSP",
+            "Class Days": "T, Th",
+            "Class": 12,
+            "CRN": 47604,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Aranyakul, S",
+            "Course Title": "CRER 137 \u2013 Life and Career Planning",
+            "Class Days": "Th",
+            "Class": 13,
+            "CRN": 48273,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Chan, R",
+            "Course Title": "CRER 137 \u2013 Life And Career Planning",
+            "Class Days": "W",
+            "Class": 14,
+            "CRN": 30987,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Chan, R",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 15,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mendez, S",
+            "Course Title": "CRER 137 \u2013 Life and Career Planning",
+            "Class Days": "",
+            "Class": 16,
+            "CRN": 40377,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Haick II, R",
+            "Course Title": "CRER 300 \u2013 Introduction to Scholarships",
+            "Class Days": "",
+            "Class": 17,
+            "CRN": 33880,
+            "Units": 1.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Alexander, K",
+            "Course Title": "CRER 401 \u2013 College Success",
+            "Class Days": "M, W, F",
+            "Class": 18,
+            "CRN": 39685,
+            "Units": 1
+        }
+    ],
+    "Business": [
+        {
+            "Status": "Open",
+            "Professor": "Rodriguez, M",
+            "Course Title": "BUS. 100 \u2013 Introduction to Business",
+            "Class Days": "M, T, F",
+            "Class": 1,
+            "CRN": 48485,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Rodriguez, M",
+            "Course Title": "",
+            "Class Days": "M, T, F",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Rodriguez, M",
+            "Course Title": "",
+            "Class Days": "M, T, F",
+            "Class": 3,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Rodriguez, M",
+            "Course Title": "",
+            "Class Days": "M, T, F",
+            "Class": 4,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Rodriguez, M",
+            "Course Title": "BUS. 100 \u2013 Introduction to Business",
+            "Class Days": "M, T, F",
+            "Class": 5,
+            "CRN": 48488,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Rodriguez, M",
+            "Course Title": "",
+            "Class Days": "M, T, F",
+            "Class": 6,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Rodriguez, M",
+            "Course Title": "",
+            "Class Days": "M, T, F",
+            "Class": 7,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Rodriguez, M",
+            "Course Title": "",
+            "Class Days": "M, T, F",
+            "Class": 8,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "McCarthy, S",
+            "Course Title": "BUS. 100 \u2013 Intro to Business - CIPHER",
+            "Class Days": "M",
+            "Class": 9,
+            "CRN": 30161,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "McCarthy, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 10,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "McCarthy, S",
+            "Course Title": "BUS. 100 \u2013 Introduction to Business - PSP",
+            "Class Days": "M",
+            "Class": 11,
+            "CRN": 44630,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "McCarthy, S",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 12,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Rowe, J",
+            "Course Title": "BUS. 100 \u2013 Introduction to Business",
+            "Class Days": "M, T, F",
+            "Class": 13,
+            "CRN": 48489,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Rowe, J",
+            "Course Title": "",
+            "Class Days": "M, T, F",
+            "Class": 14,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Rowe, J",
+            "Course Title": "",
+            "Class Days": "M, T, F",
+            "Class": 15,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Rowe, J",
+            "Course Title": "",
+            "Class Days": "M, T, F",
+            "Class": 16,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Waitlist Closed",
+            "Professor": "Tran, P",
+            "Course Title": "BUS. 100 \u2013 Introduction to Business",
+            "Class Days": "M, W",
+            "Class": 17,
+            "CRN": 31782,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "BUS. 100 \u2013 Introduction to Business",
+            "Class Days": "M, W",
+            "Class": 18,
+            "CRN": 47142,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Rowe, J",
+            "Course Title": "BUS. 100 \u2013 Introduction to Business",
+            "Class Days": "M, T, F",
+            "Class": 19,
+            "CRN": 48490,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Rowe, J",
+            "Course Title": "",
+            "Class Days": "M, T, F",
+            "Class": 20,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Rowe, J",
+            "Course Title": "",
+            "Class Days": "M, T, F",
+            "Class": 21,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Rowe, J",
+            "Course Title": "",
+            "Class Days": "M, T, F",
+            "Class": 22,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Rowe, J",
+            "Course Title": "BUS. 100 \u2013 Introduction to Business",
+            "Class Days": "M, T, F",
+            "Class": 23,
+            "CRN": 48491,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Rowe, J",
+            "Course Title": "",
+            "Class Days": "M, T, F",
+            "Class": 24,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Rowe, J",
+            "Course Title": "",
+            "Class Days": "M, T, F",
+            "Class": 25,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Rowe, J",
+            "Course Title": "",
+            "Class Days": "M, T, F",
+            "Class": 26,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Rodriguez, M",
+            "Course Title": "BUS. 100 \u2013 Introduction to Business",
+            "Class Days": "M, T, F",
+            "Class": 27,
+            "CRN": 48492,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Rodriguez, M",
+            "Course Title": "",
+            "Class Days": "M, T, F",
+            "Class": 28,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Rodriguez, M",
+            "Course Title": "",
+            "Class Days": "M, T, F",
+            "Class": 29,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Rodriguez, M",
+            "Course Title": "",
+            "Class Days": "M, T, F",
+            "Class": 30,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Tran, P",
+            "Course Title": "BUS. 100 \u2013 Introduction to Business",
+            "Class Days": "M, W",
+            "Class": 31,
+            "CRN": 31781,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "BUS. 100 \u2013 Introduction to Business",
+            "Class Days": "T, Th",
+            "Class": 32,
+            "CRN": 45919,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Pate, H",
+            "Course Title": "BUS. 100 \u2013 Introduction to Business",
+            "Class Days": "T",
+            "Class": 33,
+            "CRN": 48497,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Pate, H",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 34,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Yurtseven, L",
+            "Course Title": "BUS. 100 \u2013 Introduction to Business",
+            "Class Days": "Th",
+            "Class": 35,
+            "CRN": 46411,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Yurtseven, L",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 36,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Shankar, G",
+            "Course Title": "BUS. 100 \u2013 Introduction to Business",
+            "Class Days": "W",
+            "Class": 37,
+            "CRN": 40214,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Shankar, G",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 38,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Shankar, G",
+            "Course Title": "BUS. 100 \u2013 Introduction to Business",
+            "Class Days": "W",
+            "Class": 39,
+            "CRN": 43241,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Shankar, G",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 40,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Nance Carrigan, C",
+            "Course Title": "BUS. 100 \u2013 Introduction to Business",
+            "Class Days": "",
+            "Class": 41,
+            "CRN": 44958,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Yurtseven, L",
+            "Course Title": "BUS. 100 \u2013 Introduction to Business",
+            "Class Days": "",
+            "Class": 42,
+            "CRN": 45425,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Nance Carrigan, C",
+            "Course Title": "BUS. 100 \u2013 Introduction to Business",
+            "Class Days": "",
+            "Class": 43,
+            "CRN": 45918,
+            "Units": 3
+        },
+        {
+            "Status": "Waitlist Closed",
+            "Professor": "VonBleichert, P",
+            "Course Title": "BUS. 100 \u2013 Introduction to Business",
+            "Class Days": "",
+            "Class": 44,
+            "CRN": 46804,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Yurtseven, L",
+            "Course Title": "BUS. 100 \u2013 Introduction to Business",
+            "Class Days": "",
+            "Class": 45,
+            "CRN": 46805,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "BUS. 100 \u2013 Introduction to Business",
+            "Class Days": "",
+            "Class": 46,
+            "CRN": 47135,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Shankar, G",
+            "Course Title": "BUS. 100 \u2013 Introduction to Business",
+            "Class Days": "",
+            "Class": 47,
+            "CRN": 47136,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Verma, S",
+            "Course Title": "BUS. 100 \u2013 Introduction to Business",
+            "Class Days": "",
+            "Class": 48,
+            "CRN": 47274,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "VonBleichert, P",
+            "Course Title": "BUS. 100 \u2013 Introduction to Business",
+            "Class Days": "",
+            "Class": 49,
+            "CRN": 47275,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Vanderpal, G",
+            "Course Title": "BUS. 100 \u2013 Introduction to Business",
+            "Class Days": "",
+            "Class": 50,
+            "CRN": 47276,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Pate, H",
+            "Course Title": "BUS. 100 \u2013 Introduction to Business",
+            "Class Days": "",
+            "Class": 51,
+            "CRN": 48494,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Pate, H",
+            "Course Title": "BUS. 100 \u2013 Introduction to Business",
+            "Class Days": "",
+            "Class": 52,
+            "CRN": 48495,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "McCarthy, S",
+            "Course Title": "BUS. 101 \u2013 Human Relations at Work",
+            "Class Days": "T",
+            "Class": 53,
+            "CRN": 30163,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "McCarthy, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 54,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Dykes, S",
+            "Course Title": "BUS. 101 \u2013 Human Relations in Workplace",
+            "Class Days": "T",
+            "Class": 55,
+            "CRN": 43843,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Dykes, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 56,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lewall, G",
+            "Course Title": "BUS. 101 \u2013 Human Relations in Workplace",
+            "Class Days": "",
+            "Class": 57,
+            "CRN": 44618,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Tran, P",
+            "Course Title": "BUS. 101 \u2013 Human Relations at Work",
+            "Class Days": "",
+            "Class": 58,
+            "CRN": 46806,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Tran, P",
+            "Course Title": "BUS. 103 \u2013 Business Information Systems",
+            "Class Days": "W",
+            "Class": 59,
+            "CRN": 48272,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Tran, P",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 60,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Beltran, H",
+            "Course Title": "BUS. 103 \u2013 Intro Bus.InformationSys - PSP",
+            "Class Days": "Th",
+            "Class": 61,
+            "CRN": 30255,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Beltran, H",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 62,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Beltran, H",
+            "Course Title": "BUS. 103 \u2013 Intro. to Bus. Info. Systems",
+            "Class Days": "Th",
+            "Class": 63,
+            "CRN": 44333,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Beltran, H",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 64,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Pate, H",
+            "Course Title": "BUS. 103 \u2013 Intro. Bus. Information Sys.",
+            "Class Days": "",
+            "Class": 65,
+            "CRN": 30253,
+            "Units": 3
+        },
+        {
+            "Status": "Closed",
+            "Professor": "Staff,",
+            "Course Title": "BUS. 103 \u2013 Intro Bus. Information Sys.",
+            "Class Days": "",
+            "Class": 66,
+            "CRN": 30256,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "BUS. 103 \u2013 Intro Business Info Systems",
+            "Class Days": "",
+            "Class": 67,
+            "CRN": 45056,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "BUS. 103 \u2013 Intro to Business Info Systems",
+            "Class Days": "",
+            "Class": 68,
+            "CRN": 45506,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Bennett, B",
+            "Course Title": "BUS. 103 \u2013 Intro. Business Info Systems",
+            "Class Days": "",
+            "Class": 69,
+            "CRN": 45921,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Takyi, O",
+            "Course Title": "BUS. 103 \u2013 Business Information Systems",
+            "Class Days": "",
+            "Class": 70,
+            "CRN": 47149,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Shankar, G",
+            "Course Title": "BUS. 113 \u2013 Personal Finance",
+            "Class Days": "M, W",
+            "Class": 71,
+            "CRN": 48075,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "McCarthy, S",
+            "Course Title": "BUS. 113 \u2013 Personal Finance",
+            "Class Days": "T",
+            "Class": 72,
+            "CRN": 48460,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "McCarthy, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 73,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "McCarthy, S",
+            "Course Title": "BUS. 113 \u2013 Personal Finance - UMOJA",
+            "Class Days": "T",
+            "Class": 74,
+            "CRN": 48461,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "McCarthy, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 75,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Shankar, G",
+            "Course Title": "BUS. 113 \u2013 Personal Finance",
+            "Class Days": "M, W",
+            "Class": 76,
+            "CRN": 48077,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Shankar, G",
+            "Course Title": "BUS. 113 \u2013 Personal Finance",
+            "Class Days": "",
+            "Class": 77,
+            "CRN": 47631,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Shankar, G",
+            "Course Title": "BUS. 113 \u2013 Personal Finance",
+            "Class Days": "",
+            "Class": 78,
+            "CRN": 48371,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Beltran, H",
+            "Course Title": "BUS. 120 \u2013 Math Analysis for Business",
+            "Class Days": "T",
+            "Class": 79,
+            "CRN": 30166,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Beltran, H",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 80,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Beltran, H",
+            "Course Title": "BUS. 120 \u2013 Math Analysis for Business",
+            "Class Days": "T",
+            "Class": 81,
+            "CRN": 44844,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Beltran, H",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 82,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Verma, S",
+            "Course Title": "BUS. 123 \u2013 Business Statistics",
+            "Class Days": "T, Th",
+            "Class": 83,
+            "CRN": 48083,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Beltran, H",
+            "Course Title": "BUS. 123 \u2013 Statistics - UMOJA",
+            "Class Days": "Th",
+            "Class": 84,
+            "CRN": 30170,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Beltran, H",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 85,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Beltran, H",
+            "Course Title": "BUS. 123 \u2013 Statistics - CIPHER",
+            "Class Days": "Th",
+            "Class": 86,
+            "CRN": 30172,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Beltran, H",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 87,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Beltran, H",
+            "Course Title": "BUS. 123 \u2013 Statistics - PSP",
+            "Class Days": "Th",
+            "Class": 88,
+            "CRN": 30173,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Beltran, H",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 89,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Verma, S",
+            "Course Title": "BUS. 123 \u2013 Business Statistics",
+            "Class Days": "",
+            "Class": 90,
+            "CRN": 48050,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Yurtseven, L",
+            "Course Title": "BUS. 125 \u2013 International Business",
+            "Class Days": "",
+            "Class": 91,
+            "CRN": 46807,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Pate, H",
+            "Course Title": "BUS. 125 \u2013 International Business",
+            "Class Days": "",
+            "Class": 92,
+            "CRN": 47279,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "BUS. 127 \u2013 Fundamentals of Int'l Trade",
+            "Class Days": "",
+            "Class": 93,
+            "CRN": 48051,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Comerford, E",
+            "Course Title": "BUS. 136 \u2013 Business Finance",
+            "Class Days": "",
+            "Class": 94,
+            "CRN": 48052,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Tran, P",
+            "Course Title": "BUS. 150 \u2013 Small Business Management",
+            "Class Days": "M",
+            "Class": 95,
+            "CRN": 48087,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Tran, P",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 96,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kippes, A",
+            "Course Title": "BUS. 150 \u2013 Entre: Small Bus. Management",
+            "Class Days": "Th",
+            "Class": 97,
+            "CRN": 48267,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Kippes, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 98,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "BUS. 150 \u2013 Small Business Management",
+            "Class Days": "T, Th",
+            "Class": 99,
+            "CRN": 48441,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Staff,",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 100,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Staff,",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 101,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kippes, A",
+            "Course Title": "BUS. 150 \u2013 Entre: Small Bus. Management",
+            "Class Days": "Th",
+            "Class": 102,
+            "CRN": 48268,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Kippes, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 103,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "McCarthy, S",
+            "Course Title": "BUS. 161 \u2013 Creativity/Innovation in Entre",
+            "Class Days": "M",
+            "Class": 104,
+            "CRN": 46438,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "McCarthy, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 105,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "McCarthy, S",
+            "Course Title": "BUS. 161 \u2013 Creativity/Innovation in Entre",
+            "Class Days": "M",
+            "Class": 106,
+            "CRN": 47387,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Johnson, C",
+            "Course Title": "BUS. 171 \u2013 The Entrepreneurial Mindset",
+            "Class Days": "T, Th",
+            "Class": 107,
+            "CRN": 45958,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Johnson, C",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 108,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Johnson, C",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 109,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Cockrum, G",
+            "Course Title": "BUS. 171 \u2013 The Entrepreneurial Mindset",
+            "Class Days": "T, Th",
+            "Class": 110,
+            "CRN": 48520,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Cockrum, G",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 111,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Cockrum, G",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 112,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Cockrum, G",
+            "Course Title": "BUS. 171 \u2013 The Entrepreneurial Mindset",
+            "Class Days": "",
+            "Class": 113,
+            "CRN": 48521,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Johnson, C",
+            "Course Title": "BUS. 171 \u2013 The Entrepreneurial Mindset",
+            "Class Days": "",
+            "Class": 114,
+            "CRN": 47150,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Vanderpal, G",
+            "Course Title": "BUS. 174 \u2013 The Business Plan",
+            "Class Days": "",
+            "Class": 115,
+            "CRN": 47622,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Takyi, O",
+            "Course Title": "BUS. 176 \u2013 Selling the Idea",
+            "Class Days": "",
+            "Class": 116,
+            "CRN": 48053,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Noel, M",
+            "Course Title": "BUS. 180 \u2013 Marketing",
+            "Class Days": "M",
+            "Class": 117,
+            "CRN": 44488,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Noel, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 118,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Patterson, A",
+            "Course Title": "BUS. 180 \u2013 Introduction to Marketing",
+            "Class Days": "",
+            "Class": 119,
+            "CRN": 46413,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Pate, H",
+            "Course Title": "BUS. 180 \u2013 Marketing",
+            "Class Days": "",
+            "Class": 120,
+            "CRN": 47382,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Canfield, C",
+            "Course Title": "BUS. 189 \u2013 Sales/Self-Promotion Fundmntls",
+            "Class Days": "",
+            "Class": 121,
+            "CRN": 47391,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Canfield, C",
+            "Course Title": "BUS. 193 \u2013 Digital Marketing",
+            "Class Days": "",
+            "Class": 122,
+            "CRN": 46909,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Shek, S",
+            "Course Title": "BUS. 201 \u2013 Business Law",
+            "Class Days": "M, W",
+            "Class": 123,
+            "CRN": 30178,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Yurtseven, L",
+            "Course Title": "BUS. 201 \u2013 Business Law",
+            "Class Days": "Th",
+            "Class": 124,
+            "CRN": 47795,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Yurtseven, L",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 125,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Yurtseven, L",
+            "Course Title": "BUS. 201 \u2013 Business Law",
+            "Class Days": "Th",
+            "Class": 126,
+            "CRN": 48479,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Yurtseven, L",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 127,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kippes, A",
+            "Course Title": "BUS. 201 \u2013 Business Law",
+            "Class Days": "T",
+            "Class": 128,
+            "CRN": 45927,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Kippes, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 129,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kippes, A",
+            "Course Title": "BUS. 201 \u2013 Business Law",
+            "Class Days": "T",
+            "Class": 130,
+            "CRN": 45930,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Kippes, A",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 131,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Raskin, J",
+            "Course Title": "BUS. 201 \u2013 Business Law",
+            "Class Days": "",
+            "Class": 132,
+            "CRN": 44330,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "BUS. 201 \u2013 Business Law",
+            "Class Days": "",
+            "Class": 133,
+            "CRN": 45096,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kippes, A",
+            "Course Title": "BUS. 201 \u2013 Business Law",
+            "Class Days": "",
+            "Class": 134,
+            "CRN": 45423,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Nance Carrigan, C",
+            "Course Title": "BUS. 201 \u2013 Business Law",
+            "Class Days": "",
+            "Class": 135,
+            "CRN": 45520,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Yurtseven, L",
+            "Course Title": "BUS. 201 \u2013 Business Law",
+            "Class Days": "",
+            "Class": 136,
+            "CRN": 46029,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Yurtseven, L",
+            "Course Title": "BUS. 201 \u2013 Business Law",
+            "Class Days": "",
+            "Class": 137,
+            "CRN": 46808,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "VonBleichert, P",
+            "Course Title": "BUS. 201 \u2013 Business Law",
+            "Class Days": "",
+            "Class": 138,
+            "CRN": 47151,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Yurtseven, L",
+            "Course Title": "BUS. 201 \u2013 Business Law",
+            "Class Days": "",
+            "Class": 139,
+            "CRN": 47152,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Verma, S",
+            "Course Title": "BUS. 207 \u2013 Bus. Analytics Fundamentals",
+            "Class Days": "",
+            "Class": 140,
+            "CRN": 48055,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Verma, S",
+            "Course Title": "BUS. 209 \u2013 Data Visualization",
+            "Class Days": "",
+            "Class": 141,
+            "CRN": 48352,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Johnson, C",
+            "Course Title": "BUS. 230 \u2013 International Marketing",
+            "Class Days": "",
+            "Class": 142,
+            "CRN": 48353,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "BUS. 233 \u2013 Social Media Marketing",
+            "Class Days": "",
+            "Class": 143,
+            "CRN": 48054,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "McCarthy, S",
+            "Course Title": "BUS. 401 \u2013 Business Communications",
+            "Class Days": "Th",
+            "Class": 144,
+            "CRN": 30671,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "McCarthy, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 145,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "VonBleichert, P",
+            "Course Title": "BUS. 401 \u2013 Business Communications",
+            "Class Days": "",
+            "Class": 146,
+            "CRN": 31937,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Pate, H",
+            "Course Title": "BUS. 401 \u2013 Business Communications",
+            "Class Days": "",
+            "Class": 147,
+            "CRN": 43699,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Laurin, J",
+            "Course Title": "BUS. 401 \u2013 Business Communications",
+            "Class Days": "",
+            "Class": 148,
+            "CRN": 45871,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Weeks, J",
+            "Course Title": "BUSW 418 \u2013 Spreadsheets",
+            "Class Days": "",
+            "Class": 149,
+            "CRN": 46810,
+            "Units": 3
+        }
+    ]
+}

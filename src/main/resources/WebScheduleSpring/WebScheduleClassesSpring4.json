@@ -1,0 +1,6078 @@
+{
+    "English Second Language": [
+        {
+            "Status": "Open",
+            "Professor": "Westfold, E",
+            "Course Title": "ESL 400 \u2013 Adv Engl Multilingual Students",
+            "Class Days": "M, W",
+            "Class": 1,
+            "CRN": 42441,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Westfold, E",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kaiser, E",
+            "Course Title": "ESL 400 \u2013 Adv Engl Multilingual Students",
+            "Class Days": "M, W",
+            "Class": 3,
+            "CRN": 42341,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Sidman-Taveau, R",
+            "Course Title": "ESL 400 \u2013 Comp.for Multilingual Students",
+            "Class Days": "T, Th",
+            "Class": 4,
+            "CRN": 47414,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Schuler, E",
+            "Course Title": "ESL 400 \u2013 Adv Engl Multilingual Students",
+            "Class Days": "T, Th",
+            "Class": 5,
+            "CRN": 41075,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Pelletier, D",
+            "Course Title": "ESL 400 \u2013 Comp.for Multilingual Students",
+            "Class Days": "W",
+            "Class": 6,
+            "CRN": 46766,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Pelletier, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "ESL 400 \u2013 Comp. For Non-Native Speakers",
+            "Class Days": "M, W",
+            "Class": 8,
+            "CRN": 44962,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "ESL 400 \u2013 Comp.for Multilingual Students",
+            "Class Days": "M, W",
+            "Class": 9,
+            "CRN": 46765,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Abbas, M",
+            "Course Title": "ESL 400 \u2013 Adv Engl Multilingual Students",
+            "Class Days": "M, W",
+            "Class": 10,
+            "CRN": 32197,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Bunse, G",
+            "Course Title": "ESL 800 \u2013 ESL Preparatory Course",
+            "Class Days": "M, W",
+            "Class": 11,
+            "CRN": 43623,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "ESL 800 \u2013 ESL Preparatory Course",
+            "Class Days": "T, Th",
+            "Class": 12,
+            "CRN": 42254,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hwang, S",
+            "Course Title": "ESL 826 \u2013 Writing for Multilingual II",
+            "Class Days": "M, W, F",
+            "Class": 13,
+            "CRN": 43730,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Murphy, T",
+            "Course Title": "ESL 826 \u2013 Writing for Multilingual II",
+            "Class Days": "M, W, F",
+            "Class": 14,
+            "CRN": 42442,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Ridgway, K",
+            "Course Title": "ESL 827 \u2013 Writing Multilingual Stud III",
+            "Class Days": "M, W, F",
+            "Class": 15,
+            "CRN": 32238,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Ridgway, K",
+            "Course Title": "ESL 827 \u2013 Writing Multilingual Stud III",
+            "Class Days": "M, W, F",
+            "Class": 16,
+            "CRN": 32239,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Walsh, M",
+            "Course Title": "ESL 827 \u2013 Writing Multilingual Stud III",
+            "Class Days": "M, W",
+            "Class": 17,
+            "CRN": 32242,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Murphy, T",
+            "Course Title": "ESL 828 \u2013 Writing for Multilingual IV",
+            "Class Days": "M, W, F",
+            "Class": 18,
+            "CRN": 45573,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lim, S",
+            "Course Title": "ESL 828 \u2013 Writing for Multilingual IV",
+            "Class Days": "M, W",
+            "Class": 19,
+            "CRN": 42445,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kurland, E",
+            "Course Title": "ESL 828 \u2013 Writing for Multilingual IV",
+            "Class Days": "T, Th",
+            "Class": 20,
+            "CRN": 32245,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Kurland, E",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 21,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "ESL 828 \u2013 Writing for Multilingual IV",
+            "Class Days": "M, W",
+            "Class": 22,
+            "CRN": 32243,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "ESL 828 \u2013 Writing for Multilingual IV",
+            "Class Days": "M, W, F",
+            "Class": 23,
+            "CRN": 43507,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Pacheco Matus, G",
+            "Course Title": "ESL 837 \u2013 Intmdt. Vocabulary Development",
+            "Class Days": "T, Th",
+            "Class": 24,
+            "CRN": 41996,
+            "Units": 2
+        },
+        {
+            "Status": "",
+            "Professor": "Pacheco Matus, G",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 25,
+            "CRN": 0,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Westfold, E",
+            "Course Title": "ESL 846 \u2013 Listening and Speaking II",
+            "Class Days": "M, W, F",
+            "Class": 26,
+            "CRN": 41301,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kaiser, E",
+            "Course Title": "ESL 847 \u2013 Listening and Speaking III",
+            "Class Days": "T, Th",
+            "Class": 27,
+            "CRN": 42447,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Gable, E",
+            "Course Title": "ESL 847 \u2013 Listening and Speaking III",
+            "Class Days": "T",
+            "Class": 28,
+            "CRN": 32835,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hwang, S",
+            "Course Title": "ESL 848 \u2013 Listening and Speaking IV",
+            "Class Days": "M, W, F",
+            "Class": 29,
+            "CRN": 38184,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Schuler, E",
+            "Course Title": "ESL 848 \u2013 Listening and Speaking IV",
+            "Class Days": "T, Th",
+            "Class": 30,
+            "CRN": 44768,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Walsh, M",
+            "Course Title": "ESL 848 \u2013 Listening and Speaking IV",
+            "Class Days": "T",
+            "Class": 31,
+            "CRN": 42893,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Westfold, E",
+            "Course Title": "ESL 849 \u2013 Listening & Speaking Workshop",
+            "Class Days": "",
+            "Class": 32,
+            "CRN": 47833,
+            "Units": 0.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lim, S",
+            "Course Title": "ESL 856 \u2013 Reading for Multilingual II",
+            "Class Days": "T, Th",
+            "Class": 33,
+            "CRN": 32756,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Gable, E",
+            "Course Title": "ESL 856 \u2013 Reading for Multilingual II",
+            "Class Days": "Th",
+            "Class": 34,
+            "CRN": 32758,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kurland, E",
+            "Course Title": "ESL 857 \u2013 Reading Multilingual StudtsIII",
+            "Class Days": "T, Th",
+            "Class": 35,
+            "CRN": 32760,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hwang, S",
+            "Course Title": "ESL 858 \u2013 Reading for Multilingual IV",
+            "Class Days": "M, W",
+            "Class": 36,
+            "CRN": 47000,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kaiser, E",
+            "Course Title": "ESL 887 \u2013 Pronunc Engl Consonants/Vowels",
+            "Class Days": "T, Th",
+            "Class": 37,
+            "CRN": 46789,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Bianchi-Mcelwee, S",
+            "Course Title": "ESL 888 \u2013 Pronunc Engl Stress/Rhythm/Int",
+            "Class Days": "T",
+            "Class": 38,
+            "CRN": 46261,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Westfold, E",
+            "Course Title": "ESL 895 \u2013 Reading Improvmnt-Multilingual",
+            "Class Days": "",
+            "Class": 39,
+            "CRN": 47834,
+            "Units": 0.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Westfold, E",
+            "Course Title": "ESL 897 \u2013 Int Vocabulary - Multilingual",
+            "Class Days": "",
+            "Class": 40,
+            "CRN": 47835,
+            "Units": 51
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kurland, E",
+            "Course Title": "ESL 898 \u2013 Comp Grammar Rev-Multilingual",
+            "Class Days": "",
+            "Class": 41,
+            "CRN": 48357,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Westfold, E",
+            "Course Title": "ESL 907 \u2013 Independent Writng Study-Inter",
+            "Class Days": "",
+            "Class": 42,
+            "CRN": 47836,
+            "Units": 51
+        },
+        {
+            "Status": "Open",
+            "Professor": "Westfold, E",
+            "Course Title": "ESL 908 \u2013 Independent Writing Study-Advn",
+            "Class Days": "",
+            "Class": 43,
+            "CRN": 47837,
+            "Units": 51
+        },
+        {
+            "Status": "Open",
+            "Professor": "Castello, A",
+            "Course Title": "ESL 911 \u2013 Reading & Listening/Speaking I",
+            "Class Days": "M, W",
+            "Class": 44,
+            "CRN": 43301,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Pacheco Matus, G",
+            "Course Title": "ESL 912 \u2013 Reading & Listening-Speakng II",
+            "Class Days": "M, W",
+            "Class": 45,
+            "CRN": 48400,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Carey, J",
+            "Course Title": "ESL 912 \u2013 Reading & Listening-Speakng II",
+            "Class Days": "T, Th",
+            "Class": 46,
+            "CRN": 42830,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Pelletier, D",
+            "Course Title": "ESL 912 \u2013 Reading & Listening-Speakng II",
+            "Class Days": "T",
+            "Class": 47,
+            "CRN": 42831,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Pelletier, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 48,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Schertle, K",
+            "Course Title": "ESL 913 \u2013 Reading & Listening-Speakg III",
+            "Class Days": "Th",
+            "Class": 49,
+            "CRN": 42832,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Schertle, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 50,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Pacheco Matus, G",
+            "Course Title": "ESL 913 \u2013 Reading & Listening-Speakg III",
+            "Class Days": "T, Th",
+            "Class": 51,
+            "CRN": 42833,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Aguirre, A",
+            "Course Title": "ESL 914 \u2013 Reading & Listening-Speakin IV",
+            "Class Days": "T, Th",
+            "Class": 52,
+            "CRN": 42834,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Sidman-Taveau, R",
+            "Course Title": "ESL 914 \u2013 Reading & Listening-Speakin IV",
+            "Class Days": "T, Th",
+            "Class": 53,
+            "CRN": 42836,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Haven, K",
+            "Course Title": "ESL 921 \u2013 Grammar and Writing I",
+            "Class Days": "M, W, F",
+            "Class": 54,
+            "CRN": 42838,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Scarabelli, S",
+            "Course Title": "ESL 921 \u2013 Grammar and Writing I",
+            "Class Days": "T, Th",
+            "Class": 55,
+            "CRN": 42837,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Castello, A",
+            "Course Title": "ESL 922 \u2013 Grammar and Writing II",
+            "Class Days": "T, Th",
+            "Class": 56,
+            "CRN": 45023,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Schertle, K",
+            "Course Title": "ESL 922 \u2013 Grammar and Writing II",
+            "Class Days": "W",
+            "Class": 57,
+            "CRN": 42839,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Schertle, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 58,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Schertle, K",
+            "Course Title": "ESL 922 \u2013 Grammar and Writing II",
+            "Class Days": "W",
+            "Class": 59,
+            "CRN": 42840,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Schertle, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 60,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Pacheco Matus, G",
+            "Course Title": "ESL 923 \u2013 Grammar and Writing III",
+            "Class Days": "M, W",
+            "Class": 61,
+            "CRN": 42841,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Tufail, S",
+            "Course Title": "ESL 923 \u2013 Grammar and Writing III",
+            "Class Days": "T, Th",
+            "Class": 62,
+            "CRN": 45451,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Pelletier, D",
+            "Course Title": "ESL 923 \u2013 Grammar and Writing III",
+            "Class Days": "W",
+            "Class": 63,
+            "CRN": 42842,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Pelletier, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 64,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Carey, J",
+            "Course Title": "ESL 924 \u2013 Grammar and Writing IV",
+            "Class Days": "W",
+            "Class": 65,
+            "CRN": 42843,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Carey, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 66,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Carey, J",
+            "Course Title": "ESL 924 \u2013 Grammar and Writing IV",
+            "Class Days": "W",
+            "Class": 67,
+            "CRN": 42844,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Carey, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 68,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Struss, E",
+            "Course Title": "ESOL 400 \u2013 English Comp-Nonnative Spkrs",
+            "Class Days": "M, W",
+            "Class": 69,
+            "CRN": 39972,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Shaw, L",
+            "Course Title": "ESOL 400 \u2013 English Comp-Nonnative Spkrs",
+            "Class Days": "T, Th",
+            "Class": 70,
+            "CRN": 39906,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Struss, E",
+            "Course Title": "ESOL 400 \u2013 English Comp-Nonnative Spkrs",
+            "Class Days": "T, Th",
+            "Class": 71,
+            "CRN": 41631,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Shaw, L",
+            "Course Title": "ESOL 830 \u2013 ENGL Spkrs Other Languages III",
+            "Class Days": "M, W",
+            "Class": 72,
+            "CRN": 35165,
+            "Units": 6
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mazzi, F",
+            "Course Title": "ESOL 840 \u2013 ENGL Spkrs Other Languages IV",
+            "Class Days": "M, W, F",
+            "Class": 73,
+            "CRN": 40386,
+            "Units": 6
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "ESOL 840 \u2013 ENGL Spkrs Other Languages IV",
+            "Class Days": "M, W",
+            "Class": 74,
+            "CRN": 48414,
+            "Units": 6
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mazzi, F",
+            "Course Title": "ESOL 840 \u2013 ENGL Spkrs Other Languages IV",
+            "Class Days": "T, Th",
+            "Class": 75,
+            "CRN": 38466,
+            "Units": 6
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kocak, M",
+            "Course Title": "ESOL 840 \u2013 ENGL Spkrs Other Languages IV",
+            "Class Days": "T, Th",
+            "Class": 76,
+            "CRN": 48415,
+            "Units": 6
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mazzi, F",
+            "Course Title": "ESOL 853 \u2013 Int. ESL Listening & Speaking",
+            "Class Days": "M, W",
+            "Class": 77,
+            "CRN": 45675,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Struss, E",
+            "Course Title": "ESOL 854 \u2013 High-Int. ESL Listen & Speak",
+            "Class Days": "T, Th",
+            "Class": 78,
+            "CRN": 46423,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kocak, M",
+            "Course Title": "ESOL 874 \u2013 High-Intermediate ESL Grammar",
+            "Class Days": "Sa",
+            "Class": 79,
+            "CRN": 41730,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Shaw, L",
+            "Course Title": "ESOL 875 \u2013 Advanced ESL Grammar & Editing",
+            "Class Days": "T, Th",
+            "Class": 80,
+            "CRN": 45441,
+            "Units": 3
+        }
+    ],
+    "Economics": [
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Lehigh, S",
+            "Course Title": "ECON 100 \u2013 Principles of Macro Economics",
+            "Class Days": "M, W",
+            "Class": 1,
+            "CRN": 32071,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Roscelli, P",
+            "Course Title": "ECON 100 \u2013 Principles of Macro Economics",
+            "Class Days": "M, W",
+            "Class": 2,
+            "CRN": 41708,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Uy-Barreta, D",
+            "Course Title": "ECON 100 \u2013 Principles of Macro Economics",
+            "Class Days": "M, W, F",
+            "Class": 3,
+            "CRN": 30283,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Uy-Barreta, D",
+            "Course Title": "ECON 100 \u2013 Principles of Macro Economics",
+            "Class Days": "M, W, F",
+            "Class": 4,
+            "CRN": 30284,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Roscelli, P",
+            "Course Title": "ECON 100 \u2013 Principles of Macro Economics",
+            "Class Days": "T, Th",
+            "Class": 5,
+            "CRN": 31114,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Shokouhbakhsh, A",
+            "Course Title": "ECON 100 \u2013 Principles of Macro Economics",
+            "Class Days": "T, Th",
+            "Class": 6,
+            "CRN": 32072,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Roscelli, P",
+            "Course Title": "ECON 100 \u2013 Principles of Macro Economics",
+            "Class Days": "T, Th",
+            "Class": 7,
+            "CRN": 43874,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Shokouhbakhsh, A",
+            "Course Title": "ECON 100 \u2013 Principles of Macro Economics",
+            "Class Days": "T",
+            "Class": 8,
+            "CRN": 32069,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lehigh, S",
+            "Course Title": "ECON 100 \u2013 Principles of Macro Economics",
+            "Class Days": "",
+            "Class": 9,
+            "CRN": 32074,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Williams, M",
+            "Course Title": "ECON 100 \u2013 Principles of Macro Economics",
+            "Class Days": "",
+            "Class": 10,
+            "CRN": 44314,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Speight, L",
+            "Course Title": "ECON 100 \u2013 Principles of Macro Economics",
+            "Class Days": "",
+            "Class": 11,
+            "CRN": 46055,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Nelson, K",
+            "Course Title": "ECON 100 \u2013 Principles of Macro Economics",
+            "Class Days": "",
+            "Class": 12,
+            "CRN": 46447,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Sandhu, M",
+            "Course Title": "ECON 100 \u2013 Principles of Macro Economics",
+            "Class Days": "",
+            "Class": 13,
+            "CRN": 46632,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lehigh, S",
+            "Course Title": "ECON 100 \u2013 Principles of Macro Economics",
+            "Class Days": "",
+            "Class": 14,
+            "CRN": 47178,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Speight, L",
+            "Course Title": "ECON 100 \u2013 Principles of Macro Economics",
+            "Class Days": "",
+            "Class": 15,
+            "CRN": 47348,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Uy-Barreta, D",
+            "Course Title": "ECON 100 \u2013 Principles of Macro Economics",
+            "Class Days": "",
+            "Class": 16,
+            "CRN": 48129,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Roscelli, P",
+            "Course Title": "ECON 102 \u2013 Principles of Micro Economics",
+            "Class Days": "M, W",
+            "Class": 17,
+            "CRN": 31116,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Uy-Barreta, D",
+            "Course Title": "ECON 102 \u2013 Principles of Micro Economics",
+            "Class Days": "M, W, F",
+            "Class": 18,
+            "CRN": 36554,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lehigh, S",
+            "Course Title": "ECON 102 \u2013 Principles of Micro Economics",
+            "Class Days": "M, W",
+            "Class": 19,
+            "CRN": 43152,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Cockrum, G",
+            "Course Title": "ECON 102 \u2013 Principles of Micro Economics",
+            "Class Days": "T, Th",
+            "Class": 20,
+            "CRN": 32076,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Roscelli, P",
+            "Course Title": "ECON 102 \u2013 Principles of Micro Economics",
+            "Class Days": "Th",
+            "Class": 21,
+            "CRN": 31118,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Shokouhbakhsh, A",
+            "Course Title": "ECON 102 \u2013 Principles of Micro Economics",
+            "Class Days": "",
+            "Class": 22,
+            "CRN": 35469,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Williams, M",
+            "Course Title": "ECON 102 \u2013 Principles of Micro Economics",
+            "Class Days": "",
+            "Class": 23,
+            "CRN": 41423,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Verissimo Ira, L",
+            "Course Title": "ECON 102 \u2013 Principles of Microeconomics",
+            "Class Days": "",
+            "Class": 24,
+            "CRN": 42046,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Nelson, K",
+            "Course Title": "ECON 102 \u2013 Principles of Microeconomics",
+            "Class Days": "",
+            "Class": 25,
+            "CRN": 46056,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Speight, L",
+            "Course Title": "ECON 102 \u2013 Principles of Microeconomics",
+            "Class Days": "",
+            "Class": 26,
+            "CRN": 46664,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Lehigh, S",
+            "Course Title": "ECON 102 \u2013 Principles of Micro Economics",
+            "Class Days": "",
+            "Class": 27,
+            "CRN": 47225,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Roscelli, P",
+            "Course Title": "ECON 230 \u2013 Economic History Of The U.S.",
+            "Class Days": "T, Th",
+            "Class": 28,
+            "CRN": 43187,
+            "Units": 3
+        }
+    ],
+    "Funeral Service Education": [
+        {
+            "Status": "Open",
+            "Professor": "Mirassou, C",
+            "Course Title": "FSE. 200 \u2013 Intro. to Funeral Service",
+            "Class Days": "",
+            "Class": 1,
+            "CRN": 48210,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mirassou, C",
+            "Course Title": "FSE. 210 \u2013 Funeral Directing I",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 48475,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Mirassou, C",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mirassou, C",
+            "Course Title": "FSE. 225 \u2013 Psychology of Death and Dying",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 48476,
+            "Units": 3
+        }
+    ],
+    "Electronics": [
+        {
+            "Status": "Open",
+            "Professor": "Langhoff, N",
+            "Course Title": "ELEC 112 \u2013 Advanced Electronics Fund.",
+            "Class Days": "T, Th",
+            "Class": 1,
+            "CRN": 47713,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Langhoff, N",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Freedman, J",
+            "Course Title": "ELEC 232 \u2013 Advanced Electronics Math",
+            "Class Days": "T, Th",
+            "Class": 3,
+            "CRN": 47714,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Langhoff, N",
+            "Course Title": "ELEC 265 \u2013 Elect Assembly & Fabrication",
+            "Class Days": "T, Th",
+            "Class": 4,
+            "CRN": 47721,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Langhoff, N",
+            "Course Title": "",
+            "Class Days": "Th",
+            "Class": 5,
+            "CRN": 0,
+            "Units": 3
+        }
+    ],
+    "Physical Education": [
+        {
+            "Status": "Open",
+            "Professor": "Schmidt, M",
+            "Course Title": "ADAP 100 \u2013 Adapted Aquatics",
+            "Class Days": "T, Th",
+            "Class": 1,
+            "CRN": 31618,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Young, S",
+            "Course Title": "ADAP 110 \u2013 Adapted General Conditioning",
+            "Class Days": "M, W, F",
+            "Class": 2,
+            "CRN": 31619,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Young, S",
+            "Course Title": "ADAP 110 \u2013 Adapted General Conditioning",
+            "Class Days": "M, W, F",
+            "Class": 3,
+            "CRN": 31620,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Young, S",
+            "Course Title": "ADAP 110 \u2013 Adapted General Conditioning",
+            "Class Days": "T",
+            "Class": 4,
+            "CRN": 31622,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Young, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Young, S",
+            "Course Title": "ADAP 140 \u2013 Adapted Weight Trning",
+            "Class Days": "M, W, F",
+            "Class": 6,
+            "CRN": 39488,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Young, S",
+            "Course Title": "ADAP 155 \u2013 Adapted Back Care",
+            "Class Days": "M, W",
+            "Class": 7,
+            "CRN": 36505,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Young, S",
+            "Course Title": "ADAP 155 \u2013 Adapted Back Care",
+            "Class Days": "T",
+            "Class": 8,
+            "CRN": 36504,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "Young, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 9,
+            "CRN": 0,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Marquez, R",
+            "Course Title": "ADAP 358 \u2013 Adapted Strength Development",
+            "Class Days": "M, W",
+            "Class": 10,
+            "CRN": 41787,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Marquez, R",
+            "Course Title": "ADAP 359 \u2013 Balance/Functional Movement...",
+            "Class Days": "",
+            "Class": 11,
+            "CRN": 41790,
+            "Units": 51
+        },
+        {
+            "Status": "Open",
+            "Professor": "Haddon, J",
+            "Course Title": "COMB 401.1 \u2013 Self Defense I",
+            "Class Days": "",
+            "Class": 12,
+            "CRN": 47233,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Haddon, J",
+            "Course Title": "COMB 401.2 \u2013 Self Defense II",
+            "Class Days": "",
+            "Class": 13,
+            "CRN": 47234,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Haddon, J",
+            "Course Title": "COMB 401.3 \u2013 Self Defense III",
+            "Class Days": "",
+            "Class": 14,
+            "CRN": 47679,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Sharabi, M",
+            "Course Title": "FITN 106 \u2013 Varsity Conditioning",
+            "Class Days": "",
+            "Class": 15,
+            "CRN": 45450,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Saucedo, G",
+            "Course Title": "FITN 106 \u2013 Varsity Conditioning",
+            "Class Days": "",
+            "Class": 16,
+            "CRN": 47237,
+            "Units": 2
+        },
+        {
+            "Status": "Waitlist Closed",
+            "Professor": "Piergrossi, J",
+            "Course Title": "FITN 106 \u2013 Varsity Conditioning",
+            "Class Days": "",
+            "Class": 17,
+            "CRN": 46219,
+            "Units": 1
+        },
+        {
+            "Status": "Waitlist Closed",
+            "Professor": "Brunicardi, A",
+            "Course Title": "FITN 107 \u2013 Intercollegiate Fitness",
+            "Class Days": "",
+            "Class": 18,
+            "CRN": 43233,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Saucedo, G",
+            "Course Title": "FITN 112.1 \u2013 Cross Training I",
+            "Class Days": "M, W, F",
+            "Class": 19,
+            "CRN": 44128,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Saucedo, G",
+            "Course Title": "FITN 112.2 \u2013 Cross Training II",
+            "Class Days": "M, W, F",
+            "Class": 20,
+            "CRN": 44129,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Saucedo, G",
+            "Course Title": "FITN 112.3 \u2013 Cross Training III",
+            "Class Days": "M, W, F",
+            "Class": 21,
+            "CRN": 44130,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Marcial, M",
+            "Course Title": "FITN 116.1 \u2013 Body Conditioning I",
+            "Class Days": "M, W",
+            "Class": 22,
+            "CRN": 46296,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Burns, K",
+            "Course Title": "FITN 116.1 \u2013 Body Conditioning I",
+            "Class Days": "T, Th",
+            "Class": 23,
+            "CRN": 43970,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Sharabi, M",
+            "Course Title": "FITN 116.1 \u2013 Body Conditioning I",
+            "Class Days": "T, Th",
+            "Class": 24,
+            "CRN": 44138,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Diaz, S",
+            "Course Title": "FITN 116.1 \u2013 Body Conditioning I",
+            "Class Days": "T, Th",
+            "Class": 25,
+            "CRN": 44141,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Barrilleaux, E",
+            "Course Title": "FITN 116.1 \u2013 Body Conditioning I",
+            "Class Days": "T, Th",
+            "Class": 26,
+            "CRN": 43882,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Schmidt, M",
+            "Course Title": "FITN 116.1 \u2013 Body Conditioning I",
+            "Class Days": "",
+            "Class": 27,
+            "CRN": 44640,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Marcial, M",
+            "Course Title": "FITN 116.2 \u2013 Body Conditioning II",
+            "Class Days": "M, W",
+            "Class": 28,
+            "CRN": 46297,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Burns, K",
+            "Course Title": "FITN 116.2 \u2013 Body Conditioning II",
+            "Class Days": "T, Th",
+            "Class": 29,
+            "CRN": 43971,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Sharabi, M",
+            "Course Title": "FITN 116.2 \u2013 Body Conditioning II",
+            "Class Days": "T, Th",
+            "Class": 30,
+            "CRN": 44139,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Diaz, S",
+            "Course Title": "FITN 116.2 \u2013 Body Conditioning II",
+            "Class Days": "T, Th",
+            "Class": 31,
+            "CRN": 44142,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Barrilleaux, E",
+            "Course Title": "FITN 116.2 \u2013 Body Conditioning II",
+            "Class Days": "T, Th",
+            "Class": 32,
+            "CRN": 43883,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Saucedo, G",
+            "Course Title": "FITN 116.2 \u2013 Body Conditioning II",
+            "Class Days": "",
+            "Class": 33,
+            "CRN": 47239,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Marcial, M",
+            "Course Title": "FITN 116.3 \u2013 Body Conditioning III",
+            "Class Days": "M, W",
+            "Class": 34,
+            "CRN": 46298,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Burns, K",
+            "Course Title": "FITN 116.3 \u2013 Body Conditioning III",
+            "Class Days": "T, Th",
+            "Class": 35,
+            "CRN": 43972,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Sharabi, M",
+            "Course Title": "FITN 116.3 \u2013 Body Conditioning III",
+            "Class Days": "T, Th",
+            "Class": 36,
+            "CRN": 44140,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Diaz, S",
+            "Course Title": "FITN 116.3 \u2013 Body Conditioning III",
+            "Class Days": "T, Th",
+            "Class": 37,
+            "CRN": 45514,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Barrilleaux, E",
+            "Course Title": "FITN 116.3 \u2013 Body Conditioning III",
+            "Class Days": "T, Th",
+            "Class": 38,
+            "CRN": 43885,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Marcial, M",
+            "Course Title": "FITN 116.4 \u2013 Body Conditioning IV",
+            "Class Days": "M, W",
+            "Class": 39,
+            "CRN": 46299,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Burns, K",
+            "Course Title": "FITN 116.4 \u2013 Body Conditioning IV",
+            "Class Days": "T, Th",
+            "Class": 40,
+            "CRN": 43973,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Barrilleaux, E",
+            "Course Title": "FITN 116.4 \u2013 Body Conditioning IV",
+            "Class Days": "T, Th",
+            "Class": 41,
+            "CRN": 43886,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Harris, E",
+            "Course Title": "FITN 117 \u2013 Fitn. Assess./Strength Cond.",
+            "Class Days": "M, W",
+            "Class": 42,
+            "CRN": 40516,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Perkins, K",
+            "Course Title": "FITN 117 \u2013 Fitn. Assess./Strength Cond.",
+            "Class Days": "T, Th",
+            "Class": 43,
+            "CRN": 45182,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Carr, N",
+            "Course Title": "FITN 117 \u2013 Fitn. Assess./Strength Cond.",
+            "Class Days": "T, Th",
+            "Class": 44,
+            "CRN": 40517,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Harris, E",
+            "Course Title": "FITN 118 \u2013 Beginning Fitness Center",
+            "Class Days": "M, W",
+            "Class": 45,
+            "CRN": 40520,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Perkins, K",
+            "Course Title": "FITN 118 \u2013 Beginning Fitness Center",
+            "Class Days": "T, Th",
+            "Class": 46,
+            "CRN": 45183,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Carr, N",
+            "Course Title": "FITN 118 \u2013 Beginning Fitness Center",
+            "Class Days": "T, Th",
+            "Class": 47,
+            "CRN": 40526,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Harris, E",
+            "Course Title": "FITN 119 \u2013 Intermediate Fitness Center",
+            "Class Days": "M, W",
+            "Class": 48,
+            "CRN": 40530,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Perkins, K",
+            "Course Title": "FITN 119 \u2013 Intermediate Fitness Center",
+            "Class Days": "T, Th",
+            "Class": 49,
+            "CRN": 45184,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Carr, N",
+            "Course Title": "FITN 119 \u2013 Intermediate Fitness Center",
+            "Class Days": "T, Th",
+            "Class": 50,
+            "CRN": 40538,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Jimenez, C",
+            "Course Title": "FITN 122 \u2013 Total Body Burn",
+            "Class Days": "M, W",
+            "Class": 51,
+            "CRN": 42648,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Carr, N",
+            "Course Title": "FITN 128.1 \u2013 Core Strength Func Training I",
+            "Class Days": "M, W",
+            "Class": 52,
+            "CRN": 48499,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Carr, N",
+            "Course Title": "FITN 128.2 \u2013 Core Strength Func Training II",
+            "Class Days": "M, W",
+            "Class": 53,
+            "CRN": 48500,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Schmidt, M",
+            "Course Title": "FITN 134 \u2013 Track and Trail Aerobics",
+            "Class Days": "",
+            "Class": 54,
+            "CRN": 43114,
+            "Units": 1
+        },
+        {
+            "Status": "",
+            "Professor": "",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 55,
+            "CRN": 0,
+            "Units": 0
+        }
+    ],
+    "Network Engineering Technology": [
+        {
+            "Status": "Open",
+            "Professor": "Del Prado, N",
+            "Course Title": "NETX 400 \u2013 Intro to Local Area Network",
+            "Class Days": "",
+            "Class": 1,
+            "CRN": 48411,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Del Prado, N",
+            "Course Title": "NETX 403 \u2013 Cloud Infrastructure Essential",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 48120,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Pirehabdollahkandi, R",
+            "Course Title": "NETX 410 \u2013 Structured Wiring and Cabling",
+            "Class Days": "T",
+            "Class": 3,
+            "CRN": 47696,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Pirehabdollahkandi, R",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 4,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Pirehabdollahkandi, R",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Scurries, D",
+            "Course Title": "NETX 411 \u2013 Fiber Optics Technology",
+            "Class Days": "W",
+            "Class": 6,
+            "CRN": 45341,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Scurries, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lohmann, R",
+            "Course Title": "NETX 413 \u2013 Wireless Local Area Networks",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 48412,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff, T",
+            "Course Title": "NETX 420 \u2013 PC Configuration and Repair",
+            "Class Days": "T, Th",
+            "Class": 9,
+            "CRN": 45342,
+            "Units": 6
+        },
+        {
+            "Status": "",
+            "Professor": "Staff, T",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 10,
+            "CRN": 0,
+            "Units": 6
+        },
+        {
+            "Status": "",
+            "Professor": "Staff, T",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 11,
+            "CRN": 0,
+            "Units": 6
+        },
+        {
+            "Status": "Open",
+            "Professor": "Del Prado, N",
+            "Course Title": "NETX 430 \u2013 Introduction to Routers",
+            "Class Days": "T",
+            "Class": 12,
+            "CRN": 45318,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Del Prado, N",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 13,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Del Prado, N",
+            "Course Title": "NETX 431 \u2013 Network Switches-Concepts/Apps",
+            "Class Days": "W",
+            "Class": 14,
+            "CRN": 45319,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Del Prado, N",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 15,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Del Prado, N",
+            "Course Title": "NETX 435 \u2013 Network Security",
+            "Class Days": "",
+            "Class": 16,
+            "CRN": 48413,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Cortes, Q",
+            "Course Title": "NETX 440 \u2013 Intro to Microsoft Server Admn",
+            "Class Days": "Th",
+            "Class": 17,
+            "CRN": 45343,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Cortes, Q",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 18,
+            "CRN": 0,
+            "Units": 3
+        }
+    ],
+    "Emergency Medical Care": [
+        {
+            "Status": "Open",
+            "Professor": "Ambuehl, J",
+            "Course Title": "EMC. 410 \u2013 Emergency Medical Tech I",
+            "Class Days": "T",
+            "Class": 1,
+            "CRN": 48503,
+            "Units": 8
+        },
+        {
+            "Status": "",
+            "Professor": "Ambuehl, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 8
+        },
+        {
+            "Status": "",
+            "Professor": "Baalbaki, I",
+            "Course Title": "",
+            "Class Days": "W, Th",
+            "Class": 3,
+            "CRN": 0,
+            "Units": 8
+        },
+        {
+            "Status": "Open",
+            "Professor": "Miller, R",
+            "Course Title": "EMC. 425 \u2013 CPR: Health Care Provider",
+            "Class Days": "M, T",
+            "Class": 4,
+            "CRN": 40662,
+            "Units": 0.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Miller, R",
+            "Course Title": "EMC. 425 \u2013 CPR: Health Care Provider",
+            "Class Days": "M, T",
+            "Class": 5,
+            "CRN": 40663,
+            "Units": 0.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Miller, R",
+            "Course Title": "EMC. 425 \u2013 CPR: Health Care Provider",
+            "Class Days": "M, T",
+            "Class": 6,
+            "CRN": 40664,
+            "Units": 0.5
+        }
+    ],
+    "English": [
+        {
+            "Status": "Open",
+            "Professor": "Ubungen, M",
+            "Course Title": "ENGL 100 \u2013 Composition",
+            "Class Days": "M, W, F",
+            "Class": 1,
+            "CRN": 30290,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Harrison, M",
+            "Course Title": "ENGL 100 \u2013 Reading and Composition",
+            "Class Days": "M, W",
+            "Class": 2,
+            "CRN": 31119,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Fitzgerald, V",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "M, W, F",
+            "Class": 3,
+            "CRN": 45546,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Fitzgerald, V",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "M, W, F",
+            "Class": 4,
+            "CRN": 45547,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Richardson, R",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "M, W, F",
+            "Class": 5,
+            "CRN": 45549,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Harrison, M",
+            "Course Title": "ENGL 100 \u2013 Reading and Composition",
+            "Class Days": "M, W",
+            "Class": 6,
+            "CRN": 37813,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Goldstone, S",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "M, W, F",
+            "Class": 7,
+            "CRN": 32125,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Woltag, L",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "M, W, F",
+            "Class": 8,
+            "CRN": 32127,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Reynolds, R",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "M, W, F",
+            "Class": 9,
+            "CRN": 32149,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Weiss, L",
+            "Course Title": "ENGL 100 \u2013 Composition",
+            "Class Days": "M, W, F",
+            "Class": 10,
+            "CRN": 44568,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Harrison, M",
+            "Course Title": "ENGL 100 \u2013 Reading and Composition",
+            "Class Days": "M, W",
+            "Class": 11,
+            "CRN": 31123,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Wallace, J",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "M, W, F",
+            "Class": 12,
+            "CRN": 33819,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Sheetz, H",
+            "Course Title": "ENGL 100 \u2013 Reading and Composition",
+            "Class Days": "M, W",
+            "Class": 13,
+            "CRN": 39723,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Reynolds, R",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "M, W",
+            "Class": 14,
+            "CRN": 43635,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Cross, M",
+            "Course Title": "ENGL 100 \u2013 Composition",
+            "Class Days": "M, W, F",
+            "Class": 15,
+            "CRN": 45297,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Goldstone, S",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "M, W",
+            "Class": 16,
+            "CRN": 32151,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Wiley, M",
+            "Course Title": "ENGL 100 \u2013 Reading & Composition - Honors",
+            "Class Days": "M, W",
+            "Class": 17,
+            "CRN": 40759,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Wiley, M",
+            "Course Title": "ENGL 100 \u2013 Reading & Composition",
+            "Class Days": "M, W",
+            "Class": 18,
+            "CRN": 44710,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Honda, K",
+            "Course Title": "ENGL 100 \u2013 Reading and Composition",
+            "Class Days": "T, Th",
+            "Class": 19,
+            "CRN": 48339,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Weiss, L",
+            "Course Title": "ENGL 100 \u2013 Composition",
+            "Class Days": "T, Th",
+            "Class": 20,
+            "CRN": 41595,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Cudahy, M",
+            "Course Title": "ENGL 100 \u2013 Reading and Composition",
+            "Class Days": "T, Th",
+            "Class": 21,
+            "CRN": 31125,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Cudahy, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 22,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Anderson, R",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "T, Th",
+            "Class": 23,
+            "CRN": 43167,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Stokes Cobb, J",
+            "Course Title": "ENGL 100 \u2013 Reading and Composition",
+            "Class Days": "T, Th",
+            "Class": 24,
+            "CRN": 48340,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "De Andreis, E",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "T, Th",
+            "Class": 25,
+            "CRN": 32140,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Valenzuela, Y",
+            "Course Title": "ENGL 100 \u2013 Reading and Composition",
+            "Class Days": "T, Th",
+            "Class": 26,
+            "CRN": 38872,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Weiss, L",
+            "Course Title": "ENGL 100 \u2013 Composition",
+            "Class Days": "T, Th",
+            "Class": 27,
+            "CRN": 44379,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Malavade, K",
+            "Course Title": "ENGL 100 \u2013 Reading and Composition",
+            "Class Days": "Th",
+            "Class": 28,
+            "CRN": 43067,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Malavade, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 29,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Malavade, K",
+            "Course Title": "ENGL 100 \u2013 Reading and Composition",
+            "Class Days": "Th",
+            "Class": 30,
+            "CRN": 46668,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Malavade, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 31,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Bruni, P",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "W",
+            "Class": 32,
+            "CRN": 32156,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Palmer, L",
+            "Course Title": "ENGL 100 \u2013 Reading and Composition",
+            "Class Days": "",
+            "Class": 33,
+            "CRN": 31121,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Admassu, S",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "",
+            "Class": 34,
+            "CRN": 32902,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Glanting, P",
+            "Course Title": "ENGL 100 \u2013 Reading and Composition",
+            "Class Days": "",
+            "Class": 35,
+            "CRN": 33502,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Murphy, M",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "",
+            "Class": 36,
+            "CRN": 33820,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Maher, D",
+            "Course Title": "ENGL 100 \u2013 Reading and Composition",
+            "Class Days": "",
+            "Class": 37,
+            "CRN": 34790,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Sandel, A",
+            "Course Title": "ENGL 100 \u2013 Composition",
+            "Class Days": "",
+            "Class": 38,
+            "CRN": 40697,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Christensen, G",
+            "Course Title": "ENGL 100 \u2013 Composition",
+            "Class Days": "",
+            "Class": 39,
+            "CRN": 40878,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Maher, D",
+            "Course Title": "ENGL 100 \u2013 Reading and Composition",
+            "Class Days": "",
+            "Class": 40,
+            "CRN": 42321,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Wiley, M",
+            "Course Title": "ENGL 100 \u2013 Reading and Composition",
+            "Class Days": "",
+            "Class": 41,
+            "CRN": 44436,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Glanting, P",
+            "Course Title": "ENGL 100 \u2013 Reading and Composition",
+            "Class Days": "",
+            "Class": 42,
+            "CRN": 45055,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Murphy, M",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "",
+            "Class": 43,
+            "CRN": 45552,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Admassu, S",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "",
+            "Class": 44,
+            "CRN": 45554,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lacy, T",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "",
+            "Class": 45,
+            "CRN": 45555,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Zoughbie, S",
+            "Course Title": "ENGL 100 \u2013 Composition",
+            "Class Days": "",
+            "Class": 46,
+            "CRN": 46117,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Murphy, M",
+            "Course Title": "ENGL 100 \u2013 Composition and Reading",
+            "Class Days": "",
+            "Class": 47,
+            "CRN": 47208,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Jones, N",
+            "Course Title": "ENGL 100 \u2013 Composition",
+            "Class Days": "",
+            "Class": 48,
+            "CRN": 47965,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Erpelo, L",
+            "Course Title": "ENGL 104 \u2013 App Eng Sk for Cult/Kababayan",
+            "Class Days": "T, Th",
+            "Class": 49,
+            "CRN": 40116,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Feiner, J",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "M, W, F",
+            "Class": 50,
+            "CRN": 46103,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kim, R",
+            "Course Title": "ENGL 105 \u2013 Intensive Composition &Reading",
+            "Class Days": "M, W",
+            "Class": 51,
+            "CRN": 46750,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Sherer, M",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "M, W, F",
+            "Class": 52,
+            "CRN": 44756,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Maxwell, T",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "M, W, F",
+            "Class": 53,
+            "CRN": 45557,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hern, K",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "M, W, F",
+            "Class": 54,
+            "CRN": 46107,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Sherer, M",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "M, W, F",
+            "Class": 55,
+            "CRN": 47778,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Baden, R",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "M, W, F",
+            "Class": 56,
+            "CRN": 44755,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Keller, D",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "M, W, F",
+            "Class": 57,
+            "CRN": 45215,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Sin, S",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "M, W, F",
+            "Class": 58,
+            "CRN": 45558,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Malavade, K",
+            "Course Title": "ENGL 105 \u2013 Intensive Composition &Reading",
+            "Class Days": "M, W",
+            "Class": 59,
+            "CRN": 46751,
+            "Units": 5
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Kitamura, J",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "M, T, W, Th",
+            "Class": 60,
+            "CRN": 47210,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Kitamura, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 61,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lachmayr, L",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "M, W",
+            "Class": 62,
+            "CRN": 48162,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Lachmayr, L",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 63,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Hern, K",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "M, W",
+            "Class": 64,
+            "CRN": 47827,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Hern, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 65,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Travis, K",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "T, Th",
+            "Class": 66,
+            "CRN": 45560,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Valenzuela, Y",
+            "Course Title": "ENGL 105 \u2013 Intensive Composition &Reading",
+            "Class Days": "T, Th",
+            "Class": 67,
+            "CRN": 46752,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Sanchez, H",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "T, Th",
+            "Class": 68,
+            "CRN": 44752,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Sanchez, H",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 69,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kitamura, J",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "T, Th",
+            "Class": 70,
+            "CRN": 45566,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Kitamura, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 71,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Feiner, J",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "T, Th",
+            "Class": 72,
+            "CRN": 46104,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Williams, R",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "T, Th",
+            "Class": 73,
+            "CRN": 46105,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Warden, M",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "M",
+            "Class": 74,
+            "CRN": 48420,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Warden, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 75,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Clark, W",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "M, W",
+            "Class": 76,
+            "CRN": 45565,
+            "Units": 5
+        },
+        {
+            "Status": "",
+            "Professor": "Clark, W",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 77,
+            "CRN": 0,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kim, R",
+            "Course Title": "ENGL 105 \u2013 Intensive Composition &Reading",
+            "Class Days": "T, Th",
+            "Class": 78,
+            "CRN": 46737,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kim, R",
+            "Course Title": "ENGL 105 \u2013 Intensive Composition &Reading",
+            "Class Days": "T, Th",
+            "Class": 79,
+            "CRN": 46738,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Sanchez, H",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "",
+            "Class": 80,
+            "CRN": 44754,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mangin-Hinkley, S",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "",
+            "Class": 81,
+            "CRN": 44757,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lacy, T",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "",
+            "Class": 82,
+            "CRN": 45567,
+            "Units": 5
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Zoughbie, S",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "",
+            "Class": 83,
+            "CRN": 46429,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mangin-Hinkley, S",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "",
+            "Class": 84,
+            "CRN": 47211,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Treanor, E",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "",
+            "Class": 85,
+            "CRN": 47212,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Warden, M",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "",
+            "Class": 86,
+            "CRN": 47415,
+            "Units": 5
+        },
+        {
+            "Status": "Open",
+            "Professor": "Bell, R",
+            "Course Title": "ENGL 105 \u2013 Composition with Support",
+            "Class Days": "",
+            "Class": 87,
+            "CRN": 47416,
+            "Units": 5
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Goldstone, S",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "M, W, F",
+            "Class": 88,
+            "CRN": 32164,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Belluomini, J",
+            "Course Title": "ENGL 110 \u2013 CompLit.&Crit. Middle College",
+            "Class Days": "M, W, F",
+            "Class": 89,
+            "CRN": 44386,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "McQuade, J",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "M, W",
+            "Class": 90,
+            "CRN": 47625,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Sapigao, J",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "M, W",
+            "Class": 91,
+            "CRN": 48480,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Sapigao, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 92,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Sin, S",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "M, W, F",
+            "Class": 93,
+            "CRN": 32158,
+            "Units": 3
+        },
+        {
+            "Status": "Waitlist Closed",
+            "Professor": "Baden, R",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "M, W, F",
+            "Class": 94,
+            "CRN": 40155,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Nuila-Chae, S",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "M, W, F",
+            "Class": 95,
+            "CRN": 41589,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Fama, S",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "M, W, F",
+            "Class": 96,
+            "CRN": 43166,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Belluomini, J",
+            "Course Title": "ENGL 110 \u2013 CompLit.&Crit. Middle College",
+            "Class Days": "M, W, F",
+            "Class": 97,
+            "CRN": 46880,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lawson, D",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "M, W",
+            "Class": 98,
+            "CRN": 31134,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Valenzuela, Y",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "M, W",
+            "Class": 99,
+            "CRN": 42091,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "McQuade, J",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "M, W",
+            "Class": 100,
+            "CRN": 48243,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Fama, S",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "M, W, F",
+            "Class": 101,
+            "CRN": 32168,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Keller, D",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "M, W, F",
+            "Class": 102,
+            "CRN": 41496,
+            "Units": 3
+        },
+        {
+            "Status": "Waitlist Closed",
+            "Professor": "Nuila-Chae, S",
+            "Course Title": "ENGL 110 \u2013 Compos.Lit.&Crit.Thinking PSP",
+            "Class Days": "M, W, F",
+            "Class": 103,
+            "CRN": 46577,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Nuila-Chae, S",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "M, W, F",
+            "Class": 104,
+            "CRN": 46985,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Fitzgerald, V",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "M, W, F",
+            "Class": 105,
+            "CRN": 47216,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Sherer, M",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "M, W, F",
+            "Class": 106,
+            "CRN": 32901,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Woltag, L",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "M, W, F",
+            "Class": 107,
+            "CRN": 40552,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Wiley, M",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "M, W",
+            "Class": 108,
+            "CRN": 41978,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Maxwell, T",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "M, W",
+            "Class": 109,
+            "CRN": 42433,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Cudahy, M",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "M, W",
+            "Class": 110,
+            "CRN": 45213,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Cudahy, M",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 111,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "James, K",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "M, W, F",
+            "Class": 112,
+            "CRN": 45571,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Feiner, J",
+            "Course Title": "ENGL 110 \u2013 Comp.Lit. & Crit. Think FYE",
+            "Class Days": "M, W",
+            "Class": 113,
+            "CRN": 45706,
+            "Units": 3
+        },
+        {
+            "Status": "Waitlist Closed",
+            "Professor": "Feiner, J",
+            "Course Title": "ENGL 110 \u2013 CompLit &Crit.Think FYE PSP",
+            "Class Days": "M, W",
+            "Class": 114,
+            "CRN": 46983,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Heltzel, E",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "M",
+            "Class": 115,
+            "CRN": 48104,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Heltzel, E",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 116,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Ghan, C",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "M, W",
+            "Class": 117,
+            "CRN": 48421,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Ghan, C",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 118,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Waitlist Closed",
+            "Professor": "Ghan, C",
+            "Course Title": "ENGL 110 \u2013 Compos.,Lit.&Crit.Thinking PSP",
+            "Class Days": "M, W",
+            "Class": 119,
+            "CRN": 48422,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Ghan, C",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 120,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "James, K",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "M, W, F",
+            "Class": 121,
+            "CRN": 45569,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Cross, M",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "M, W",
+            "Class": 122,
+            "CRN": 46875,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Sapigao, J",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "M, W",
+            "Class": 123,
+            "CRN": 48163,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Sapigao, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 124,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Terzakis, E",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "M, W",
+            "Class": 125,
+            "CRN": 47626,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Richardson, R",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "M, W",
+            "Class": 126,
+            "CRN": 32898,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Williams, R",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "M, W",
+            "Class": 127,
+            "CRN": 46877,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Richardson, R",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "M, W",
+            "Class": 128,
+            "CRN": 48106,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "De Andreis, E",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "T, Th",
+            "Class": 129,
+            "CRN": 42434,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Sapigao, J",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "T, Th",
+            "Class": 130,
+            "CRN": 44389,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Sherer, M",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "T, Th",
+            "Class": 131,
+            "CRN": 32161,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Wallace, J",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "T, Th",
+            "Class": 132,
+            "CRN": 43146,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "McClung, K",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "T, Th",
+            "Class": 133,
+            "CRN": 44390,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Macaldo-Gubatina, M",
+            "Course Title": "ENGL 110 \u2013 Comp. Lit. & Crit.Think.CIPHER",
+            "Class Days": "T, Th",
+            "Class": 134,
+            "CRN": 45067,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Macaldo-Gubatina, M",
+            "Course Title": "ENGL 110 \u2013 ComLit&Crit.Think CIPHER PSP",
+            "Class Days": "T, Th",
+            "Class": 135,
+            "CRN": 46984,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Eslamieh, S",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "T, Th",
+            "Class": 136,
+            "CRN": 31135,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Maxwell, T",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "T, Th",
+            "Class": 137,
+            "CRN": 32165,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lawrence, S",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "T, Th",
+            "Class": 138,
+            "CRN": 41062,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Terzakis, E",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "T, Th",
+            "Class": 139,
+            "CRN": 44105,
+            "Units": 3
+        },
+        {
+            "Status": "Waitlist Closed",
+            "Professor": "Baden, R",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "T, Th",
+            "Class": 140,
+            "CRN": 48105,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Mills, A",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "T, Th",
+            "Class": 141,
+            "CRN": 48341,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Mangin-Hinkley, S",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "T, Th",
+            "Class": 142,
+            "CRN": 32159,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Sheetz, H",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "T, Th",
+            "Class": 143,
+            "CRN": 40167,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Melnick, L",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "T, Th",
+            "Class": 144,
+            "CRN": 41609,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Erpelo, L",
+            "Course Title": "ENGL 110 \u2013 Comp,Lit.&Crit. Kababayan",
+            "Class Days": "T, Th",
+            "Class": 145,
+            "CRN": 44993,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Anderson, R",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "T, Th",
+            "Class": 146,
+            "CRN": 45570,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Lachmayr, L",
+            "Course Title": "ENGL 110 \u2013 Compos.,Lit.&Crit.Think Puente",
+            "Class Days": "T, Th",
+            "Class": 147,
+            "CRN": 45756,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Bell, R",
+            "Course Title": "ENGL 110 \u2013 Compo.Lit.& Crit.Thinking PSP",
+            "Class Days": "T, Th",
+            "Class": 148,
+            "CRN": 46578,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Erpelo, L",
+            "Course Title": "ENGL 110 \u2013 Comp. Lit & Crit. KABA PSP",
+            "Class Days": "T, Th",
+            "Class": 149,
+            "CRN": 46980,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lachmayr, L",
+            "Course Title": "ENGL 110 \u2013 CompLit.&Crit.Thi. Puente PSP",
+            "Class Days": "T, Th",
+            "Class": 150,
+            "CRN": 46982,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Bell, R",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "T, Th",
+            "Class": 151,
+            "CRN": 46986,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Palmer, L",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "T, Th",
+            "Class": 152,
+            "CRN": 48517,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Eslamieh, S",
+            "Course Title": "ENGL 110 \u2013 Comp. Lit/Crit/Thinking-Honors",
+            "Class Days": "T, Th",
+            "Class": 153,
+            "CRN": 48518,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Bell, R",
+            "Course Title": "ENGL 110 \u2013 Comp. Lit.& Crit. Think.",
+            "Class Days": "T, Th",
+            "Class": 154,
+            "CRN": 44391,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Hern, K",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "T",
+            "Class": 155,
+            "CRN": 47757,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Hern, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 156,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lawson, D",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "T, Th",
+            "Class": 157,
+            "CRN": 44392,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Heltzel, E",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "W",
+            "Class": 158,
+            "CRN": 48103,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Heltzel, E",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 159,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kunkel, D",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "M",
+            "Class": 160,
+            "CRN": 32160,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "McClung, K",
+            "Course Title": "ENGL 110 \u2013 Comp, Lit, Critical Thinking",
+            "Class Days": "M",
+            "Class": 161,
+            "CRN": 33501,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Ghan, C",
+            "Course Title": "ENGL 110 \u2013 Comp,Lit,CriticalThinking ECAP",
+            "Class Days": "T",
+            "Class": 162,
+            "CRN": 30318,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Ghan, C",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "T",
+            "Class": 163,
+            "CRN": 42995,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "W",
+            "Class": 164,
+            "CRN": 32167,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Maher, D",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "Th",
+            "Class": 165,
+            "CRN": 43591,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Maher, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 166,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Maher, D",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "Th",
+            "Class": 167,
+            "CRN": 46669,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Maher, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 168,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Terzakis, E",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "T, Th",
+            "Class": 169,
+            "CRN": 31138,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Sumstad, J",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "",
+            "Class": 170,
+            "CRN": 31132,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Travis, K",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "",
+            "Class": 171,
+            "CRN": 32162,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Admassu, S",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "",
+            "Class": 172,
+            "CRN": 32897,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Treanor, E",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "",
+            "Class": 173,
+            "CRN": 40158,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Dowling, C",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "",
+            "Class": 174,
+            "CRN": 41063,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Cooper, S",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "",
+            "Class": 175,
+            "CRN": 41064,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Cross, M",
+            "Course Title": "ENGL 110 \u2013 Comp, Lit, Critical Thinking",
+            "Class Days": "",
+            "Class": 176,
+            "CRN": 41578,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Jones, N",
+            "Course Title": "ENGL 110 \u2013 Comp, Lit, Critical Thinking",
+            "Class Days": "",
+            "Class": 177,
+            "CRN": 41622,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Cooper, S",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "",
+            "Class": 178,
+            "CRN": 43165,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Terzakis, E",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "",
+            "Class": 179,
+            "CRN": 43592,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Terzakis, E",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "",
+            "Class": 180,
+            "CRN": 44103,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Cudahy, M",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "",
+            "Class": 181,
+            "CRN": 44104,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Eslamieh, S",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "",
+            "Class": 182,
+            "CRN": 44438,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Cross, M",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "",
+            "Class": 183,
+            "CRN": 44845,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lawson, D",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "",
+            "Class": 184,
+            "CRN": 45054,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Maher, D",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "",
+            "Class": 185,
+            "CRN": 45465,
+            "Units": 3
+        },
+        {
+            "Status": "Waitlist Closed",
+            "Professor": "Sandel, A",
+            "Course Title": "ENGL 110 \u2013 Lit. & Crit. Think.",
+            "Class Days": "",
+            "Class": 186,
+            "CRN": 46190,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Dowling, C",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "",
+            "Class": 187,
+            "CRN": 47217,
+            "Units": 3
+        },
+        {
+            "Status": "Waitlist Closed",
+            "Professor": "Woltag, L",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "",
+            "Class": 188,
+            "CRN": 47218,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Jones, N",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "",
+            "Class": 189,
+            "CRN": 47403,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Jones, N",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "",
+            "Class": 190,
+            "CRN": 47404,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Dowling, C",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "",
+            "Class": 191,
+            "CRN": 47507,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "De Andreis, E",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "",
+            "Class": 192,
+            "CRN": 47508,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Woltag, L",
+            "Course Title": "ENGL 110 \u2013 Compos., Lit. & Crit. Thinking",
+            "Class Days": "",
+            "Class": 193,
+            "CRN": 47779,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Williams, R",
+            "Course Title": "ENGL 161 \u2013 Creative Writing I",
+            "Class Days": "M, W",
+            "Class": 194,
+            "CRN": 45709,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Clark, W",
+            "Course Title": "ENGL 161 \u2013 Creative Writing I",
+            "Class Days": "M, W",
+            "Class": 195,
+            "CRN": 32177,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Wallace, J",
+            "Course Title": "ENGL 161 \u2013 Creative Writing I",
+            "Class Days": "T, Th",
+            "Class": 196,
+            "CRN": 32176,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Terzakis, E",
+            "Course Title": "ENGL 161 \u2013 Creative Writing I",
+            "Class Days": "T",
+            "Class": 197,
+            "CRN": 31139,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "McClung, K",
+            "Course Title": "ENGL 161 \u2013 Creative Writing I",
+            "Class Days": "",
+            "Class": 198,
+            "CRN": 30319,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Williams, R",
+            "Course Title": "ENGL 162 \u2013 Creative Writing II",
+            "Class Days": "M, W",
+            "Class": 199,
+            "CRN": 45710,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Clark, W",
+            "Course Title": "ENGL 162 \u2013 Creative Writing II",
+            "Class Days": "M, W",
+            "Class": 200,
+            "CRN": 32180,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Wallace, J",
+            "Course Title": "ENGL 162 \u2013 Creative Writing II",
+            "Class Days": "T, Th",
+            "Class": 201,
+            "CRN": 32179,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Terzakis, E",
+            "Course Title": "ENGL 162 \u2013 Creative Writing II",
+            "Class Days": "T",
+            "Class": 202,
+            "CRN": 33586,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Clark, W",
+            "Course Title": "ENGL 163 \u2013 Creative Writing III",
+            "Class Days": "M, W",
+            "Class": 203,
+            "CRN": 32183,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Wallace, J",
+            "Course Title": "ENGL 163 \u2013 Creative Writing III",
+            "Class Days": "T, Th",
+            "Class": 204,
+            "CRN": 32182,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Negus, S",
+            "Course Title": "ENGL 165 \u2013 Advanced Composition",
+            "Class Days": "M, W",
+            "Class": 205,
+            "CRN": 31140,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Fama, S",
+            "Course Title": "ENGL 165 \u2013 Comp, Argument & Crit Thinking",
+            "Class Days": "M, W, F",
+            "Class": 206,
+            "CRN": 33609,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "ENGL 165 \u2013 Comp, Argument & Crit Thinking",
+            "Class Days": "T, Th",
+            "Class": 207,
+            "CRN": 35372,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "ENGL 165 \u2013 Comp, Argument & Crit Thinking",
+            "Class Days": "T, Th",
+            "Class": 208,
+            "CRN": 42891,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Keller, D",
+            "Course Title": "ENGL 165 \u2013 Comp, Argument & Crit Thinking",
+            "Class Days": "T, Th",
+            "Class": 209,
+            "CRN": 42890,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Heltzel, E",
+            "Course Title": "ENGL 165 \u2013 Comp, Argument & Crit Thinking",
+            "Class Days": "W",
+            "Class": 210,
+            "CRN": 32185,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Heltzel, E",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 211,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Waitlist Closed",
+            "Professor": "Murphy, M",
+            "Course Title": "ENGL 165 \u2013 Comp, Argument & Crit Thinking",
+            "Class Days": "",
+            "Class": 212,
+            "CRN": 32899,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Garfinkle, D",
+            "Course Title": "ENGL 165 \u2013 Comp, Argument & Crit Thinking",
+            "Class Days": "",
+            "Class": 213,
+            "CRN": 32900,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Wiley, M",
+            "Course Title": "ENGL 165 \u2013 Advanced Composition",
+            "Class Days": "",
+            "Class": 214,
+            "CRN": 34331,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Christensen, G",
+            "Course Title": "ENGL 165 \u2013 Advanced Composition",
+            "Class Days": "",
+            "Class": 215,
+            "CRN": 41303,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "De Barra, C",
+            "Course Title": "ENGL 650 \u2013 English Supplement for TRIO",
+            "Class Days": "",
+            "Class": 216,
+            "CRN": 39399,
+            "Units": 0.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "De Barra, C",
+            "Course Title": "ENGL 650 \u2013 English Supplement for TRIO",
+            "Class Days": "",
+            "Class": 217,
+            "CRN": 45328,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "De Barra, C",
+            "Course Title": "ENGL 650 \u2013 English Supplement for TRIO",
+            "Class Days": "",
+            "Class": 218,
+            "CRN": 47766,
+            "Units": 0.5
+        },
+        {
+            "Status": "Open",
+            "Professor": "De Barra, C",
+            "Course Title": "ENGL 650 \u2013 English Supplement for TRIO",
+            "Class Days": "",
+            "Class": 219,
+            "CRN": 47767,
+            "Units": 1
+        }
+    ],
+    "Engineering": [
+        {
+            "Status": "Open",
+            "Professor": "Sukumar, S",
+            "Course Title": "ENGR 100 \u2013 Introduction to Engineering",
+            "Class Days": "M, T, Th, F",
+            "Class": 1,
+            "CRN": 47866,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Sukumar, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Sukumar, S",
+            "Course Title": "",
+            "Class Days": "M, T, Th, F",
+            "Class": 3,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Sukumar, S",
+            "Course Title": "",
+            "Class Days": "M, T, Th, F",
+            "Class": 4,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Sukumar, S",
+            "Course Title": "",
+            "Class Days": "M, T, Th, F",
+            "Class": 5,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Sukumar, S",
+            "Course Title": "ENGR 100 \u2013 Introduction to Engineering",
+            "Class Days": "M, F",
+            "Class": 6,
+            "CRN": 48471,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Sukumar, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Sukumar, S",
+            "Course Title": "",
+            "Class Days": "M, F",
+            "Class": 8,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Sukumar, S",
+            "Course Title": "",
+            "Class Days": "M, F",
+            "Class": 9,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Sukumar, S",
+            "Course Title": "",
+            "Class Days": "M, F",
+            "Class": 10,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kalyanaraman, R",
+            "Course Title": "ENGR 100 \u2013 Introduction to Engineering",
+            "Class Days": "W",
+            "Class": 11,
+            "CRN": 39613,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Kalyanaraman, R",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 12,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Gutierrez, J",
+            "Course Title": "ENGR 210 \u2013 Engineering Graphics",
+            "Class Days": "M, W",
+            "Class": 13,
+            "CRN": 44573,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Gutierrez, J",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 14,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Khan, M",
+            "Course Title": "ENGR 210 \u2013 Engineering Graphics/ETS",
+            "Class Days": "M, W",
+            "Class": 15,
+            "CRN": 46111,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Khan, M",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 16,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Khan, M",
+            "Course Title": "ENGR 210 \u2013 Engineering Graphics",
+            "Class Days": "M, W",
+            "Class": 17,
+            "CRN": 48157,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Khan, M",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 18,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Gutierrez, J",
+            "Course Title": "ENGR 210 \u2013 Engineering Graphics",
+            "Class Days": "T, Th",
+            "Class": 19,
+            "CRN": 41856,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Gutierrez, J",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 20,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "ENGR 215 \u2013 Comput. Methods Engr/Scientist",
+            "Class Days": "W",
+            "Class": 21,
+            "CRN": 42012,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Staff,",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 22,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kalyanaraman, R",
+            "Course Title": "ENGR 230 \u2013 Statics",
+            "Class Days": "M, W",
+            "Class": 23,
+            "CRN": 40770,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kalyanaraman, R",
+            "Course Title": "ENGR 230 \u2013 Statics",
+            "Class Days": "",
+            "Class": 24,
+            "CRN": 40785,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Khan, M",
+            "Course Title": "ENGR 240 \u2013 Engineering Dynamics",
+            "Class Days": "",
+            "Class": 25,
+            "CRN": 46945,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kalyanaraman, R",
+            "Course Title": "ENGR 260 \u2013 Circuits and Devices",
+            "Class Days": "T, Th",
+            "Class": 26,
+            "CRN": 40359,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Abboud, S",
+            "Course Title": "ENGR 260 \u2013 Circuits and Devices",
+            "Class Days": "T",
+            "Class": 27,
+            "CRN": 32264,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Gutierrez, J",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 28,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kalyanaraman, R",
+            "Course Title": "ENGR 260 \u2013 Circuits and Devices",
+            "Class Days": "",
+            "Class": 29,
+            "CRN": 40848,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kalyanaraman, R",
+            "Course Title": "ENGR 261 \u2013 Circuits & Devic. Lab.",
+            "Class Days": "T",
+            "Class": 30,
+            "CRN": 31157,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Gutierrez, J",
+            "Course Title": "ENGR 270 \u2013 Materials Science",
+            "Class Days": "M, W",
+            "Class": 31,
+            "CRN": 46633,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Gutierrez, J",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 32,
+            "CRN": 0,
+            "Units": 4
+        },
+        {
+            "Status": "Open",
+            "Professor": "Shah, K",
+            "Course Title": "ENGR 270 \u2013 Materials Science",
+            "Class Days": "Th",
+            "Class": 33,
+            "CRN": 46938,
+            "Units": 4
+        },
+        {
+            "Status": "",
+            "Professor": "Shah, K",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 34,
+            "CRN": 0,
+            "Units": 4
+        }
+    ],
+    "Education and Human Development": [
+        {
+            "Status": "Open",
+            "Professor": "Brower, K",
+            "Course Title": "ECE. 201 \u2013 Child Development",
+            "Class Days": "T, Th",
+            "Class": 1,
+            "CRN": 47872,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Brower, K",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Brower, K",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 3,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Brower, K",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 4,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Santos, S",
+            "Course Title": "ECE. 201 \u2013 Child Development",
+            "Class Days": "M, W",
+            "Class": 5,
+            "CRN": 39539,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Campbell, T",
+            "Course Title": "ECE. 201 \u2013 Child Development",
+            "Class Days": "M",
+            "Class": 6,
+            "CRN": 47873,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Campbell, T",
+            "Course Title": "",
+            "Class Days": "W, F",
+            "Class": 7,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Campbell, T",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 8,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Campbell, T",
+            "Course Title": "",
+            "Class Days": "W, F",
+            "Class": 9,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Venkataraman, S",
+            "Course Title": "ECE. 201 \u2013 Child Development",
+            "Class Days": "T, Th",
+            "Class": 10,
+            "CRN": 36431,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Watts, J",
+            "Course Title": "ECE. 201 \u2013 Child Development",
+            "Class Days": "",
+            "Class": 11,
+            "CRN": 47080,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Watts, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 12,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Watts, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 13,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Watts, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 14,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Santos, S",
+            "Course Title": "ECE. 201 \u2013 Child Development",
+            "Class Days": "M, W",
+            "Class": 15,
+            "CRN": 39540,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Watts, J",
+            "Course Title": "ECE. 201 \u2013 Child Development",
+            "Class Days": "",
+            "Class": 16,
+            "CRN": 41840,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "ECE. 201 \u2013 Child Development",
+            "Class Days": "",
+            "Class": 17,
+            "CRN": 42669,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Santos, S",
+            "Course Title": "ECE. 201 \u2013 Child Development",
+            "Class Days": "",
+            "Class": 18,
+            "CRN": 42956,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lawrence, J",
+            "Course Title": "ECE. 210 \u2013 Early Childhood Ed Principles",
+            "Class Days": "",
+            "Class": 19,
+            "CRN": 41962,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Browne, K",
+            "Course Title": "ECE. 210 \u2013 Early Child Ed Principles",
+            "Class Days": "",
+            "Class": 20,
+            "CRN": 45840,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Brower, K",
+            "Course Title": "ECE. 211 \u2013 Early Childhood Ed Curriculum",
+            "Class Days": "T, Th",
+            "Class": 21,
+            "CRN": 39542,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Watts, J",
+            "Course Title": "ECE. 211 \u2013 ECE Curriculum",
+            "Class Days": "W",
+            "Class": 22,
+            "CRN": 30280,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Watts, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 23,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Watts, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 24,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Watts, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 25,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Brower, K",
+            "Course Title": "ECE. 211 \u2013 Early Child Ed Curriculum",
+            "Class Days": "",
+            "Class": 26,
+            "CRN": 46531,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Browne, K",
+            "Course Title": "ECE. 212 \u2013 Child, Family & Community",
+            "Class Days": "",
+            "Class": 27,
+            "CRN": 36427,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Moore, A",
+            "Course Title": "ECE. 212 \u2013 Child, Family & Community",
+            "Class Days": "",
+            "Class": 28,
+            "CRN": 46101,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Moore, A",
+            "Course Title": "ECE. 225 \u2013 Care/Educ for Infants/Toddlers",
+            "Class Days": "",
+            "Class": 29,
+            "CRN": 39870,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Krishna, S",
+            "Course Title": "ECE. 241 \u2013 Admin II: Personnel/Leader",
+            "Class Days": "",
+            "Class": 30,
+            "CRN": 39546,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Krishna, S",
+            "Course Title": "ECE. 242 \u2013 Adult Supervision & Mentoring",
+            "Class Days": "",
+            "Class": 31,
+            "CRN": 35911,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Santos, S",
+            "Course Title": "ECE. 254 \u2013 Teaching in a Diverse Society",
+            "Class Days": "",
+            "Class": 32,
+            "CRN": 39548,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Santos, S",
+            "Course Title": "ECE. 260 \u2013 Children with Special Needs",
+            "Class Days": "M, W",
+            "Class": 33,
+            "CRN": 41350,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Santos, S",
+            "Course Title": "ECE. 260 \u2013 Children with Special Needs",
+            "Class Days": "M, W",
+            "Class": 34,
+            "CRN": 48342,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Adams, J",
+            "Course Title": "ECE. 260 \u2013 Children with Special Needs",
+            "Class Days": "",
+            "Class": 35,
+            "CRN": 45594,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Santos, S",
+            "Course Title": "ECE. 260 \u2013 Children with Special Needs",
+            "Class Days": "",
+            "Class": 36,
+            "CRN": 45947,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Adams, J",
+            "Course Title": "ECE. 263 \u2013 Strategies for Special Needs",
+            "Class Days": "",
+            "Class": 37,
+            "CRN": 44439,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Venkataraman, S",
+            "Course Title": "ECE. 272 \u2013 Teaching in a Diverse Society",
+            "Class Days": "",
+            "Class": 38,
+            "CRN": 46110,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kiesselbach, L",
+            "Course Title": "ECE. 313 \u2013 Health, Safety and Nutrition",
+            "Class Days": "",
+            "Class": 39,
+            "CRN": 39577,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Kiesselbach, L",
+            "Course Title": "ECE. 314 \u2013 Health, Safety, Nutrition-ECE",
+            "Class Days": "",
+            "Class": 40,
+            "CRN": 42701,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Kiesselbach, L",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 41,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Kiesselbach, L",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 42,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Kiesselbach, L",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 43,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Watts, J",
+            "Course Title": "ECE. 333 \u2013 Observation & Assessment",
+            "Class Days": "",
+            "Class": 44,
+            "CRN": 43245,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kiesselbach, L",
+            "Course Title": "ECE. 333 \u2013 Obseration/Assess. Young Child",
+            "Class Days": "",
+            "Class": 45,
+            "CRN": 43873,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Browne, K",
+            "Course Title": "ECE. 366 \u2013 Practicum in ECE",
+            "Class Days": "",
+            "Class": 46,
+            "CRN": 38521,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Browne, K",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 47,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Browne, K",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 48,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Browne, K",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 49,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Browne, K",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 50,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Browne, K",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 51,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Browne, K",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 52,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Brower, K",
+            "Course Title": "ECE. 366 \u2013 Practicum in Early Child. Ed.",
+            "Class Days": "",
+            "Class": 53,
+            "CRN": 37164,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Brower, K",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 54,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Brower, K",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 55,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Brower, K",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 56,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Brower, K",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 57,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Brower, K",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 58,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Brower, K",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 59,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Browne, K",
+            "Course Title": "ECE. 367 \u2013 ECE Practicum: Special Topics",
+            "Class Days": "",
+            "Class": 60,
+            "CRN": 43111,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Browne, K",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 61,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Browne, K",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 62,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Browne, K",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 63,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Browne, K",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 64,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Browne, K",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 65,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Browne, K",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 66,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Barrientos, M",
+            "Course Title": "ECE. 670 \u2013 Cooperative Education",
+            "Class Days": "",
+            "Class": 67,
+            "CRN": 36942,
+            "Units": 14
+        },
+        {
+            "Status": "Open",
+            "Professor": "Watts, J",
+            "Course Title": "ECE. 901 \u2013 Child Development-APRNTC- ECAP",
+            "Class Days": "",
+            "Class": 68,
+            "CRN": 48220,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Watts, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 69,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Watts, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 70,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Watts, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 71,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Browne, K",
+            "Course Title": "ECE. 910 \u2013 ECE Principles(Apprenticeship)",
+            "Class Days": "",
+            "Class": 72,
+            "CRN": 48473,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Watts, J",
+            "Course Title": "ECE. 911 \u2013 ECE Curriculum-APPRENTICE-ECAP",
+            "Class Days": "W",
+            "Class": 73,
+            "CRN": 48226,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Watts, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 74,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Watts, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 75,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Watts, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 76,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Browne, K",
+            "Course Title": "ECE. 912 \u2013 Child/Family/Commu(Apprentice)",
+            "Class Days": "",
+            "Class": 77,
+            "CRN": 48474,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kiesselbach, L",
+            "Course Title": "ECE. 914 \u2013 Health,Safety,Nutr-APRNT-ECAP",
+            "Class Days": "",
+            "Class": 78,
+            "CRN": 48458,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Kiesselbach, L",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 79,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Kiesselbach, L",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 80,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Kiesselbach, L",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 81,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Watts, J",
+            "Course Title": "ECE. 933 \u2013 Observation&Assess(Apprentice)",
+            "Class Days": "",
+            "Class": 82,
+            "CRN": 48472,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Browne, K",
+            "Course Title": "ECE. 966 \u2013 Practicum in ECE-APRNTC-ECAP",
+            "Class Days": "",
+            "Class": 83,
+            "CRN": 48459,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Browne, K",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 84,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Browne, K",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 85,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Browne, K",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 86,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Browne, K",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 87,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Browne, K",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 88,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Browne, K",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 89,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Venkataraman, S",
+            "Course Title": "ECE. 972 \u2013 Teach in Diverse Society (App)",
+            "Class Days": "",
+            "Class": 90,
+            "CRN": 48468,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lujan, D",
+            "Course Title": "EDUC 200 \u2013 Intro to Classroom Teaching",
+            "Class Days": "T",
+            "Class": 91,
+            "CRN": 46138,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Lujan, D",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 92,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Lujan, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 93,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Lujan, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 94,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Lujan, D",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 95,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Lujan, D",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 96,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Lujan, D",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 97,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Lujan, D",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 98,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Lujan, D",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 99,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Lujan, D",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 100,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Santos, S",
+            "Course Title": "EDUC 265 \u2013 Posit. Beh. Supp. Inclusive Se",
+            "Class Days": "",
+            "Class": 101,
+            "CRN": 46314,
+            "Units": 3
+        }
+    ],
+    "Education": [
+        {
+            "Status": "Open",
+            "Professor": "Lujan, D",
+            "Course Title": "EDUC 200 \u2013 Intro to Classroom Teaching",
+            "Class Days": "T",
+            "Class": 1,
+            "CRN": 46138,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Lujan, D",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Lujan, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Lujan, D",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 4,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Lujan, D",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 5,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Lujan, D",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 6,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Lujan, D",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 7,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Lujan, D",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 8,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Lujan, D",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 9,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Lujan, D",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 10,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Santos, S",
+            "Course Title": "EDUC 265 \u2013 Posit. Beh. Supp. Inclusive Se",
+            "Class Days": "",
+            "Class": 11,
+            "CRN": 46314,
+            "Units": 3
+        }
+    ],
+    "Cooperative Education": [
+        {
+            "Status": "Open",
+            "Professor": "Kennedy, L",
+            "Course Title": "COOP 620 \u2013 Community Engagement/Wrk Exp.",
+            "Class Days": "",
+            "Class": 1,
+            "CRN": 48078,
+            "Units": 13
+        },
+        {
+            "Status": "Open",
+            "Professor": "McCarthy, S",
+            "Course Title": "COOP 670 \u2013 Vocational Cooperative Ed",
+            "Class Days": "",
+            "Class": 2,
+            "CRN": 33886,
+            "Units": 14
+        },
+        {
+            "Status": "Open",
+            "Professor": "Jones, A",
+            "Course Title": "COOP 670 \u2013 Cooperative Educ./Work Exp.",
+            "Class Days": "",
+            "Class": 3,
+            "CRN": 30979,
+            "Units": 14
+        },
+        {
+            "Status": "",
+            "Professor": "Jones, A",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 4,
+            "CRN": 0,
+            "Units": 14
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kennedy, L",
+            "Course Title": "COOP 670 \u2013 Cooperative Ed/Work Experience",
+            "Class Days": "",
+            "Class": 5,
+            "CRN": 47176,
+            "Units": 14
+        },
+        {
+            "Status": "Open",
+            "Professor": "Shek, S",
+            "Course Title": "COOP 671 \u2013 General Coop Ed -Global Intern",
+            "Class Days": "Th",
+            "Class": 6,
+            "CRN": 37163,
+            "Units": 13
+        },
+        {
+            "Status": "",
+            "Professor": "Shek, S",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 7,
+            "CRN": 0,
+            "Units": 13
+        },
+        {
+            "Status": "Open",
+            "Professor": "Moore, A",
+            "Course Title": "COOP 671 \u2013 General Cooperative Education",
+            "Class Days": "",
+            "Class": 8,
+            "CRN": 47771,
+            "Units": 13
+        }
+    ],
+    "Educational Access": [
+        {
+            "Status": "Open",
+            "Professor": "Truglio, J",
+            "Course Title": "EDAC 823 \u2013 Fundamental Skills: Writing I",
+            "Class Days": "Th",
+            "Class": 1,
+            "CRN": 48487,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Truglio, J",
+            "Course Title": "EDAC 824 \u2013 Skills/Strategies-Writing II",
+            "Class Days": "T",
+            "Class": 2,
+            "CRN": 47367,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Truglio, J",
+            "Course Title": "EDAC 824 \u2013 Skills/Strategies-Writing II",
+            "Class Days": "T",
+            "Class": 3,
+            "CRN": 48428,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "EDAC 828 \u2013 Technology Tools for Writing",
+            "Class Days": "M",
+            "Class": 4,
+            "CRN": 47368,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "EDAC 828 \u2013 Technology Tools for Writing",
+            "Class Days": "M",
+            "Class": 5,
+            "CRN": 48429,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "EDAC 830 \u2013 Intro Assistive Computer Tech",
+            "Class Days": "M",
+            "Class": 6,
+            "CRN": 47369,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "EDAC 830 \u2013 Intro Assistive Computer Tech",
+            "Class Days": "M",
+            "Class": 7,
+            "CRN": 48430,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "EDAC 831 \u2013 Technology Tools for Reading",
+            "Class Days": "W",
+            "Class": 8,
+            "CRN": 47370,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "EDAC 831 \u2013 Technology Tools for Reading",
+            "Class Days": "W",
+            "Class": 9,
+            "CRN": 48431,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "EDAC 832 \u2013 Tech Tools for Note Taking",
+            "Class Days": "W",
+            "Class": 10,
+            "CRN": 47371,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "EDAC 832 \u2013 Tech Tools for Note Taking",
+            "Class Days": "W",
+            "Class": 11,
+            "CRN": 48432,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Truglio, J",
+            "Course Title": "EDAC 840 \u2013 Success Strategies for Math",
+            "Class Days": "Th",
+            "Class": 12,
+            "CRN": 47372,
+            "Units": 1
+        },
+        {
+            "Status": "Open",
+            "Professor": "Truglio, J",
+            "Course Title": "EDAC 840 \u2013 Success Strategies for Math",
+            "Class Days": "Th",
+            "Class": 13,
+            "CRN": 48433,
+            "Units": 1
+        }
+    ],
+    "Early Childhood Education": [
+        {
+            "Status": "Open",
+            "Professor": "Brower, K",
+            "Course Title": "ECE. 201 \u2013 Child Development",
+            "Class Days": "T, Th",
+            "Class": 1,
+            "CRN": 47872,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Brower, K",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 2,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Brower, K",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 3,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Brower, K",
+            "Course Title": "",
+            "Class Days": "T, Th",
+            "Class": 4,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Santos, S",
+            "Course Title": "ECE. 201 \u2013 Child Development",
+            "Class Days": "M, W",
+            "Class": 5,
+            "CRN": 39539,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Campbell, T",
+            "Course Title": "ECE. 201 \u2013 Child Development",
+            "Class Days": "M",
+            "Class": 6,
+            "CRN": 47873,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Campbell, T",
+            "Course Title": "",
+            "Class Days": "W, F",
+            "Class": 7,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Campbell, T",
+            "Course Title": "",
+            "Class Days": "M",
+            "Class": 8,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Campbell, T",
+            "Course Title": "",
+            "Class Days": "W, F",
+            "Class": 9,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Venkataraman, S",
+            "Course Title": "ECE. 201 \u2013 Child Development",
+            "Class Days": "T, Th",
+            "Class": 10,
+            "CRN": 36431,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Watts, J",
+            "Course Title": "ECE. 201 \u2013 Child Development",
+            "Class Days": "",
+            "Class": 11,
+            "CRN": 47080,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Watts, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 12,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Watts, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 13,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Watts, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 14,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Santos, S",
+            "Course Title": "ECE. 201 \u2013 Child Development",
+            "Class Days": "M, W",
+            "Class": 15,
+            "CRN": 39540,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Watts, J",
+            "Course Title": "ECE. 201 \u2013 Child Development",
+            "Class Days": "",
+            "Class": 16,
+            "CRN": 41840,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Staff,",
+            "Course Title": "ECE. 201 \u2013 Child Development",
+            "Class Days": "",
+            "Class": 17,
+            "CRN": 42669,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Santos, S",
+            "Course Title": "ECE. 201 \u2013 Child Development",
+            "Class Days": "",
+            "Class": 18,
+            "CRN": 42956,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Lawrence, J",
+            "Course Title": "ECE. 210 \u2013 Early Childhood Ed Principles",
+            "Class Days": "",
+            "Class": 19,
+            "CRN": 41962,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Browne, K",
+            "Course Title": "ECE. 210 \u2013 Early Child Ed Principles",
+            "Class Days": "",
+            "Class": 20,
+            "CRN": 45840,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Brower, K",
+            "Course Title": "ECE. 211 \u2013 Early Childhood Ed Curriculum",
+            "Class Days": "T, Th",
+            "Class": 21,
+            "CRN": 39542,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Watts, J",
+            "Course Title": "ECE. 211 \u2013 ECE Curriculum",
+            "Class Days": "W",
+            "Class": 22,
+            "CRN": 30280,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Watts, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 23,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Watts, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 24,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Watts, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 25,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Brower, K",
+            "Course Title": "ECE. 211 \u2013 Early Child Ed Curriculum",
+            "Class Days": "",
+            "Class": 26,
+            "CRN": 46531,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Browne, K",
+            "Course Title": "ECE. 212 \u2013 Child, Family & Community",
+            "Class Days": "",
+            "Class": 27,
+            "CRN": 36427,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Moore, A",
+            "Course Title": "ECE. 212 \u2013 Child, Family & Community",
+            "Class Days": "",
+            "Class": 28,
+            "CRN": 46101,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Moore, A",
+            "Course Title": "ECE. 225 \u2013 Care/Educ for Infants/Toddlers",
+            "Class Days": "",
+            "Class": 29,
+            "CRN": 39870,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Krishna, S",
+            "Course Title": "ECE. 241 \u2013 Admin II: Personnel/Leader",
+            "Class Days": "",
+            "Class": 30,
+            "CRN": 39546,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Krishna, S",
+            "Course Title": "ECE. 242 \u2013 Adult Supervision & Mentoring",
+            "Class Days": "",
+            "Class": 31,
+            "CRN": 35911,
+            "Units": 2
+        },
+        {
+            "Status": "Open",
+            "Professor": "Santos, S",
+            "Course Title": "ECE. 254 \u2013 Teaching in a Diverse Society",
+            "Class Days": "",
+            "Class": 32,
+            "CRN": 39548,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Santos, S",
+            "Course Title": "ECE. 260 \u2013 Children with Special Needs",
+            "Class Days": "M, W",
+            "Class": 33,
+            "CRN": 41350,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Santos, S",
+            "Course Title": "ECE. 260 \u2013 Children with Special Needs",
+            "Class Days": "M, W",
+            "Class": 34,
+            "CRN": 48342,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Adams, J",
+            "Course Title": "ECE. 260 \u2013 Children with Special Needs",
+            "Class Days": "",
+            "Class": 35,
+            "CRN": 45594,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Santos, S",
+            "Course Title": "ECE. 260 \u2013 Children with Special Needs",
+            "Class Days": "",
+            "Class": 36,
+            "CRN": 45947,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Adams, J",
+            "Course Title": "ECE. 263 \u2013 Strategies for Special Needs",
+            "Class Days": "",
+            "Class": 37,
+            "CRN": 44439,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Venkataraman, S",
+            "Course Title": "ECE. 272 \u2013 Teaching in a Diverse Society",
+            "Class Days": "",
+            "Class": 38,
+            "CRN": 46110,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kiesselbach, L",
+            "Course Title": "ECE. 313 \u2013 Health, Safety and Nutrition",
+            "Class Days": "",
+            "Class": 39,
+            "CRN": 39577,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Kiesselbach, L",
+            "Course Title": "ECE. 314 \u2013 Health, Safety, Nutrition-ECE",
+            "Class Days": "",
+            "Class": 40,
+            "CRN": 42701,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Kiesselbach, L",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 41,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Kiesselbach, L",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 42,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Kiesselbach, L",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 43,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Watts, J",
+            "Course Title": "ECE. 333 \u2013 Observation & Assessment",
+            "Class Days": "",
+            "Class": 44,
+            "CRN": 43245,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kiesselbach, L",
+            "Course Title": "ECE. 333 \u2013 Obseration/Assess. Young Child",
+            "Class Days": "",
+            "Class": 45,
+            "CRN": 43873,
+            "Units": 3
+        },
+        {
+            "Status": "Open for Waitlist",
+            "Professor": "Browne, K",
+            "Course Title": "ECE. 366 \u2013 Practicum in ECE",
+            "Class Days": "",
+            "Class": 46,
+            "CRN": 38521,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Browne, K",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 47,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Browne, K",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 48,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Browne, K",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 49,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Browne, K",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 50,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Browne, K",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 51,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Browne, K",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 52,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Brower, K",
+            "Course Title": "ECE. 366 \u2013 Practicum in Early Child. Ed.",
+            "Class Days": "",
+            "Class": 53,
+            "CRN": 37164,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Brower, K",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 54,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Brower, K",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 55,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Brower, K",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 56,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Brower, K",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 57,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Brower, K",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 58,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Brower, K",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 59,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Browne, K",
+            "Course Title": "ECE. 367 \u2013 ECE Practicum: Special Topics",
+            "Class Days": "",
+            "Class": 60,
+            "CRN": 43111,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Browne, K",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 61,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Browne, K",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 62,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Browne, K",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 63,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Browne, K",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 64,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Browne, K",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 65,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Browne, K",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 66,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Barrientos, M",
+            "Course Title": "ECE. 670 \u2013 Cooperative Education",
+            "Class Days": "",
+            "Class": 67,
+            "CRN": 36942,
+            "Units": 14
+        },
+        {
+            "Status": "Open",
+            "Professor": "Watts, J",
+            "Course Title": "ECE. 901 \u2013 Child Development-APRNTC- ECAP",
+            "Class Days": "",
+            "Class": 68,
+            "CRN": 48220,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Watts, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 69,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Watts, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 70,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Watts, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 71,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Browne, K",
+            "Course Title": "ECE. 910 \u2013 ECE Principles(Apprenticeship)",
+            "Class Days": "",
+            "Class": 72,
+            "CRN": 48473,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Watts, J",
+            "Course Title": "ECE. 911 \u2013 ECE Curriculum-APPRENTICE-ECAP",
+            "Class Days": "W",
+            "Class": 73,
+            "CRN": 48226,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Watts, J",
+            "Course Title": "",
+            "Class Days": "",
+            "Class": 74,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Watts, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 75,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Watts, J",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 76,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Browne, K",
+            "Course Title": "ECE. 912 \u2013 Child/Family/Commu(Apprentice)",
+            "Class Days": "",
+            "Class": 77,
+            "CRN": 48474,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Kiesselbach, L",
+            "Course Title": "ECE. 914 \u2013 Health,Safety,Nutr-APRNT-ECAP",
+            "Class Days": "",
+            "Class": 78,
+            "CRN": 48458,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Kiesselbach, L",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 79,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Kiesselbach, L",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 80,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Kiesselbach, L",
+            "Course Title": "",
+            "Class Days": "W",
+            "Class": 81,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Watts, J",
+            "Course Title": "ECE. 933 \u2013 Observation&Assess(Apprentice)",
+            "Class Days": "",
+            "Class": 82,
+            "CRN": 48472,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Browne, K",
+            "Course Title": "ECE. 966 \u2013 Practicum in ECE-APRNTC-ECAP",
+            "Class Days": "",
+            "Class": 83,
+            "CRN": 48459,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Browne, K",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 84,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Browne, K",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 85,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Browne, K",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 86,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Browne, K",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 87,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Browne, K",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 88,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "",
+            "Professor": "Browne, K",
+            "Course Title": "",
+            "Class Days": "T",
+            "Class": 89,
+            "CRN": 0,
+            "Units": 3
+        },
+        {
+            "Status": "Open",
+            "Professor": "Venkataraman, S",
+            "Course Title": "ECE. 972 \u2013 Teach in Diverse Society (App)",
+            "Class Days": "",
+            "Class": 90,
+            "CRN": 48468,
+            "Units": 3
+        }
+    ]
+}

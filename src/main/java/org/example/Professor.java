@@ -2,7 +2,7 @@ package org.example;
 import com.fasterxml.jackson.annotation.JsonProperty;
 public class Professor {
 
-    private int professorId;
+    private final int professorId;
 
     @JsonProperty("Professor")
     private String name;
