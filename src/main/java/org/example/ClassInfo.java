@@ -2,17 +2,21 @@ package org.example;
 
 class ClassInfo {
     private String className;
-    private String professor;
-    private String crn;
+    private String professorName;
+    private Professor professor;
+    private int crn;
     private String days;
     private String status;
+    private int units;
 
-    public ClassInfo(String className, String professor, String crn, String days, String status) {
+    public ClassInfo(String className, String professorName,
+                     int crn, String days, String status, int units) {
         this.className = className;
-        this.professor = professor;
+        this.professorName = professorName;
         this.crn = crn;
         this.days = days;
         this.status = status;
+        this.units = units;
     }
 
     // Getters and setters for each attribute
@@ -24,19 +28,19 @@ class ClassInfo {
         this.className = className;
     }
 
-    public String getProfessor() {
-        return professor;
+    public String getProfessorName() {
+        return professorName;
     }
 
-    public void setProfessor(String professor) {
-        this.professor = professor;
+    public void setProfessorName(String professorName) {
+        this.professorName = professorName;
     }
 
-    public String getCrn() {
+    public int getCrn() {
         return crn;
     }
 
-    public void setCrn(String crn) {
+    public void setCrn(int crn) {
         this.crn = crn;
     }
 
@@ -56,9 +60,26 @@ class ClassInfo {
         this.status = status;
     }
 
+    public int getUnits() {
+        return units;
+    }
+
+    public void setUnits(int units) {
+        this.units = units;
+    }
+
+    public void setProfessorObject(Professor professor) {
+        this.professor = professor;
+        this.professorName = professor.getName();
+    }
     @Override
     public String toString() {
-        return "Class: " + className + ", Professor: " + professor + ", Status: " +
-                status + ", Days: " + days + ", CRN: " + crn;
+        if (professor != null) {
+            return "Class: " + className + ", Professor: " + professor + ", Status: " +
+                    status + ", Days: " + days + ", CRN: " + crn + ", Units: " + units;
+        } else {
+            return "Class: " + className + ", Professor: " + professorName + ", Status: " +
+                    status + ", Days: " + days + ", CRN: " + crn + ", Units: " + units;
+        }
     }
 }

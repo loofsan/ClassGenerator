@@ -1,8 +1,11 @@
 package org.example;
 import com.fasterxml.jackson.annotation.JsonProperty;
+
+import java.util.List;
+
 public class Professor {
 
-    private final int professorId;
+    private int professorId;
 
     @JsonProperty("Professor")
     private String name;
@@ -27,6 +30,14 @@ public class Professor {
         this.numOfRatings = numOfRatings;
         this.difficulty = difficulty;
     }
+
+    public Professor(String name, float rating, int numOfRatings, float difficulty) {
+        this.name = name;
+        this.rating = rating;
+        this.numOfRatings = numOfRatings;
+        this.difficulty = difficulty;
+    }
+
 
     // Getters and Setters
 
@@ -72,6 +83,7 @@ public class Professor {
 
     // toString method for easy printing
 
+    /*
     @Override
     public String toString() {
         return "{Professor Id= " + professorId +
@@ -82,4 +94,15 @@ public class Professor {
                 ", difficulty=" + difficulty +
                 '}';
     }
+     */
+
+    @Override
+    public String toString() {
+        return "{name='" + name + '\'' +
+                ", rating=" + rating +
+                ", numOfRatings=" + numOfRatings +
+                ", difficulty=" + difficulty +
+                '}';
+    }
+
 }

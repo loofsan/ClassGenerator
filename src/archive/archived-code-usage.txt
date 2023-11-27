@@ -1,0 +1,153 @@
+Archived Codes Usage Notes
+
+1. Javascript Folder
+
+   a.  JSWebScraper.js
+
+       - Purpose: The first javascript file in the folder, JSWebScraper.js
+                  scraped the Rate my Professor website and returned the results
+                  in the form of JSON.
+
+       - Usage: I used this code to scrape the data off of Rate My Professor by
+                inputting it in the console of the browser in the page that
+                showed a list of all the professors to get the result.
+
+   b.  JsonConverter.js
+
+       - Purpose: The JsonConverter.js file converted the strings of the
+                  result into their respective data types. For example, the ratings
+                  returned.
+
+       - Usage: To make it easier for my life, I decided to parse out the
+                ratings, number of ratings and difficulty to their respective
+                data types, which were ints, and floats. I converted to floats
+                and not doubles because we didn't have very large decimals.
+
+2. Java Folder
+
+   a.  WebScraper_Selenium.java
+
+       - Purpose: This java file used the library selenium to scrape
+                  the data off of web Schedule. This works by inputting the
+                  name of the class, MATH 250 (ex.), and the file will use
+                  Selenium, which will open a browser to open web schedule
+                  site and receive all the data of the classes of that page.
+
+       - Usage: I used this to scrape the classes in the beginning of the
+                project. However, I thought of it and I realized that it would
+                be a lot more taxing on my computer and unnecessary to keep
+                opening a browser and dynamically search every class.
+
+                Not only that, Selenium was outdated by Nov. 26 to use on Chrome
+                119v. so I had to change it up.
+
+   b.  WebScraper_Jsoup.java
+
+       - Purpose: This java file used the library Jsoup to scrape data off of
+                  Web Schedule.
+
+       - Usage: I used this file and ran it on the main class.
+
+                --- Code ---
+                WebScraper_Jsoup scraper = new WebScraper_Jsoup();
+                scraper.getData();
+                --- Code ---
+
+                I used this to get all the class data from fall classes
+                and spring classes alike so that I no longer have to keep
+                making a connection everytime and I can just grab the data of
+                the classes quickly and efficiently from the resource folder.
+
+                However, one conundrum I faced was that it couldn't scrape all
+                the data at once since there are a lot of classes. I could only
+                scrape at a maximum of 12 subjects and all the classes under it.
+                Thus, I separated into multiple json files and multiple links
+                to scrape it.
+
+                This is why in the old-resources folder, you can see multiple
+                json files under WebScheduleClassesFall folder and under the
+                WebScheduleSpring folder.
+
+   c.  JsonCombiner.java
+
+       - Purpose: This java file was used to combine multiple json files into
+                  one json file. This code basically reads the file and writes
+                  it onto the new file.
+
+       - Usage: I used this java file to combine the multiple json files I have
+                scraped from WebSchedule that I said earlier into one json file
+                so that it is more clear and organized. I merged all the fall
+                classes file and all the spring classes files as well.
+
+                --- Code ---
+                JsonCombiner cb = new JsonCombiner();
+                cb.combine();
+                --- Code ---
+
+   d.  JsonToJava.java
+
+       - Purpose: This code converts the Json file of Professors.json in the
+                  resources folder into an array so that it's easier to work
+                  with and I won't have to read and write a Json file
+                  everytime I want to access Professors.
+
+       - Usage: I used this to convert the JSON objects in the Professors.json
+                file to Java objects in an array to make it easier to use.
+
+   e. ClassParser.java
+
+       - Purpose: This code is used to parse the Course Title key in the
+                  files of the json classes. Not only that, the second
+                  function is to parse out courses that have status,
+                  course title and class days empty.
+
+       - Usage:   I used this to change the data that is directly scraped
+                  as the site returns, "GEOG 100 - Geography [...]" and
+                  I only wanted to use the GEOG 100 part, so I parsed it out of
+                  the file.
+
+                  --- Code ---
+                  ClassParser parser = new ClassParser();
+                  parser.parseJson("src/main/resources/fallCombinedClasses.json");
+                  parser.parseJson("src/main/resources/springCombinedClasses.json");
+                  --- Code ---
+
+                  Then, I used this to parse out labs and extra work days which
+                  doesn't have a status, course title and class days. If I just
+                  picked class days, it could've been an online class, so I had
+                  to pick out the ones that had all three missing.
+
+                  --- Code ---
+                  ClassParser parser = new ClassParser();
+                  parser.parseOutKeys("src/main/resources/fallCombinedClasses.json");
+                  parser.parseOutKeys("src/main/resources/springCombinedClasses.json");
+                  --- Code ---
+
+
+3. old-resources folder
+
+   a. WebScheduleClassesFall folder
+
+       - Purpose: This folder was used to store all the classes from the
+                  district during fall.
+
+       - Usage: I used this folder when I merged all the files in the folder
+                to one file.
+
+   b. WebScheduleClassesFall folder
+
+          - Purpose: This folder was used to store all the classes from the
+                     district during spring.
+
+          - Usage: I used this folder when I merged all the files in the folder
+                   to one file.
+
+   c. Professors.csv
+
+          - Purpose: Store all the professors data in a csv file.
+
+          - Usage: I transformed the json file of professors into a csv file
+                   because I wondered if it would be easier to access the data
+                   from a csv file. It is, you just parse it, but I wanted to
+                   practice using JSON and parsing JSON, so I chose the JSON file
+                   and kept with it.
