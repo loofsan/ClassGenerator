@@ -1,12 +1,11 @@
 package org.example;
 
+import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
 public class Combiner {
-    public void combine(Map<String, List<ClassInfo>> subjectMap, List<Professor> professors ) {
-
-        updateProfessorsInSubjectMap(subjectMap, professors);
+    public void printCombined(Map<String, List<ClassInfo>> subjectMap) {
 
         // Print the updated subjectMap
         for (Map.Entry<String, List<ClassInfo>> entry : subjectMap.entrySet())
@@ -19,7 +18,26 @@ public class Combiner {
         }
     }
 
-    public static void updateProfessorsInSubjectMap
+    public Map<String, List<ClassInfo>> combine
+            (Map<String, List<ClassInfo>> subjectMap,
+             List<Professor> professors )
+    {
+
+        updateProfessorsInSubjectMap(subjectMap, professors);
+
+        return subjectMap;
+    }
+
+    public static <K, V> Map<K, V> combineMaps(Map<K, V> map1, Map<K, V> map2) {
+        Map<K, V> combinedMap = new HashMap<>(map1); // Initialize with the elements of map1
+
+        // Iterate over map2 and add or update entries in the combined map
+        combinedMap.putAll(map2);
+
+        return combinedMap;
+    }
+
+    private static void updateProfessorsInSubjectMap
             (Map<String, List<ClassInfo>> subjectMap, List<Professor> professors)
     {
         for (List<ClassInfo> classInfoList : subjectMap.values()) {

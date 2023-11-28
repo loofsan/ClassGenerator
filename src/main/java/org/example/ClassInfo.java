@@ -72,6 +72,11 @@ class ClassInfo {
         this.professor = professor;
         this.professorName = professor.getName();
     }
+
+    public Professor getProfessorObject() {
+        return professor;
+    }
+
     @Override
     public String toString() {
         if (professor != null) {

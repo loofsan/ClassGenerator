@@ -3497,7 +3497,7 @@
   },
   {
     "id": 438,
-    "Professor": "Jennifer Van Sijll",
+    "Professor": "Jennifer Van-Sijll",
     "Subject": "Film",
     "Rating": 5,
     "NumOfRating": 4,
@@ -8369,11 +8369,11 @@
   },
   {
     "id": 462,
-    "Professor": "Jennifer Merrill",
+    "Professor": "Jennifer Merrill-Sinarle",
     "Subject": "Psychology",
-    "Rating": 4.9,
-    "NumOfRating": 146,
-    "Difficulty": 2.1
+    "Rating": 5.0,
+    "NumOfRating": 152,
+    "Difficulty": 2.3
   },
   {
     "id": 463,
@@ -12126,5 +12126,21 @@
     "Rating": 0,
     "NumOfRating": 0,
     "Difficulty": 0
+  },
+  {
+    "id": 370,
+    "Professor": "Ariel Katz",
+    "Subject": "Computer Science",
+    "Rating": 2,
+    "NumOfRating": 5,
+    "Difficulty": 4
+  },
+  {
+    "id": 371,
+    "Professor": "Ingrid Schulz",
+    "Subject": "Film",
+    "Rating": 5,
+    "NumOfRating": 21,
+    "Difficulty": 2
   }
 ]

@@ -1,8 +1,7 @@
 package org.example;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
+import java.util.stream.Collectors;
 
 public class MainClass {
     public static void main(String[] args) {
@@ -22,6 +21,7 @@ public class MainClass {
                 ("src/main/resources/springCombinedClasses.json");
 
         Combiner combiner = new Combiner();
+        BayesianSorter bayesianSorter = new BayesianSorter();
 
         // Now, we have an array of professor objects, a hashmap of
         // subjects as keys and an array of classes as a value.
@@ -35,9 +35,18 @@ public class MainClass {
                 classMapSpring = mapperForSpring.mapClasses();
 
 
-        // Now, we combine them.
-        combiner.combine(classMapSpring, profArray);
-        combiner.combine(classMapFall, profArray);
+        // Now, we combine the professor array and the classes to
+        // put professor objects inside the classes
+        classMapFall = combiner.combine(classMapFall, profArray);
+        classMapSpring = combiner.combine(classMapSpring, profArray);
+
+        // Combine the two maps
+        // Map<String, List<ClassInfo>> combinedMap = Combiner.combineMaps(classMapFall, classMapSpring);
+        // Give the best class of each subject
+        //Map<String, ClassInfo> baySortedMap = bayesianSorter.baySortSubjects(combinedMap);
+
+        bayesianSorter.getRankedClasses(classMapFall, "FILM 100");
+        bayesianSorter.getRankedClasses(classMapSpring, "COMP 284");
 
 
 
