@@ -22,9 +22,14 @@ public class BayesianSorter {
     }
 
     // Find a singular best class in the list of classes
-    public void getBestClass(Map<String, List<ClassInfo>> combinedMap, String className) {
+    public String getBestClass(Map<String, List<ClassInfo>> combinedMap, String className) {
+        ClassInfo bestClassInfo = bestClass(combinedMap, className);
 
-        System.out.println(bestClass(combinedMap, className));
+        if (bestClassInfo != null) {
+            return bestClassInfo.toString();
+        } else {
+            return "null";
+        }
     }
 
     public void getRankedClasses(Map<String, List<ClassInfo>> subjectClassesMap, String classNumber) {

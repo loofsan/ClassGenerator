@@ -151,3 +151,33 @@ Archived Codes Usage Notes
                    from a csv file. It is, you just parse it, but I wanted to
                    practice using JSON and parsing JSON, so I chose the JSON file
                    and kept with it.
+
+   d. SortedClasses.txt
+
+          - Purpose: Store the best classes under the subject based on the
+                     Bayesian Probability
+
+          - Usage: I used this to test the BayesianSorter to see if it's
+                   working correctly.
+
+   e. Classes.txt
+
+          -Purpose: Store all the classes of Fall and Spring with
+                    compartmentalized in their own subjects
+
+          -Usage: This is used for testing purposes to see if my sorter
+                  working correctly.
+
+   f. Combined.txt
+
+          - Purpose: Store all the combined classes of Fall & Spring
+
+          - Usage: This is used for testing purposes as well for my combiner
+                   class.
+
+   g. professorNames.txt
+
+          - Purpose: Store all the names of the leftover professors
+
+          - Usage: I used this to find the professors who had 0 number
+                   of ratings to make sure they're not on Rate my Professor

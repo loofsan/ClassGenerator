@@ -116,3 +116,87 @@ public class JsonCombiner {
         }
     }
 }
+
+System.out.println("""
+                    Hello, which semester would you like to search the classes in?
+                    Fall or Spring
+                    Choose (F) for Fall and (S) for Spring""");
+
+        sem = input.nextLine();
+
+        if (sem.equals("F")) {
+        System.out.println("Hello, which course would you like to find" +
+        " out more about?\nWrite (Ex: 'GEOG 100')");
+        course = input.nextLine();
+        course = capitalizeAndConcatenate(course);
+
+        String cour = bayesianSorter.getBestClass(classMapFall, course).toString();
+
+        if (cour.equals("null")) {
+        System.out.println("No such course exists. Could you" +
+        "re-enter, please?");
+        } else {
+        System.out.println("The best class for that course according " +
+        "to our probability is: \n");
+        bayesianSorter.getBestClass(classMapFall, course);
+        }
+
+        System.out.println("""
+                        Would you like to see other classes ranked in order?
+                        Enter 'Y' for Yes and 'N' for No""");
+
+        ans = input.nextLine();
+        if (ans.equals("Y")) {
+        bayesianSorter.getRankedClasses(classMapFall, course);
+        } else if (ans.equals("N")) {
+        System.out.println("Have a nice day!");
+        } else {
+        System.out.println("I couldn't register that. Could you " +
+        "enter it again?\n" +
+        "Enter 'N' to stop");
+        }
+        } else if (sem.equals("S")) {
+        System.out.println("Hello, which course would you like to find" +
+        " out more about?\nWrite (Ex: 'GEOG 100')");
+        course = input.nextLine();
+        course = capitalizeAndConcatenate(course);
+
+        String cour = bayesianSorter.getBestClass(classMapSpring, course).toString();
+
+        if (cour.equals("null")) {
+        System.out.println("No such course exists. Could you" +
+        "re-enter, please?");
+        } else {
+        System.out.println("The best class for that course according " +
+        "to our probability is: \n");
+        bayesianSorter.getBestClass(classMapSpring, course);
+        }
+
+        System.out.println("""
+                        Would you like to see other classes ranked in order?
+                        Enter 'Y' for Yes and 'N' for No""");
+
+        ans = input.nextLine();
+        if (ans.equals("Y")) {
+        bayesianSorter.getRankedClasses(classMapSpring, course);
+        } else if (ans.equals("N")) {
+        System.out.println("Have a nice day!");
+        } else {
+        System.out.println("I couldn't register that. Could you " +
+        "enter it again?\n" +
+        "Enter 'N' to stop");
+        }
+        } else {
+        System.out.println("I couldn't register the semester. Could you" +
+        " enter it again?\n" +
+        "Enter 'X' to stop");
+        }
+        }
+
+        System.out.println("""
+                    ----------------------------------------------------------------
+
+                    """);
+
+        input.close();
+
