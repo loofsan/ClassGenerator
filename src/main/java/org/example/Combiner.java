@@ -4,7 +4,12 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+// Combine the hashmap of Subject and ClassInfos with the
+// prof array
 public class Combiner {
+
+    // This is for printing a combined hashmap of
+    // two hashmaps. It's unused code now.
     public void printCombined(Map<String, List<ClassInfo>> subjectMap) {
 
         // Print the updated subjectMap
@@ -18,6 +23,8 @@ public class Combiner {
         }
     }
 
+    // Combine the array of professors and the HashMap
+    // of Subject and classes
     public Map<String, List<ClassInfo>> combine
             (Map<String, List<ClassInfo>> subjectMap,
              List<Professor> professors )
@@ -28,7 +35,11 @@ public class Combiner {
         return subjectMap;
     }
 
-    public static <K, V> Map<K, V> combineMaps(Map<K, V> map1, Map<K, V> map2) {
+    // This method is for combining two maps
+    // It is unused code now
+    public static <K, V> Map<K, V> combineMaps
+            (Map<K, V> map1, Map<K, V> map2)
+    {
         Map<K, V> combinedMap = new HashMap<>(map1); // Initialize with the elements of map1
 
         // Iterate over map2 and add or update entries in the combined map
@@ -37,22 +48,27 @@ public class Combiner {
         return combinedMap;
     }
 
+    // Replacing the professor name in the HashMap of classes
+    // with the professor objects that have the same name
     private static void updateProfessorsInSubjectMap
-            (Map<String, List<ClassInfo>> subjectMap, List<Professor> professors)
+            (Map<String, List<ClassInfo>> subjectMap,
+             List<Professor> professors)
     {
         for (List<ClassInfo> classInfoList : subjectMap.values()) {
             for (ClassInfo classInfo : classInfoList) {
                 String professorName = classInfo.getProfessorName();
 
                 // Find the matching professor in the list
-                Professor matchingProfessor = findProfessorByName(professors, professorName);
+                Professor matchingProfessor = findProfessorByName(
+                        professors, professorName);
 
                 // Update the professor for the classInfo
                 if (matchingProfessor != null) {
                     classInfo.setProfessorObject(matchingProfessor);
                 } else {
                     // If no match is found, create a new Professor object
-                    Professor newProfessor = new Professor(professorName, 0.0F, 0, 0.0F);
+                    Professor newProfessor = new Professor(
+                            professorName, 0.0F, 0, 0.0F);
                     classInfo.setProfessorObject(newProfessor);
                     professors.add(newProfessor);
                 }
@@ -61,6 +77,7 @@ public class Combiner {
         }
     }
 
+    // Helper method for finding the professor
     public static Professor findProfessorByName(List<Professor> professors, String professorName) {
         for (Professor professor : professors) {
             if (professor.getName().equals(professorName)) {

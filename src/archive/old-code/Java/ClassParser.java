@@ -38,8 +38,10 @@ public class ClassParser {
         }
     }
 
-    private static void modifyJson(JSONObject jsonObject) {
-        // Example modification: Remove the part after en dash from "Course Title"
+    private static void modifyJson(JSONObject jsonObject)
+    {
+        // Example modification: Remove the part
+        // after en dash from "Course Title"
         for (String key : jsonObject.keySet()) {
             if (jsonObject.get(key) instanceof JSONArray) {
                 JSONArray jsonArray = jsonObject.getJSONArray(key);
@@ -51,7 +53,8 @@ public class ClassParser {
                     int position = originalTitle.indexOf("–");
 
                     if (position != -1) {
-                        item.put("Course Title", originalTitle.substring(0, position).trim());
+                        item.put("Course Title",
+                                originalTitle.substring(0, position).trim());
                     }
                 }
             }
@@ -67,28 +70,46 @@ public class ClassParser {
                 ObjectNode modifiedRoot = objectMapper.createObjectNode();
 
                 // Iterate through subjects
-                Iterator<Map.Entry<String, JsonNode>> subjectsIterator = root.fields();
-                while (subjectsIterator.hasNext()) {
-                    Map.Entry<String, JsonNode> subjectEntry = subjectsIterator.next();
+                Iterator<Map.Entry<String, JsonNode>>
+                        subjectsIterator = root.fields();
+
+                while (subjectsIterator.hasNext())
+                {
+                    Map.Entry<String, JsonNode>
+                            subjectEntry = subjectsIterator.next();
 
                     String subjectName = subjectEntry.getKey();
                     JsonNode coursesNode = subjectEntry.getValue();
 
                     if (coursesNode.isArray()) {
-                        ArrayNode modifiedCourses = objectMapper.createArrayNode();
+                        ArrayNode modifiedCourses =
+                                objectMapper.createArrayNode();
 
                         // Iterate through courses for the current subject
-                        Iterator<JsonNode> coursesIterator = coursesNode.elements();
-                        while (coursesIterator.hasNext()) {
+                        Iterator<JsonNode> coursesIterator =
+                                coursesNode.elements();
+
+                        while (coursesIterator.hasNext())
+                        {
                             JsonNode courseNode = coursesIterator.next();
 
-                            if (courseNode.has("Status") && courseNode.has("Course Title") && courseNode.has("Class Days")) {
-                                if (courseNode.get("Status").asText().isEmpty() &&
-                                        courseNode.get("Course Title").asText().isEmpty() &&
-                                        courseNode.get("Class Days").asText().isEmpty()) {
-                                    // Skip courses with empty values for "Status," "Course Title," and "Class Days"
+                            if (courseNode.has("Status") &&
+                                    courseNode.has("Course Title") &&
+                                    courseNode.has("Class Days"))
+                            {
+
+                                if (courseNode.get("Status").asText()
+                                        .isEmpty() &&
+                                        courseNode.get("Course Title").asText()
+                                                .isEmpty() &&
+                                        courseNode.get("Class Days").asText()
+                                                .isEmpty())
+                                {
+                                    // Skip courses with empty values for
+                                    // "Status," "Course Title," and "Class Days"
                                     continue;
                                 }
+
                             }
 
                             modifiedCourses.add(courseNode);
@@ -97,12 +118,15 @@ public class ClassParser {
                         // Add the modified courses for the current subject to the new root
                         modifiedRoot.set(subjectName, modifiedCourses);
                     } else {
-                        System.err.println("Invalid JSON format for subject: " + subjectName + ". Expected an array of courses.");
+                        System.err.println("Invalid JSON format for subject: " +
+                                subjectName + ". Expected an array of courses.");
                     }
                 }
 
                 // Write the modified data back to the same JSON file
-                ObjectWriter writer = objectMapper.writerWithDefaultPrettyPrinter();
+                ObjectWriter writer =
+                        objectMapper.writerWithDefaultPrettyPrinter();
+
                 writer.writeValue(new File(filePath), modifiedRoot);
 
                 System.out.println("Modification complete.");

@@ -10,10 +10,13 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class FindLeftOverRatings {
-    public static void find(Map<String, List<ClassInfo>> subjectClassesMap) {
+    public static void find(Map<String, List<ClassInfo>> subjectClassesMap)
+    {
 
         // Call the new method to filter and remove duplicates
-        List<ClassInfo> filteredAndUniqueClasses = filterAndRemoveDuplicates(subjectClassesMap);
+        List<ClassInfo>
+                filteredAndUniqueClasses =
+                filterAndRemoveDuplicates(subjectClassesMap);
 
         /*
         // Print or use the filtered and unique classes as needed
@@ -32,17 +35,23 @@ public class FindLeftOverRatings {
     // Your existing methods here
 
     // New method to filter and remove duplicates
-    private static List<ClassInfo> filterAndRemoveDuplicates(Map<String, List<ClassInfo>> subjectClassesMap) {
+    private static List<ClassInfo> filterAndRemoveDuplicates(
+            Map<String, List<ClassInfo>> subjectClassesMap)
+    {
         List<ClassInfo> filteredAndUniqueClasses = new ArrayList<>();
 
-        for (List<ClassInfo> classes : subjectClassesMap.values()) {
+        for (List<ClassInfo> classes : subjectClassesMap.values())
+        {
             // Extract classes with 0 numOfRatings
             List<ClassInfo> classesWithZeroRatings = classes.stream()
-                    .filter(classInfo -> classInfo.getProfessorObject() != null && classInfo.getProfessorObject().getNumOfRatings() == 0)
+                    .filter(classInfo -> classInfo.getProfessorObject() !=
+                            null && classInfo.getProfessorObject()
+                            .getNumOfRatings() == 0)
                     .collect(Collectors.toList());
 
             // Remove duplicates with the same professor names
-            List<ClassInfo> uniqueClasses = removeDuplicateProfessors(classesWithZeroRatings);
+            List<ClassInfo> uniqueClasses = removeDuplicateProfessors(
+                    classesWithZeroRatings);
 
             filteredAndUniqueClasses.addAll(uniqueClasses);
         }
@@ -50,7 +59,9 @@ public class FindLeftOverRatings {
         return filteredAndUniqueClasses;
     }
 
-    private static List<ClassInfo> removeDuplicateProfessors(List<ClassInfo> classes) {
+    private static List<ClassInfo> removeDuplicateProfessors(
+            List<ClassInfo> classes)
+    {
         Set<String> uniqueProfessorNames = new HashSet<>();
         List<ClassInfo> uniqueClasses = new ArrayList<>();
 
@@ -70,7 +81,8 @@ public class FindLeftOverRatings {
     }
 
     public static void quoter() {
-        String filePath = "src/main/resources/professorNames.txt"; // Replace with the actual file path
+        // Replace with the actual file path
+        String filePath = "src/main/resources/professorNames.txt";
         List<String> names = readNamesFromFile(filePath);
         List<String> quotedNames = quoteNames(names);
 
@@ -83,10 +95,13 @@ public class FindLeftOverRatings {
         }
     }
 
-    private static List<String> readNamesFromFile(String filePath) {
+    private static List<String> readNamesFromFile(String filePath)
+    {
         List<String> names = new ArrayList<>();
 
-        try (BufferedReader reader = new BufferedReader(new FileReader(filePath))) {
+        try (BufferedReader reader = new BufferedReader(
+                new FileReader(filePath)))
+        {
             String line;
             while ((line = reader.readLine()) != null) {
                 // Add each line (name) to the list

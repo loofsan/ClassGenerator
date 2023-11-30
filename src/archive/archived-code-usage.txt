@@ -84,8 +84,9 @@ Archived Codes Usage Notes
                 cb.combine();
                 --- Code ---
 
-   d.  JsonToJava.java
+   ------- No longer old-code -------
 
+   d.  JsonToJava.java
        - Purpose: This code converts the Json file of Professors.json in the
                   resources folder into an array so that it's easier to work
                   with and I won't have to read and write a Json file
@@ -93,6 +94,8 @@ Archived Codes Usage Notes
 
        - Usage: I used this to convert the JSON objects in the Professors.json
                 file to Java objects in an array to make it easier to use.
+
+   ------- No longer old-code -------
 
    e. ClassParser.java
 

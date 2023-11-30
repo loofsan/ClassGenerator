@@ -30,7 +30,8 @@ public class WebScraper_Selenium {
         driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(30));
 
         // Find all rows of tables
-        // I used something called find by xpath where I saw the html structure in the webschedule page
+        // I used something called find by xpath where I
+        // saw the html structure in the webschedule page
         List<WebElement> tablerows = driver.findElements(By.xpath("//tbody/tr"));
         List<String> data = new ArrayList<>();
 
@@ -167,7 +168,8 @@ public class WebScraper_Selenium {
         String ratingsText = ratings.getText();
         String numOfRatingsText = numOfRatings.getText();
 
-        System.out.println(professorName + ", " + ratingsText + ", " + numOfRatingsText);
+        System.out.println(professorName + ", " + ratingsText +
+                ", " + numOfRatingsText);
     }
 
     private static boolean isElementPresent(WebDriver driver, String xpath) {
@@ -185,7 +187,8 @@ public class WebScraper_Selenium {
         // make driver
         ChromeDriver driver = new ChromeDriver(options);
 
-        String site = "https://www.ratemyprofessors.com/search/professors/2811?q=*";
+        String site = "https://www.ratemyprofessors." +
+                "com/search/professors/2811?q=*";
 
         driver.get(site);
         return driver;

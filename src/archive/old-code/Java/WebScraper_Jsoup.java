@@ -324,7 +324,9 @@ public class WebScraper_Jsoup {
         AtomicInteger dotsCount = new AtomicInteger();
         System.out.println("Writing data to " + outputPath + ": ");
 
-        ScheduledExecutorService executorService = Executors.newSingleThreadScheduledExecutor();
+        ScheduledExecutorService executorService =
+                Executors.newSingleThreadScheduledExecutor();
+
         executorService.scheduleAtFixedRate(() -> {
             System.out.print("。");
             int count = dotsCount.incrementAndGet();
@@ -342,7 +344,9 @@ public class WebScraper_Jsoup {
             connect.timeout(timeInMilliSeconds);
             document = connect.get();
 
-            //Elements tables = document.select("table.table courses table-hover");
+            //Elements tables = document.select
+            //("table.table courses table-hover");
+
             Elements divs = document.select("div.list");
 
             //JSONObject jsonObject = new JSONObject();
@@ -355,41 +359,70 @@ public class WebScraper_Jsoup {
 
                 //Capture the list header
                 Element headerElement = div.selectFirst("h2.list-header");
-                String listHeader = (headerElement != null) ? headerElement.text() : "Unknown Header";
+                String listHeader = (headerElement != null) ?
+                        headerElement.text() : "Unknown Header";
 
                 System.out.println("Scraping data from List Header '" +
                         listHeader + "' (Table " +
                         (divIndex + 1));
 
                 // Use the subject name as the key in the map
-                JSONArray classArray = subjectMap.computeIfAbsent(listHeader, k -> new JSONArray());
+                JSONArray classArray = subjectMap.computeIfAbsent(listHeader,
+                        k -> new JSONArray());
 
                 Elements tableRows = table.select("tr");
 
-                for (int i = 1; i < tableRows.size(); i++) {
+                for (int i = 1; i < tableRows.size(); i++)
+                {
                     Element tableRow = tableRows.get(i);
 
-                    Element status = tableRow.selectFirst("td.hidden-xs:nth-child(2) > div > p");
-                    Element CRN = tableRow.selectFirst("td.hidden-xs:nth-child(3)");
-                    Element courseTitle = tableRow.selectFirst("a.course-title");
-                    Element professor = tableRow.selectFirst("td.hidden-xs:nth-child(7)");
-                    Element classDays = tableRow.selectFirst("td.hidden-xs:nth-child(6)");
-                    Element units = tableRow.selectFirst("td.hidden-xs:nth-child(5)");
+                    Element status = tableRow.selectFirst
+                            ("td.hidden-xs:nth-child(2) > div > p");
 
-                    String statusText = (status != null) ? status.text() : "";
-                    String CRNText = (CRN != null) ? CRN.text() : "";
-                    String courseTitleText = (courseTitle != null) ? courseTitle.text().split("\n")[0] : "";
-                    String professorText = (professor != null) ? professor.text() : "";
-                    String classDaysText = (classDays != null) ? classDays.text() : "";
-                    String unitsText = (units != null) ? units.text() : "";
+                    Element CRN = tableRow.selectFirst
+                            ("td.hidden-xs:nth-child(3)");
 
-                    if (CRNText.isEmpty()) {
+                    Element courseTitle = tableRow.selectFirst
+                            ("a.course-title");
+
+                    Element professor = tableRow.selectFirst
+                            ("td.hidden-xs:nth-child(7)");
+
+                    Element classDays = tableRow.selectFirst
+                            ("td.hidden-xs:nth-child(6)");
+
+                    Element units = tableRow.selectFirst
+                            ("td.hidden-xs:nth-child(5)");
+
+                    String statusText = (status != null) ?
+                            status.text() : "";
+
+                    String CRNText = (CRN != null) ?
+                            CRN.text() : "";
+
+                    String courseTitleText = (courseTitle != null) ?
+                            courseTitle.text().split("\n")[0] : "";
+
+                    String professorText = (professor != null) ?
+                            professor.text() : "";
+
+                    String classDaysText = (classDays != null) ?
+                            classDays.text() : "";
+
+                    String unitsText = (units != null) ?
+                            units.text() : "";
+
+                    if (CRNText.isEmpty())
+                    {
                         CRNText = "0";
                     }
-                    if (unitsText.isEmpty()) {
+                    if (unitsText.isEmpty())
+                    {
                         unitsText = "0";
                     }
-                    if (unitsText.contains("OR") || unitsText.contains("TO")) {
+                    if (unitsText.contains("OR") ||
+                            unitsText.contains("TO"))
+                    {
                         unitsText = parseNumber(unitsText);
                     }
 

@@ -1,5 +1,6 @@
 package org.example;
 
+// Just the class for Class Info
 class ClassInfo {
     private String className;
     private String professorName;
@@ -80,11 +81,15 @@ class ClassInfo {
     @Override
     public String toString() {
         if (professor != null) {
-            return "Class: " + className + ", Professor: " + professor + ", Status: " +
-                    status + ", Days: " + days + ", CRN: " + crn + ", Units: " + units;
+            return "Class: " + className + ", Professor: " + professor +
+                    ", Status: " +
+                    status + ", Days: " + days + ", CRN: " + crn +
+                    ", Units: " + units;
         } else {
-            return "Class: " + className + ", Professor: " + professorName + ", Status: " +
-                    status + ", Days: " + days + ", CRN: " + crn + ", Units: " + units;
+            return "Class: " + className + ", Professor: " + professorName +
+                    ", Status: " +
+                    status + ", Days: " + days + ", CRN: " + crn +
+                    ", Units: " + units;
         }
     }
 }

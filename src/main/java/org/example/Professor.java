@@ -1,7 +1,7 @@
 package org.example;
 import com.fasterxml.jackson.annotation.JsonProperty;
 
-import java.util.List;
+// Just defining the professor class
 
 public class Professor {
 
@@ -22,7 +22,9 @@ public class Professor {
     @JsonProperty("Difficulty")
     private double difficulty;
     // Constructors
-    public Professor(int professorId, String name, String subject, float rating, int numOfRatings, float difficulty) {
+    public Professor(int professorId, String name, String subject,
+                     float rating, int numOfRatings, float difficulty)
+    {
         this.professorId = professorId;
         this.name = name;
         this.subject = subject;
@@ -31,7 +33,9 @@ public class Professor {
         this.difficulty = difficulty;
     }
 
-    public Professor(String name, float rating, int numOfRatings, float difficulty) {
+    public Professor(String name, float rating,
+                     int numOfRatings, float difficulty)
+    {
         this.name = name;
         this.rating = rating;
         this.numOfRatings = numOfRatings;
