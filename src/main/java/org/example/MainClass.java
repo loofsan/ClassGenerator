@@ -44,17 +44,16 @@ public class MainClass {
 
 
         // Example of what the user would input and get back
-        /*
-        DataTest tester = new DataTest(classMapFall, classMapSpring, bayesianSorter);
-        tester.testDataOutput();
-        */
+
+        //DataTest tester = new DataTest(classMapFall, classMapSpring, bayesianSorter);
+        //tester.testDataOutput();
+
 
 
         // Testing the UI
-        /*
-        UI testUI = new UI();
-        testUI.testRunUI();
-         */
+
+        UI testUI = new UI(classMapFall, classMapSpring, bayesianSorter);
+        testUI.runUI();
     }
 
 }

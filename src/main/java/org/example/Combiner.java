@@ -10,7 +10,7 @@ public class Combiner {
 
     // This is for printing a combined hashmap of
     // two hashmaps. It's unused code now.
-    public void printCombined(Map<String, List<ClassInfo>> subjectMap) {
+    void printCombined(Map<String, List<ClassInfo>> subjectMap) {
 
         // Print the updated subjectMap
         for (Map.Entry<String, List<ClassInfo>> entry : subjectMap.entrySet())
@@ -25,7 +25,7 @@ public class Combiner {
 
     // Combine the array of professors and the HashMap
     // of Subject and classes
-    public Map<String, List<ClassInfo>> combine
+    Map<String, List<ClassInfo>> combine
             (Map<String, List<ClassInfo>> subjectMap,
              List<Professor> professors )
     {

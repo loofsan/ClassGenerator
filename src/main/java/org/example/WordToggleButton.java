@@ -1,32 +1,37 @@
 package org.example;
 
 import javax.swing.*;
+import javax.swing.border.Border;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 class WordToggleButton extends JPanel {
 
-    private JButton toggleButton;
+    private JComboBox<String> toggleSwitch;
     private String[] words = {"Fall", "Spring"};
-    private int currentWordIndex;
     private Timer colorTransitionTimer;
     private Color targetColor;
 
+    public String getSelectedSemester() {
+        String selectedSemester = (String) toggleSwitch.getSelectedItem();
+        return selectedSemester.equals("Fall") ? "F" : "S";
+    }
+
     public WordToggleButton() {
-        currentWordIndex = 0;
-        toggleButton = new JButton(words[0]);
-        toggleButton.setFocusPainted(false);
-        toggleButton.setBackground(Color.BLACK);
-        toggleButton.setForeground(Color.WHITE);
-        toggleButton.addActionListener(new ActionListener() {
+        toggleSwitch = new JComboBox<>(words);
+        toggleSwitch.setFont(new Font("Tahoma 11", Font.PLAIN, 16));
+        toggleSwitch.setFocusable(false);
+        toggleSwitch.setBackground(Color.BLUE);
+        toggleSwitch.setForeground(Color.WHITE);
+        toggleSwitch.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                toggleButtonClicked();
+                toggleSwitchChanged();
             }
         });
 
-        add(toggleButton);
+        add(toggleSwitch);
 
         colorTransitionTimer = new Timer(10, new ActionListener() {
             @Override
@@ -36,15 +41,13 @@ class WordToggleButton extends JPanel {
         });
     }
 
-    private void toggleButtonClicked() {
-        currentWordIndex = (currentWordIndex + 1) % words.length;
-        toggleButton.setText(words[currentWordIndex]);
-        targetColor = Color.BLACK;
+    private void toggleSwitchChanged() {
+        targetColor = Color.BLUE;
         colorTransitionTimer.start();
     }
 
     private void updateBackgroundColor() {
-        Color currentColor = toggleButton.getBackground();
+        Color currentColor = toggleSwitch.getBackground();
         int stepSize = 5;
 
         if (currentColor.equals(targetColor)) {
@@ -61,6 +64,6 @@ class WordToggleButton extends JPanel {
         int newBlue = Math.max(0, currentColor.getBlue() - (blueDiff > 0 ? stepSize : -stepSize));
 
         Color newColor = new Color(newRed, newGreen, newBlue);
-        toggleButton.setBackground(newColor);
+        toggleSwitch.setBackground(newColor);
     }
 }

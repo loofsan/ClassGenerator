@@ -6,7 +6,7 @@ import java.util.stream.Collectors;
 public class BayesianSorter {
 
     // Sort the classes and give the best class for each subject
-    public static Map
+    static Map
             <String, ClassInfo> baySortSubjects(
                     Map<String, List<ClassInfo>> subjectClassesMap)
     {
@@ -17,7 +17,7 @@ public class BayesianSorter {
     }
 
     // Prints the subject and the best class for that subject
-    public void getBaySortResults(Map<String, ClassInfo> bestClasses) {
+    void getBaySortResults(Map<String, ClassInfo> bestClasses) {
         // Print the best classes for each subject
         for (Map.Entry<String, ClassInfo> entry : bestClasses.entrySet())
         {
@@ -28,20 +28,15 @@ public class BayesianSorter {
     }
 
     // Find a singular best class in the list of classes
-    public String getBestClass(
+    ClassInfo getBestClass(
             Map<String, List<ClassInfo>> combinedMap, String className)
     {
-        ClassInfo bestClassInfo = bestClass(combinedMap, className);
 
-        if (bestClassInfo != null) {
-            return bestClassInfo.toString();
-        } else {
-            return "null";
-        }
+        return bestClass(combinedMap, className);
     }
 
     // Print out classes of the course in a ranked order
-    public void getRankedClasses(
+    void getRankedClasses(
             Map<String, List<ClassInfo>> subjectClassesMap, String classNumber)
     {
         // Rank the classes and put them in a new List
