@@ -1,44 +1,41 @@
 package org.example;
 
 import javax.swing.*;
-import javax.swing.border.Border;
+import javax.swing.plaf.ColorUIResource;
 import java.awt.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
 
 class WordToggleButton extends JPanel {
 
-    private JComboBox<String> toggleSwitch;
-    private String[] words = {"Fall", "Spring"};
-    private Timer colorTransitionTimer;
+    private final JComboBox<String> toggleSwitch;
+    private final Timer colorTransitionTimer;
     private Color targetColor;
 
     public String getSelectedSemester() {
         String selectedSemester = (String) toggleSwitch.getSelectedItem();
+        assert selectedSemester != null;
         return selectedSemester.equals("Fall") ? "F" : "S";
     }
 
     public WordToggleButton() {
+
+        UIManager.put("ToolTip.foreground", new ColorUIResource(Color.WHITE));
+        UIManager.put("ToolTip.background", new ColorUIResource(Color.BLACK));
+
+        setLayout(new FlowLayout(FlowLayout.CENTER)); // Align components to the left
+
+        String[] words = {"Fall", "Spring"};
         toggleSwitch = new JComboBox<>(words);
         toggleSwitch.setFont(new Font("Tahoma 11", Font.PLAIN, 16));
         toggleSwitch.setFocusable(false);
         toggleSwitch.setBackground(Color.BLUE);
         toggleSwitch.setForeground(Color.WHITE);
-        toggleSwitch.addActionListener(new ActionListener() {
-            @Override
-            public void actionPerformed(ActionEvent e) {
-                toggleSwitchChanged();
-            }
-        });
+        toggleSwitch.setToolTipText("Choose the semester that you want");
+        toggleSwitch.getPreferredSize();
+        toggleSwitch.addActionListener(e -> toggleSwitchChanged());
 
         add(toggleSwitch);
 
-        colorTransitionTimer = new Timer(10, new ActionListener() {
-            @Override
-            public void actionPerformed(ActionEvent e) {
-                updateBackgroundColor();
-            }
-        });
+        colorTransitionTimer = new Timer(10, e -> updateBackgroundColor());
     }
 
     private void toggleSwitchChanged() {

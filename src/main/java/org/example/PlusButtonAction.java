@@ -34,8 +34,8 @@ class PlusButtonAction {
         JPanel panel = getTextPanel();
 
         // Create a JLabel asking "What is the class that you want?"
-        JLabel label = new JLabel("Provide Input Example: engl 100", SwingConstants.CENTER);
-        label.setFont(new Font("Source Sans", Font.PLAIN, 18));
+        JLabel label = new JLabel("Provide Input Example: ENGL 100", SwingConstants.CENTER);
+        label.setFont(new Font("Source Sans", Font.PLAIN, 16));
         panel.add(label);
 
         // Create a JTextField for the user to enter the class name
@@ -47,7 +47,6 @@ class PlusButtonAction {
         JButton submitButton = submitButtonResult(textField);
         frame.getRootPane().setDefaultButton(submitButton);
         panel.add(submitButton);
-
 
         // Add the panel to the frame
         frame.add(panel);

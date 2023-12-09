@@ -118,7 +118,7 @@ public class UI {
 
         titlePanel.setBackground(new Color(21, 25, 28));
 
-        JButton button = createButton();
+        JButton button = createAddButton();
         button.addActionListener(e -> {
             System.out.println(title + " button clicked");
 
@@ -140,8 +140,12 @@ public class UI {
 
 
             JButton plusButton = new JButton("+");
-            plusButton.setSize(10, 10);
-            plusButton.addActionListener(e1 -> {
+            plusButton.setForeground(Color.GREEN.darker());
+            plusButton.setFont(new Font("Arial", Font.BOLD, 20));
+
+            plusButton.setToolTipText("Add a course");
+
+            plusButton.addActionListener(e12 -> {
                 // Create an instance of PlusButtonAction and call the execute method
                 PlusButtonAction plusButtonAction = new PlusButtonAction
                         (classMapFall, classMapSpring, bayesianSorter,
@@ -149,15 +153,28 @@ public class UI {
                 plusButtonAction.execute();
             });
 
-            JButton xButton = new JButton("X");
-            xButton.addActionListener(e12 -> {
-                scrollPane.setColumnHeaderView(null);
-                scrollPane.revalidate();
-                scrollPane.repaint();
+            JButton xButton = new JButton("×");
+            xButton.setFont(new Font("Arial", Font.BOLD, 20));
+            xButton.setForeground(Color.RED);
+            xButton.setToolTipText("Close a course");
+            xButton.addActionListener(e1 -> {
+                // Get the parent of the "X" button, which is the buttonPanel
+                Component buttonPanel = xButton.getParent();
+                // Get the parent of the buttonPanel, which is the headerPanel
+                Container headerPanel1 = buttonPanel.getParent();
+                // Remove the buttonPanel from the headerPanel
+                headerPanel1.remove(buttonPanel);
+                // Refresh the headerPanel
+                headerPanel1.revalidate();
+                headerPanel1.repaint();
             });
+
+            plusButton.setPreferredSize(xButton.getPreferredSize());
+
             JPanel buttonPanel = new RoundPanel(20, 20);
             buttonPanel.setBackground(new Color(57, 62, 70));
             buttonPanel.setLayout(new GridBagLayout());
+
             GridBagConstraints gbc = new GridBagConstraints();
 
             // Add the "X" button to the west
@@ -180,9 +197,6 @@ public class UI {
 
             // Add the buttonPanel to the headerPanel
             headerPanel.add(buttonPanel);
-
-            // Add space
-            headerPanel.add(Box.createRigidArea(new Dimension(0, 8)));
 
             // Refresh the scrollPane
             scrollPane.revalidate();
@@ -211,7 +225,7 @@ public class UI {
         frame.setLocation(centerX, centerY);
     }
 
-    private static JButton createButton() {
+    private static JButton createAddButton() {
         RoundButton button = new RoundButton("Add Class");
         Color customColor = new Color(115, 117, 148);
 

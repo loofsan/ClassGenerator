@@ -48,10 +48,7 @@ public class MainClass {
         //DataTest tester = new DataTest(classMapFall, classMapSpring, bayesianSorter);
         //tester.testDataOutput();
 
-
-
         // Testing the UI
-
         UI testUI = new UI(classMapFall, classMapSpring, bayesianSorter);
         testUI.runUI();
     }
